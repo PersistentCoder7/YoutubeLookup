@@ -1,0 +1,3106 @@
+[
+    {
+        "title": "AI is Making Devs Dumb! - Should you use AI at work?",
+        "video_url": "https://www.youtube.com/watch?v=BxCiFKdC2y0",
+        "thumbnail_url": "https://i.ytimg.com/vi/BxCiFKdC2y0/hqdefault.jpg",
+        "duration_minutes": 26.78,
+        "upload_date": "2025-02-22",
+        "comment_count": 208
+    },
+    {
+        "title": "Docker Container Patterns - Master Deployments",
+        "video_url": "https://www.youtube.com/watch?v=P6FZIDJ_Gc4",
+        "thumbnail_url": "https://i.ytimg.com/vi/P6FZIDJ_Gc4/hqdefault.jpg",
+        "duration_minutes": 18.22,
+        "upload_date": "2025-02-15",
+        "comment_count": 33
+    },
+    {
+        "title": "Build AI Agents with Langgraph, Langchain and Langsmith - Javascript",
+        "video_url": "https://www.youtube.com/watch?v=_XMwQ5X3llA",
+        "thumbnail_url": "https://i.ytimg.com/vi/_XMwQ5X3llA/hqdefault.jpg",
+        "duration_minutes": 47.68,
+        "upload_date": "2025-02-08",
+        "comment_count": 49
+    },
+    {
+        "title": "Building AI Agent for Webpage Support",
+        "video_url": "https://www.youtube.com/watch?v=SI7gdRQcGSY",
+        "thumbnail_url": "https://i.ytimg.com/vi/SI7gdRQcGSY/hqdefault.jpg",
+        "duration_minutes": 47.87,
+        "upload_date": "2025-02-01",
+        "comment_count": 91
+    },
+    {
+        "title": "Building AI Agent from Scratch with OpenAI and Postgres",
+        "video_url": "https://www.youtube.com/watch?v=kRR1K3q5nlg",
+        "thumbnail_url": "https://i.ytimg.com/vi/kRR1K3q5nlg/hqdefault.jpg",
+        "duration_minutes": 43.52,
+        "upload_date": "2025-01-25",
+        "comment_count": 136
+    },
+    {
+        "title": "Building AI Agent from Scratch",
+        "video_url": "https://www.youtube.com/watch?v=vUYnRGotTbo",
+        "thumbnail_url": "https://i.ytimg.com/vi/vUYnRGotTbo/hqdefault.jpg",
+        "duration_minutes": 36.58,
+        "upload_date": "2025-01-18",
+        "comment_count": 284
+    },
+    {
+        "title": "The Perfect App for JS Devs! - Scribbler",
+        "video_url": "https://www.youtube.com/watch?v=pKFUc1abL9I",
+        "thumbnail_url": "https://i.ytimg.com/vi/pKFUc1abL9I/hqdefault.jpg",
+        "duration_minutes": 18.1,
+        "upload_date": "2025-01-16",
+        "comment_count": 68
+    },
+    {
+        "title": "Build Your Own Image Kit and Cloudinary Clone",
+        "video_url": "https://www.youtube.com/watch?v=5iEgfqugU5Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/5iEgfqugU5Y/hqdefault.jpg",
+        "duration_minutes": 30.15,
+        "upload_date": "2025-01-11",
+        "comment_count": 71
+    },
+    {
+        "title": "Project Roasting with Founders - Coders ka Latent Show \ud83d\udd25",
+        "video_url": "https://www.youtube.com/watch?v=y7XMDKwTQxY",
+        "thumbnail_url": "https://i.ytimg.com/vi/y7XMDKwTQxY/hqdefault.jpg",
+        "duration_minutes": 145.55,
+        "upload_date": "2025-01-04",
+        "comment_count": 268
+    },
+    {
+        "title": "I created an AI Based DNS Server - Toying with DNS",
+        "video_url": "https://www.youtube.com/watch?v=Sgk0yy8rJ8M",
+        "thumbnail_url": "https://i.ytimg.com/vi/Sgk0yy8rJ8M/hqdefault.jpg",
+        "duration_minutes": 31.75,
+        "upload_date": "2025-01-04",
+        "comment_count": 55
+    },
+    {
+        "title": "Piyush Garg Live Stream",
+        "video_url": "https://www.youtube.com/watch?v=4eWGPJNZu-E",
+        "thumbnail_url": "https://i.ytimg.com/vi/4eWGPJNZu-E/hqdefault_live.jpg",
+        "duration_minutes": 0.0,
+        "upload_date": "2025-01-04",
+        "comment_count": 0
+    },
+    {
+        "title": "Full-Stack Road Map 2025 - Happy New Year \ud83e\udd73",
+        "video_url": "https://www.youtube.com/watch?v=ZxOLXImWvHU",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZxOLXImWvHU/hqdefault.jpg",
+        "duration_minutes": 36.93,
+        "upload_date": "2025-01-01",
+        "comment_count": 178
+    },
+    {
+        "title": "Advice to Young Coders for 2025 - Make Coding Easy!",
+        "video_url": "https://www.youtube.com/watch?v=HZINWL4yWaM",
+        "thumbnail_url": "https://i.ytimg.com/vi/HZINWL4yWaM/hqdefault.jpg",
+        "duration_minutes": 23.95,
+        "upload_date": "2024-12-31",
+        "comment_count": 256
+    },
+    {
+        "title": "200K Special Live Stream",
+        "video_url": "https://www.youtube.com/watch?v=im1GPDFcRqg",
+        "thumbnail_url": "https://i.ytimg.com/vi/im1GPDFcRqg/hqdefault.jpg",
+        "duration_minutes": 63.63,
+        "upload_date": "2024-12-28",
+        "comment_count": 35
+    },
+    {
+        "title": "Build your own Nginx Reverse Proxy",
+        "video_url": "https://www.youtube.com/watch?v=_Ly2F7-FFSw",
+        "thumbnail_url": "https://i.ytimg.com/vi/_Ly2F7-FFSw/hqdefault.jpg",
+        "duration_minutes": 98.53,
+        "upload_date": "2024-12-21",
+        "comment_count": 46
+    },
+    {
+        "title": "Full Stack WebDev CoHort 1.0 Launch \ud83d\ude80 with @chaiaurcode \u2615\ufe0f",
+        "video_url": "https://www.youtube.com/watch?v=bTnmMc7hHEQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/bTnmMc7hHEQ/hqdefault.jpg",
+        "duration_minutes": 23.5,
+        "upload_date": "2024-12-15",
+        "comment_count": 242
+    },
+    {
+        "title": "Docker Image Optimisation - Production-Ready Docker Guide",
+        "video_url": "https://www.youtube.com/watch?v=hX2UAHhX8E8",
+        "thumbnail_url": "https://i.ytimg.com/vi/hX2UAHhX8E8/hqdefault.jpg",
+        "duration_minutes": 30.38,
+        "upload_date": "2024-12-14",
+        "comment_count": 55
+    },
+    {
+        "title": "React 19 is now stable! - What's new in React 19",
+        "video_url": "https://www.youtube.com/watch?v=WvGexufMouA",
+        "thumbnail_url": "https://i.ytimg.com/vi/WvGexufMouA/hqdefault.jpg",
+        "duration_minutes": 16.88,
+        "upload_date": "2024-12-07",
+        "comment_count": 124
+    },
+    {
+        "title": "Breaking Up with Next.js \ud83d\udc94",
+        "video_url": "https://www.youtube.com/watch?v=Jw8sXzaZUDQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/Jw8sXzaZUDQ/hqdefault.jpg",
+        "duration_minutes": 20.8,
+        "upload_date": "2024-11-30",
+        "comment_count": 545
+    },
+    {
+        "title": "Node JS App Deployment | Zero to Live With Cloudways",
+        "video_url": "https://www.youtube.com/watch?v=Bn6wI2FVNx8",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bn6wI2FVNx8/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-11-29",
+        "comment_count": 11
+    },
+    {
+        "title": "Node JS App Deployment | Zero to Live With Cloudways",
+        "video_url": "https://www.youtube.com/watch?v=3WzvcuxOZc0",
+        "thumbnail_url": "https://i.ytimg.com/vi/3WzvcuxOZc0/hqdefault.jpg",
+        "duration_minutes": 20.38,
+        "upload_date": "2024-11-27",
+        "comment_count": 39
+    },
+    {
+        "title": "The Best Queue System for Scaling - Not Kafka!",
+        "video_url": "https://www.youtube.com/watch?v=xVkMrozIBpg",
+        "thumbnail_url": "https://i.ytimg.com/vi/xVkMrozIBpg/hqdefault.jpg",
+        "duration_minutes": 21.42,
+        "upload_date": "2024-11-23",
+        "comment_count": 106
+    },
+    {
+        "title": "Pingora - OpenSource Proxy in Rust #opensource #rustlang #cloudflare #cloudcomputing #github",
+        "video_url": "https://www.youtube.com/watch?v=YqTMWSeWUaU",
+        "thumbnail_url": "https://i.ytimg.com/vi/YqTMWSeWUaU/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-11-22",
+        "comment_count": 5
+    },
+    {
+        "title": "I Built an AI Chrome Extension in 30 Minutes",
+        "video_url": "https://www.youtube.com/watch?v=_IM-YT1xfUc",
+        "thumbnail_url": "https://i.ytimg.com/vi/_IM-YT1xfUc/hqdefault.jpg",
+        "duration_minutes": 18.32,
+        "upload_date": "2024-11-15",
+        "comment_count": 108
+    },
+    {
+        "title": "Next.js 15 Changed EVERYTHING... But I Still Hate It",
+        "video_url": "https://www.youtube.com/watch?v=uzhn08nPY8k",
+        "thumbnail_url": "https://i.ytimg.com/vi/uzhn08nPY8k/hqdefault.jpg",
+        "duration_minutes": 27.18,
+        "upload_date": "2024-11-14",
+        "comment_count": 60
+    },
+    {
+        "title": "JavaScript Proxy and Reflect Objects",
+        "video_url": "https://www.youtube.com/watch?v=TGGoiJBuv-Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/TGGoiJBuv-Y/hqdefault.jpg",
+        "duration_minutes": 18.17,
+        "upload_date": "2024-11-13",
+        "comment_count": 46
+    },
+    {
+        "title": "ValKey - OpenSource Fork and replacement of Redis #opensource #github #coding #webdevelopment #redis",
+        "video_url": "https://www.youtube.com/watch?v=axq8QKPsrw4",
+        "thumbnail_url": "https://i.ytimg.com/vi/axq8QKPsrw4/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-11-13",
+        "comment_count": 7
+    },
+    {
+        "title": "Build Your Own Promise",
+        "video_url": "https://www.youtube.com/watch?v=IxOJgcvlHHc",
+        "thumbnail_url": "https://i.ytimg.com/vi/IxOJgcvlHHc/hqdefault.jpg",
+        "duration_minutes": 28.42,
+        "upload_date": "2024-11-12",
+        "comment_count": 47
+    },
+    {
+        "title": "Argo CD - Open Source CD for Kubernetes #opensource #github #coding #webdevelopment #kubernetes",
+        "video_url": "https://www.youtube.com/watch?v=H9KyzXN4KOM",
+        "thumbnail_url": "https://i.ytimg.com/vi/H9KyzXN4KOM/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-11-12",
+        "comment_count": 17
+    },
+    {
+        "title": "Superfile - Open Source terminal based file explorer #opensource #github #coding #webdevelopment",
+        "video_url": "https://www.youtube.com/watch?v=EFnCXDIbb1o",
+        "thumbnail_url": "https://i.ytimg.com/vi/EFnCXDIbb1o/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-11-11",
+        "comment_count": 25
+    },
+    {
+        "title": "Posting - Open Source HTTP Client and API Testing Tool #opensource #github #coding #webdevelopment",
+        "video_url": "https://www.youtube.com/watch?v=35y2gad6e9o",
+        "thumbnail_url": "https://i.ytimg.com/vi/35y2gad6e9o/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-11-10",
+        "comment_count": 16
+    },
+    {
+        "title": "Build your own Zapier - System Design",
+        "video_url": "https://www.youtube.com/watch?v=_utnOk-CnSM",
+        "thumbnail_url": "https://i.ytimg.com/vi/_utnOk-CnSM/hqdefault.jpg",
+        "duration_minutes": 22.23,
+        "upload_date": "2024-11-09",
+        "comment_count": 65
+    },
+    {
+        "title": "Prototypes & Prototypal Inheritance Explained - Javascript Interview",
+        "video_url": "https://www.youtube.com/watch?v=AOPmqw9scfc",
+        "thumbnail_url": "https://i.ytimg.com/vi/AOPmqw9scfc/hqdefault.jpg",
+        "duration_minutes": 32.03,
+        "upload_date": "2024-11-08",
+        "comment_count": 87
+    },
+    {
+        "title": "Objects in Javascript - Function Constructors and ES6 Class",
+        "video_url": "https://www.youtube.com/watch?v=vxPOQPPsATQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/vxPOQPPsATQ/hqdefault.jpg",
+        "duration_minutes": 19.2,
+        "upload_date": "2024-11-07",
+        "comment_count": 34
+    },
+    {
+        "title": "How Javascript Works? - Call Stack, Event Loop and Queues Explained",
+        "video_url": "https://www.youtube.com/watch?v=fFd8OhrHfIM",
+        "thumbnail_url": "https://i.ytimg.com/vi/fFd8OhrHfIM/hqdefault.jpg",
+        "duration_minutes": 27.37,
+        "upload_date": "2024-11-06",
+        "comment_count": 90
+    },
+    {
+        "title": "Piyush Garg's Docker Course  Mastering Containerization #docker #dockercontainer #kubernetes #devops",
+        "video_url": "https://www.youtube.com/watch?v=9oFke-nA0Jk",
+        "thumbnail_url": "https://i.ytimg.com/vi/9oFke-nA0Jk/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2024-11-05",
+        "comment_count": 79
+    },
+    {
+        "title": "JavaScript Global Execution Context Explained!",
+        "video_url": "https://www.youtube.com/watch?v=gPKzwAORly8",
+        "thumbnail_url": "https://i.ytimg.com/vi/gPKzwAORly8/hqdefault.jpg",
+        "duration_minutes": 27.42,
+        "upload_date": "2024-11-05",
+        "comment_count": 116
+    },
+    {
+        "title": "What is Kubernetes? | Kubernetes Explained",
+        "video_url": "https://www.youtube.com/watch?v=a-nWPre5QYI",
+        "thumbnail_url": "https://i.ytimg.com/vi/a-nWPre5QYI/hqdefault.jpg",
+        "duration_minutes": 48.37,
+        "upload_date": "2024-10-19",
+        "comment_count": 312
+    },
+    {
+        "title": "Contribute to Open Source | Hacktoberfest 2024",
+        "video_url": "https://www.youtube.com/watch?v=yoX7NzVpX8w",
+        "thumbnail_url": "https://i.ytimg.com/vi/yoX7NzVpX8w/hqdefault.jpg",
+        "duration_minutes": 30.82,
+        "upload_date": "2024-10-10",
+        "comment_count": 94
+    },
+    {
+        "title": "Validating References with Lifetimes | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=wBqDrY-eOk8",
+        "thumbnail_url": "https://i.ytimg.com/vi/wBqDrY-eOk8/hqdefault.jpg",
+        "duration_minutes": 30.83,
+        "upload_date": "2024-10-07",
+        "comment_count": 25
+    },
+    {
+        "title": "Something is wrong with developers!",
+        "video_url": "https://www.youtube.com/watch?v=FE1i8V7Sqgc",
+        "thumbnail_url": "https://i.ytimg.com/vi/FE1i8V7Sqgc/hqdefault.jpg",
+        "duration_minutes": 26.35,
+        "upload_date": "2024-10-05",
+        "comment_count": 448
+    },
+    {
+        "title": "Traits: Defining Shared Behavior | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=WDFAOyGmyE0",
+        "thumbnail_url": "https://i.ytimg.com/vi/WDFAOyGmyE0/hqdefault.jpg",
+        "duration_minutes": 31.53,
+        "upload_date": "2024-10-04",
+        "comment_count": 12
+    },
+    {
+        "title": "Syntax of Generic Types, Traits, and Lifetimes | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=9g33keb3_lY",
+        "thumbnail_url": "https://i.ytimg.com/vi/9g33keb3_lY/hqdefault.jpg",
+        "duration_minutes": 28.32,
+        "upload_date": "2024-10-03",
+        "comment_count": 7
+    },
+    {
+        "title": "Recoverable Errors with Result | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=0DjRNEQmUls",
+        "thumbnail_url": "https://i.ytimg.com/vi/0DjRNEQmUls/hqdefault.jpg",
+        "duration_minutes": 22.1,
+        "upload_date": "2024-10-02",
+        "comment_count": 7
+    },
+    {
+        "title": "Unrecoverable Errors with panic! | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=z-gg_q6MsF0",
+        "thumbnail_url": "https://i.ytimg.com/vi/z-gg_q6MsF0/hqdefault.jpg",
+        "duration_minutes": 9.18,
+        "upload_date": "2024-10-01",
+        "comment_count": 4
+    },
+    {
+        "title": "Storing Keys with Associated Values in Hash Maps | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=WTrp4OoAX6M",
+        "thumbnail_url": "https://i.ytimg.com/vi/WTrp4OoAX6M/hqdefault.jpg",
+        "duration_minutes": 14.02,
+        "upload_date": "2024-09-30",
+        "comment_count": 6
+    },
+    {
+        "title": "Build your own Traefik | Docker Reverse Proxy",
+        "video_url": "https://www.youtube.com/watch?v=B9t1iNNiHUA",
+        "thumbnail_url": "https://i.ytimg.com/vi/B9t1iNNiHUA/hqdefault.jpg",
+        "duration_minutes": 58.12,
+        "upload_date": "2024-09-28",
+        "comment_count": 51
+    },
+    {
+        "title": "Storing UTF-8 Encoded Text with Strings | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=oKGD7JmLOEI",
+        "thumbnail_url": "https://i.ytimg.com/vi/oKGD7JmLOEI/hqdefault.jpg",
+        "duration_minutes": 18.22,
+        "upload_date": "2024-09-27",
+        "comment_count": 7
+    },
+    {
+        "title": "Storing Lists of Values with Vectors | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=UK0LHN39ops",
+        "thumbnail_url": "https://i.ytimg.com/vi/UK0LHN39ops/hqdefault.jpg",
+        "duration_minutes": 29.93,
+        "upload_date": "2024-09-25",
+        "comment_count": 5
+    },
+    {
+        "title": "Defining Modules to Control Scope and Privacy | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=-CkD-mNVVws",
+        "thumbnail_url": "https://i.ytimg.com/vi/-CkD-mNVVws/hqdefault.jpg",
+        "duration_minutes": 36.03,
+        "upload_date": "2024-09-24",
+        "comment_count": 11
+    },
+    {
+        "title": "Packages and Crates | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=SMcQ3kceDTo",
+        "thumbnail_url": "https://i.ytimg.com/vi/SMcQ3kceDTo/hqdefault.jpg",
+        "duration_minutes": 39.67,
+        "upload_date": "2024-09-23",
+        "comment_count": 13
+    },
+    {
+        "title": "How To Build Anything | Art of Reverse Engineering",
+        "video_url": "https://www.youtube.com/watch?v=EiOvxYja8GU",
+        "thumbnail_url": "https://i.ytimg.com/vi/EiOvxYja8GU/hqdefault.jpg",
+        "duration_minutes": 35.68,
+        "upload_date": "2024-09-21",
+        "comment_count": 115
+    },
+    {
+        "title": "if let Concise Control Flow | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=tRJEnuDAf10",
+        "thumbnail_url": "https://i.ytimg.com/vi/tRJEnuDAf10/hqdefault.jpg",
+        "duration_minutes": 6.42,
+        "upload_date": "2024-09-19",
+        "comment_count": 9
+    },
+    {
+        "title": "The match Control Flow Operator | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=1q76SlnFgKc",
+        "thumbnail_url": "https://i.ytimg.com/vi/1q76SlnFgKc/hqdefault.jpg",
+        "duration_minutes": 22.57,
+        "upload_date": "2024-09-18",
+        "comment_count": 7
+    },
+    {
+        "title": "The Enum and Match Types | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=bW3WcL2P848",
+        "thumbnail_url": "https://i.ytimg.com/vi/bW3WcL2P848/hqdefault.jpg",
+        "duration_minutes": 36.48,
+        "upload_date": "2024-09-17",
+        "comment_count": 6
+    },
+    {
+        "title": "Method Syntax | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=-PIjo-ebX-o",
+        "thumbnail_url": "https://i.ytimg.com/vi/-PIjo-ebX-o/hqdefault.jpg",
+        "duration_minutes": 19.42,
+        "upload_date": "2024-09-16",
+        "comment_count": 10
+    },
+    {
+        "title": "Defining and Instantiating Structs | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=OZ93b2PH7nU",
+        "thumbnail_url": "https://i.ytimg.com/vi/OZ93b2PH7nU/hqdefault.jpg",
+        "duration_minutes": 17.8,
+        "upload_date": "2024-09-12",
+        "comment_count": 7
+    },
+    {
+        "title": "Structs | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=7dFN0tYPcNE",
+        "thumbnail_url": "https://i.ytimg.com/vi/7dFN0tYPcNE/hqdefault.jpg",
+        "duration_minutes": 31.68,
+        "upload_date": "2024-09-09",
+        "comment_count": 14
+    },
+    {
+        "title": "Build Your Own DNS Server",
+        "video_url": "https://www.youtube.com/watch?v=52wnTsBI_HE",
+        "thumbnail_url": "https://i.ytimg.com/vi/52wnTsBI_HE/hqdefault.jpg",
+        "duration_minutes": 49.18,
+        "upload_date": "2024-09-07",
+        "comment_count": 62
+    },
+    {
+        "title": "The Slice Type | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=DtG1gqORZC4",
+        "thumbnail_url": "https://i.ytimg.com/vi/DtG1gqORZC4/hqdefault.jpg",
+        "duration_minutes": 22.65,
+        "upload_date": "2024-09-06",
+        "comment_count": 24
+    },
+    {
+        "title": "References and Borrowing | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=qIhoi-74IXc",
+        "thumbnail_url": "https://i.ytimg.com/vi/qIhoi-74IXc/hqdefault.jpg",
+        "duration_minutes": 33.22,
+        "upload_date": "2024-09-05",
+        "comment_count": 16
+    },
+    {
+        "title": "Ownership in Rust | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=K682q8p-YHg",
+        "thumbnail_url": "https://i.ytimg.com/vi/K682q8p-YHg/hqdefault.jpg",
+        "duration_minutes": 63.68,
+        "upload_date": "2024-09-03",
+        "comment_count": 15
+    },
+    {
+        "title": "Control Flow in Rust | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=i4kkNYom9VM",
+        "thumbnail_url": "https://i.ytimg.com/vi/i4kkNYom9VM/hqdefault.jpg",
+        "duration_minutes": 32.58,
+        "upload_date": "2024-08-30",
+        "comment_count": 22
+    },
+    {
+        "title": "Functions in Rust | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=lvwa9yV5oSM",
+        "thumbnail_url": "https://i.ytimg.com/vi/lvwa9yV5oSM/hqdefault.jpg",
+        "duration_minutes": 30.97,
+        "upload_date": "2024-08-28",
+        "comment_count": 20
+    },
+    {
+        "title": "Data Types in Rust | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=Qp0NwXoppGI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qp0NwXoppGI/hqdefault.jpg",
+        "duration_minutes": 59.3,
+        "upload_date": "2024-08-26",
+        "comment_count": 24
+    },
+    {
+        "title": "Best Projects to Build in 2024",
+        "video_url": "https://www.youtube.com/watch?v=ZUvl4icp1dE",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZUvl4icp1dE/hqdefault.jpg",
+        "duration_minutes": 19.1,
+        "upload_date": "2024-08-24",
+        "comment_count": 141
+    },
+    {
+        "title": "Variables and Mutability | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=bfEMiPjEUVk",
+        "thumbnail_url": "https://i.ytimg.com/vi/bfEMiPjEUVk/hqdefault.jpg",
+        "duration_minutes": 45.4,
+        "upload_date": "2024-08-23",
+        "comment_count": 18
+    },
+    {
+        "title": "Programming a Guessing Game | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=aFdQj43a-dE",
+        "thumbnail_url": "https://i.ytimg.com/vi/aFdQj43a-dE/hqdefault.jpg",
+        "duration_minutes": 71.7,
+        "upload_date": "2024-08-21",
+        "comment_count": 51
+    },
+    {
+        "title": "Getting Started with Rust | Rust Book",
+        "video_url": "https://www.youtube.com/watch?v=unRhxbFULII",
+        "thumbnail_url": "https://i.ytimg.com/vi/unRhxbFULII/hqdefault.jpg",
+        "duration_minutes": 36.42,
+        "upload_date": "2024-08-19",
+        "comment_count": 136
+    },
+    {
+        "title": "Can you Build this?",
+        "video_url": "https://www.youtube.com/watch?v=ftYHO1a-fQA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ftYHO1a-fQA/hqdefault.jpg",
+        "duration_minutes": 15.58,
+        "upload_date": "2024-08-17",
+        "comment_count": 127
+    },
+    {
+        "title": "Build Your Own Git - Part 2",
+        "video_url": "https://www.youtube.com/watch?v=k9ZxWIh0vzQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/k9ZxWIh0vzQ/hqdefault.jpg",
+        "duration_minutes": 57.13,
+        "upload_date": "2024-08-11",
+        "comment_count": 55
+    },
+    {
+        "title": "Build Your Own Git - Part 1",
+        "video_url": "https://www.youtube.com/watch?v=89R75T9h5Xk",
+        "thumbnail_url": "https://i.ytimg.com/vi/89R75T9h5Xk/hqdefault.jpg",
+        "duration_minutes": 56.37,
+        "upload_date": "2024-08-10",
+        "comment_count": 56
+    },
+    {
+        "title": "Scalable Notification System Design | Designing Scalable Systems",
+        "video_url": "https://www.youtube.com/watch?v=C6HHmH6wwMs",
+        "thumbnail_url": "https://i.ytimg.com/vi/C6HHmH6wwMs/hqdefault.jpg",
+        "duration_minutes": 22.05,
+        "upload_date": "2024-08-04",
+        "comment_count": 102
+    },
+    {
+        "title": "Rust Programming Language for JS Devs | Rust VS Javascript",
+        "video_url": "https://www.youtube.com/watch?v=LpYcp60iSaM",
+        "thumbnail_url": "https://i.ytimg.com/vi/LpYcp60iSaM/hqdefault.jpg",
+        "duration_minutes": 29.42,
+        "upload_date": "2024-08-03",
+        "comment_count": 98
+    },
+    {
+        "title": "Coding Video Transcoding Pipeline | MUX Clone",
+        "video_url": "https://www.youtube.com/watch?v=WpfI9ge5HYE",
+        "thumbnail_url": "https://i.ytimg.com/vi/WpfI9ge5HYE/hqdefault.jpg",
+        "duration_minutes": 87.38,
+        "upload_date": "2024-07-20",
+        "comment_count": 89
+    },
+    {
+        "title": "I Built my own Tinder - Dating App \ud83e\udd70",
+        "video_url": "https://www.youtube.com/watch?v=f9coKX9TfTM",
+        "thumbnail_url": "https://i.ytimg.com/vi/f9coKX9TfTM/hqdefault.jpg",
+        "duration_minutes": 63.62,
+        "upload_date": "2024-07-06",
+        "comment_count": 106
+    },
+    {
+        "title": "Host Your Own Search Engine",
+        "video_url": "https://www.youtube.com/watch?v=4KDDkNMxSLY",
+        "thumbnail_url": "https://i.ytimg.com/vi/4KDDkNMxSLY/hqdefault.jpg",
+        "duration_minutes": 12.3,
+        "upload_date": "2024-06-29",
+        "comment_count": 52
+    },
+    {
+        "title": "Host Your Own Browser and OS \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=sXMCzsCfopQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/sXMCzsCfopQ/hqdefault.jpg",
+        "duration_minutes": 16.68,
+        "upload_date": "2024-06-22",
+        "comment_count": 77
+    },
+    {
+        "title": "Build Your Own VPN | Free VPN",
+        "video_url": "https://www.youtube.com/watch?v=6UIEtF-Hl2E",
+        "thumbnail_url": "https://i.ytimg.com/vi/6UIEtF-Hl2E/hqdefault.jpg",
+        "duration_minutes": 22.32,
+        "upload_date": "2024-06-15",
+        "comment_count": 171
+    },
+    {
+        "title": "HLS Adaptive Bitrate Streaming - System Design",
+        "video_url": "https://www.youtube.com/watch?v=6JTV4PwisoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/6JTV4PwisoQ/hqdefault.jpg",
+        "duration_minutes": 36.15,
+        "upload_date": "2024-06-08",
+        "comment_count": 180
+    },
+    {
+        "title": "Build your own Cloudinary -  Image Optimisation on the fly",
+        "video_url": "https://www.youtube.com/watch?v=IDy5wKpyH7Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/IDy5wKpyH7Q/hqdefault.jpg",
+        "duration_minutes": 46.12,
+        "upload_date": "2024-06-01",
+        "comment_count": 75
+    },
+    {
+        "title": "Best Authentication SDK for NextJS",
+        "video_url": "https://www.youtube.com/watch?v=X3tfwI8yhfo",
+        "thumbnail_url": "https://i.ytimg.com/vi/X3tfwI8yhfo/hqdefault.jpg",
+        "duration_minutes": 16.63,
+        "upload_date": "2024-05-25",
+        "comment_count": 58
+    },
+    {
+        "title": "Sign in with Javascript Passkeys | Web Authentication",
+        "video_url": "https://www.youtube.com/watch?v=O3j73J_LKE0",
+        "thumbnail_url": "https://i.ytimg.com/vi/O3j73J_LKE0/hqdefault.jpg",
+        "duration_minutes": 51.47,
+        "upload_date": "2024-05-18",
+        "comment_count": 82
+    },
+    {
+        "title": "Docker Management API - Build Your Own Docker Orchestration",
+        "video_url": "https://www.youtube.com/watch?v=t9bYz_G1UrY",
+        "thumbnail_url": "https://i.ytimg.com/vi/t9bYz_G1UrY/hqdefault.jpg",
+        "duration_minutes": 32.08,
+        "upload_date": "2024-05-11",
+        "comment_count": 45
+    },
+    {
+        "title": "Best Tool for Developers Got Even Better \ud83e\udd2f  - Eraser.io",
+        "video_url": "https://www.youtube.com/watch?v=guOcIILSsiQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/guOcIILSsiQ/hqdefault.jpg",
+        "duration_minutes": 13.12,
+        "upload_date": "2024-05-06",
+        "comment_count": 73
+    },
+    {
+        "title": "Build Your Own Cloud Web IDE | Repl.it Clone",
+        "video_url": "https://www.youtube.com/watch?v=wgfi8hrFzAY",
+        "thumbnail_url": "https://i.ytimg.com/vi/wgfi8hrFzAY/hqdefault.jpg",
+        "duration_minutes": 81.88,
+        "upload_date": "2024-05-04",
+        "comment_count": 124
+    },
+    {
+        "title": "Build Your Own Docker Hub | Docker Image Registry",
+        "video_url": "https://www.youtube.com/watch?v=3a92WPwdXWY",
+        "thumbnail_url": "https://i.ytimg.com/vi/3a92WPwdXWY/hqdefault.jpg",
+        "duration_minutes": 32.77,
+        "upload_date": "2024-04-27",
+        "comment_count": 50
+    },
+    {
+        "title": "Build Your Own DNS Server - Beginner Friendly",
+        "video_url": "https://www.youtube.com/watch?v=Ui66W7zeAbI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ui66W7zeAbI/hqdefault.jpg",
+        "duration_minutes": 42.27,
+        "upload_date": "2024-04-20",
+        "comment_count": 139
+    },
+    {
+        "title": "Build Your Own Redis",
+        "video_url": "https://www.youtube.com/watch?v=B2JoBjrW-xA",
+        "thumbnail_url": "https://i.ytimg.com/vi/B2JoBjrW-xA/hqdefault.jpg",
+        "duration_minutes": 26.22,
+        "upload_date": "2024-04-13",
+        "comment_count": 76
+    },
+    {
+        "title": "How to Implement Rate Limiting | Rate Limiting Strategies - System Design",
+        "video_url": "https://www.youtube.com/watch?v=eR66m7TaV5A",
+        "thumbnail_url": "https://i.ytimg.com/vi/eR66m7TaV5A/hqdefault.jpg",
+        "duration_minutes": 19.57,
+        "upload_date": "2024-04-06",
+        "comment_count": 82
+    },
+    {
+        "title": "How SSL Certificate Works?  - HTTPS Explained",
+        "video_url": "https://www.youtube.com/watch?v=0yw-z6f7Mb4",
+        "thumbnail_url": "https://i.ytimg.com/vi/0yw-z6f7Mb4/hqdefault.jpg",
+        "duration_minutes": 20.7,
+        "upload_date": "2024-03-30",
+        "comment_count": 811
+    },
+    {
+        "title": "I Built StreamYard Clone | Code Along - Live Streaming RTMP Application",
+        "video_url": "https://www.youtube.com/watch?v=JwZiO5p-NAE",
+        "thumbnail_url": "https://i.ytimg.com/vi/JwZiO5p-NAE/hqdefault.jpg",
+        "duration_minutes": 36.42,
+        "upload_date": "2024-03-23",
+        "comment_count": 120
+    },
+    {
+        "title": "Devin AI Can't Replace You! \ud83d\ude0e",
+        "video_url": "https://www.youtube.com/watch?v=smI7Gsbvrxs",
+        "thumbnail_url": "https://i.ytimg.com/vi/smI7Gsbvrxs/hqdefault.jpg",
+        "duration_minutes": 9.9,
+        "upload_date": "2024-03-22",
+        "comment_count": 64
+    },
+    {
+        "title": "100K Special Live",
+        "video_url": "https://www.youtube.com/watch?v=uuJwgyAsiTA",
+        "thumbnail_url": "https://i.ytimg.com/vi/uuJwgyAsiTA/hqdefault.jpg",
+        "duration_minutes": 70.43,
+        "upload_date": "2024-03-16",
+        "comment_count": 31
+    },
+    {
+        "title": "I Built My Own Programming Language \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=rTuTLc_u6qw",
+        "thumbnail_url": "https://i.ytimg.com/vi/rTuTLc_u6qw/hqdefault.jpg",
+        "duration_minutes": 31.48,
+        "upload_date": "2024-03-16",
+        "comment_count": 86
+    },
+    {
+        "title": "Build Your Own Github | Git Server Setup",
+        "video_url": "https://www.youtube.com/watch?v=jp83Gbn4Wq8",
+        "thumbnail_url": "https://i.ytimg.com/vi/jp83Gbn4Wq8/hqdefault.jpg",
+        "duration_minutes": 37.33,
+        "upload_date": "2024-03-09",
+        "comment_count": 92
+    },
+    {
+        "title": "SquareX Just Got Better - Must have Chrome Extension for Developers!",
+        "video_url": "https://www.youtube.com/watch?v=IOzVm5wBFow",
+        "thumbnail_url": "https://i.ytimg.com/vi/IOzVm5wBFow/hqdefault.jpg",
+        "duration_minutes": 5.62,
+        "upload_date": "2024-03-02",
+        "comment_count": 19
+    },
+    {
+        "title": "Saturday Live",
+        "video_url": "https://www.youtube.com/watch?v=4G-ctRuQSYM",
+        "thumbnail_url": "https://i.ytimg.com/vi/4G-ctRuQSYM/hqdefault.jpg",
+        "duration_minutes": 59.25,
+        "upload_date": "2024-02-24",
+        "comment_count": 21
+    },
+    {
+        "title": "Build Your Own MAIL Server | SMTP Server",
+        "video_url": "https://www.youtube.com/watch?v=l3htAzOAx7c",
+        "thumbnail_url": "https://i.ytimg.com/vi/l3htAzOAx7c/hqdefault.jpg",
+        "duration_minutes": 51.5,
+        "upload_date": "2024-02-24",
+        "comment_count": 404
+    },
+    {
+        "title": "Saturday Live",
+        "video_url": "https://www.youtube.com/watch?v=omMnB2kpam0",
+        "thumbnail_url": "https://i.ytimg.com/vi/omMnB2kpam0/hqdefault.jpg",
+        "duration_minutes": 69.6,
+        "upload_date": "2024-02-17",
+        "comment_count": 14
+    },
+    {
+        "title": "I Built Vercel in 2 Hours (Kafka, ClickHouse, Postgres) | Log Collection and Pipeline",
+        "video_url": "https://www.youtube.com/watch?v=QPzrIp5kyho",
+        "thumbnail_url": "https://i.ytimg.com/vi/QPzrIp5kyho/hqdefault.jpg",
+        "duration_minutes": 72.28,
+        "upload_date": "2024-02-17",
+        "comment_count": 104
+    },
+    {
+        "title": "I built Vercel in 2 Hours (System Design, AWS, Docker, Redis, S3)",
+        "video_url": "https://www.youtube.com/watch?v=0A_JpLYG7hM",
+        "thumbnail_url": "https://i.ytimg.com/vi/0A_JpLYG7hM/hqdefault.jpg",
+        "duration_minutes": 86.8,
+        "upload_date": "2024-02-10",
+        "comment_count": 394
+    },
+    {
+        "title": "Why Indians should not contribute to Open Source",
+        "video_url": "https://www.youtube.com/watch?v=0o1aJkP-a9c",
+        "thumbnail_url": "https://i.ytimg.com/vi/0o1aJkP-a9c/hqdefault.jpg",
+        "duration_minutes": 14.58,
+        "upload_date": "2024-02-07",
+        "comment_count": 229
+    },
+    {
+        "title": "How NodeJS Works? - You don't Know NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=_eJ6KAb56Gw",
+        "thumbnail_url": "https://i.ytimg.com/vi/_eJ6KAb56Gw/hqdefault.jpg",
+        "duration_minutes": 42.87,
+        "upload_date": "2024-02-03",
+        "comment_count": 247
+    },
+    {
+        "title": "This Chrome Extension will BLOW YOUR MIND \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=hU4EYjQcmv8",
+        "thumbnail_url": "https://i.ytimg.com/vi/hU4EYjQcmv8/hqdefault.jpg",
+        "duration_minutes": 11.08,
+        "upload_date": "2024-01-27",
+        "comment_count": 103
+    },
+    {
+        "title": "Complete Git and GitHub Tutorial for Beginners",
+        "video_url": "https://www.youtube.com/watch?v=RDxQEzXN8AU",
+        "thumbnail_url": "https://i.ytimg.com/vi/RDxQEzXN8AU/hqdefault.jpg",
+        "duration_minutes": 111.45,
+        "upload_date": "2024-01-21",
+        "comment_count": 248
+    },
+    {
+        "title": "Complete Git & GitHub Tutorial | Branching And Merging",
+        "video_url": "https://www.youtube.com/watch?v=LF-rK5yPzVM",
+        "thumbnail_url": "https://i.ytimg.com/vi/LF-rK5yPzVM/hqdefault.jpg",
+        "duration_minutes": 62.37,
+        "upload_date": "2024-01-21",
+        "comment_count": 69
+    },
+    {
+        "title": "Complete Git & GitHub Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=TsSjgkfAeJ0",
+        "thumbnail_url": "https://i.ytimg.com/vi/TsSjgkfAeJ0/hqdefault.jpg",
+        "duration_minutes": 51.02,
+        "upload_date": "2024-01-20",
+        "comment_count": 102
+    },
+    {
+        "title": "Coding Highly Scaleable Backend | System Design",
+        "video_url": "https://www.youtube.com/watch?v=02YpQGNmRwI",
+        "thumbnail_url": "https://i.ytimg.com/vi/02YpQGNmRwI/hqdefault.jpg",
+        "duration_minutes": 27.33,
+        "upload_date": "2024-01-13",
+        "comment_count": 90
+    },
+    {
+        "title": "GSoC 2024 Roadmap | Google Summer of Code",
+        "video_url": "https://www.youtube.com/watch?v=ep9LmlsdF1o",
+        "thumbnail_url": "https://i.ytimg.com/vi/ep9LmlsdF1o/hqdefault.jpg",
+        "duration_minutes": 14.87,
+        "upload_date": "2024-01-06",
+        "comment_count": 102
+    },
+    {
+        "title": "First Live of 2024",
+        "video_url": "https://www.youtube.com/watch?v=doLgEKDtJ7s",
+        "thumbnail_url": "https://i.ytimg.com/vi/doLgEKDtJ7s/hqdefault.jpg",
+        "duration_minutes": 58.08,
+        "upload_date": "2024-01-03",
+        "comment_count": 18
+    },
+    {
+        "title": "Fastest way to Spin up PostgreSQL on Cloud | Aiven.io",
+        "video_url": "https://www.youtube.com/watch?v=DyOAmkFz7BU",
+        "thumbnail_url": "https://i.ytimg.com/vi/DyOAmkFz7BU/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-01-03",
+        "comment_count": 16
+    },
+    {
+        "title": "Scalable Chat App | How to Scale WebSockets?",
+        "video_url": "https://www.youtube.com/watch?v=UOaNfvwq8A0",
+        "thumbnail_url": "https://i.ytimg.com/vi/UOaNfvwq8A0/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-01-03",
+        "comment_count": 15
+    },
+    {
+        "title": "My Plans For 2024 \ud83c\udf89 | Happy New Year Everyone \u2764\ufe0f",
+        "video_url": "https://www.youtube.com/watch?v=uLAzGfCG37s",
+        "thumbnail_url": "https://i.ytimg.com/vi/uLAzGfCG37s/hqdefault.jpg",
+        "duration_minutes": 7.37,
+        "upload_date": "2024-01-01",
+        "comment_count": 243
+    },
+    {
+        "title": "How to Crack Any System Design Interview | Scalable System Design",
+        "video_url": "https://www.youtube.com/watch?v=sSKhdZ32YpY",
+        "thumbnail_url": "https://i.ytimg.com/vi/sSKhdZ32YpY/hqdefault.jpg",
+        "duration_minutes": 27.33,
+        "upload_date": "2023-12-30",
+        "comment_count": 207
+    },
+    {
+        "title": "Build Scaleable Realtime Chat App with Kafka and Postgresql",
+        "video_url": "https://www.youtube.com/watch?v=Rat7ORbBDN8",
+        "thumbnail_url": "https://i.ytimg.com/vi/Rat7ORbBDN8/hqdefault.jpg",
+        "duration_minutes": 40.67,
+        "upload_date": "2023-12-16",
+        "comment_count": 112
+    },
+    {
+        "title": "Build Scaleable Realtime Chat App with NextJS and NodeJS Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=CQQc8QyIGl0",
+        "thumbnail_url": "https://i.ytimg.com/vi/CQQc8QyIGl0/hqdefault.jpg",
+        "duration_minutes": 55.35,
+        "upload_date": "2023-12-09",
+        "comment_count": 169
+    },
+    {
+        "title": "Javascript Architecture #javascriptinterview #javascriptinhindi #webdevelopment #javascript",
+        "video_url": "https://www.youtube.com/watch?v=whkcgOjL3a0",
+        "thumbnail_url": "https://i.ytimg.com/vi/whkcgOjL3a0/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2023-11-30",
+        "comment_count": 3
+    },
+    {
+        "title": "Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=kl7ActKCQIU",
+        "thumbnail_url": "https://i.ytimg.com/vi/kl7ActKCQIU/hqdefault.jpg",
+        "duration_minutes": 40.03,
+        "upload_date": "2023-11-30",
+        "comment_count": 149
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=od1Fm7rs-EA",
+        "thumbnail_url": "https://i.ytimg.com/vi/od1Fm7rs-EA/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-11-27",
+        "comment_count": 11
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=2QvisEhIYok",
+        "thumbnail_url": "https://i.ytimg.com/vi/2QvisEhIYok/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-11-27",
+        "comment_count": 4
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=eMNioGZj_zE",
+        "thumbnail_url": "https://i.ytimg.com/vi/eMNioGZj_zE/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2023-11-26",
+        "comment_count": 7
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=TXYa3i915RQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/TXYa3i915RQ/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-11-26",
+        "comment_count": 7
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=lCWg-UQ1M3o",
+        "thumbnail_url": "https://i.ytimg.com/vi/lCWg-UQ1M3o/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2023-11-26",
+        "comment_count": 6
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=bYf8xAihM44",
+        "thumbnail_url": "https://i.ytimg.com/vi/bYf8xAihM44/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2023-11-25",
+        "comment_count": 2
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=-z4St283TuM",
+        "thumbnail_url": "https://i.ytimg.com/vi/-z4St283TuM/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2023-11-25",
+        "comment_count": 7
+    },
+    {
+        "title": "Javascript Interview Series #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=6xWm8nreUy4",
+        "thumbnail_url": "https://i.ytimg.com/vi/6xWm8nreUy4/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2023-11-25",
+        "comment_count": 4
+    },
+    {
+        "title": "Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=njs0Den1b5Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/njs0Den1b5Y/hqdefault.jpg",
+        "duration_minutes": 41.47,
+        "upload_date": "2023-11-25",
+        "comment_count": 247
+    },
+    {
+        "title": "NextJS 14 Trick I bet you didn't Know \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=2W83jTvvqzg",
+        "thumbnail_url": "https://i.ytimg.com/vi/2W83jTvvqzg/hqdefault.jpg",
+        "duration_minutes": 15.93,
+        "upload_date": "2023-11-18",
+        "comment_count": 45
+    },
+    {
+        "title": "React Server Components vs Client Components",
+        "video_url": "https://www.youtube.com/watch?v=bugO1tmSDpM",
+        "thumbnail_url": "https://i.ytimg.com/vi/bugO1tmSDpM/hqdefault.jpg",
+        "duration_minutes": 27.52,
+        "upload_date": "2023-11-05",
+        "comment_count": 191
+    },
+    {
+        "title": "NextJS 13 and 14 Quick Look \ud83d\udc40",
+        "video_url": "https://www.youtube.com/watch?v=09mu0IC6htE",
+        "thumbnail_url": "https://i.ytimg.com/vi/09mu0IC6htE/hqdefault.jpg",
+        "duration_minutes": 28.88,
+        "upload_date": "2023-10-31",
+        "comment_count": 36
+    },
+    {
+        "title": "Best Tool For Developers and Engineers",
+        "video_url": "https://www.youtube.com/watch?v=jOy2Johy5Ug",
+        "thumbnail_url": "https://i.ytimg.com/vi/jOy2Johy5Ug/hqdefault.jpg",
+        "duration_minutes": 13.62,
+        "upload_date": "2023-10-28",
+        "comment_count": 43
+    },
+    {
+        "title": "Nextjs 14 - Modern PHP by Vercel \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=oI-394LbLBI",
+        "thumbnail_url": "https://i.ytimg.com/vi/oI-394LbLBI/hqdefault.jpg",
+        "duration_minutes": 8.83,
+        "upload_date": "2023-10-27",
+        "comment_count": 148
+    },
+    {
+        "title": "Deploying Docker Containers on AWS Elastic Container Service (ECS) | Container Orchestration",
+        "video_url": "https://www.youtube.com/watch?v=AiiFbsAlLaI",
+        "thumbnail_url": "https://i.ytimg.com/vi/AiiFbsAlLaI/hqdefault.jpg",
+        "duration_minutes": 35.37,
+        "upload_date": "2023-10-26",
+        "comment_count": 177
+    },
+    {
+        "title": "STOP Open Source Contributions!! - Do not contribute to Open Source",
+        "video_url": "https://www.youtube.com/watch?v=3ue4ZE7QBTk",
+        "thumbnail_url": "https://i.ytimg.com/vi/3ue4ZE7QBTk/hqdefault.jpg",
+        "duration_minutes": 21.5,
+        "upload_date": "2023-10-23",
+        "comment_count": 64
+    },
+    {
+        "title": "Docker For Open Source Contributors - Part 2",
+        "video_url": "https://www.youtube.com/watch?v=xPT8mXa-sJg",
+        "thumbnail_url": "https://i.ytimg.com/vi/xPT8mXa-sJg/hqdefault.jpg",
+        "duration_minutes": 36.35,
+        "upload_date": "2023-10-22",
+        "comment_count": 88
+    },
+    {
+        "title": "Docker In One Shot - Part 1",
+        "video_url": "https://www.youtube.com/watch?v=31k6AtW-b3Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/31k6AtW-b3Y/hqdefault.jpg",
+        "duration_minutes": 71.8,
+        "upload_date": "2023-10-21",
+        "comment_count": 411
+    },
+    {
+        "title": "How to Open Source Contribute | FormBricks | Hacktoberfest 2023",
+        "video_url": "https://www.youtube.com/watch?v=DcJv26LwtTw",
+        "thumbnail_url": "https://i.ytimg.com/vi/DcJv26LwtTw/hqdefault.jpg",
+        "duration_minutes": 24.83,
+        "upload_date": "2023-10-14",
+        "comment_count": 42
+    },
+    {
+        "title": "Surprise Hacktoberfest Repository \ud83c\udf81 - Hacktoberfest 2023",
+        "video_url": "https://www.youtube.com/watch?v=JD3NQsB3TQI",
+        "thumbnail_url": "https://i.ytimg.com/vi/JD3NQsB3TQI/hqdefault.jpg",
+        "duration_minutes": 19.27,
+        "upload_date": "2023-10-07",
+        "comment_count": 59
+    },
+    {
+        "title": "How to Open Source Contribute to Large Codebase | Hacktoberfest 2023",
+        "video_url": "https://www.youtube.com/watch?v=0hI7LUur8cs",
+        "thumbnail_url": "https://i.ytimg.com/vi/0hI7LUur8cs/hqdefault.jpg",
+        "duration_minutes": 31.0,
+        "upload_date": "2023-09-30",
+        "comment_count": 98
+    },
+    {
+        "title": "Open Source Crash Course - Beginner Guide to Open Source",
+        "video_url": "https://www.youtube.com/watch?v=o6xikISiz2w",
+        "thumbnail_url": "https://i.ytimg.com/vi/o6xikISiz2w/hqdefault.jpg",
+        "duration_minutes": 33.42,
+        "upload_date": "2023-09-24",
+        "comment_count": 140
+    },
+    {
+        "title": "Hacktoberfest Crash Course | Hacktoberfest 2023",
+        "video_url": "https://www.youtube.com/watch?v=m9yEK4UZTRw",
+        "thumbnail_url": "https://i.ytimg.com/vi/m9yEK4UZTRw/hqdefault.jpg",
+        "duration_minutes": 14.15,
+        "upload_date": "2023-09-23",
+        "comment_count": 67
+    },
+    {
+        "title": "Build Your Own SSO | What is SSO | SSO Explained",
+        "video_url": "https://www.youtube.com/watch?v=JuyaVlK-kGQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/JuyaVlK-kGQ/hqdefault.jpg",
+        "duration_minutes": 17.33,
+        "upload_date": "2023-09-16",
+        "comment_count": 106
+    },
+    {
+        "title": "Server Monitoring with Grafana Prometheus and Loki",
+        "video_url": "https://www.youtube.com/watch?v=ddZjhv66o_o",
+        "thumbnail_url": "https://i.ytimg.com/vi/ddZjhv66o_o/hqdefault.jpg",
+        "duration_minutes": 51.73,
+        "upload_date": "2023-09-09",
+        "comment_count": 164
+    },
+    {
+        "title": "Redis Crash Course",
+        "video_url": "https://www.youtube.com/watch?v=Vx2zPMPvmug",
+        "thumbnail_url": "https://i.ytimg.com/vi/Vx2zPMPvmug/hqdefault.jpg",
+        "duration_minutes": 83.62,
+        "upload_date": "2023-09-02",
+        "comment_count": 258
+    },
+    {
+        "title": "How I Made my Own AI Video Subtitle Generator?",
+        "video_url": "https://www.youtube.com/watch?v=AIAk8sN5zXE",
+        "thumbnail_url": "https://i.ytimg.com/vi/AIAk8sN5zXE/hqdefault.jpg",
+        "duration_minutes": 14.75,
+        "upload_date": "2023-08-27",
+        "comment_count": 50
+    },
+    {
+        "title": "Saturday Live",
+        "video_url": "https://www.youtube.com/watch?v=Mvk1vIJGlZQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/Mvk1vIJGlZQ/hqdefault.jpg",
+        "duration_minutes": 59.93,
+        "upload_date": "2023-08-26",
+        "comment_count": 19
+    },
+    {
+        "title": "How to Expose Local Host using Cloudflare Tunnels?",
+        "video_url": "https://www.youtube.com/watch?v=BnWfbv7Fy-k",
+        "thumbnail_url": "https://i.ytimg.com/vi/BnWfbv7Fy-k/hqdefault.jpg",
+        "duration_minutes": 24.57,
+        "upload_date": "2023-08-26",
+        "comment_count": 134
+    },
+    {
+        "title": "Why do we need Kafka?",
+        "video_url": "https://www.youtube.com/watch?v=pl3sJ-RoD3Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/pl3sJ-RoD3Q/hqdefault.jpg",
+        "duration_minutes": 15.27,
+        "upload_date": "2023-08-20",
+        "comment_count": 110
+    },
+    {
+        "title": "How I Built Video Transcoding Service From Scratch | System Design",
+        "video_url": "https://www.youtube.com/watch?v=wcdaIQjtWQI",
+        "thumbnail_url": "https://i.ytimg.com/vi/wcdaIQjtWQI/hqdefault.jpg",
+        "duration_minutes": 16.28,
+        "upload_date": "2023-08-19",
+        "comment_count": 91
+    },
+    {
+        "title": "This React Trick Will Blow Your Mind \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=U95-MS6tDrw",
+        "thumbnail_url": "https://i.ytimg.com/vi/U95-MS6tDrw/hqdefault.jpg",
+        "duration_minutes": 10.75,
+        "upload_date": "2023-08-12",
+        "comment_count": 97
+    },
+    {
+        "title": "What are Message Queues? | BullMQ Queues NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=yXPKB7fHxfo",
+        "thumbnail_url": "https://i.ytimg.com/vi/yXPKB7fHxfo/hqdefault.jpg",
+        "duration_minutes": 44.2,
+        "upload_date": "2023-08-02",
+        "comment_count": 111
+    },
+    {
+        "title": "Apache Kafka Crash Course | What is Kafka?",
+        "video_url": "https://www.youtube.com/watch?v=ZJJHm_bd9Zo",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZJJHm_bd9Zo/hqdefault.jpg",
+        "duration_minutes": 77.07,
+        "upload_date": "2023-07-29",
+        "comment_count": 825
+    },
+    {
+        "title": "JWT Authentication and Context in GraphQL",
+        "video_url": "https://www.youtube.com/watch?v=8atiBUsAOcI",
+        "thumbnail_url": "https://i.ytimg.com/vi/8atiBUsAOcI/hqdefault.jpg",
+        "duration_minutes": 13.62,
+        "upload_date": "2023-07-28",
+        "comment_count": 48
+    },
+    {
+        "title": "How to Get Remote Jobs  - Guaranteed Results",
+        "video_url": "https://www.youtube.com/watch?v=Y1glVhCWxGo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y1glVhCWxGo/hqdefault.jpg",
+        "duration_minutes": 11.22,
+        "upload_date": "2023-07-24",
+        "comment_count": 154
+    },
+    {
+        "title": "Authentication with GraphQL Server | Complete GraphQL Series",
+        "video_url": "https://www.youtube.com/watch?v=0XFoeaYnc20",
+        "thumbnail_url": "https://i.ytimg.com/vi/0XFoeaYnc20/hqdefault.jpg",
+        "duration_minutes": 21.67,
+        "upload_date": "2023-07-24",
+        "comment_count": 21
+    },
+    {
+        "title": "Refactoring GraphQL Code | Complete GraphQL Series",
+        "video_url": "https://www.youtube.com/watch?v=MSJImC6cTkY",
+        "thumbnail_url": "https://i.ytimg.com/vi/MSJImC6cTkY/hqdefault.jpg",
+        "duration_minutes": 12.58,
+        "upload_date": "2023-07-24",
+        "comment_count": 8
+    },
+    {
+        "title": "Graphql Prisma Postgresql Setup | Complete GraphQL Series",
+        "video_url": "https://www.youtube.com/watch?v=4jiTZGn34_c",
+        "thumbnail_url": "https://i.ytimg.com/vi/4jiTZGn34_c/hqdefault.jpg",
+        "duration_minutes": 17.45,
+        "upload_date": "2023-07-23",
+        "comment_count": 25
+    },
+    {
+        "title": "Setting up Graphql Server | Complete GraphQL Series",
+        "video_url": "https://www.youtube.com/watch?v=g6YpoVYTd1s",
+        "thumbnail_url": "https://i.ytimg.com/vi/g6YpoVYTd1s/hqdefault.jpg",
+        "duration_minutes": 25.02,
+        "upload_date": "2023-07-22",
+        "comment_count": 37
+    },
+    {
+        "title": "Threads App GraphQL Clone | Backend Architecture",
+        "video_url": "https://www.youtube.com/watch?v=FbDrEEhG5cM",
+        "thumbnail_url": "https://i.ytimg.com/vi/FbDrEEhG5cM/hqdefault.jpg",
+        "duration_minutes": 18.9,
+        "upload_date": "2023-07-17",
+        "comment_count": 38
+    },
+    {
+        "title": "How Open Source is Changing Remote Jobs with @KunalKushwaha",
+        "video_url": "https://www.youtube.com/watch?v=ilqjnRQrjLw",
+        "thumbnail_url": "https://i.ytimg.com/vi/ilqjnRQrjLw/hqdefault.jpg",
+        "duration_minutes": 22.43,
+        "upload_date": "2023-07-12",
+        "comment_count": 85
+    },
+    {
+        "title": "GraphQL Crash Course - GraphQL NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=WtkKwO1viI8",
+        "thumbnail_url": "https://i.ytimg.com/vi/WtkKwO1viI8/hqdefault.jpg",
+        "duration_minutes": 42.52,
+        "upload_date": "2023-07-09",
+        "comment_count": 153
+    },
+    {
+        "title": "Next.js App Router Authentication | Kinde SDK",
+        "video_url": "https://www.youtube.com/watch?v=RnRqHBp98S8",
+        "thumbnail_url": "https://i.ytimg.com/vi/RnRqHBp98S8/hqdefault.jpg",
+        "duration_minutes": 17.35,
+        "upload_date": "2023-07-03",
+        "comment_count": 35
+    },
+    {
+        "title": "Free Data Structures and Algorithms Course ~35 Hours | #DSA #faang",
+        "video_url": "https://www.youtube.com/watch?v=glHV1QZ8e70",
+        "thumbnail_url": "https://i.ytimg.com/vi/glHV1QZ8e70/hqdefault.jpg",
+        "duration_minutes": 11.83,
+        "upload_date": "2023-06-28",
+        "comment_count": 104
+    },
+    {
+        "title": "Linux Founder Joins My Open Source Project! - Hacking Github",
+        "video_url": "https://www.youtube.com/watch?v=VXh5ofC3tvQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/VXh5ofC3tvQ/hqdefault.jpg",
+        "duration_minutes": 6.17,
+        "upload_date": "2023-06-17",
+        "comment_count": 43
+    },
+    {
+        "title": "3 Ways to Make React App FASTER",
+        "video_url": "https://www.youtube.com/watch?v=nrIAVhs3PmQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/nrIAVhs3PmQ/hqdefault.jpg",
+        "duration_minutes": 14.72,
+        "upload_date": "2023-06-14",
+        "comment_count": 93
+    },
+    {
+        "title": "Day 5: Open Source Contribution Bootcamp",
+        "video_url": "https://www.youtube.com/watch?v=py0M8510ajM",
+        "thumbnail_url": "https://i.ytimg.com/vi/py0M8510ajM/hqdefault.jpg",
+        "duration_minutes": 80.7,
+        "upload_date": "2023-06-13",
+        "comment_count": 36
+    },
+    {
+        "title": "How to Resolve Merge Conflicts in Git | Open Source Bootcamp",
+        "video_url": "https://www.youtube.com/watch?v=l03tGz4pXoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/l03tGz4pXoQ/hqdefault.jpg",
+        "duration_minutes": 24.28,
+        "upload_date": "2023-06-11",
+        "comment_count": 26
+    },
+    {
+        "title": "Day 4: Git Merge Conflicts and Open Source Contribution | Doubt Solving",
+        "video_url": "https://www.youtube.com/watch?v=oKVkOYIXyDE",
+        "thumbnail_url": "https://i.ytimg.com/vi/oKVkOYIXyDE/hqdefault.jpg",
+        "duration_minutes": 60.07,
+        "upload_date": "2023-06-11",
+        "comment_count": 24
+    },
+    {
+        "title": "Day 3: Advance Git and Open Source Contribution",
+        "video_url": "https://www.youtube.com/watch?v=VgbECciztVs",
+        "thumbnail_url": "https://i.ytimg.com/vi/VgbECciztVs/hqdefault.jpg",
+        "duration_minutes": 20.67,
+        "upload_date": "2023-06-10",
+        "comment_count": 14
+    },
+    {
+        "title": "Day 3: Advance Git and Open Source Contribution - Continued",
+        "video_url": "https://www.youtube.com/watch?v=mn8yyOpjK3c",
+        "thumbnail_url": "https://i.ytimg.com/vi/mn8yyOpjK3c/hqdefault.jpg",
+        "duration_minutes": 58.47,
+        "upload_date": "2023-06-09",
+        "comment_count": 36
+    },
+    {
+        "title": "I Love Next App Router | React Server Components Explained",
+        "video_url": "https://www.youtube.com/watch?v=hfUPcayZhKU",
+        "thumbnail_url": "https://i.ytimg.com/vi/hfUPcayZhKU/hqdefault.jpg",
+        "duration_minutes": 14.78,
+        "upload_date": "2023-06-08",
+        "comment_count": 41
+    },
+    {
+        "title": "Day 2: Git Branches and Pull Requests | Open Source Bootcamp",
+        "video_url": "https://www.youtube.com/watch?v=mMl_Eegy3bQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/mMl_Eegy3bQ/hqdefault.jpg",
+        "duration_minutes": 94.1,
+        "upload_date": "2023-06-08",
+        "comment_count": 69
+    },
+    {
+        "title": "Day 1: Open Source Contributions | BootCamp",
+        "video_url": "https://www.youtube.com/watch?v=tlJVWvzOnlw",
+        "thumbnail_url": "https://i.ytimg.com/vi/tlJVWvzOnlw/hqdefault.jpg",
+        "duration_minutes": 77.05,
+        "upload_date": "2023-06-06",
+        "comment_count": 253
+    },
+    {
+        "title": "Open Source Contributions | Saturday Live",
+        "video_url": "https://www.youtube.com/watch?v=mnW9WSOmw8k",
+        "thumbnail_url": "https://i.ytimg.com/vi/mnW9WSOmw8k/hqdefault.jpg",
+        "duration_minutes": 57.1,
+        "upload_date": "2023-06-04",
+        "comment_count": 11
+    },
+    {
+        "title": "How to Find the Best Repositories for Open Source Contribution",
+        "video_url": "https://www.youtube.com/watch?v=noKgvN_42Hk",
+        "thumbnail_url": "https://i.ytimg.com/vi/noKgvN_42Hk/hqdefault.jpg",
+        "duration_minutes": 18.82,
+        "upload_date": "2023-06-02",
+        "comment_count": 87
+    },
+    {
+        "title": "Fixing Bugs with Open Source Contributions",
+        "video_url": "https://www.youtube.com/watch?v=Yhf3OSh-90w",
+        "thumbnail_url": "https://i.ytimg.com/vi/Yhf3OSh-90w/hqdefault.jpg",
+        "duration_minutes": 14.98,
+        "upload_date": "2023-06-01",
+        "comment_count": 14
+    },
+    {
+        "title": "How to Earn with Open Source Contributions",
+        "video_url": "https://www.youtube.com/watch?v=9AkfNuc_SZ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/9AkfNuc_SZ4/hqdefault.jpg",
+        "duration_minutes": 24.05,
+        "upload_date": "2023-05-31",
+        "comment_count": 191
+    },
+    {
+        "title": "What is Open Source & How to Start?",
+        "video_url": "https://www.youtube.com/watch?v=ICOIT8-mp78",
+        "thumbnail_url": "https://i.ytimg.com/vi/ICOIT8-mp78/hqdefault.jpg",
+        "duration_minutes": 24.85,
+        "upload_date": "2023-05-30",
+        "comment_count": 78
+    },
+    {
+        "title": "Network Interface Cards (NIC's) in AWS",
+        "video_url": "https://www.youtube.com/watch?v=6xAPQmxQVpY",
+        "thumbnail_url": "https://i.ytimg.com/vi/6xAPQmxQVpY/hqdefault.jpg",
+        "duration_minutes": 13.38,
+        "upload_date": "2023-05-29",
+        "comment_count": 16
+    },
+    {
+        "title": "Open-Source NextJS Project to Master NextJS 13",
+        "video_url": "https://www.youtube.com/watch?v=cI7dlwmRmZA",
+        "thumbnail_url": "https://i.ytimg.com/vi/cI7dlwmRmZA/hqdefault.jpg",
+        "duration_minutes": 9.55,
+        "upload_date": "2023-05-29",
+        "comment_count": 32
+    },
+    {
+        "title": "Full Stack Development | Saturday Live Stream",
+        "video_url": "https://www.youtube.com/watch?v=er-n1wNT_KI",
+        "thumbnail_url": "https://i.ytimg.com/vi/er-n1wNT_KI/hqdefault.jpg",
+        "duration_minutes": 75.87,
+        "upload_date": "2023-05-28",
+        "comment_count": 12
+    },
+    {
+        "title": "React Meme Generator App #nodejs #reactjs #memes",
+        "video_url": "https://www.youtube.com/watch?v=HiEzcDL9enU",
+        "thumbnail_url": "https://i.ytimg.com/vi/HiEzcDL9enU/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2023-05-26",
+        "comment_count": 2
+    },
+    {
+        "title": "Security Groups in Amazon Web Services",
+        "video_url": "https://www.youtube.com/watch?v=6IaRNRonPLg",
+        "thumbnail_url": "https://i.ytimg.com/vi/6IaRNRonPLg/hqdefault.jpg",
+        "duration_minutes": 22.88,
+        "upload_date": "2023-05-26",
+        "comment_count": 74
+    },
+    {
+        "title": "Security Groups and Network ACS in Amazon Web Services",
+        "video_url": "https://www.youtube.com/watch?v=DKGLlTniH9U",
+        "thumbnail_url": "https://i.ytimg.com/vi/DKGLlTniH9U/hqdefault.jpg",
+        "duration_minutes": 20.87,
+        "upload_date": "2023-05-24",
+        "comment_count": 34
+    },
+    {
+        "title": "How to SSH into Amazon EC2 Machine | SSH AWS EC2",
+        "video_url": "https://www.youtube.com/watch?v=57TCFZG08oM",
+        "thumbnail_url": "https://i.ytimg.com/vi/57TCFZG08oM/hqdefault.jpg",
+        "duration_minutes": 10.45,
+        "upload_date": "2023-05-23",
+        "comment_count": 33
+    },
+    {
+        "title": "Is VSCode Dead ? Zed First Look",
+        "video_url": "https://www.youtube.com/watch?v=2ra33AHscCM",
+        "thumbnail_url": "https://i.ytimg.com/vi/2ra33AHscCM/hqdefault.jpg",
+        "duration_minutes": 11.8,
+        "upload_date": "2023-05-23",
+        "comment_count": 10
+    },
+    {
+        "title": "NextJS Data Fetching with App Router",
+        "video_url": "https://www.youtube.com/watch?v=Bx7GUurz5Zc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bx7GUurz5Zc/hqdefault.jpg",
+        "duration_minutes": 16.07,
+        "upload_date": "2023-05-23",
+        "comment_count": 24
+    },
+    {
+        "title": "NextJS App Router Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=2GHgcFJJZmE",
+        "thumbnail_url": "https://i.ytimg.com/vi/2GHgcFJJZmE/hqdefault.jpg",
+        "duration_minutes": 19.47,
+        "upload_date": "2023-05-23",
+        "comment_count": 16
+    },
+    {
+        "title": "Amazon EC2 - Elastic Cloud Server & Hosting with AWS",
+        "video_url": "https://www.youtube.com/watch?v=-FKQwXtrSSQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/-FKQwXtrSSQ/hqdefault.jpg",
+        "duration_minutes": 20.9,
+        "upload_date": "2023-05-22",
+        "comment_count": 62
+    },
+    {
+        "title": "AWS S3 Simple Storage Service | Part - 4",
+        "video_url": "https://www.youtube.com/watch?v=L2Q1XdGZkzo",
+        "thumbnail_url": "https://i.ytimg.com/vi/L2Q1XdGZkzo/hqdefault.jpg",
+        "duration_minutes": 15.72,
+        "upload_date": "2023-05-19",
+        "comment_count": 37
+    },
+    {
+        "title": "Test Live | First Live Session",
+        "video_url": "https://www.youtube.com/watch?v=VoQuZ7ZYWmo",
+        "thumbnail_url": "https://i.ytimg.com/vi/VoQuZ7ZYWmo/hqdefault.jpg",
+        "duration_minutes": 60.27,
+        "upload_date": "2023-05-19",
+        "comment_count": 6
+    },
+    {
+        "title": "AWS S3 Simple Storage Service | Part - 3",
+        "video_url": "https://www.youtube.com/watch?v=1zNZHb7xais",
+        "thumbnail_url": "https://i.ytimg.com/vi/1zNZHb7xais/hqdefault.jpg",
+        "duration_minutes": 21.95,
+        "upload_date": "2023-05-18",
+        "comment_count": 59
+    },
+    {
+        "title": "How to Use AWS S3 with NodeJS?",
+        "video_url": "https://www.youtube.com/watch?v=DOUxRYi2Fwg",
+        "thumbnail_url": "https://i.ytimg.com/vi/DOUxRYi2Fwg/hqdefault.jpg",
+        "duration_minutes": 30.65,
+        "upload_date": "2023-05-17",
+        "comment_count": 117
+    },
+    {
+        "title": "AWS S3 Simple Storage Service",
+        "video_url": "https://www.youtube.com/watch?v=d8A8JmAImc4",
+        "thumbnail_url": "https://i.ytimg.com/vi/d8A8JmAImc4/hqdefault.jpg",
+        "duration_minutes": 31.0,
+        "upload_date": "2023-05-16",
+        "comment_count": 137
+    },
+    {
+        "title": "AWS IAM Identity",
+        "video_url": "https://www.youtube.com/watch?v=MDM8AraFgUE",
+        "thumbnail_url": "https://i.ytimg.com/vi/MDM8AraFgUE/hqdefault.jpg",
+        "duration_minutes": 40.9,
+        "upload_date": "2023-05-15",
+        "comment_count": 226
+    },
+    {
+        "title": "AWS Free Course - #aws #cloud",
+        "video_url": "https://www.youtube.com/watch?v=Oe4y0vhRB28",
+        "thumbnail_url": "https://i.ytimg.com/vi/Oe4y0vhRB28/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2023-05-13",
+        "comment_count": 50
+    },
+    {
+        "title": "Amazon Web Services - AWS",
+        "video_url": "https://www.youtube.com/watch?v=7RlkluG6W58",
+        "thumbnail_url": "https://i.ytimg.com/vi/7RlkluG6W58/hqdefault.jpg",
+        "duration_minutes": 6.52,
+        "upload_date": "2023-05-13",
+        "comment_count": 167
+    },
+    {
+        "title": "Serverless Framework with NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=VvYADzRwJK8",
+        "thumbnail_url": "https://i.ytimg.com/vi/VvYADzRwJK8/hqdefault.jpg",
+        "duration_minutes": 20.77,
+        "upload_date": "2023-05-12",
+        "comment_count": 75
+    },
+    {
+        "title": "What is Serverless? | Serverless Vs Monolith | AWS Lambda",
+        "video_url": "https://www.youtube.com/watch?v=AgOmeANl3ls",
+        "thumbnail_url": "https://i.ytimg.com/vi/AgOmeANl3ls/hqdefault.jpg",
+        "duration_minutes": 36.18,
+        "upload_date": "2023-05-11",
+        "comment_count": 359
+    },
+    {
+        "title": "NextJS App Router",
+        "video_url": "https://www.youtube.com/watch?v=IKGSgdkcIVc",
+        "thumbnail_url": "https://i.ytimg.com/vi/IKGSgdkcIVc/hqdefault.jpg",
+        "duration_minutes": 29.77,
+        "upload_date": "2023-05-09",
+        "comment_count": 43
+    },
+    {
+        "title": "React Redux Toolkit",
+        "video_url": "https://www.youtube.com/watch?v=fxT54eRIsc4",
+        "thumbnail_url": "https://i.ytimg.com/vi/fxT54eRIsc4/hqdefault.jpg",
+        "duration_minutes": 28.28,
+        "upload_date": "2023-05-08",
+        "comment_count": 183
+    },
+    {
+        "title": "What are Vector Embeddings? | Pinecone DB | ChatGPT",
+        "video_url": "https://www.youtube.com/watch?v=1EookJWbvQM",
+        "thumbnail_url": "https://i.ytimg.com/vi/1EookJWbvQM/hqdefault.jpg",
+        "duration_minutes": 19.78,
+        "upload_date": "2023-05-06",
+        "comment_count": 42
+    },
+    {
+        "title": "Full Stack Twitter Clone",
+        "video_url": "https://www.youtube.com/watch?v=92N0jlMfIMk",
+        "thumbnail_url": "https://i.ytimg.com/vi/92N0jlMfIMk/hqdefault.jpg",
+        "duration_minutes": 6.8,
+        "upload_date": "2023-05-03",
+        "comment_count": 60
+    },
+    {
+        "title": "API Calling in React and Typescript",
+        "video_url": "https://www.youtube.com/watch?v=V2x2Nq-fcTU",
+        "thumbnail_url": "https://i.ytimg.com/vi/V2x2Nq-fcTU/hqdefault.jpg",
+        "duration_minutes": 14.28,
+        "upload_date": "2023-04-26",
+        "comment_count": 23
+    },
+    {
+        "title": "React Typescript Tic Tac Toe",
+        "video_url": "https://www.youtube.com/watch?v=FIp2osib6KM",
+        "thumbnail_url": "https://i.ytimg.com/vi/FIp2osib6KM/hqdefault.jpg",
+        "duration_minutes": 24.35,
+        "upload_date": "2023-04-20",
+        "comment_count": 19
+    },
+    {
+        "title": "React Video Chat App - Full Video On Channel #nodejs #coding #webrtc",
+        "video_url": "https://www.youtube.com/watch?v=ZoY4o8xQrFI",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZoY4o8xQrFI/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2023-04-01",
+        "comment_count": 6
+    },
+    {
+        "title": "React Video Chat App | WebRTC Video Chat Zoom Clone",
+        "video_url": "https://www.youtube.com/watch?v=ZDiQWv-hjtw",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZDiQWv-hjtw/hqdefault.jpg",
+        "duration_minutes": 72.42,
+        "upload_date": "2023-04-01",
+        "comment_count": 174
+    },
+    {
+        "title": "React useEffect Hook",
+        "video_url": "https://www.youtube.com/watch?v=53H_fYlikHc",
+        "thumbnail_url": "https://i.ytimg.com/vi/53H_fYlikHc/hqdefault.jpg",
+        "duration_minutes": 14.68,
+        "upload_date": "2023-03-28",
+        "comment_count": 108
+    },
+    {
+        "title": "React useState Hook - React Hooks Explained",
+        "video_url": "https://www.youtube.com/watch?v=3i840mtbDNI",
+        "thumbnail_url": "https://i.ytimg.com/vi/3i840mtbDNI/hqdefault.jpg",
+        "duration_minutes": 20.1,
+        "upload_date": "2023-03-23",
+        "comment_count": 27
+    },
+    {
+        "title": "Understanding Props in ReactJS",
+        "video_url": "https://www.youtube.com/watch?v=VpGFuThTjhY",
+        "thumbnail_url": "https://i.ytimg.com/vi/VpGFuThTjhY/hqdefault.jpg",
+        "duration_minutes": 19.88,
+        "upload_date": "2023-03-22",
+        "comment_count": 23
+    },
+    {
+        "title": "React Components with Typescript",
+        "video_url": "https://www.youtube.com/watch?v=VSSm2nebwak",
+        "thumbnail_url": "https://i.ytimg.com/vi/VSSm2nebwak/hqdefault.jpg",
+        "duration_minutes": 22.85,
+        "upload_date": "2023-03-21",
+        "comment_count": 25
+    },
+    {
+        "title": "What are Components in ReactJS?",
+        "video_url": "https://www.youtube.com/watch?v=lb63Ym0woQM",
+        "thumbnail_url": "https://i.ytimg.com/vi/lb63Ym0woQM/hqdefault.jpg",
+        "duration_minutes": 18.07,
+        "upload_date": "2023-03-20",
+        "comment_count": 25
+    },
+    {
+        "title": "React Folder Structure",
+        "video_url": "https://www.youtube.com/watch?v=xTS5Pt6PqoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/xTS5Pt6PqoQ/hqdefault.jpg",
+        "duration_minutes": 10.28,
+        "upload_date": "2023-03-18",
+        "comment_count": 27
+    },
+    {
+        "title": "What is ReactJS?",
+        "video_url": "https://www.youtube.com/watch?v=cJ6v-0hY00A",
+        "thumbnail_url": "https://i.ytimg.com/vi/cJ6v-0hY00A/hqdefault.jpg",
+        "duration_minutes": 12.32,
+        "upload_date": "2023-03-17",
+        "comment_count": 28
+    },
+    {
+        "title": "Full Node.js Deployment - NGINX, SSL With Lets Encrypt",
+        "video_url": "https://www.youtube.com/watch?v=ofBFl4M4BFk",
+        "thumbnail_url": "https://i.ytimg.com/vi/ofBFl4M4BFk/hqdefault.jpg",
+        "duration_minutes": 31.42,
+        "upload_date": "2023-03-11",
+        "comment_count": 158
+    },
+    {
+        "title": "Serve Static Content with Nginx",
+        "video_url": "https://www.youtube.com/watch?v=YkuhqIDUi2A",
+        "thumbnail_url": "https://i.ytimg.com/vi/YkuhqIDUi2A/hqdefault.jpg",
+        "duration_minutes": 15.02,
+        "upload_date": "2023-03-09",
+        "comment_count": 20
+    },
+    {
+        "title": "Install and Setup Nginx",
+        "video_url": "https://www.youtube.com/watch?v=Qmld1te08Ns",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qmld1te08Ns/hqdefault.jpg",
+        "duration_minutes": 13.27,
+        "upload_date": "2023-03-07",
+        "comment_count": 28
+    },
+    {
+        "title": "What is Nginx?",
+        "video_url": "https://www.youtube.com/watch?v=b_B1BEShfBc",
+        "thumbnail_url": "https://i.ytimg.com/vi/b_B1BEShfBc/hqdefault.jpg",
+        "duration_minutes": 11.75,
+        "upload_date": "2023-03-06",
+        "comment_count": 88
+    },
+    {
+        "title": "How to scale NodeJs applications using the cluster module.",
+        "video_url": "https://www.youtube.com/watch?v=JoPZ9gEvpz8",
+        "thumbnail_url": "https://i.ytimg.com/vi/JoPZ9gEvpz8/hqdefault.jpg",
+        "duration_minutes": 12.63,
+        "upload_date": "2023-02-28",
+        "comment_count": 107
+    },
+    {
+        "title": "NodeJS Streams",
+        "video_url": "https://www.youtube.com/watch?v=64LJJhT6Ybo",
+        "thumbnail_url": "https://i.ytimg.com/vi/64LJJhT6Ybo/hqdefault.jpg",
+        "duration_minutes": 15.43,
+        "upload_date": "2023-02-27",
+        "comment_count": 55
+    },
+    {
+        "title": "WebSocket in NodeJS | Socket.IO - Real Time Messaging",
+        "video_url": "https://www.youtube.com/watch?v=UUddpbgPEJM",
+        "thumbnail_url": "https://i.ytimg.com/vi/UUddpbgPEJM/hqdefault.jpg",
+        "duration_minutes": 32.45,
+        "upload_date": "2023-02-20",
+        "comment_count": 189
+    },
+    {
+        "title": "Deploy NodeJS Application on AWS - Amazon Web Services | NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=_U0pTlpyMGg",
+        "thumbnail_url": "https://i.ytimg.com/vi/_U0pTlpyMGg/hqdefault.jpg",
+        "duration_minutes": 19.85,
+        "upload_date": "2023-02-13",
+        "comment_count": 266
+    },
+    {
+        "title": "Complete Blog App - NodeJS, MongoDB and EJS",
+        "video_url": "https://www.youtube.com/watch?v=vnWVrjsEeAM",
+        "thumbnail_url": "https://i.ytimg.com/vi/vnWVrjsEeAM/hqdefault.jpg",
+        "duration_minutes": 26.48,
+        "upload_date": "2023-02-11",
+        "comment_count": 82
+    },
+    {
+        "title": "Discord Bot - Full Video on channel #javascript #nodejs #discordbot",
+        "video_url": "https://www.youtube.com/watch?v=-mlWjykqmVA",
+        "thumbnail_url": "https://i.ytimg.com/vi/-mlWjykqmVA/hqdefault.jpg",
+        "duration_minutes": 1.02,
+        "upload_date": "2023-02-09",
+        "comment_count": 1
+    },
+    {
+        "title": "Setting up Authentication  - NodeJS Blogging Application with MongoDB",
+        "video_url": "https://www.youtube.com/watch?v=X1AGH8Byj9Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/X1AGH8Byj9Y/hqdefault.jpg",
+        "duration_minutes": 38.35,
+        "upload_date": "2023-02-09",
+        "comment_count": 105
+    },
+    {
+        "title": "Setting Up Project - NodeJS Blogging Application with MongoDB",
+        "video_url": "https://www.youtube.com/watch?v=6z6CR29gtds",
+        "thumbnail_url": "https://i.ytimg.com/vi/6z6CR29gtds/hqdefault.jpg",
+        "duration_minutes": 39.6,
+        "upload_date": "2023-02-08",
+        "comment_count": 90
+    },
+    {
+        "title": "Uploading Files with NodeJS and Multer",
+        "video_url": "https://www.youtube.com/watch?v=WqJ0P8JnftI",
+        "thumbnail_url": "https://i.ytimg.com/vi/WqJ0P8JnftI/hqdefault.jpg",
+        "duration_minutes": 14.18,
+        "upload_date": "2023-02-06",
+        "comment_count": 154
+    },
+    {
+        "title": "Creating Discord Bot in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=5UOMuTWrh6Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/5UOMuTWrh6Q/hqdefault.jpg",
+        "duration_minutes": 21.75,
+        "upload_date": "2023-02-03",
+        "comment_count": 81
+    },
+    {
+        "title": "Authorization in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=1uxWtBFOrkk",
+        "thumbnail_url": "https://i.ytimg.com/vi/1uxWtBFOrkk/hqdefault.jpg",
+        "duration_minutes": 19.55,
+        "upload_date": "2023-02-02",
+        "comment_count": 82
+    },
+    {
+        "title": "What are Cookies in NodeJS?",
+        "video_url": "https://www.youtube.com/watch?v=kMErso06vHo",
+        "thumbnail_url": "https://i.ytimg.com/vi/kMErso06vHo/hqdefault.jpg",
+        "duration_minutes": 30.58,
+        "upload_date": "2023-02-01",
+        "comment_count": 127
+    },
+    {
+        "title": "JWT Authentication in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=mGrVmEex6_g",
+        "thumbnail_url": "https://i.ytimg.com/vi/mGrVmEex6_g/hqdefault.jpg",
+        "duration_minutes": 14.5,
+        "upload_date": "2023-01-30",
+        "comment_count": 137
+    },
+    {
+        "title": "Building Node.js Authentication from Scratch",
+        "video_url": "https://www.youtube.com/watch?v=OWeruyqhiTo",
+        "thumbnail_url": "https://i.ytimg.com/vi/OWeruyqhiTo/hqdefault.jpg",
+        "duration_minutes": 39.15,
+        "upload_date": "2023-01-28",
+        "comment_count": 176
+    },
+    {
+        "title": "Server Side Rendering with EJS and Node.JS",
+        "video_url": "https://www.youtube.com/watch?v=yy9cbu_e3Xg",
+        "thumbnail_url": "https://i.ytimg.com/vi/yy9cbu_e3Xg/hqdefault.jpg",
+        "duration_minutes": 25.4,
+        "upload_date": "2023-01-27",
+        "comment_count": 132
+    },
+    {
+        "title": "Create a Custom URL Shortener using Node.JS and MongoDB",
+        "video_url": "https://www.youtube.com/watch?v=4WvX9dBjiJo",
+        "thumbnail_url": "https://i.ytimg.com/vi/4WvX9dBjiJo/hqdefault.jpg",
+        "duration_minutes": 23.17,
+        "upload_date": "2023-01-26",
+        "comment_count": 338
+    },
+    {
+        "title": "Model View Controller in NodeJS | MVC Pattern",
+        "video_url": "https://www.youtube.com/watch?v=JLtXoru-ipo",
+        "thumbnail_url": "https://i.ytimg.com/vi/JLtXoru-ipo/hqdefault.jpg",
+        "duration_minutes": 23.02,
+        "upload_date": "2023-01-25",
+        "comment_count": 170
+    },
+    {
+        "title": "Connecting NodeJS with MongoDB | Mongoose + Express",
+        "video_url": "https://www.youtube.com/watch?v=xrglM8U0Zv8",
+        "thumbnail_url": "https://i.ytimg.com/vi/xrglM8U0Zv8/hqdefault.jpg",
+        "duration_minutes": 19.3,
+        "upload_date": "2023-01-24",
+        "comment_count": 178
+    },
+    {
+        "title": "Getting Started with MongoDB",
+        "video_url": "https://www.youtube.com/watch?v=oH0VoYiA8_s",
+        "thumbnail_url": "https://i.ytimg.com/vi/oH0VoYiA8_s/hqdefault.jpg",
+        "duration_minutes": 8.02,
+        "upload_date": "2023-01-23",
+        "comment_count": 81
+    },
+    {
+        "title": "HTTP Status Codes",
+        "video_url": "https://www.youtube.com/watch?v=fLGw2GK884s",
+        "thumbnail_url": "https://i.ytimg.com/vi/fLGw2GK884s/hqdefault.jpg",
+        "duration_minutes": 15.6,
+        "upload_date": "2023-01-21",
+        "comment_count": 59
+    },
+    {
+        "title": "What are HTTP Headers in API",
+        "video_url": "https://www.youtube.com/watch?v=mhg3Vwsb88M",
+        "thumbnail_url": "https://i.ytimg.com/vi/mhg3Vwsb88M/hqdefault.jpg",
+        "duration_minutes": 17.63,
+        "upload_date": "2023-01-20",
+        "comment_count": 61
+    },
+    {
+        "title": "Express Middleware",
+        "video_url": "https://www.youtube.com/watch?v=n2c0mf1sza4",
+        "thumbnail_url": "https://i.ytimg.com/vi/n2c0mf1sza4/hqdefault.jpg",
+        "duration_minutes": 19.83,
+        "upload_date": "2023-01-19",
+        "comment_count": 124
+    },
+    {
+        "title": "Introduction to POSTMAN for REST API's",
+        "video_url": "https://www.youtube.com/watch?v=7OzNVIxPLH0",
+        "thumbnail_url": "https://i.ytimg.com/vi/7OzNVIxPLH0/hqdefault.jpg",
+        "duration_minutes": 14.82,
+        "upload_date": "2023-01-18",
+        "comment_count": 157
+    },
+    {
+        "title": "Building REST API's using Node and Express.js",
+        "video_url": "https://www.youtube.com/watch?v=uNCrMvkPUAE",
+        "thumbnail_url": "https://i.ytimg.com/vi/uNCrMvkPUAE/hqdefault.jpg",
+        "duration_minutes": 20.45,
+        "upload_date": "2023-01-17",
+        "comment_count": 144
+    },
+    {
+        "title": "What is REST API?",
+        "video_url": "https://www.youtube.com/watch?v=cJAyEOZQUQY",
+        "thumbnail_url": "https://i.ytimg.com/vi/cJAyEOZQUQY/hqdefault.jpg",
+        "duration_minutes": 15.68,
+        "upload_date": "2023-01-16",
+        "comment_count": 125
+    },
+    {
+        "title": "How Versioning Works in NodeJS?",
+        "video_url": "https://www.youtube.com/watch?v=ORmB_ABimjM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ORmB_ABimjM/hqdefault.jpg",
+        "duration_minutes": 21.17,
+        "upload_date": "2023-01-14",
+        "comment_count": 124
+    },
+    {
+        "title": "Getting Started with Express and NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=N2-FyBBxOZA",
+        "thumbnail_url": "https://i.ytimg.com/vi/N2-FyBBxOZA/hqdefault.jpg",
+        "duration_minutes": 11.47,
+        "upload_date": "2023-01-13",
+        "comment_count": 98
+    },
+    {
+        "title": "I made by own Programming Language \ud83e\udd2f - #programming #coding #technology #shorts",
+        "video_url": "https://www.youtube.com/watch?v=NKKSOCq40e8",
+        "thumbnail_url": "https://i.ytimg.com/vi/NKKSOCq40e8/hqdefault.jpg",
+        "duration_minutes": 1.02,
+        "upload_date": "2023-01-12",
+        "comment_count": 17
+    },
+    {
+        "title": "HTTP METHODS",
+        "video_url": "https://www.youtube.com/watch?v=kREAjKyPbSI",
+        "thumbnail_url": "https://i.ytimg.com/vi/kREAjKyPbSI/hqdefault.jpg",
+        "duration_minutes": 13.63,
+        "upload_date": "2023-01-12",
+        "comment_count": 74
+    },
+    {
+        "title": "Handling URL's in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=Nt-AsZh5woE",
+        "thumbnail_url": "https://i.ytimg.com/vi/Nt-AsZh5woE/hqdefault.jpg",
+        "duration_minutes": 20.62,
+        "upload_date": "2023-01-11",
+        "comment_count": 111
+    },
+    {
+        "title": "Full Video On Channel #javascript #nodejs #webdevelopment #shorts",
+        "video_url": "https://www.youtube.com/watch?v=8jrIRc0_ZoE",
+        "thumbnail_url": "https://i.ytimg.com/vi/8jrIRc0_ZoE/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2023-01-10",
+        "comment_count": 3
+    },
+    {
+        "title": "Building HTTP Server in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=ZQsrcayZcSk",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZQsrcayZcSk/hqdefault.jpg",
+        "duration_minutes": 17.93,
+        "upload_date": "2023-01-10",
+        "comment_count": 142
+    },
+    {
+        "title": "How NodeJS Works?",
+        "video_url": "https://www.youtube.com/watch?v=y0aTs56DJWk",
+        "thumbnail_url": "https://i.ytimg.com/vi/y0aTs56DJWk/hqdefault.jpg",
+        "duration_minutes": 14.38,
+        "upload_date": "2023-01-09",
+        "comment_count": 207
+    },
+    {
+        "title": "#javascript #nodejs #webdevelopment #programming #shorts",
+        "video_url": "https://www.youtube.com/watch?v=WyYhOQ6rAvw",
+        "thumbnail_url": "https://i.ytimg.com/vi/WyYhOQ6rAvw/hqdefault.jpg",
+        "duration_minutes": 0.2,
+        "upload_date": "2023-01-07",
+        "comment_count": 2
+    },
+    {
+        "title": "File Handling in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=YazJFb_i4A0",
+        "thumbnail_url": "https://i.ytimg.com/vi/YazJFb_i4A0/hqdefault.jpg",
+        "duration_minutes": 18.28,
+        "upload_date": "2023-01-07",
+        "comment_count": 133
+    },
+    {
+        "title": "Modules in NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=FSRo41TaHFU",
+        "thumbnail_url": "https://i.ytimg.com/vi/FSRo41TaHFU/hqdefault.jpg",
+        "duration_minutes": 15.42,
+        "upload_date": "2023-01-06",
+        "comment_count": 180
+    },
+    {
+        "title": "Hello World NodeJS",
+        "video_url": "https://www.youtube.com/watch?v=XhCs5cTYW_8",
+        "thumbnail_url": "https://i.ytimg.com/vi/XhCs5cTYW_8/hqdefault.jpg",
+        "duration_minutes": 9.75,
+        "upload_date": "2023-01-05",
+        "comment_count": 64
+    },
+    {
+        "title": "Node JS Installation",
+        "video_url": "https://www.youtube.com/watch?v=N6PjgN9licA",
+        "thumbnail_url": "https://i.ytimg.com/vi/N6PjgN9licA/hqdefault.jpg",
+        "duration_minutes": 6.03,
+        "upload_date": "2023-01-04",
+        "comment_count": 38
+    },
+    {
+        "title": "What is NodeJS?",
+        "video_url": "https://www.youtube.com/watch?v=ohIAiuHMKMI",
+        "thumbnail_url": "https://i.ytimg.com/vi/ohIAiuHMKMI/hqdefault.jpg",
+        "duration_minutes": 7.75,
+        "upload_date": "2023-01-03",
+        "comment_count": 180
+    },
+    {
+        "title": "FullStack RoadMap - #programming #fullstackdevelopers #coding #technology #javascript #2023",
+        "video_url": "https://www.youtube.com/watch?v=5R0Gi7sWafk",
+        "thumbnail_url": "https://i.ytimg.com/vi/5R0Gi7sWafk/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2023-01-02",
+        "comment_count": 3
+    },
+    {
+        "title": "FullStack Web Developer- #programming #coding #technology #webdevelopment #javascript",
+        "video_url": "https://www.youtube.com/watch?v=3lGICn-UsX4",
+        "thumbnail_url": "https://i.ytimg.com/vi/3lGICn-UsX4/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2023-01-01",
+        "comment_count": 3
+    },
+    {
+        "title": "Complete Full Stack Web Developer Roadmap 2023",
+        "video_url": "https://www.youtube.com/watch?v=qHy4UY58_Uc",
+        "thumbnail_url": "https://i.ytimg.com/vi/qHy4UY58_Uc/hqdefault.jpg",
+        "duration_minutes": 18.92,
+        "upload_date": "2023-01-01",
+        "comment_count": 60
+    },
+    {
+        "title": "React Redux - #javascript #redux #webdevelopment #frontenddeveloper",
+        "video_url": "https://www.youtube.com/watch?v=YKmXil8Hufk",
+        "thumbnail_url": "https://i.ytimg.com/vi/YKmXil8Hufk/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2022-12-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Tic Tac Toe - #javascript #javascriptinhindi #reactjs #reactjstutorial #javascriptprojects",
+        "video_url": "https://www.youtube.com/watch?v=cXycnKDhKzo",
+        "thumbnail_url": "https://i.ytimg.com/vi/cXycnKDhKzo/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2022-12-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Build A Calculator With JavaScript Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=hK6pVaeVGUc",
+        "thumbnail_url": "https://i.ytimg.com/vi/hK6pVaeVGUc/hqdefault.jpg",
+        "duration_minutes": 19.87,
+        "upload_date": "2022-12-30",
+        "comment_count": 15
+    },
+    {
+        "title": "NextJS Series Intro - #react #nextjs #javascript # #webdevelopment #frontend",
+        "video_url": "https://www.youtube.com/watch?v=0L7n890V4TQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/0L7n890V4TQ/hqdefault.jpg",
+        "duration_minutes": 0.35,
+        "upload_date": "2022-12-30",
+        "comment_count": 1
+    },
+    {
+        "title": "WebRTC Nodejs - #reactjs #nodejs #webrtc #javascript #javascriptinhindi #webdev",
+        "video_url": "https://www.youtube.com/watch?v=6T5394rOuJI",
+        "thumbnail_url": "https://i.ytimg.com/vi/6T5394rOuJI/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2022-12-29",
+        "comment_count": 3
+    },
+    {
+        "title": "Next SSR - #javascript #reactjs #nextjs #reactjstutorial",
+        "video_url": "https://www.youtube.com/watch?v=GNchu6CXrVM",
+        "thumbnail_url": "https://i.ytimg.com/vi/GNchu6CXrVM/hqdefault.jpg",
+        "duration_minutes": 0.18,
+        "upload_date": "2022-12-28",
+        "comment_count": 1
+    },
+    {
+        "title": "Full Video Out - #javascript #webdev #javascriptinhindi #javascriptprojects",
+        "video_url": "https://www.youtube.com/watch?v=YQsR4w3-gso",
+        "thumbnail_url": "https://i.ytimg.com/vi/YQsR4w3-gso/hqdefault.jpg",
+        "duration_minutes": 0.35,
+        "upload_date": "2022-12-28",
+        "comment_count": 0
+    },
+    {
+        "title": "Guess The Colour Game Javascript | Javascript Projects",
+        "video_url": "https://www.youtube.com/watch?v=SEd4R5N6YDY",
+        "thumbnail_url": "https://i.ytimg.com/vi/SEd4R5N6YDY/hqdefault.jpg",
+        "duration_minutes": 22.98,
+        "upload_date": "2022-12-28",
+        "comment_count": 13
+    },
+    {
+        "title": "Tic Tac Toe - #javascript #javascriptinhindi #javascriptprojects #javascriptprogramming",
+        "video_url": "https://www.youtube.com/watch?v=HrC7ULS5dYQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/HrC7ULS5dYQ/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2022-12-27",
+        "comment_count": 0
+    },
+    {
+        "title": "Tic Tac Toe - #javascript #javascriptinhindi",
+        "video_url": "https://www.youtube.com/watch?v=hoNFSsYNMTY",
+        "thumbnail_url": "https://i.ytimg.com/vi/hoNFSsYNMTY/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2022-12-26",
+        "comment_count": 1
+    },
+    {
+        "title": "Tic Tac Toe Game in JavaScript | JavaScript Projects",
+        "video_url": "https://www.youtube.com/watch?v=lKe57l8sttw",
+        "thumbnail_url": "https://i.ytimg.com/vi/lKe57l8sttw/hqdefault.jpg",
+        "duration_minutes": 21.48,
+        "upload_date": "2022-12-26",
+        "comment_count": 31
+    },
+    {
+        "title": "Website Launch \ud83d\ude80! Free Surprise Inside \ud83c\udf81",
+        "video_url": "https://www.youtube.com/watch?v=PjvCbwOczYI",
+        "thumbnail_url": "https://i.ytimg.com/vi/PjvCbwOczYI/hqdefault.jpg",
+        "duration_minutes": 4.47,
+        "upload_date": "2022-12-25",
+        "comment_count": 17
+    },
+    {
+        "title": "Generators and Iterator in Javascript. #javascript #javascriptinhindi #webdev #frontend",
+        "video_url": "https://www.youtube.com/watch?v=Yi4OfwJsVlc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Yi4OfwJsVlc/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2022-12-25",
+        "comment_count": 0
+    },
+    {
+        "title": "Promisification in JavaScript: Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=rg2CwRwM13A",
+        "thumbnail_url": "https://i.ytimg.com/vi/rg2CwRwM13A/hqdefault.jpg",
+        "duration_minutes": 12.62,
+        "upload_date": "2022-12-24",
+        "comment_count": 27
+    },
+    {
+        "title": "What are Generator Functions in Javascript? | Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=xC6-kXz8D8I",
+        "thumbnail_url": "https://i.ytimg.com/vi/xC6-kXz8D8I/hqdefault.jpg",
+        "duration_minutes": 19.63,
+        "upload_date": "2022-12-22",
+        "comment_count": 30
+    },
+    {
+        "title": "What is IIFE in Javascript? Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=UfaXa7kkJRo",
+        "thumbnail_url": "https://i.ytimg.com/vi/UfaXa7kkJRo/hqdefault.jpg",
+        "duration_minutes": 11.22,
+        "upload_date": "2022-12-20",
+        "comment_count": 18
+    },
+    {
+        "title": "Connect Bluetooth Devices using Javascript",
+        "video_url": "https://www.youtube.com/watch?v=XWfkchrBztc",
+        "thumbnail_url": "https://i.ytimg.com/vi/XWfkchrBztc/hqdefault.jpg",
+        "duration_minutes": 6.02,
+        "upload_date": "2022-12-17",
+        "comment_count": 24
+    },
+    {
+        "title": "Composition in Javascript | Javascript Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=DKce5yj2ADM",
+        "thumbnail_url": "https://i.ytimg.com/vi/DKce5yj2ADM/hqdefault.jpg",
+        "duration_minutes": 11.92,
+        "upload_date": "2022-12-15",
+        "comment_count": 24
+    },
+    {
+        "title": "Currying in Javascript | JS Interview Questions",
+        "video_url": "https://www.youtube.com/watch?v=VK36OsyPeUw",
+        "thumbnail_url": "https://i.ytimg.com/vi/VK36OsyPeUw/hqdefault.jpg",
+        "duration_minutes": 10.93,
+        "upload_date": "2022-12-13",
+        "comment_count": 49
+    },
+    {
+        "title": "Closure in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=WxYmFqHrf5o",
+        "thumbnail_url": "https://i.ytimg.com/vi/WxYmFqHrf5o/hqdefault.jpg",
+        "duration_minutes": 14.92,
+        "upload_date": "2022-12-12",
+        "comment_count": 43
+    },
+    {
+        "title": "Build a One on One Video Call App  - React | ZEGOCLOUD",
+        "video_url": "https://www.youtube.com/watch?v=Z6wLrEPJufU",
+        "thumbnail_url": "https://i.ytimg.com/vi/Z6wLrEPJufU/hqdefault.jpg",
+        "duration_minutes": 18.85,
+        "upload_date": "2022-12-09",
+        "comment_count": 54
+    },
+    {
+        "title": "Creating Clock in Javascript | Set Interval and Timeouts",
+        "video_url": "https://www.youtube.com/watch?v=Zyy3LrN7VOY",
+        "thumbnail_url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/hqdefault.jpg",
+        "duration_minutes": 8.02,
+        "upload_date": "2022-12-07",
+        "comment_count": 22
+    },
+    {
+        "title": "Getting Current Location in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=LoPmb58smwQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/LoPmb58smwQ/hqdefault.jpg",
+        "duration_minutes": 8.6,
+        "upload_date": "2022-12-06",
+        "comment_count": 44
+    },
+    {
+        "title": "Local Storage in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=PCwhTWT3yhI",
+        "thumbnail_url": "https://i.ytimg.com/vi/PCwhTWT3yhI/hqdefault.jpg",
+        "duration_minutes": 9.0,
+        "upload_date": "2022-12-05",
+        "comment_count": 19
+    },
+    {
+        "title": "API Calling in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=vouhkAfCtFY",
+        "thumbnail_url": "https://i.ytimg.com/vi/vouhkAfCtFY/hqdefault.jpg",
+        "duration_minutes": 15.9,
+        "upload_date": "2022-12-04",
+        "comment_count": 63
+    },
+    {
+        "title": "Promises in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=VLiE5tyfko4",
+        "thumbnail_url": "https://i.ytimg.com/vi/VLiE5tyfko4/hqdefault.jpg",
+        "duration_minutes": 10.38,
+        "upload_date": "2022-12-03",
+        "comment_count": 70
+    },
+    {
+        "title": "Create Elements dynamically in Javascript - DOM Manipulation Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=LUYbwrjfYFo",
+        "thumbnail_url": "https://i.ytimg.com/vi/LUYbwrjfYFo/hqdefault.jpg",
+        "duration_minutes": 6.05,
+        "upload_date": "2022-11-24",
+        "comment_count": 15
+    },
+    {
+        "title": "Open Source Contribution - Video Calling App | ConnectMeP2P",
+        "video_url": "https://www.youtube.com/watch?v=U-h5RToHwDA",
+        "thumbnail_url": "https://i.ytimg.com/vi/U-h5RToHwDA/hqdefault.jpg",
+        "duration_minutes": 6.88,
+        "upload_date": "2022-11-23",
+        "comment_count": 19
+    },
+    {
+        "title": "What are Event Listeners in Javascript? - DOM Manipulation Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=TA5tQ92Hetk",
+        "thumbnail_url": "https://i.ytimg.com/vi/TA5tQ92Hetk/hqdefault.jpg",
+        "duration_minutes": 14.7,
+        "upload_date": "2022-11-22",
+        "comment_count": 11
+    },
+    {
+        "title": "Get Elements By Class Name in Javascript - DOM Manipulation",
+        "video_url": "https://www.youtube.com/watch?v=2tbl2eY_WB4",
+        "thumbnail_url": "https://i.ytimg.com/vi/2tbl2eY_WB4/hqdefault.jpg",
+        "duration_minutes": 5.03,
+        "upload_date": "2022-11-21",
+        "comment_count": 37
+    },
+    {
+        "title": "Build a Live Streaming App  - React | ZEGOCLOUD",
+        "video_url": "https://www.youtube.com/watch?v=CukZnaU-0r8",
+        "thumbnail_url": "https://i.ytimg.com/vi/CukZnaU-0r8/hqdefault.jpg",
+        "duration_minutes": 21.97,
+        "upload_date": "2022-11-20",
+        "comment_count": 36
+    },
+    {
+        "title": "Select Element By Id in Javascript - DOM Manipulation Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=QZcTZkLWzMY",
+        "thumbnail_url": "https://i.ytimg.com/vi/QZcTZkLWzMY/hqdefault.jpg",
+        "duration_minutes": 10.57,
+        "upload_date": "2022-11-19",
+        "comment_count": 10
+    },
+    {
+        "title": "Query Selector in Javascript - DOM Manipulation Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=ZdqO-my7FSA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZdqO-my7FSA/hqdefault.jpg",
+        "duration_minutes": 18.07,
+        "upload_date": "2022-11-18",
+        "comment_count": 19
+    },
+    {
+        "title": "Introduction to DOM in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=BUdm059S_b0",
+        "thumbnail_url": "https://i.ytimg.com/vi/BUdm059S_b0/hqdefault.jpg",
+        "duration_minutes": 14.35,
+        "upload_date": "2022-11-17",
+        "comment_count": 27
+    },
+    {
+        "title": "Arrays High Order Functions in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=DhP6aPL8ZVY",
+        "thumbnail_url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/hqdefault.jpg",
+        "duration_minutes": 15.6,
+        "upload_date": "2022-11-16",
+        "comment_count": 15
+    },
+    {
+        "title": "Arrays in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=7lHwMYMLCD0",
+        "thumbnail_url": "https://i.ytimg.com/vi/7lHwMYMLCD0/hqdefault.jpg",
+        "duration_minutes": 11.07,
+        "upload_date": "2022-11-15",
+        "comment_count": 9
+    },
+    {
+        "title": "High Order Functions and Callbacks in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=03lLCa3KbuI",
+        "thumbnail_url": "https://i.ytimg.com/vi/03lLCa3KbuI/hqdefault.jpg",
+        "duration_minutes": 9.5,
+        "upload_date": "2022-11-14",
+        "comment_count": 29
+    },
+    {
+        "title": "Arrow Functions in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=q9IsqhYZ4ck",
+        "thumbnail_url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/hqdefault.jpg",
+        "duration_minutes": 11.95,
+        "upload_date": "2022-11-12",
+        "comment_count": 32
+    },
+    {
+        "title": "Functions in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=ci_ootkeDcg",
+        "thumbnail_url": "https://i.ytimg.com/vi/ci_ootkeDcg/hqdefault.jpg",
+        "duration_minutes": 18.85,
+        "upload_date": "2022-11-11",
+        "comment_count": 37
+    },
+    {
+        "title": "Loops in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=uADL3coqh_M",
+        "thumbnail_url": "https://i.ytimg.com/vi/uADL3coqh_M/hqdefault.jpg",
+        "duration_minutes": 16.2,
+        "upload_date": "2022-11-10",
+        "comment_count": 20
+    },
+    {
+        "title": "Logical Operators In Javascript",
+        "video_url": "https://www.youtube.com/watch?v=69VEqDe5Cts",
+        "thumbnail_url": "https://i.ytimg.com/vi/69VEqDe5Cts/hqdefault.jpg",
+        "duration_minutes": 12.17,
+        "upload_date": "2022-11-09",
+        "comment_count": 20
+    },
+    {
+        "title": "Conditional Statements and Switch Case in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=B8j99uQ9p60",
+        "thumbnail_url": "https://i.ytimg.com/vi/B8j99uQ9p60/hqdefault.jpg",
+        "duration_minutes": 15.78,
+        "upload_date": "2022-11-08",
+        "comment_count": 17
+    },
+    {
+        "title": "Data Types and Operators in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=qbAi_IapO8k",
+        "thumbnail_url": "https://i.ytimg.com/vi/qbAi_IapO8k/hqdefault.jpg",
+        "duration_minutes": 19.65,
+        "upload_date": "2022-11-07",
+        "comment_count": 26
+    },
+    {
+        "title": "Variables in Javascript",
+        "video_url": "https://www.youtube.com/watch?v=S_WSNrzzpLo",
+        "thumbnail_url": "https://i.ytimg.com/vi/S_WSNrzzpLo/hqdefault.jpg",
+        "duration_minutes": 19.57,
+        "upload_date": "2022-11-06",
+        "comment_count": 23
+    },
+    {
+        "title": "Introduction to JavaScript",
+        "video_url": "https://www.youtube.com/watch?v=5hqLNHCq_l8",
+        "thumbnail_url": "https://i.ytimg.com/vi/5hqLNHCq_l8/hqdefault.jpg",
+        "duration_minutes": 11.3,
+        "upload_date": "2022-11-05",
+        "comment_count": 37
+    },
+    {
+        "title": "React Typescript Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=joTOrCiAPB4",
+        "thumbnail_url": "https://i.ytimg.com/vi/joTOrCiAPB4/hqdefault.jpg",
+        "duration_minutes": 30.82,
+        "upload_date": "2022-11-01",
+        "comment_count": 48
+    },
+    {
+        "title": "NextJS 13 - First Look at the /app Folder & Complete Demo",
+        "video_url": "https://www.youtube.com/watch?v=CBfBZvDQLis",
+        "thumbnail_url": "https://i.ytimg.com/vi/CBfBZvDQLis/hqdefault.jpg",
+        "duration_minutes": 15.78,
+        "upload_date": "2022-10-29",
+        "comment_count": 11
+    },
+    {
+        "title": "Next.js 13 - What is new in it?",
+        "video_url": "https://www.youtube.com/watch?v=G20hg_w3yv0",
+        "thumbnail_url": "https://i.ytimg.com/vi/G20hg_w3yv0/hqdefault.jpg",
+        "duration_minutes": 11.98,
+        "upload_date": "2022-10-26",
+        "comment_count": 16
+    },
+    {
+        "title": "Docker Networking | Networking Tutorial in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=6t2NhkRsmuA",
+        "thumbnail_url": "https://i.ytimg.com/vi/6t2NhkRsmuA/hqdefault.jpg",
+        "duration_minutes": 20.92,
+        "upload_date": "2022-10-22",
+        "comment_count": 38
+    },
+    {
+        "title": "What is Docker Volume | Docker Volumes Explained",
+        "video_url": "https://www.youtube.com/watch?v=VbuNIZIog2w",
+        "thumbnail_url": "https://i.ytimg.com/vi/VbuNIZIog2w/hqdefault.jpg",
+        "duration_minutes": 9.32,
+        "upload_date": "2022-10-19",
+        "comment_count": 22
+    },
+    {
+        "title": "Docker Tutorial For Beginners in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=zCsbp_iBTq8",
+        "thumbnail_url": "https://i.ytimg.com/vi/zCsbp_iBTq8/hqdefault.jpg",
+        "duration_minutes": 30.82,
+        "upload_date": "2022-10-17",
+        "comment_count": 53
+    },
+    {
+        "title": "Deploying NextJS Application | NextJS Tutorial in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=YyeyXhKvgPY",
+        "thumbnail_url": "https://i.ytimg.com/vi/YyeyXhKvgPY/hqdefault.jpg",
+        "duration_minutes": 8.92,
+        "upload_date": "2022-10-14",
+        "comment_count": 29
+    },
+    {
+        "title": "Authentication in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=c2gcGRhVxuk",
+        "thumbnail_url": "https://i.ytimg.com/vi/c2gcGRhVxuk/hqdefault.jpg",
+        "duration_minutes": 9.75,
+        "upload_date": "2022-10-12",
+        "comment_count": 46
+    },
+    {
+        "title": "Image Component in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=R4kRxRAr1pA",
+        "thumbnail_url": "https://i.ytimg.com/vi/R4kRxRAr1pA/hqdefault.jpg",
+        "duration_minutes": 11.15,
+        "upload_date": "2022-10-11",
+        "comment_count": 16
+    },
+    {
+        "title": "Modular CSS in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=RV27wQpGqxM",
+        "thumbnail_url": "https://i.ytimg.com/vi/RV27wQpGqxM/hqdefault.jpg",
+        "duration_minutes": 8.35,
+        "upload_date": "2022-10-10",
+        "comment_count": 4
+    },
+    {
+        "title": "Java Full Course - 11 hours | 35 Hands-on Labs - @codedamn",
+        "video_url": "https://www.youtube.com/watch?v=NDTJcV0LpPs",
+        "thumbnail_url": "https://i.ytimg.com/vi/NDTJcV0LpPs/hqdefault.jpg",
+        "duration_minutes": 3.7,
+        "upload_date": "2022-10-09",
+        "comment_count": 3
+    },
+    {
+        "title": "Static Site Generation - SSG in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=mS7K-GQcGHw",
+        "thumbnail_url": "https://i.ytimg.com/vi/mS7K-GQcGHw/hqdefault.jpg",
+        "duration_minutes": 17.02,
+        "upload_date": "2022-10-08",
+        "comment_count": 67
+    },
+    {
+        "title": "Server Side Data Fetching in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=fjTDclQ6Ytc",
+        "thumbnail_url": "https://i.ytimg.com/vi/fjTDclQ6Ytc/hqdefault.jpg",
+        "duration_minutes": 10.18,
+        "upload_date": "2022-10-07",
+        "comment_count": 61
+    },
+    {
+        "title": "Client Side Data Fetching in NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=yiZEX0S5eUI",
+        "thumbnail_url": "https://i.ytimg.com/vi/yiZEX0S5eUI/hqdefault.jpg",
+        "duration_minutes": 19.48,
+        "upload_date": "2022-10-06",
+        "comment_count": 33
+    },
+    {
+        "title": "Understanding NextJS Router | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=SKEVxJN69zw",
+        "thumbnail_url": "https://i.ytimg.com/vi/SKEVxJN69zw/hqdefault.jpg",
+        "duration_minutes": 13.18,
+        "upload_date": "2022-10-05",
+        "comment_count": 28
+    },
+    {
+        "title": "Routing in NextJS | NextJS Dynamic Routing | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=BE5em7aDCnU",
+        "thumbnail_url": "https://i.ytimg.com/vi/BE5em7aDCnU/hqdefault.jpg",
+        "duration_minutes": 17.3,
+        "upload_date": "2022-10-04",
+        "comment_count": 66
+    },
+    {
+        "title": "Setting up NextJS Project | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=F2aBPzonYHE",
+        "thumbnail_url": "https://i.ytimg.com/vi/F2aBPzonYHE/hqdefault.jpg",
+        "duration_minutes": 11.25,
+        "upload_date": "2022-10-03",
+        "comment_count": 42
+    },
+    {
+        "title": "What is NextJS | NextJS in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=PiN5Op_Lnmw",
+        "thumbnail_url": "https://i.ytimg.com/vi/PiN5Op_Lnmw/hqdefault.jpg",
+        "duration_minutes": 7.72,
+        "upload_date": "2022-10-02",
+        "comment_count": 61
+    },
+    {
+        "title": "React Video Chat App | WebRTC Video Chat Zoom Clone",
+        "video_url": "https://www.youtube.com/watch?v=7cxpYJAElr4",
+        "thumbnail_url": "https://i.ytimg.com/vi/7cxpYJAElr4/hqdefault.jpg",
+        "duration_minutes": 75.4,
+        "upload_date": "2022-09-30",
+        "comment_count": 169
+    },
+    {
+        "title": "Token vs Session Authentication | Authentication Explained!!!",
+        "video_url": "https://www.youtube.com/watch?v=QzntvHz23tw",
+        "thumbnail_url": "https://i.ytimg.com/vi/QzntvHz23tw/hqdefault.jpg",
+        "duration_minutes": 15.32,
+        "upload_date": "2022-09-27",
+        "comment_count": 94
+    },
+    {
+        "title": "WebRTC Tutorial - How does WebRTC work?",
+        "video_url": "https://www.youtube.com/watch?v=pGAp5rxv6II",
+        "thumbnail_url": "https://i.ytimg.com/vi/pGAp5rxv6II/hqdefault.jpg",
+        "duration_minutes": 23.7,
+        "upload_date": "2022-09-25",
+        "comment_count": 220
+    },
+    {
+        "title": "Auth0 authentication in Reactjs using OAuth2",
+        "video_url": "https://www.youtube.com/watch?v=oA-K3DfG1QY",
+        "thumbnail_url": "https://i.ytimg.com/vi/oA-K3DfG1QY/hqdefault.jpg",
+        "duration_minutes": 12.87,
+        "upload_date": "2022-09-21",
+        "comment_count": 66
+    },
+    {
+        "title": "How To Send Push Notifications With JavaScript?",
+        "video_url": "https://www.youtube.com/watch?v=SaPOWEskPG8",
+        "thumbnail_url": "https://i.ytimg.com/vi/SaPOWEskPG8/hqdefault.jpg",
+        "duration_minutes": 18.85,
+        "upload_date": "2022-09-19",
+        "comment_count": 101
+    },
+    {
+        "title": "What is Abstraction? | Abstraction in Java",
+        "video_url": "https://www.youtube.com/watch?v=2KLTUYeUI1s",
+        "thumbnail_url": "https://i.ytimg.com/vi/2KLTUYeUI1s/hqdefault.jpg",
+        "duration_minutes": 12.12,
+        "upload_date": "2022-09-17",
+        "comment_count": 13
+    },
+    {
+        "title": "React Query Tutorial for Beginners",
+        "video_url": "https://www.youtube.com/watch?v=jnIPUkNOJ9A",
+        "thumbnail_url": "https://i.ytimg.com/vi/jnIPUkNOJ9A/hqdefault.jpg",
+        "duration_minutes": 27.25,
+        "upload_date": "2022-09-16",
+        "comment_count": 38
+    },
+    {
+        "title": "How to make API call in React Redux Toolkit | React Redux Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=2JBx_06dD1k",
+        "thumbnail_url": "https://i.ytimg.com/vi/2JBx_06dD1k/hqdefault.jpg",
+        "duration_minutes": 17.87,
+        "upload_date": "2022-09-14",
+        "comment_count": 118
+    },
+    {
+        "title": "What is Inheritance in OOPS? Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=zyslOXWObNk",
+        "thumbnail_url": "https://i.ytimg.com/vi/zyslOXWObNk/hqdefault.jpg",
+        "duration_minutes": 17.33,
+        "upload_date": "2022-09-13",
+        "comment_count": 4
+    },
+    {
+        "title": "React Redux Tutorial | Learn Redux from Scratch",
+        "video_url": "https://www.youtube.com/watch?v=dOkkHHuFxjM",
+        "thumbnail_url": "https://i.ytimg.com/vi/dOkkHHuFxjM/hqdefault.jpg",
+        "duration_minutes": 38.83,
+        "upload_date": "2022-09-12",
+        "comment_count": 118
+    },
+    {
+        "title": "Access Modifiers Part 2 | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=mwnAZNZg9-k",
+        "thumbnail_url": "https://i.ytimg.com/vi/mwnAZNZg9-k/hqdefault.jpg",
+        "duration_minutes": 8.18,
+        "upload_date": "2022-09-11",
+        "comment_count": 2
+    },
+    {
+        "title": "Access Modifiers in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=-ggo69oUPlQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/-ggo69oUPlQ/hqdefault.jpg",
+        "duration_minutes": 6.07,
+        "upload_date": "2022-09-10",
+        "comment_count": 0
+    },
+    {
+        "title": "How to become a front end web developer? Complete Roadmap",
+        "video_url": "https://www.youtube.com/watch?v=0ZV0G4zknBc",
+        "thumbnail_url": "https://i.ytimg.com/vi/0ZV0G4zknBc/hqdefault.jpg",
+        "duration_minutes": 8.22,
+        "upload_date": "2022-09-09",
+        "comment_count": 4
+    },
+    {
+        "title": "Constructors in Java | OOPS With Java",
+        "video_url": "https://www.youtube.com/watch?v=llK8LTa6vbQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/llK8LTa6vbQ/hqdefault.jpg",
+        "duration_minutes": 9.72,
+        "upload_date": "2022-09-09",
+        "comment_count": 2
+    },
+    {
+        "title": "Objects and Classes in Java | OOPS with Java",
+        "video_url": "https://www.youtube.com/watch?v=aAMci0xQIg0",
+        "thumbnail_url": "https://i.ytimg.com/vi/aAMci0xQIg0/hqdefault.jpg",
+        "duration_minutes": 9.52,
+        "upload_date": "2022-09-08",
+        "comment_count": 1
+    },
+    {
+        "title": "What is Object Oriented Programming | OOPS in Java",
+        "video_url": "https://www.youtube.com/watch?v=FaQMo7P3ts0",
+        "thumbnail_url": "https://i.ytimg.com/vi/FaQMo7P3ts0/hqdefault.jpg",
+        "duration_minutes": 7.7,
+        "upload_date": "2022-09-07",
+        "comment_count": 10
+    },
+    {
+        "title": "Complete Java Tutorial Series | #shorts #java #javaprogramming #coding #javatutorial",
+        "video_url": "https://www.youtube.com/watch?v=LL0s_FdzPTg",
+        "thumbnail_url": "https://i.ytimg.com/vi/LL0s_FdzPTg/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2022-09-06",
+        "comment_count": 0
+    },
+    {
+        "title": "Loops in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=oJL4vYP6GxI",
+        "thumbnail_url": "https://i.ytimg.com/vi/oJL4vYP6GxI/hqdefault.jpg",
+        "duration_minutes": 7.28,
+        "upload_date": "2022-09-06",
+        "comment_count": 1
+    },
+    {
+        "title": "Meme Generator App using ReactJS | Link in Description | #shorts #coding #memes",
+        "video_url": "https://www.youtube.com/watch?v=21chKc9Rq0k",
+        "thumbnail_url": "https://i.ytimg.com/vi/21chKc9Rq0k/hqdefault.jpg",
+        "duration_minutes": 0.4,
+        "upload_date": "2022-09-05",
+        "comment_count": 2
+    },
+    {
+        "title": "Conditional Statements in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=bM5lrjvhiGo",
+        "thumbnail_url": "https://i.ytimg.com/vi/bM5lrjvhiGo/hqdefault.jpg",
+        "duration_minutes": 7.57,
+        "upload_date": "2022-09-05",
+        "comment_count": 0
+    },
+    {
+        "title": "Array List in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=qACG_xhVcfQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/qACG_xhVcfQ/hqdefault.jpg",
+        "duration_minutes": 4.9,
+        "upload_date": "2022-09-04",
+        "comment_count": 0
+    },
+    {
+        "title": "Arrays in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=mQyeT2-iMWA",
+        "thumbnail_url": "https://i.ytimg.com/vi/mQyeT2-iMWA/hqdefault.jpg",
+        "duration_minutes": 6.72,
+        "upload_date": "2022-09-03",
+        "comment_count": 0
+    },
+    {
+        "title": "What are Arrays? | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=HCkgy51JcpI",
+        "thumbnail_url": "https://i.ytimg.com/vi/HCkgy51JcpI/hqdefault.jpg",
+        "duration_minutes": 8.42,
+        "upload_date": "2022-09-02",
+        "comment_count": 1
+    },
+    {
+        "title": "Characters in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=WVie-T5wyWA",
+        "thumbnail_url": "https://i.ytimg.com/vi/WVie-T5wyWA/hqdefault.jpg",
+        "duration_minutes": 3.2,
+        "upload_date": "2022-09-01",
+        "comment_count": 0
+    },
+    {
+        "title": "Strings in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=Ix3TNgtU4Ss",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ix3TNgtU4Ss/hqdefault.jpg",
+        "duration_minutes": 5.73,
+        "upload_date": "2022-08-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Booleans in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=6pRy5tdMdrI",
+        "thumbnail_url": "https://i.ytimg.com/vi/6pRy5tdMdrI/hqdefault.jpg",
+        "duration_minutes": 3.6,
+        "upload_date": "2022-08-30",
+        "comment_count": 0
+    },
+    {
+        "title": "Data Types and Wrapper Classes in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=tQl-OYe3zhs",
+        "thumbnail_url": "https://i.ytimg.com/vi/tQl-OYe3zhs/hqdefault.jpg",
+        "duration_minutes": 6.88,
+        "upload_date": "2022-08-29",
+        "comment_count": 1
+    },
+    {
+        "title": "Basic Arithmetic Operators in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=E4rNiS06o2c",
+        "thumbnail_url": "https://i.ytimg.com/vi/E4rNiS06o2c/hqdefault.jpg",
+        "duration_minutes": 8.18,
+        "upload_date": "2022-08-27",
+        "comment_count": 0
+    },
+    {
+        "title": "Variables in Java | Complete Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=olGgZTQeec4",
+        "thumbnail_url": "https://i.ytimg.com/vi/olGgZTQeec4/hqdefault.jpg",
+        "duration_minutes": 8.08,
+        "upload_date": "2022-08-26",
+        "comment_count": 1
+    },
+    {
+        "title": "How Java Works? | Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=tCMbdE1BZ34",
+        "thumbnail_url": "https://i.ytimg.com/vi/tCMbdE1BZ34/hqdefault.jpg",
+        "duration_minutes": 5.58,
+        "upload_date": "2022-08-25",
+        "comment_count": 4
+    },
+    {
+        "title": "Hello World in Java | Java Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=H3S6rr87Nuw",
+        "thumbnail_url": "https://i.ytimg.com/vi/H3S6rr87Nuw/hqdefault.jpg",
+        "duration_minutes": 7.68,
+        "upload_date": "2022-08-24",
+        "comment_count": 2
+    },
+    {
+        "title": "Installing tools and setting up Java | Java tutorial series",
+        "video_url": "https://www.youtube.com/watch?v=w_J0amm_Pho",
+        "thumbnail_url": "https://i.ytimg.com/vi/w_J0amm_Pho/hqdefault.jpg",
+        "duration_minutes": 6.35,
+        "upload_date": "2022-08-23",
+        "comment_count": 2
+    },
+    {
+        "title": "Java Tutorials For Beginners In Hindi",
+        "video_url": "https://www.youtube.com/watch?v=vfQ2iFQFY5c",
+        "thumbnail_url": "https://i.ytimg.com/vi/vfQ2iFQFY5c/hqdefault.jpg",
+        "duration_minutes": 2.03,
+        "upload_date": "2022-08-22",
+        "comment_count": 6
+    },
+    {
+        "title": "Meme Generator App - Build your own memes using React | React Meme Generator",
+        "video_url": "https://www.youtube.com/watch?v=2dYNCN7rfTE",
+        "thumbnail_url": "https://i.ytimg.com/vi/2dYNCN7rfTE/hqdefault.jpg",
+        "duration_minutes": 26.38,
+        "upload_date": "2022-07-13",
+        "comment_count": 30
+    },
+    {
+        "title": "Query data from Firebase Firestore and Reactjs - Part 2 | Firebase and React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=IiQ3Cn6OXek",
+        "thumbnail_url": "https://i.ytimg.com/vi/IiQ3Cn6OXek/hqdefault.jpg",
+        "duration_minutes": 47.33,
+        "upload_date": "2022-07-12",
+        "comment_count": 30
+    },
+    {
+        "title": "Query data from Firebase Firestore and Reactjs | Firebase and React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=sRQZyWCHxSc",
+        "thumbnail_url": "https://i.ytimg.com/vi/sRQZyWCHxSc/hqdefault.jpg",
+        "duration_minutes": 14.4,
+        "upload_date": "2022-07-11",
+        "comment_count": 14
+    },
+    {
+        "title": "CRUD Using Firebase Firestore and Reactjs | Firebase and React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=6KimMN9eqY4",
+        "thumbnail_url": "https://i.ytimg.com/vi/6KimMN9eqY4/hqdefault.jpg",
+        "duration_minutes": 20.67,
+        "upload_date": "2022-07-10",
+        "comment_count": 26
+    },
+    {
+        "title": "Adding Firebase Authentication to React App | Firebase and Reactjs",
+        "video_url": "https://www.youtube.com/watch?v=sFjFDyUGt20",
+        "thumbnail_url": "https://i.ytimg.com/vi/sFjFDyUGt20/hqdefault.jpg",
+        "duration_minutes": 21.57,
+        "upload_date": "2022-07-09",
+        "comment_count": 21
+    },
+    {
+        "title": "Firebase React Project Setup | Complete Firebase React for beginners",
+        "video_url": "https://www.youtube.com/watch?v=tBkWJEG29HI",
+        "thumbnail_url": "https://i.ytimg.com/vi/tBkWJEG29HI/hqdefault.jpg",
+        "duration_minutes": 12.48,
+        "upload_date": "2022-07-08",
+        "comment_count": 15
+    },
+    {
+        "title": "Getting Started with Firebase Firestore | Cloud Firestore | Firebase React Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=-4g7henIRU8",
+        "thumbnail_url": "https://i.ytimg.com/vi/-4g7henIRU8/hqdefault.jpg",
+        "duration_minutes": 26.48,
+        "upload_date": "2022-07-07",
+        "comment_count": 31
+    },
+    {
+        "title": "How to Setup a Firebase Realtime Database with Reactjs | Firebase Tutorials | Firebase React Series",
+        "video_url": "https://www.youtube.com/watch?v=TxOCXP-_8S8",
+        "thumbnail_url": "https://i.ytimg.com/vi/TxOCXP-_8S8/hqdefault.jpg",
+        "duration_minutes": 11.5,
+        "upload_date": "2022-07-06",
+        "comment_count": 13
+    },
+    {
+        "title": "Correct way of using Firebase in Reactjs Application | Firebase Tutorials | Firebase React Series",
+        "video_url": "https://www.youtube.com/watch?v=-N2FrYA8khY",
+        "thumbnail_url": "https://i.ytimg.com/vi/-N2FrYA8khY/hqdefault.jpg",
+        "duration_minutes": 14.42,
+        "upload_date": "2022-07-05",
+        "comment_count": 31
+    },
+    {
+        "title": "Firebase Google Authentication React | Firebase Authentication with Google | Firebase React",
+        "video_url": "https://www.youtube.com/watch?v=eY1XnXEYRko",
+        "thumbnail_url": "https://i.ytimg.com/vi/eY1XnXEYRko/hqdefault.jpg",
+        "duration_minutes": 5.83,
+        "upload_date": "2022-07-04",
+        "comment_count": 25
+    },
+    {
+        "title": "Getting Logged in User in Firebase | Firebase Authentication Reactjs | Firebase React Series",
+        "video_url": "https://www.youtube.com/watch?v=pngnEWGyDwE",
+        "thumbnail_url": "https://i.ytimg.com/vi/pngnEWGyDwE/hqdefault.jpg",
+        "duration_minutes": 7.68,
+        "upload_date": "2022-07-03",
+        "comment_count": 13
+    },
+    {
+        "title": "Login with Firebase and React | Firebase Authentication | Firebase and Reactjs Series Hindi",
+        "video_url": "https://www.youtube.com/watch?v=pSoP1ybJgW0",
+        "thumbnail_url": "https://i.ytimg.com/vi/pSoP1ybJgW0/hqdefault.jpg",
+        "duration_minutes": 8.45,
+        "upload_date": "2022-07-02",
+        "comment_count": 30
+    },
+    {
+        "title": "Authentication in Firebase | Firebase React Authentication | Firebase React Series Hindi",
+        "video_url": "https://www.youtube.com/watch?v=zlBUyfkzMZQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/zlBUyfkzMZQ/hqdefault.jpg",
+        "duration_minutes": 12.22,
+        "upload_date": "2022-07-01",
+        "comment_count": 34
+    },
+    {
+        "title": "How to Set Up A React and Firebase Project",
+        "video_url": "https://www.youtube.com/watch?v=DUzJObUzXV0",
+        "thumbnail_url": "https://i.ytimg.com/vi/DUzJObUzXV0/hqdefault.jpg",
+        "duration_minutes": 10.63,
+        "upload_date": "2022-06-30",
+        "comment_count": 37
+    },
+    {
+        "title": "What is Firebase? | ReactJS with Firebase Tutorial Hindi | Firebase React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=qBBWo1R5OC4",
+        "thumbnail_url": "https://i.ytimg.com/vi/qBBWo1R5OC4/hqdefault.jpg",
+        "duration_minutes": 5.33,
+        "upload_date": "2022-06-29",
+        "comment_count": 14
+    },
+    {
+        "title": "Full Stack React & Firebase Tutorial | Firebase React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=-d5OHgw34g4",
+        "thumbnail_url": "https://i.ytimg.com/vi/-d5OHgw34g4/hqdefault.jpg",
+        "duration_minutes": 1.1,
+        "upload_date": "2022-06-28",
+        "comment_count": 14
+    },
+    {
+        "title": "React Router | React Router DOM Tutorial in Hindi | #reactjs",
+        "video_url": "https://www.youtube.com/watch?v=Sng7wtlhWlw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Sng7wtlhWlw/hqdefault.jpg",
+        "duration_minutes": 23.67,
+        "upload_date": "2022-06-27",
+        "comment_count": 29
+    },
+    {
+        "title": "Weather Forecast App in ReactJS | ReactJS in Hindi | ReactJS ContextAPI and Fetch API",
+        "video_url": "https://www.youtube.com/watch?v=okgGVtuRM3s",
+        "thumbnail_url": "https://i.ytimg.com/vi/okgGVtuRM3s/hqdefault.jpg",
+        "duration_minutes": 29.3,
+        "upload_date": "2022-06-26",
+        "comment_count": 32
+    },
+    {
+        "title": "React Context API in One Video | ReactJS | ReactJS Tutorial In Hindi",
+        "video_url": "https://www.youtube.com/watch?v=73Tz6qTgNuU",
+        "thumbnail_url": "https://i.ytimg.com/vi/73Tz6qTgNuU/hqdefault.jpg",
+        "duration_minutes": 37.47,
+        "upload_date": "2022-06-25",
+        "comment_count": 195
+    },
+    {
+        "title": "ReactJS Tutorial - How To Get Data From An API With React | Fetch API | ReactJS Tutorial in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=JFBYU1JC_f4",
+        "thumbnail_url": "https://i.ytimg.com/vi/JFBYU1JC_f4/hqdefault.jpg",
+        "duration_minutes": 26.38,
+        "upload_date": "2022-06-23",
+        "comment_count": 46
+    },
+    {
+        "title": "React UseEffect Broken | React 18 Is Broken In A Weird Way | ReactJS | React in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=KOBVk19C__M",
+        "thumbnail_url": "https://i.ytimg.com/vi/KOBVk19C__M/hqdefault.jpg",
+        "duration_minutes": 7.48,
+        "upload_date": "2022-06-22",
+        "comment_count": 2
+    },
+    {
+        "title": "Building Tic Tac Toe in ReactJS | React Tutorial Series | Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=pw2krTJLF6Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/pw2krTJLF6Y/hqdefault.jpg",
+        "duration_minutes": 37.13,
+        "upload_date": "2022-06-21",
+        "comment_count": 117
+    },
+    {
+        "title": "React useEffect | Understanding Hooks and useEffect hook in React | Complete React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=zW4dxX2-jM4",
+        "thumbnail_url": "https://i.ytimg.com/vi/zW4dxX2-jM4/hqdefault.jpg",
+        "duration_minutes": 29.08,
+        "upload_date": "2022-06-20",
+        "comment_count": 43
+    },
+    {
+        "title": "React Todo Application | Understanding Components and JSX |Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=scMHUq6E22Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/scMHUq6E22Y/hqdefault.jpg",
+        "duration_minutes": 21.13,
+        "upload_date": "2022-06-20",
+        "comment_count": 30
+    },
+    {
+        "title": "React Hooks | Understanding Hooks and useState hook in React | Complete React Tutorial Series",
+        "video_url": "https://www.youtube.com/watch?v=LGl-R1DMnVc",
+        "thumbnail_url": "https://i.ytimg.com/vi/LGl-R1DMnVc/hqdefault.jpg",
+        "duration_minutes": 25.45,
+        "upload_date": "2022-06-20",
+        "comment_count": 33
+    },
+    {
+        "title": "Understanding the React Folder Structure and Boiler Plate Code | Complete React Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=WxTqk7Lpri0",
+        "thumbnail_url": "https://i.ytimg.com/vi/WxTqk7Lpri0/hqdefault.jpg",
+        "duration_minutes": 12.95,
+        "upload_date": "2022-06-20",
+        "comment_count": 39
+    },
+    {
+        "title": "React Components | What are Components? | Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=o1XAkj0B0l0",
+        "thumbnail_url": "https://i.ytimg.com/vi/o1XAkj0B0l0/hqdefault.jpg",
+        "duration_minutes": 8.35,
+        "upload_date": "2022-06-20",
+        "comment_count": 15
+    },
+    {
+        "title": "Props in React | Why do we need Props? | Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=pYR5T3bGTOU",
+        "thumbnail_url": "https://i.ytimg.com/vi/pYR5T3bGTOU/hqdefault.jpg",
+        "duration_minutes": 10.5,
+        "upload_date": "2022-06-20",
+        "comment_count": 20
+    },
+    {
+        "title": "React JS Tutorial in Hindi | Introduction",
+        "video_url": "https://www.youtube.com/watch?v=Eqj7xSKiTlo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Eqj7xSKiTlo/hqdefault.jpg",
+        "duration_minutes": 1.27,
+        "upload_date": "2022-06-20",
+        "comment_count": 27
+    },
+    {
+        "title": "React JSX | What is JSX? | Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=arqDThLA07M",
+        "thumbnail_url": "https://i.ytimg.com/vi/arqDThLA07M/hqdefault.jpg",
+        "duration_minutes": 8.57,
+        "upload_date": "2022-06-20",
+        "comment_count": 15
+    },
+    {
+        "title": "Installing and Creating New React Application | Complete React Tutorial Series in Hindi",
+        "video_url": "https://www.youtube.com/watch?v=0GwwInGuS00",
+        "thumbnail_url": "https://i.ytimg.com/vi/0GwwInGuS00/hqdefault.jpg",
+        "duration_minutes": 6.28,
+        "upload_date": "2022-06-20",
+        "comment_count": 10
+    }
+]
