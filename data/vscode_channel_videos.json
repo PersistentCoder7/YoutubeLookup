@@ -1,0 +1,4058 @@
+[
+    {
+        "title": "Live Preview",
+        "video_url": "https://www.youtube.com/watch?v=jVWZ0Z2U4dY",
+        "thumbnail_url": "https://i.ytimg.com/vi/jVWZ0Z2U4dY/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2023-03-23",
+        "comment_count": 27
+    },
+    {
+        "title": "Folders & files in VS Code made super fast like this!",
+        "video_url": "https://www.youtube.com/watch?v=VWJ_lXAo1-I",
+        "thumbnail_url": "https://i.ytimg.com/vi/VWJ_lXAo1-I/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2022-10-06",
+        "comment_count": 174
+    },
+    {
+        "title": "Hacking GitHub?",
+        "video_url": "https://www.youtube.com/watch?v=nMJBbH7g1M4",
+        "thumbnail_url": "https://i.ytimg.com/vi/nMJBbH7g1M4/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2024-01-26",
+        "comment_count": 486
+    },
+    {
+        "title": "Navigate your code more quickly with the outline view!",
+        "video_url": "https://www.youtube.com/watch?v=_5EviVsd0Xo",
+        "thumbnail_url": "https://i.ytimg.com/vi/_5EviVsd0Xo/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2022-09-14",
+        "comment_count": 184
+    },
+    {
+        "title": "Undo Git commit + VS Code",
+        "video_url": "https://www.youtube.com/watch?v=HRn2lcOcjw4",
+        "thumbnail_url": "https://i.ytimg.com/vi/HRn2lcOcjw4/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2022-07-20",
+        "comment_count": 32
+    },
+    {
+        "title": "View PDFs directly from VS Code",
+        "video_url": "https://www.youtube.com/watch?v=DP-BhQNqQWk",
+        "thumbnail_url": "https://i.ytimg.com/vi/DP-BhQNqQWk/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2023-06-14",
+        "comment_count": 33
+    },
+    {
+        "title": "Warning!!! Stop using ESLint for THIS! #prettier #ESLint #coding",
+        "video_url": "https://www.youtube.com/watch?v=Hmy-gcm-yPM",
+        "thumbnail_url": "https://i.ytimg.com/vi/Hmy-gcm-yPM/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2023-07-19",
+        "comment_count": 14
+    },
+    {
+        "title": "The best kept secret in Markdown",
+        "video_url": "https://www.youtube.com/watch?v=uF965pS4vb4",
+        "thumbnail_url": "https://i.ytimg.com/vi/uF965pS4vb4/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2023-08-24",
+        "comment_count": 27
+    },
+    {
+        "title": "Is it still worth learning to program?",
+        "video_url": "https://www.youtube.com/watch?v=beXRGoxsaUU",
+        "thumbnail_url": "https://i.ytimg.com/vi/beXRGoxsaUU/hqdefault.jpg",
+        "duration_minutes": 0.23,
+        "upload_date": "2023-08-02",
+        "comment_count": 27
+    },
+    {
+        "title": "A free GitHub Copilot for VS Code",
+        "video_url": "https://www.youtube.com/watch?v=pm4hY8fG58g",
+        "thumbnail_url": "https://i.ytimg.com/vi/pm4hY8fG58g/hqdefault.jpg",
+        "duration_minutes": 0.28,
+        "upload_date": "2024-12-18",
+        "comment_count": 50
+    },
+    {
+        "title": "Open a terminal in a tab",
+        "video_url": "https://www.youtube.com/watch?v=VvvzPOp6PGo",
+        "thumbnail_url": "https://i.ytimg.com/vi/VvvzPOp6PGo/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2024-07-10",
+        "comment_count": 19
+    },
+    {
+        "title": "Someone sent me this VS Code extension on Twitter",
+        "video_url": "https://www.youtube.com/watch?v=4VUaoUAaMQg",
+        "thumbnail_url": "https://i.ytimg.com/vi/4VUaoUAaMQg/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2022-07-02",
+        "comment_count": 419
+    },
+    {
+        "title": "The most under-utilized keyboard shortcut #vscode #coding #python",
+        "video_url": "https://www.youtube.com/watch?v=GehQqQdBLrs",
+        "thumbnail_url": "https://i.ytimg.com/vi/GehQqQdBLrs/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-01-31",
+        "comment_count": 187
+    },
+    {
+        "title": "Make something impressive",
+        "video_url": "https://www.youtube.com/watch?v=Viv0Mf-ZCMs",
+        "thumbnail_url": "https://i.ytimg.com/vi/Viv0Mf-ZCMs/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2023-12-06",
+        "comment_count": 355
+    },
+    {
+        "title": "Regex HACK #vscode #code #programming",
+        "video_url": "https://www.youtube.com/watch?v=scUvtg1B9I4",
+        "thumbnail_url": "https://i.ytimg.com/vi/scUvtg1B9I4/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-02-28",
+        "comment_count": 76
+    },
+    {
+        "title": "File Icon Theme!",
+        "video_url": "https://www.youtube.com/watch?v=i0V1bHybv5w",
+        "thumbnail_url": "https://i.ytimg.com/vi/i0V1bHybv5w/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2024-03-18",
+        "comment_count": 6
+    },
+    {
+        "title": "Front-end gets all the glory",
+        "video_url": "https://www.youtube.com/watch?v=p-L93l356eA",
+        "thumbnail_url": "https://i.ytimg.com/vi/p-L93l356eA/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2022-05-26",
+        "comment_count": 296
+    },
+    {
+        "title": "Let's make some Java unit tests \u2615",
+        "video_url": "https://www.youtube.com/watch?v=t_gL3ovbra0",
+        "thumbnail_url": "https://i.ytimg.com/vi/t_gL3ovbra0/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2023-02-17",
+        "comment_count": 7
+    },
+    {
+        "title": "Your MUST HAVE top three GitHub repos.",
+        "video_url": "https://www.youtube.com/watch?v=WFzH4kzTfso",
+        "thumbnail_url": "https://i.ytimg.com/vi/WFzH4kzTfso/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2023-01-13",
+        "comment_count": 103
+    },
+    {
+        "title": "Stop using find and replace to rename your symbols!",
+        "video_url": "https://www.youtube.com/watch?v=ydj23WqFAjU",
+        "thumbnail_url": "https://i.ytimg.com/vi/ydj23WqFAjU/hqdefault.jpg",
+        "duration_minutes": 0.35,
+        "upload_date": "2022-10-21",
+        "comment_count": 65
+    },
+    {
+        "title": "The easiest way to change a variable's case",
+        "video_url": "https://www.youtube.com/watch?v=HMItTCzVXi0",
+        "thumbnail_url": "https://i.ytimg.com/vi/HMItTCzVXi0/hqdefault.jpg",
+        "duration_minutes": 0.33,
+        "upload_date": "2023-01-04",
+        "comment_count": 67
+    },
+    {
+        "title": "Did you know this about JavaScript?",
+        "video_url": "https://www.youtube.com/watch?v=jGLwHVwBVyo",
+        "thumbnail_url": "https://i.ytimg.com/vi/jGLwHVwBVyo/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2022-10-14",
+        "comment_count": 270
+    },
+    {
+        "title": "#copilot #knows",
+        "video_url": "https://www.youtube.com/watch?v=ec_bUSxhC6k",
+        "thumbnail_url": "https://i.ytimg.com/vi/ec_bUSxhC6k/hqdefault.jpg",
+        "duration_minutes": 0.35,
+        "upload_date": "2023-12-15",
+        "comment_count": 61
+    },
+    {
+        "title": "Bongo cat buddy",
+        "video_url": "https://www.youtube.com/watch?v=9RglM1uMglU",
+        "thumbnail_url": "https://i.ytimg.com/vi/9RglM1uMglU/hqdefault.jpg",
+        "duration_minutes": 0.22,
+        "upload_date": "2024-03-15",
+        "comment_count": 53
+    },
+    {
+        "title": "Why is JavaScript so weird?!",
+        "video_url": "https://www.youtube.com/watch?v=5wlwadBRBWU",
+        "thumbnail_url": "https://i.ytimg.com/vi/5wlwadBRBWU/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2022-11-16",
+        "comment_count": 87
+    },
+    {
+        "title": "Code Anywhere Anytime",
+        "video_url": "https://www.youtube.com/watch?v=xhyj_M-pLD8",
+        "thumbnail_url": "https://i.ytimg.com/vi/xhyj_M-pLD8/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2025-01-07",
+        "comment_count": 13
+    },
+    {
+        "title": "Use these shortcuts for selecting text in VS Code!",
+        "video_url": "https://www.youtube.com/watch?v=DL0HB_qlSVk",
+        "thumbnail_url": "https://i.ytimg.com/vi/DL0HB_qlSVk/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2022-11-23",
+        "comment_count": 99
+    },
+    {
+        "title": "You can literally learn Markdown in 60 seconds",
+        "video_url": "https://www.youtube.com/watch?v=4z0l5Kl2Q6E",
+        "thumbnail_url": "https://i.ytimg.com/vi/4z0l5Kl2Q6E/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-11-01",
+        "comment_count": 321
+    },
+    {
+        "title": "Speed up your builds with DevDrive! #coding #programming #windows",
+        "video_url": "https://www.youtube.com/watch?v=nzffZHmhTPg",
+        "thumbnail_url": "https://i.ytimg.com/vi/nzffZHmhTPg/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-03-31",
+        "comment_count": 28
+    },
+    {
+        "title": "What Is YOUR Favorite Shell?  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=5XBFUBEywxE",
+        "thumbnail_url": "https://i.ytimg.com/vi/5XBFUBEywxE/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-05-15",
+        "comment_count": 16
+    },
+    {
+        "title": "Let Copilot generate commit messages for you!",
+        "video_url": "https://www.youtube.com/watch?v=vD0mPvh_II0",
+        "thumbnail_url": "https://i.ytimg.com/vi/vD0mPvh_II0/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2023-11-24",
+        "comment_count": 38
+    },
+    {
+        "title": "Top 5 VS Code Extension EVERY developer must have",
+        "video_url": "https://www.youtube.com/watch?v=K53umOg6Uv8",
+        "thumbnail_url": "https://i.ytimg.com/vi/K53umOg6Uv8/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-08-08",
+        "comment_count": 31
+    },
+    {
+        "title": "Code from anywhere with #vscode for the Web",
+        "video_url": "https://www.youtube.com/watch?v=kMwN0PYRh0g",
+        "thumbnail_url": "https://i.ytimg.com/vi/kMwN0PYRh0g/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2023-07-24",
+        "comment_count": 271
+    },
+    {
+        "title": "Java, Gradle, and VS Code \ud83d\ude0e\ud83c\udf75",
+        "video_url": "https://www.youtube.com/watch?v=0xq_ZYfl6Vk",
+        "thumbnail_url": "https://i.ytimg.com/vi/0xq_ZYfl6Vk/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2023-02-26",
+        "comment_count": 17
+    },
+    {
+        "title": "You gotta CSV this to believe it",
+        "video_url": "https://www.youtube.com/watch?v=SH4ulAmL_9E",
+        "thumbnail_url": "https://i.ytimg.com/vi/SH4ulAmL_9E/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2024-08-07",
+        "comment_count": 12
+    },
+    {
+        "title": "Did you know this about LinkedIn?",
+        "video_url": "https://www.youtube.com/watch?v=pH07Qmv2x3o",
+        "thumbnail_url": "https://i.ytimg.com/vi/pH07Qmv2x3o/hqdefault.jpg",
+        "duration_minutes": 0.32,
+        "upload_date": "2022-11-14",
+        "comment_count": 16
+    },
+    {
+        "title": "Do this right now #programming #vscode #coding",
+        "video_url": "https://www.youtube.com/watch?v=1sX56-gGyr0",
+        "thumbnail_url": "https://i.ytimg.com/vi/1sX56-gGyr0/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2023-08-16",
+        "comment_count": 70
+    },
+    {
+        "title": "// TODO: Install Todo Tree in #vscode",
+        "video_url": "https://www.youtube.com/watch?v=GNJfxriE83Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/GNJfxriE83Q/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2023-11-10",
+        "comment_count": 24
+    },
+    {
+        "title": "Configure tabs or spaces in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=_bQakjlVR_E",
+        "thumbnail_url": "https://i.ytimg.com/vi/_bQakjlVR_E/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-01-25",
+        "comment_count": 18
+    },
+    {
+        "title": "Diff files in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=5qZzNwldkb8",
+        "thumbnail_url": "https://i.ytimg.com/vi/5qZzNwldkb8/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2023-09-07",
+        "comment_count": 15
+    },
+    {
+        "title": "Undo Stage with git reset",
+        "video_url": "https://www.youtube.com/watch?v=Y80DYvH4c7Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y80DYvH4c7Q/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2022-09-11",
+        "comment_count": 3
+    },
+    {
+        "title": "Indent Rainbow Life",
+        "video_url": "https://www.youtube.com/watch?v=qwGD6GMgkjY",
+        "thumbnail_url": "https://i.ytimg.com/vi/qwGD6GMgkjY/hqdefault.jpg",
+        "duration_minutes": 0.32,
+        "upload_date": "2023-05-26",
+        "comment_count": 21
+    },
+    {
+        "title": "Quokka.js: Look, no terminal!!!",
+        "video_url": "https://www.youtube.com/watch?v=nzioOu-rzmE",
+        "thumbnail_url": "https://i.ytimg.com/vi/nzioOu-rzmE/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2023-03-10",
+        "comment_count": 32
+    },
+    {
+        "title": "What\u2019s a \u201cjustified terminal\u201d? #coding #vscode",
+        "video_url": "https://www.youtube.com/watch?v=v4kRFJKhSUI",
+        "thumbnail_url": "https://i.ytimg.com/vi/v4kRFJKhSUI/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-04-03",
+        "comment_count": 79
+    },
+    {
+        "title": "Joining lines hack!",
+        "video_url": "https://www.youtube.com/watch?v=eD4DD-KLpl4",
+        "thumbnail_url": "https://i.ytimg.com/vi/eD4DD-KLpl4/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2024-05-16",
+        "comment_count": 39
+    },
+    {
+        "title": "Change that VS Code Sidebar!",
+        "video_url": "https://www.youtube.com/watch?v=zmzhXfMvZO4",
+        "thumbnail_url": "https://i.ytimg.com/vi/zmzhXfMvZO4/hqdefault.jpg",
+        "duration_minutes": 0.28,
+        "upload_date": "2022-12-02",
+        "comment_count": 15
+    },
+    {
+        "title": "Perfectly invalid CSS",
+        "video_url": "https://www.youtube.com/watch?v=8zIkml0EOmc",
+        "thumbnail_url": "https://i.ytimg.com/vi/8zIkml0EOmc/hqdefault.jpg",
+        "duration_minutes": 0.4,
+        "upload_date": "2022-12-06",
+        "comment_count": 17
+    },
+    {
+        "title": "ErrorLens! Catch Errors on the Fly!",
+        "video_url": "https://www.youtube.com/watch?v=uzC1PP73d9I",
+        "thumbnail_url": "https://i.ytimg.com/vi/uzC1PP73d9I/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2023-03-16",
+        "comment_count": 30
+    },
+    {
+        "title": "Extension of the week: Rainbow CSV \ud83c\udf08",
+        "video_url": "https://www.youtube.com/watch?v=y55a7NAiHiI",
+        "thumbnail_url": "https://i.ytimg.com/vi/y55a7NAiHiI/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2023-04-12",
+        "comment_count": 10
+    },
+    {
+        "title": "Word Wrap Code",
+        "video_url": "https://www.youtube.com/watch?v=hSIh92zzsLA",
+        "thumbnail_url": "https://i.ytimg.com/vi/hSIh92zzsLA/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2024-03-14",
+        "comment_count": 18
+    },
+    {
+        "title": "Word Wrap Code",
+        "video_url": "https://www.youtube.com/watch?v=hSIh92zzsLA",
+        "thumbnail_url": "https://i.ytimg.com/vi/hSIh92zzsLA/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2024-03-14",
+        "comment_count": 18
+    },
+    {
+        "title": "Write slides in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=cLokEWqTuds",
+        "thumbnail_url": "https://i.ytimg.com/vi/cLokEWqTuds/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2023-05-17",
+        "comment_count": 53
+    },
+    {
+        "title": "Visualize your git repo in #vscode \ud83d\udc40",
+        "video_url": "https://www.youtube.com/watch?v=vpFF1XSqWjw",
+        "thumbnail_url": "https://i.ytimg.com/vi/vpFF1XSqWjw/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2024-07-12",
+        "comment_count": 11
+    },
+    {
+        "title": "Save time creating files in #vscode!",
+        "video_url": "https://www.youtube.com/watch?v=6yOxcr5UewI",
+        "thumbnail_url": "https://i.ytimg.com/vi/6yOxcr5UewI/hqdefault.jpg",
+        "duration_minutes": 0.28,
+        "upload_date": "2024-01-10",
+        "comment_count": 15
+    },
+    {
+        "title": "Tree indent in #vscode \ud83c\udf33",
+        "video_url": "https://www.youtube.com/watch?v=svk_G6xjO-w",
+        "thumbnail_url": "https://i.ytimg.com/vi/svk_G6xjO-w/hqdefault.jpg",
+        "duration_minutes": 0.4,
+        "upload_date": "2024-10-04",
+        "comment_count": 7
+    },
+    {
+        "title": "Start using emoji syntax in Markdown files! :smile:",
+        "video_url": "https://www.youtube.com/watch?v=017XXz2hcoY",
+        "thumbnail_url": "https://i.ytimg.com/vi/017XXz2hcoY/hqdefault.jpg",
+        "duration_minutes": 0.23,
+        "upload_date": "2022-11-09",
+        "comment_count": 21
+    },
+    {
+        "title": "Copilot's Ins and Outs for 2024",
+        "video_url": "https://www.youtube.com/watch?v=6D9bAhXRa5c",
+        "thumbnail_url": "https://i.ytimg.com/vi/6D9bAhXRa5c/hqdefault.jpg",
+        "duration_minutes": 0.32,
+        "upload_date": "2024-01-05",
+        "comment_count": 8
+    },
+    {
+        "title": "There are some serious benefits to the integrated terminal #vscode #coding",
+        "video_url": "https://www.youtube.com/watch?v=ewhgnBe2trY",
+        "thumbnail_url": "https://i.ytimg.com/vi/ewhgnBe2trY/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2024-01-10",
+        "comment_count": 29
+    },
+    {
+        "title": "Screencast mode",
+        "video_url": "https://www.youtube.com/watch?v=KZHI5RMmFk0",
+        "thumbnail_url": "https://i.ytimg.com/vi/KZHI5RMmFk0/hqdefault.jpg",
+        "duration_minutes": 0.25,
+        "upload_date": "2024-08-15",
+        "comment_count": 17
+    },
+    {
+        "title": "Deleting Branches Easily with VS Code",
+        "video_url": "https://www.youtube.com/watch?v=t3CZo5qtUmM",
+        "thumbnail_url": "https://i.ytimg.com/vi/t3CZo5qtUmM/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2022-09-14",
+        "comment_count": 8
+    },
+    {
+        "title": "@workspace -  all about that #copilot #context",
+        "video_url": "https://www.youtube.com/watch?v=iXG1J8a2RE4",
+        "thumbnail_url": "https://i.ytimg.com/vi/iXG1J8a2RE4/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2023-11-16",
+        "comment_count": 3
+    },
+    {
+        "title": "The fastest way to add your project to source control",
+        "video_url": "https://www.youtube.com/watch?v=FNJys9GkTAY",
+        "thumbnail_url": "https://i.ytimg.com/vi/FNJys9GkTAY/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2024-10-08",
+        "comment_count": 8
+    },
+    {
+        "title": "Data Wrangler",
+        "video_url": "https://www.youtube.com/watch?v=4LPicprWoXo",
+        "thumbnail_url": "https://i.ytimg.com/vi/4LPicprWoXo/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-06-05",
+        "comment_count": 13
+    },
+    {
+        "title": "Turbo Console Logging",
+        "video_url": "https://www.youtube.com/watch?v=5pMvbgNmzGk",
+        "thumbnail_url": "https://i.ytimg.com/vi/5pMvbgNmzGk/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2023-06-08",
+        "comment_count": 36
+    },
+    {
+        "title": "To the Web \ud83d\ude80",
+        "video_url": "https://www.youtube.com/watch?v=7g_N9MVRAyU",
+        "thumbnail_url": "https://i.ytimg.com/vi/7g_N9MVRAyU/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2021-10-20",
+        "comment_count": 69
+    },
+    {
+        "title": "Realtime regex... really!",
+        "video_url": "https://www.youtube.com/watch?v=8GXWBVgWUD0",
+        "thumbnail_url": "https://i.ytimg.com/vi/8GXWBVgWUD0/hqdefault.jpg",
+        "duration_minutes": 0.3,
+        "upload_date": "2024-06-20",
+        "comment_count": 18
+    },
+    {
+        "title": "Command Palettes are literally everywhere",
+        "video_url": "https://www.youtube.com/watch?v=fWYWuUqf8EY",
+        "thumbnail_url": "https://i.ytimg.com/vi/fWYWuUqf8EY/hqdefault.jpg",
+        "duration_minutes": 0.32,
+        "upload_date": "2022-03-23",
+        "comment_count": 35
+    },
+    {
+        "title": "Secret GitHub tip",
+        "video_url": "https://www.youtube.com/watch?v=hy_w_W4nug0",
+        "thumbnail_url": "https://i.ytimg.com/vi/hy_w_W4nug0/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2021-07-22",
+        "comment_count": 37
+    },
+    {
+        "title": "Don't quit your job",
+        "video_url": "https://www.youtube.com/watch?v=RJB7lhlGLBc",
+        "thumbnail_url": "https://i.ytimg.com/vi/RJB7lhlGLBc/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2021-12-06",
+        "comment_count": 102
+    },
+    {
+        "title": "Watch Copilot Explain Code Like a Human!",
+        "video_url": "https://www.youtube.com/watch?v=IETnIoz-jFQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/IETnIoz-jFQ/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2023-02-02",
+        "comment_count": 65
+    },
+    {
+        "title": "Ever heard of the \u201cbracket\u201d programming language?",
+        "video_url": "https://www.youtube.com/watch?v=he3uB8ddWNM",
+        "thumbnail_url": "https://i.ytimg.com/vi/he3uB8ddWNM/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2022-02-16",
+        "comment_count": 603
+    },
+    {
+        "title": "Creating a VS Code extension in 60 seconds",
+        "video_url": "https://www.youtube.com/watch?v=6r8pJjylmR4",
+        "thumbnail_url": "https://i.ytimg.com/vi/6r8pJjylmR4/hqdefault.jpg",
+        "duration_minutes": 1.02,
+        "upload_date": "2023-01-26",
+        "comment_count": 78
+    },
+    {
+        "title": "No need to panic! Restore your deleted file",
+        "video_url": "https://www.youtube.com/watch?v=VP4JoijL_TY",
+        "thumbnail_url": "https://i.ytimg.com/vi/VP4JoijL_TY/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-10-01",
+        "comment_count": 32
+    },
+    {
+        "title": "Expose Keystrokes in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=iHLy8Lstopg",
+        "thumbnail_url": "https://i.ytimg.com/vi/iHLy8Lstopg/hqdefault.jpg",
+        "duration_minutes": 0.28,
+        "upload_date": "2022-11-17",
+        "comment_count": 18
+    },
+    {
+        "title": "What's new with Copilot Chat and VS Code - v1.84",
+        "video_url": "https://www.youtube.com/watch?v=HpzdGAGXFXE",
+        "thumbnail_url": "https://i.ytimg.com/vi/HpzdGAGXFXE/hqdefault.jpg",
+        "duration_minutes": 2.77,
+        "upload_date": "2023-11-08",
+        "comment_count": 50
+    },
+    {
+        "title": "Git Pop Quiz! What would VS Code do?",
+        "video_url": "https://www.youtube.com/watch?v=Uh8WK8a5h-k",
+        "thumbnail_url": "https://i.ytimg.com/vi/Uh8WK8a5h-k/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-10-21",
+        "comment_count": 23
+    },
+    {
+        "title": "VS Code Animations",
+        "video_url": "https://www.youtube.com/watch?v=QN0Pfz_ji6I",
+        "thumbnail_url": "https://i.ytimg.com/vi/QN0Pfz_ji6I/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-03-22",
+        "comment_count": 91
+    },
+    {
+        "title": "Have you tried this feature of Copilot: Inline Chat?",
+        "video_url": "https://www.youtube.com/watch?v=Y49sgBW_27o",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y49sgBW_27o/hqdefault.jpg",
+        "duration_minutes": 0.28,
+        "upload_date": "2023-10-27",
+        "comment_count": 7
+    },
+    {
+        "title": "C++ arrays can be weird...",
+        "video_url": "https://www.youtube.com/watch?v=JNfgtsiqd2M",
+        "thumbnail_url": "https://i.ytimg.com/vi/JNfgtsiqd2M/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2022-05-18",
+        "comment_count": 544
+    },
+    {
+        "title": "Select Text in VS Code Like a Boss",
+        "video_url": "https://www.youtube.com/watch?v=cLxrXSrYTKs",
+        "thumbnail_url": "https://i.ytimg.com/vi/cLxrXSrYTKs/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2024-12-30",
+        "comment_count": 13
+    },
+    {
+        "title": "\ud83c\udfb5 Shift + Alt + F \ud83c\udfb5",
+        "video_url": "https://www.youtube.com/watch?v=Q0G473bQ7Ec",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q0G473bQ7Ec/hqdefault.jpg",
+        "duration_minutes": 0.2,
+        "upload_date": "2022-05-03",
+        "comment_count": 41
+    },
+    {
+        "title": "Master the core principles of prompt engineering with GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=hh1nOX14TyY",
+        "thumbnail_url": "https://i.ytimg.com/vi/hh1nOX14TyY/hqdefault.jpg",
+        "duration_minutes": 6.13,
+        "upload_date": "2024-03-04",
+        "comment_count": 32
+    },
+    {
+        "title": "The one VS Code tip I always forget to show people #vscode #tips #productivity",
+        "video_url": "https://www.youtube.com/watch?v=-RykHPQZo7Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/-RykHPQZo7Y/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-07-30",
+        "comment_count": 40
+    },
+    {
+        "title": "Big O Notation in 90 Seconds!",
+        "video_url": "https://www.youtube.com/watch?v=RATueyCIN80",
+        "thumbnail_url": "https://i.ytimg.com/vi/RATueyCIN80/hqdefault.jpg",
+        "duration_minutes": 1.5,
+        "upload_date": "2022-03-26",
+        "comment_count": 21
+    },
+    {
+        "title": "Sticky Scroll",
+        "video_url": "https://www.youtube.com/watch?v=PZrOEjuhL24",
+        "thumbnail_url": "https://i.ytimg.com/vi/PZrOEjuhL24/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2024-12-11",
+        "comment_count": 5
+    },
+    {
+        "title": "VS Code July 2022 Release Highlights (v1.70)",
+        "video_url": "https://www.youtube.com/watch?v=znue7UqdUf0",
+        "thumbnail_url": "https://i.ytimg.com/vi/znue7UqdUf0/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-08-08",
+        "comment_count": 13
+    },
+    {
+        "title": "Log4Shell Explained - Part 1",
+        "video_url": "https://www.youtube.com/watch?v=Dackrp-iJZE",
+        "thumbnail_url": "https://i.ytimg.com/vi/Dackrp-iJZE/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-01-18",
+        "comment_count": 27
+    },
+    {
+        "title": "GitLens Stole My BFF",
+        "video_url": "https://www.youtube.com/watch?v=_YnG7MhMxAE",
+        "thumbnail_url": "https://i.ytimg.com/vi/_YnG7MhMxAE/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2022-08-26",
+        "comment_count": 8
+    },
+    {
+        "title": "Create PRs in VS Code #programming #vscode",
+        "video_url": "https://www.youtube.com/watch?v=tNN2pX6h6BI",
+        "thumbnail_url": "https://i.ytimg.com/vi/tNN2pX6h6BI/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2023-08-16",
+        "comment_count": 17
+    },
+    {
+        "title": "Shortcuts for copying in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=2dR_u_Nhb-Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/2dR_u_Nhb-Y/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-11-14",
+        "comment_count": 26
+    },
+    {
+        "title": "Changing Icon Theme in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=lHJRtQTi1kE",
+        "thumbnail_url": "https://i.ytimg.com/vi/lHJRtQTi1kE/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2023-04-21",
+        "comment_count": 9
+    },
+    {
+        "title": "Vision for Copilot Preview",
+        "video_url": "https://www.youtube.com/watch?v=8wkuBGTr9QY",
+        "thumbnail_url": "https://i.ytimg.com/vi/8wkuBGTr9QY/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-11-26",
+        "comment_count": 23
+    },
+    {
+        "title": "The ultimate programming machine",
+        "video_url": "https://www.youtube.com/watch?v=Cja5harDL0U",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cja5harDL0U/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-05-23",
+        "comment_count": 29
+    },
+    {
+        "title": "Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY",
+        "video_url": "https://www.youtube.com/watch?v=jXp5D5ZnxGM",
+        "thumbnail_url": "https://i.ytimg.com/vi/jXp5D5ZnxGM/hqdefault.jpg",
+        "duration_minutes": 4.75,
+        "upload_date": "2024-02-15",
+        "comment_count": 124
+    },
+    {
+        "title": "coolest things #copilot did",
+        "video_url": "https://www.youtube.com/watch?v=fsScUi9Tfl0",
+        "thumbnail_url": "https://i.ytimg.com/vi/fsScUi9Tfl0/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-05-30",
+        "comment_count": 3
+    },
+    {
+        "title": "Top 5 Serious Time Savers in VS Code #marathon",
+        "video_url": "https://www.youtube.com/watch?v=MLvLiWueESY",
+        "thumbnail_url": "https://i.ytimg.com/vi/MLvLiWueESY/hqdefault.jpg",
+        "duration_minutes": 2.87,
+        "upload_date": "2024-05-24",
+        "comment_count": 25
+    },
+    {
+        "title": "VS Code November 2022 Release Highlights (v1.74)",
+        "video_url": "https://www.youtube.com/watch?v=YjGbMcvrdCc",
+        "thumbnail_url": "https://i.ytimg.com/vi/YjGbMcvrdCc/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2022-12-09",
+        "comment_count": 24
+    },
+    {
+        "title": "Port Forwarding",
+        "video_url": "https://www.youtube.com/watch?v=dlIkexwGpNg",
+        "thumbnail_url": "https://i.ytimg.com/vi/dlIkexwGpNg/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2023-09-13",
+        "comment_count": 177
+    },
+    {
+        "title": "When your dev team turns out to live in BIZARRO world...",
+        "video_url": "https://www.youtube.com/watch?v=mEOkBR-bLQw",
+        "thumbnail_url": "https://i.ytimg.com/vi/mEOkBR-bLQw/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-05-06",
+        "comment_count": 24
+    },
+    {
+        "title": "This code is really hard to read\u2026",
+        "video_url": "https://www.youtube.com/watch?v=gb1Jf1Huxs4",
+        "thumbnail_url": "https://i.ytimg.com/vi/gb1Jf1Huxs4/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2023-01-14",
+        "comment_count": 199
+    },
+    {
+        "title": "When your dev team turns out to live in BIZARRO world...",
+        "video_url": "https://www.youtube.com/watch?v=mEOkBR-bLQw",
+        "thumbnail_url": "https://i.ytimg.com/vi/mEOkBR-bLQw/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-05-06",
+        "comment_count": 24
+    },
+    {
+        "title": "This code is really hard to read\u2026",
+        "video_url": "https://www.youtube.com/watch?v=gb1Jf1Huxs4",
+        "thumbnail_url": "https://i.ytimg.com/vi/gb1Jf1Huxs4/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2023-01-14",
+        "comment_count": 199
+    },
+    {
+        "title": "GitHub Copilot is like a second brain",
+        "video_url": "https://www.youtube.com/watch?v=o3qURBllpGM",
+        "thumbnail_url": "https://i.ytimg.com/vi/o3qURBllpGM/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-10-25",
+        "comment_count": 475
+    },
+    {
+        "title": "Coding on my super old college laptop",
+        "video_url": "https://www.youtube.com/watch?v=BtCSS9cto2M",
+        "thumbnail_url": "https://i.ytimg.com/vi/BtCSS9cto2M/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-12-23",
+        "comment_count": 27
+    },
+    {
+        "title": "have you ever heard of \"LOLCODE\" programming language?",
+        "video_url": "https://www.youtube.com/watch?v=qD9HE856034",
+        "thumbnail_url": "https://i.ytimg.com/vi/qD9HE856034/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2022-05-17",
+        "comment_count": 28
+    },
+    {
+        "title": "Speed up those GitHub Pages builds",
+        "video_url": "https://www.youtube.com/watch?v=T2o6yYeQ6LQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/T2o6yYeQ6LQ/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2022-11-30",
+        "comment_count": 13
+    },
+    {
+        "title": "Trying to code on an old laptop",
+        "video_url": "https://www.youtube.com/watch?v=h-celxBH5c8",
+        "thumbnail_url": "https://i.ytimg.com/vi/h-celxBH5c8/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-01-11",
+        "comment_count": 2184
+    },
+    {
+        "title": "Have you heard of inlay hints?",
+        "video_url": "https://www.youtube.com/watch?v=tEr5FW8SspU",
+        "thumbnail_url": "https://i.ytimg.com/vi/tEr5FW8SspU/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-09-03",
+        "comment_count": 12
+    },
+    {
+        "title": "VS Code Git Background Commands Exposed",
+        "video_url": "https://www.youtube.com/watch?v=OreEHjXSXiE",
+        "thumbnail_url": "https://i.ytimg.com/vi/OreEHjXSXiE/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2022-08-13",
+        "comment_count": 12
+    },
+    {
+        "title": "VS Code March 2023 Release Highlights (v1.77)",
+        "video_url": "https://www.youtube.com/watch?v=lO9q5hBcv5g",
+        "thumbnail_url": "https://i.ytimg.com/vi/lO9q5hBcv5g/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2023-04-05",
+        "comment_count": 7
+    },
+    {
+        "title": "Never confuse your files again #vscode",
+        "video_url": "https://www.youtube.com/watch?v=swuDCNI-t80",
+        "thumbnail_url": "https://i.ytimg.com/vi/swuDCNI-t80/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-08-09",
+        "comment_count": 27
+    },
+    {
+        "title": "The magic button in VS Code #programming #vscode #coding",
+        "video_url": "https://www.youtube.com/watch?v=icgVUXJ8A0w",
+        "thumbnail_url": "https://i.ytimg.com/vi/icgVUXJ8A0w/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2024-05-01",
+        "comment_count": 93
+    },
+    {
+        "title": "When C# meets Python meets Java meets...",
+        "video_url": "https://www.youtube.com/watch?v=qhF7nB4vjFs",
+        "thumbnail_url": "https://i.ytimg.com/vi/qhF7nB4vjFs/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2022-11-10",
+        "comment_count": 5
+    },
+    {
+        "title": "Use this with really long files #vscode",
+        "video_url": "https://www.youtube.com/watch?v=dbGu7SiFL50",
+        "thumbnail_url": "https://i.ytimg.com/vi/dbGu7SiFL50/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2024-10-10",
+        "comment_count": 34
+    },
+    {
+        "title": "Top Programming Languages to Learn Myth",
+        "video_url": "https://www.youtube.com/watch?v=BRBccmO1j40",
+        "thumbnail_url": "https://i.ytimg.com/vi/BRBccmO1j40/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2022-04-21",
+        "comment_count": 51
+    },
+    {
+        "title": "A different VS Code for every mood",
+        "video_url": "https://www.youtube.com/watch?v=kwGdEHTF_Fw",
+        "thumbnail_url": "https://i.ytimg.com/vi/kwGdEHTF_Fw/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-09-26",
+        "comment_count": 19
+    },
+    {
+        "title": "VS Code May 2022 Release Highlights (v1.68)",
+        "video_url": "https://www.youtube.com/watch?v=EtIlZNUhswg",
+        "thumbnail_url": "https://i.ytimg.com/vi/EtIlZNUhswg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-06-17",
+        "comment_count": 28
+    },
+    {
+        "title": "#python #lambda? Think backwards!",
+        "video_url": "https://www.youtube.com/watch?v=kwUcBRGoHYw",
+        "thumbnail_url": "https://i.ytimg.com/vi/kwUcBRGoHYw/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-09-29",
+        "comment_count": 8
+    },
+    {
+        "title": "AI is for the boring stuff",
+        "video_url": "https://www.youtube.com/watch?v=toj0v1O8K6E",
+        "thumbnail_url": "https://i.ytimg.com/vi/toj0v1O8K6E/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-12-01",
+        "comment_count": 8
+    },
+    {
+        "title": "Create guided walkthroughs of your code",
+        "video_url": "https://www.youtube.com/watch?v=KQB8FRoJaH4",
+        "thumbnail_url": "https://i.ytimg.com/vi/KQB8FRoJaH4/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2023-05-24",
+        "comment_count": 19
+    },
+    {
+        "title": "Underrated extension!  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=MUEs74QVjE8",
+        "thumbnail_url": "https://i.ytimg.com/vi/MUEs74QVjE8/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-01-11",
+        "comment_count": 18
+    },
+    {
+        "title": "What\u2019s more impressive? #vscode #coding #ai",
+        "video_url": "https://www.youtube.com/watch?v=DB_2ougzzYg",
+        "thumbnail_url": "https://i.ytimg.com/vi/DB_2ougzzYg/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-02-07",
+        "comment_count": 45
+    },
+    {
+        "title": "Font Ligatures in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=ToIjkT54jko",
+        "thumbnail_url": "https://i.ytimg.com/vi/ToIjkT54jko/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2023-07-03",
+        "comment_count": 141
+    },
+    {
+        "title": "GitHub Copilot just got exponentially smarter",
+        "video_url": "https://www.youtube.com/watch?v=SZVCJRUADc4",
+        "thumbnail_url": "https://i.ytimg.com/vi/SZVCJRUADc4/hqdefault.jpg",
+        "duration_minutes": 6.42,
+        "upload_date": "2023-12-04",
+        "comment_count": 733
+    },
+    {
+        "title": "VS Code August 2022 Release Highlights (v1.71)",
+        "video_url": "https://www.youtube.com/watch?v=prntSThDnno",
+        "thumbnail_url": "https://i.ytimg.com/vi/prntSThDnno/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2022-09-09",
+        "comment_count": 11
+    },
+    {
+        "title": "Pin VS Code Tabs?",
+        "video_url": "https://www.youtube.com/watch?v=6NFR5MsHM_4",
+        "thumbnail_url": "https://i.ytimg.com/vi/6NFR5MsHM_4/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2023-04-06",
+        "comment_count": 26
+    },
+    {
+        "title": "Do you enable file preview in VS Code?",
+        "video_url": "https://www.youtube.com/watch?v=d_2I3gDofCA",
+        "thumbnail_url": "https://i.ytimg.com/vi/d_2I3gDofCA/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2022-04-15",
+        "comment_count": 29
+    },
+    {
+        "title": "Top Shorts: Remote Development in VS Code #marathon",
+        "video_url": "https://www.youtube.com/watch?v=jjSZE4ij1r8",
+        "thumbnail_url": "https://i.ytimg.com/vi/jjSZE4ij1r8/hqdefault.jpg",
+        "duration_minutes": 3.62,
+        "upload_date": "2023-11-10",
+        "comment_count": 9
+    },
+    {
+        "title": "Stop Nesting So Much. Do This!",
+        "video_url": "https://www.youtube.com/watch?v=IqHqmCG54eA",
+        "thumbnail_url": "https://i.ytimg.com/vi/IqHqmCG54eA/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2023-06-15",
+        "comment_count": 77
+    },
+    {
+        "title": "File nesting \u25b6\ufe0f\ud83d\udd3d",
+        "video_url": "https://www.youtube.com/watch?v=5kikdSqDm48",
+        "thumbnail_url": "https://i.ytimg.com/vi/5kikdSqDm48/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2022-04-09",
+        "comment_count": 25
+    },
+    {
+        "title": "Markdown header magic",
+        "video_url": "https://www.youtube.com/watch?v=G5580-DxQuw",
+        "thumbnail_url": "https://i.ytimg.com/vi/G5580-DxQuw/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2023-03-31",
+        "comment_count": 14
+    },
+    {
+        "title": "Get started with Copilot Free in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=X_Aet9ndh_Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/X_Aet9ndh_Y/hqdefault.jpg",
+        "duration_minutes": 1.05,
+        "upload_date": "2024-12-19",
+        "comment_count": 171
+    },
+    {
+        "title": "The most controversial #vscode setup",
+        "video_url": "https://www.youtube.com/watch?v=rfvaOtqVStU",
+        "thumbnail_url": "https://i.ytimg.com/vi/rfvaOtqVStU/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-07-26",
+        "comment_count": 163
+    },
+    {
+        "title": "Hello World the origin story #history #code #programming",
+        "video_url": "https://www.youtube.com/watch?v=Y9kdxYvnU9A",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y9kdxYvnU9A/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-09-06",
+        "comment_count": 19
+    },
+    {
+        "title": "Dev Containers in Your Terminal! #vscode #code",
+        "video_url": "https://www.youtube.com/watch?v=hY4ydbV1X4k",
+        "thumbnail_url": "https://i.ytimg.com/vi/hY4ydbV1X4k/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2023-10-03",
+        "comment_count": 37
+    },
+    {
+        "title": "Use THIS in #python instead of IF-ELSE!",
+        "video_url": "https://www.youtube.com/watch?v=m8KEKVpjuIc",
+        "thumbnail_url": "https://i.ytimg.com/vi/m8KEKVpjuIc/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2023-08-17",
+        "comment_count": 41
+    },
+    {
+        "title": "3 hardest problems in programming #vscode #ai #coding",
+        "video_url": "https://www.youtube.com/watch?v=z6YNbJHzrvc",
+        "thumbnail_url": "https://i.ytimg.com/vi/z6YNbJHzrvc/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-02-21",
+        "comment_count": 355
+    },
+    {
+        "title": "Essential AI prompts for developers",
+        "video_url": "https://www.youtube.com/watch?v=H3M95i4iS5c",
+        "thumbnail_url": "https://i.ytimg.com/vi/H3M95i4iS5c/hqdefault.jpg",
+        "duration_minutes": 8.52,
+        "upload_date": "2024-07-17",
+        "comment_count": 64
+    },
+    {
+        "title": "Stop closing tags yourself!",
+        "video_url": "https://www.youtube.com/watch?v=qQcV63EMSHE",
+        "thumbnail_url": "https://i.ytimg.com/vi/qQcV63EMSHE/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2022-10-20",
+        "comment_count": 58
+    },
+    {
+        "title": "Rename Git Branches in VS Code like this!",
+        "video_url": "https://www.youtube.com/watch?v=FnsfBgh1WVU",
+        "thumbnail_url": "https://i.ytimg.com/vi/FnsfBgh1WVU/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2022-10-15",
+        "comment_count": 19
+    },
+    {
+        "title": "Still haven't tried Codespaces?",
+        "video_url": "https://www.youtube.com/watch?v=hjiHrF55-D0",
+        "thumbnail_url": "https://i.ytimg.com/vi/hjiHrF55-D0/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2022-07-01",
+        "comment_count": 21
+    },
+    {
+        "title": "Log4j Vulnerability: Still Threatening ? #coding #vscode #texteditor",
+        "video_url": "https://www.youtube.com/watch?v=r2l7B1nH3_4",
+        "thumbnail_url": "https://i.ytimg.com/vi/r2l7B1nH3_4/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2023-07-13",
+        "comment_count": 4
+    },
+    {
+        "title": "Get started with C++ in 60 seconds",
+        "video_url": "https://www.youtube.com/watch?v=A5fA1LJFjR8",
+        "thumbnail_url": "https://i.ytimg.com/vi/A5fA1LJFjR8/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-10-05",
+        "comment_count": 22
+    },
+    {
+        "title": "Copilot Edits in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=C2ikOtidlUQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/C2ikOtidlUQ/hqdefault.jpg",
+        "duration_minutes": 1.4,
+        "upload_date": "2024-11-02",
+        "comment_count": 18
+    },
+    {
+        "title": "Folders & Files Made Fast Like This!",
+        "video_url": "https://www.youtube.com/watch?v=wUcYp_J93VM",
+        "thumbnail_url": "https://i.ytimg.com/vi/wUcYp_J93VM/hqdefault.jpg",
+        "duration_minutes": 0.4,
+        "upload_date": "2024-12-27",
+        "comment_count": 10
+    },
+    {
+        "title": "self-hosted vs code? #vscode",
+        "video_url": "https://www.youtube.com/watch?v=nFoy6Pp-hLw",
+        "thumbnail_url": "https://i.ytimg.com/vi/nFoy6Pp-hLw/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-05-29",
+        "comment_count": 43
+    },
+    {
+        "title": "Navigate your code's history",
+        "video_url": "https://www.youtube.com/watch?v=6IwjxcDbVW0",
+        "thumbnail_url": "https://i.ytimg.com/vi/6IwjxcDbVW0/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2023-05-31",
+        "comment_count": 29
+    },
+    {
+        "title": "Try this to select text in the terminal and editor!",
+        "video_url": "https://www.youtube.com/watch?v=NQngxM6GD9g",
+        "thumbnail_url": "https://i.ytimg.com/vi/NQngxM6GD9g/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-10-22",
+        "comment_count": 17
+    },
+    {
+        "title": "#Copilot Explains - Ep 4: Understanding Linked Lists",
+        "video_url": "https://www.youtube.com/watch?v=IZBOo7vZVjY",
+        "thumbnail_url": "https://i.ytimg.com/vi/IZBOo7vZVjY/hqdefault.jpg",
+        "duration_minutes": 8.0,
+        "upload_date": "2023-10-16",
+        "comment_count": 8
+    },
+    {
+        "title": "More multiple cursor magic \ud83e\ude84",
+        "video_url": "https://www.youtube.com/watch?v=QcXlyriZVa8",
+        "thumbnail_url": "https://i.ytimg.com/vi/QcXlyriZVa8/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2022-01-30",
+        "comment_count": 561
+    },
+    {
+        "title": "Make Folders FAST in #vscode like THIS!",
+        "video_url": "https://www.youtube.com/watch?v=KQe2cyfIok4",
+        "thumbnail_url": "https://i.ytimg.com/vi/KQe2cyfIok4/hqdefault.jpg",
+        "duration_minutes": 0.4,
+        "upload_date": "2023-10-12",
+        "comment_count": 19
+    },
+    {
+        "title": "That\u2019s called \u201cEmmet\u201d #programming #vscode #code",
+        "video_url": "https://www.youtube.com/watch?v=BJ4LXnt0KNA",
+        "thumbnail_url": "https://i.ytimg.com/vi/BJ4LXnt0KNA/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-01-17",
+        "comment_count": 49
+    },
+    {
+        "title": "== vs. 'is' in Python \ud83d\udc0d",
+        "video_url": "https://www.youtube.com/watch?v=kydFX8_Dnhg",
+        "thumbnail_url": "https://i.ytimg.com/vi/kydFX8_Dnhg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-06-22",
+        "comment_count": 18
+    },
+    {
+        "title": "Agent mode in GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=KSxUr0BU9ig",
+        "thumbnail_url": "https://i.ytimg.com/vi/KSxUr0BU9ig/hqdefault.jpg",
+        "duration_minutes": 1.7,
+        "upload_date": "2025-02-08",
+        "comment_count": 36
+    },
+    {
+        "title": "Next Edit Suggestions for GitHub Copilot in action",
+        "video_url": "https://www.youtube.com/watch?v=zPUvU6XYhpw",
+        "thumbnail_url": "https://i.ytimg.com/vi/zPUvU6XYhpw/hqdefault.jpg",
+        "duration_minutes": 3.67,
+        "upload_date": "2025-02-20",
+        "comment_count": 32
+    },
+    {
+        "title": "What you may not know\u2026 #vscode #coding #shorts",
+        "video_url": "https://www.youtube.com/watch?v=SCvWXEFb8jE",
+        "thumbnail_url": "https://i.ytimg.com/vi/SCvWXEFb8jE/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2023-01-04",
+        "comment_count": 16
+    },
+    {
+        "title": "You should be on VS Code Insiders",
+        "video_url": "https://www.youtube.com/watch?v=Jlr8FhBitNw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Jlr8FhBitNw/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2025-02-25",
+        "comment_count": 4
+    },
+    {
+        "title": "Web devs - you need this launch config",
+        "video_url": "https://www.youtube.com/watch?v=r0FX4Yq9X3k",
+        "thumbnail_url": "https://i.ytimg.com/vi/r0FX4Yq9X3k/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2022-02-03",
+        "comment_count": 25
+    },
+    {
+        "title": "Terminal ligatures",
+        "video_url": "https://www.youtube.com/watch?v=faf6PhmgSzw",
+        "thumbnail_url": "https://i.ytimg.com/vi/faf6PhmgSzw/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-12-13",
+        "comment_count": 10
+    },
+    {
+        "title": "A must-have for HTML files!",
+        "video_url": "https://www.youtube.com/watch?v=O-MDYGdOfeM",
+        "thumbnail_url": "https://i.ytimg.com/vi/O-MDYGdOfeM/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2022-12-21",
+        "comment_count": 19
+    },
+    {
+        "title": "Coding with Pets",
+        "video_url": "https://www.youtube.com/watch?v=GcUH2BDXd_k",
+        "thumbnail_url": "https://i.ytimg.com/vi/GcUH2BDXd_k/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2023-11-04",
+        "comment_count": 24
+    },
+    {
+        "title": "Ruby, payments, and asynchronicity: a 5 minute deep dive",
+        "video_url": "https://www.youtube.com/watch?v=t1gfKO8vSrw",
+        "thumbnail_url": "https://i.ytimg.com/vi/t1gfKO8vSrw/hqdefault.jpg",
+        "duration_minutes": 4.65,
+        "upload_date": "2022-03-03",
+        "comment_count": 0
+    },
+    {
+        "title": "Using Git with Visual Studio Code (Official Beginner Tutorial)",
+        "video_url": "https://www.youtube.com/watch?v=i_23KUAEtUM",
+        "thumbnail_url": "https://i.ytimg.com/vi/i_23KUAEtUM/hqdefault.jpg",
+        "duration_minutes": 6.93,
+        "upload_date": "2022-05-27",
+        "comment_count": 492
+    },
+    {
+        "title": "Cats + HTML",
+        "video_url": "https://www.youtube.com/watch?v=Uy3buYwDIpY",
+        "thumbnail_url": "https://i.ytimg.com/vi/Uy3buYwDIpY/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2025-01-31",
+        "comment_count": 10
+    },
+    {
+        "title": "Learn Visual Studio Code in 7min (Official Beginner Tutorial)",
+        "video_url": "https://www.youtube.com/watch?v=B-s71n0dHUk",
+        "thumbnail_url": "https://i.ytimg.com/vi/B-s71n0dHUk/hqdefault.jpg",
+        "duration_minutes": 7.28,
+        "upload_date": "2022-04-29",
+        "comment_count": 726
+    },
+    {
+        "title": "Secret message in #vscode",
+        "video_url": "https://www.youtube.com/watch?v=E31vBhpLgHM",
+        "thumbnail_url": "https://i.ytimg.com/vi/E31vBhpLgHM/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-04-17",
+        "comment_count": 34
+    },
+    {
+        "title": "Creating an iOS app with GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=8sdkzXA0bzw",
+        "thumbnail_url": "https://i.ytimg.com/vi/8sdkzXA0bzw/hqdefault.jpg",
+        "duration_minutes": 4.0,
+        "upload_date": "2025-02-25",
+        "comment_count": 1
+    },
+    {
+        "title": "Get Started with Dev Containers in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=b1RavPr_878",
+        "thumbnail_url": "https://i.ytimg.com/vi/b1RavPr_878/hqdefault.jpg",
+        "duration_minutes": 6.98,
+        "upload_date": "2023-09-05",
+        "comment_count": 108
+    },
+    {
+        "title": "Finding  #vscode #themes the RIGHT way!",
+        "video_url": "https://www.youtube.com/watch?v=cksCxtfY14A",
+        "thumbnail_url": "https://i.ytimg.com/vi/cksCxtfY14A/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2023-10-27",
+        "comment_count": 5
+    },
+    {
+        "title": "GitHub Copilot Explains(terminal) #vscode",
+        "video_url": "https://www.youtube.com/watch?v=JT8ihOKpYx8",
+        "thumbnail_url": "https://i.ytimg.com/vi/JT8ihOKpYx8/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2024-03-06",
+        "comment_count": 14
+    },
+    {
+        "title": "Visualize data structures and algorithms",
+        "video_url": "https://www.youtube.com/watch?v=uehCDW1fxUw",
+        "thumbnail_url": "https://i.ytimg.com/vi/uehCDW1fxUw/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-10-16",
+        "comment_count": 103
+    },
+    {
+        "title": "Filter JavaScript Arrays Like a Boss",
+        "video_url": "https://www.youtube.com/watch?v=X_drwtnHUtg",
+        "thumbnail_url": "https://i.ytimg.com/vi/X_drwtnHUtg/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2022-11-12",
+        "comment_count": 30
+    },
+    {
+        "title": "This one is for everybody out there slinging docs and README\u2019s #coding  #writing  #ai",
+        "video_url": "https://www.youtube.com/watch?v=80ph9RYLct8",
+        "thumbnail_url": "https://i.ytimg.com/vi/80ph9RYLct8/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2025-02-23",
+        "comment_count": 9
+    },
+    {
+        "title": "The most adorable VS Code extension",
+        "video_url": "https://www.youtube.com/watch?v=_r5RzX5u6ig",
+        "thumbnail_url": "https://i.ytimg.com/vi/_r5RzX5u6ig/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-11-22",
+        "comment_count": 10
+    },
+    {
+        "title": "I\u2019m never writing another regex. EVER.",
+        "video_url": "https://www.youtube.com/watch?v=dTAZui3k4LU",
+        "thumbnail_url": "https://i.ytimg.com/vi/dTAZui3k4LU/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-10-18",
+        "comment_count": 408
+    },
+    {
+        "title": "Paste as HTML #vscode #coding",
+        "video_url": "https://www.youtube.com/watch?v=0zgrRTgJ8Pk",
+        "thumbnail_url": "https://i.ytimg.com/vi/0zgrRTgJ8Pk/hqdefault.jpg",
+        "duration_minutes": 0.42,
+        "upload_date": "2024-07-03",
+        "comment_count": 16
+    },
+    {
+        "title": "Getting Started with Jupyter Notebooks in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=suAkMeWJ1yE",
+        "thumbnail_url": "https://i.ytimg.com/vi/suAkMeWJ1yE/hqdefault.jpg",
+        "duration_minutes": 6.47,
+        "upload_date": "2024-08-29",
+        "comment_count": 49
+    },
+    {
+        "title": "Multiple cursors in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=qT1QPWgkSFs",
+        "thumbnail_url": "https://i.ytimg.com/vi/qT1QPWgkSFs/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2025-01-23",
+        "comment_count": 8
+    },
+    {
+        "title": "Figma + VS Code  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=e6fJG7TmEMY",
+        "thumbnail_url": "https://i.ytimg.com/vi/e6fJG7TmEMY/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-02-21",
+        "comment_count": 5
+    },
+    {
+        "title": "Run Multiple Languages with Code Runner",
+        "video_url": "https://www.youtube.com/watch?v=dQjZAjcgm28",
+        "thumbnail_url": "https://i.ytimg.com/vi/dQjZAjcgm28/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2023-04-28",
+        "comment_count": 15
+    },
+    {
+        "title": "Stop scrolling through your tabs!",
+        "video_url": "https://www.youtube.com/watch?v=Gy3dpfB3u0o",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gy3dpfB3u0o/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-08-23",
+        "comment_count": 65
+    },
+    {
+        "title": "The EXTREMELY helpful guide to merge conflicts",
+        "video_url": "https://www.youtube.com/watch?v=HosPml1qkrg",
+        "thumbnail_url": "https://i.ytimg.com/vi/HosPml1qkrg/hqdefault.jpg",
+        "duration_minutes": 8.37,
+        "upload_date": "2022-12-06",
+        "comment_count": 136
+    },
+    {
+        "title": "Changing Font in VS Code the RIGHT WAY!",
+        "video_url": "https://www.youtube.com/watch?v=Q2RrAdWmn_M",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q2RrAdWmn_M/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2023-03-29",
+        "comment_count": 29
+    },
+    {
+        "title": "Warning!! Do not Copy Paste Like This! #vscode",
+        "video_url": "https://www.youtube.com/watch?v=6NCAHp1PNtc",
+        "thumbnail_url": "https://i.ytimg.com/vi/6NCAHp1PNtc/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2023-12-08",
+        "comment_count": 82
+    },
+    {
+        "title": "CoPilot Q&A",
+        "video_url": "https://www.youtube.com/watch?v=gRNo_JOl-9g",
+        "thumbnail_url": "https://i.ytimg.com/vi/gRNo_JOl-9g/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2022-11-16",
+        "comment_count": 106
+    },
+    {
+        "title": "MORE programming horror \u2620\ufe0f\u2620\ufe0f",
+        "video_url": "https://www.youtube.com/watch?v=6SosuQDWaYU",
+        "thumbnail_url": "https://i.ytimg.com/vi/6SosuQDWaYU/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2022-04-25",
+        "comment_count": 256
+    },
+    {
+        "title": "STOP Creating New Files This! But Do THIS in VS Code!!!",
+        "video_url": "https://www.youtube.com/watch?v=VqOVb76IyI4",
+        "thumbnail_url": "https://i.ytimg.com/vi/VqOVb76IyI4/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2023-02-16",
+        "comment_count": 84
+    },
+    {
+        "title": "Code Fast with Emmet in VS Code!",
+        "video_url": "https://www.youtube.com/watch?v=SY8DppQHloU",
+        "thumbnail_url": "https://i.ytimg.com/vi/SY8DppQHloU/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2022-12-30",
+        "comment_count": 21
+    },
+    {
+        "title": "My site has been broken this whole time! #githubcopilot #coding #vscode",
+        "video_url": "https://www.youtube.com/watch?v=GPMWEBOwMCA",
+        "thumbnail_url": "https://i.ytimg.com/vi/GPMWEBOwMCA/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2025-02-19",
+        "comment_count": 12
+    },
+    {
+        "title": "Visual Studio Code & Git in 1 Minute",
+        "video_url": "https://www.youtube.com/watch?v=r-C7s15IvDM",
+        "thumbnail_url": "https://i.ytimg.com/vi/r-C7s15IvDM/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-04-28",
+        "comment_count": 60
+    },
+    {
+        "title": "The most underrated GitHub Copilot feature",
+        "video_url": "https://www.youtube.com/watch?v=YoXqJIGQwMw",
+        "thumbnail_url": "https://i.ytimg.com/vi/YoXqJIGQwMw/hqdefault.jpg",
+        "duration_minutes": 1.2,
+        "upload_date": "2024-12-13",
+        "comment_count": 11
+    },
+    {
+        "title": "Empowering Legacy Software Devs",
+        "video_url": "https://www.youtube.com/watch?v=RaYhqu-r1Pw",
+        "thumbnail_url": "https://i.ytimg.com/vi/RaYhqu-r1Pw/hqdefault.jpg",
+        "duration_minutes": 17.18,
+        "upload_date": "2023-04-26",
+        "comment_count": 3
+    },
+    {
+        "title": "5 things I learned building a wordle clone",
+        "video_url": "https://www.youtube.com/watch?v=eXow_OxrAeE",
+        "thumbnail_url": "https://i.ytimg.com/vi/eXow_OxrAeE/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2022-01-26",
+        "comment_count": 119
+    },
+    {
+        "title": "WARNING!!: Don't Copy Paste Like This!!",
+        "video_url": "https://www.youtube.com/watch?v=LauIa1bz2KA",
+        "thumbnail_url": "https://i.ytimg.com/vi/LauIa1bz2KA/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2022-09-22",
+        "comment_count": 223
+    },
+    {
+        "title": "VS Code 2022 Keynote and GitLens",
+        "video_url": "https://www.youtube.com/watch?v=JNXz5ivPIME",
+        "thumbnail_url": "https://i.ytimg.com/vi/JNXz5ivPIME/hqdefault.jpg",
+        "duration_minutes": 16.77,
+        "upload_date": "2022-03-03",
+        "comment_count": 5
+    },
+    {
+        "title": "What is 'git STASH'?",
+        "video_url": "https://www.youtube.com/watch?v=N6uEF6I4svc",
+        "thumbnail_url": "https://i.ytimg.com/vi/N6uEF6I4svc/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2022-11-05",
+        "comment_count": 12
+    },
+    {
+        "title": "The most requested feature. EVER.",
+        "video_url": "https://www.youtube.com/watch?v=IUHz4MeRGhU",
+        "thumbnail_url": "https://i.ytimg.com/vi/IUHz4MeRGhU/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2024-01-03",
+        "comment_count": 746
+    },
+    {
+        "title": "Eliminate your coding distractions \ud83d\udcbb",
+        "video_url": "https://www.youtube.com/watch?v=zTxSghVgV1c",
+        "thumbnail_url": "https://i.ytimg.com/vi/zTxSghVgV1c/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-09-13",
+        "comment_count": 39
+    },
+    {
+        "title": "The easiest way to visualize your repo",
+        "video_url": "https://www.youtube.com/watch?v=z5s41Qy8-Tc",
+        "thumbnail_url": "https://i.ytimg.com/vi/z5s41Qy8-Tc/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-09-06",
+        "comment_count": 41
+    },
+    {
+        "title": "Use Multi Cursors Like a Boss",
+        "video_url": "https://www.youtube.com/watch?v=RRn6vwbZca0",
+        "thumbnail_url": "https://i.ytimg.com/vi/RRn6vwbZca0/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-11-01",
+        "comment_count": 15
+    },
+    {
+        "title": "VS Code Day 2024 Promo",
+        "video_url": "https://www.youtube.com/watch?v=AkengVZnqeo",
+        "thumbnail_url": "https://i.ytimg.com/vi/AkengVZnqeo/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2024-03-28",
+        "comment_count": 5
+    },
+    {
+        "title": "16 - 6 = 8?? Thanks JavaScript #vscode",
+        "video_url": "https://www.youtube.com/watch?v=nM6AsTFzK4Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/nM6AsTFzK4Y/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2023-08-26",
+        "comment_count": 67
+    },
+    {
+        "title": "Multiple  Cursors?",
+        "video_url": "https://www.youtube.com/watch?v=iU3AS-S0_80",
+        "thumbnail_url": "https://i.ytimg.com/vi/iU3AS-S0_80/hqdefault.jpg",
+        "duration_minutes": 0.33,
+        "upload_date": "2024-02-02",
+        "comment_count": 34
+    },
+    {
+        "title": "Command Palette Magic \ud83e\ude84 #vscode #coding #programming",
+        "video_url": "https://www.youtube.com/watch?v=LneOFLTH40Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/LneOFLTH40Y/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-01-24",
+        "comment_count": 28
+    },
+    {
+        "title": "How to customize your window title #vscode #programming #code",
+        "video_url": "https://www.youtube.com/watch?v=YjUPuIWYroo",
+        "thumbnail_url": "https://i.ytimg.com/vi/YjUPuIWYroo/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-05-29",
+        "comment_count": 24
+    },
+    {
+        "title": "\ud83c\udf89 Release Party v1.75 | Profiles, Accessibility and Terminal Updates",
+        "video_url": "https://www.youtube.com/watch?v=PCDfH84cvCQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/PCDfH84cvCQ/hqdefault.jpg",
+        "duration_minutes": 38.13,
+        "upload_date": "2023-02-09",
+        "comment_count": 9
+    },
+    {
+        "title": "Select multiple tabs at once in #vscode",
+        "video_url": "https://www.youtube.com/watch?v=wyLWlrRcIqA",
+        "thumbnail_url": "https://i.ytimg.com/vi/wyLWlrRcIqA/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-08-16",
+        "comment_count": 32
+    },
+    {
+        "title": "Stop searching for the same code over and over again!",
+        "video_url": "https://www.youtube.com/watch?v=PrI1m7qOsag",
+        "thumbnail_url": "https://i.ytimg.com/vi/PrI1m7qOsag/hqdefault.jpg",
+        "duration_minutes": 0.37,
+        "upload_date": "2022-11-30",
+        "comment_count": 42
+    },
+    {
+        "title": "\ud83c\udf89 Release Party v1.78 | Pylance, Devcontainers, Drag and Drop, Copilot Chat",
+        "video_url": "https://www.youtube.com/watch?v=mhYCTz-rswE",
+        "thumbnail_url": "https://i.ytimg.com/vi/mhYCTz-rswE/hqdefault.jpg",
+        "duration_minutes": 50.48,
+        "upload_date": "2023-05-11",
+        "comment_count": 1
+    },
+    {
+        "title": "Top 5 VS Code Productivity Tips Marathon",
+        "video_url": "https://www.youtube.com/watch?v=HIqONcVBEm0",
+        "thumbnail_url": "https://i.ytimg.com/vi/HIqONcVBEm0/hqdefault.jpg",
+        "duration_minutes": 3.0,
+        "upload_date": "2023-04-25",
+        "comment_count": 38
+    },
+    {
+        "title": "Double Shift!",
+        "video_url": "https://www.youtube.com/watch?v=9vFTkFLr_gI",
+        "thumbnail_url": "https://i.ytimg.com/vi/9vFTkFLr_gI/hqdefault.jpg",
+        "duration_minutes": 0.27,
+        "upload_date": "2022-02-08",
+        "comment_count": 171
+    },
+    {
+        "title": "Visualize Data Structures in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=3O6BFlOiFRg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3O6BFlOiFRg/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2025-01-03",
+        "comment_count": 53
+    },
+    {
+        "title": "Pick your CSS colors like this!",
+        "video_url": "https://www.youtube.com/watch?v=ubploShr3wA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ubploShr3wA/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2023-06-21",
+        "comment_count": 23
+    },
+    {
+        "title": "Beyond the Editor: Tips to get the Most out of GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=06aAHJoP3hc",
+        "thumbnail_url": "https://i.ytimg.com/vi/06aAHJoP3hc/hqdefault.jpg",
+        "duration_minutes": 30.65,
+        "upload_date": "2024-05-27",
+        "comment_count": 12
+    },
+    {
+        "title": "This guy\u2026",
+        "video_url": "https://www.youtube.com/watch?v=AZNr6q8fXvg",
+        "thumbnail_url": "https://i.ytimg.com/vi/AZNr6q8fXvg/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2024-01-24",
+        "comment_count": 55
+    },
+    {
+        "title": "Accessibility on the top 1M websites",
+        "video_url": "https://www.youtube.com/watch?v=Xe1_paniVB4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Xe1_paniVB4/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2022-04-18",
+        "comment_count": 19
+    },
+    {
+        "title": "Customize Dev Containers in VS Code with Dockerfiles and Docker Compose",
+        "video_url": "https://www.youtube.com/watch?v=p9L7YFqHGk4",
+        "thumbnail_url": "https://i.ytimg.com/vi/p9L7YFqHGk4/hqdefault.jpg",
+        "duration_minutes": 6.27,
+        "upload_date": "2024-01-31",
+        "comment_count": 29
+    },
+    {
+        "title": "Avoid typ0z in code with VS Code Spell Checker Extension.",
+        "video_url": "https://www.youtube.com/watch?v=s8VzAM7_TAk",
+        "thumbnail_url": "https://i.ytimg.com/vi/s8VzAM7_TAk/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-10-27",
+        "comment_count": 26
+    },
+    {
+        "title": "The best way to get a subset of your list in #javascript",
+        "video_url": "https://www.youtube.com/watch?v=fV7sBvBRCPk",
+        "thumbnail_url": "https://i.ytimg.com/vi/fV7sBvBRCPk/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2023-10-04",
+        "comment_count": 7
+    },
+    {
+        "title": "\ud83c\udf89 VS Code 1.59 Release Party",
+        "video_url": "https://www.youtube.com/watch?v=Wb4rN6FHjoo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Wb4rN6FHjoo/hqdefault.jpg",
+        "duration_minutes": 31.47,
+        "upload_date": "2021-08-10",
+        "comment_count": 25
+    },
+    {
+        "title": "GitHub Copilot Agent Mode: Build an iOS App in Minutes",
+        "video_url": "https://www.youtube.com/watch?v=gKEWB0vg_Cs",
+        "thumbnail_url": "https://i.ytimg.com/vi/gKEWB0vg_Cs/hqdefault.jpg",
+        "duration_minutes": 5.02,
+        "upload_date": "2025-02-10",
+        "comment_count": 31
+    },
+    {
+        "title": "Copilot Best Practices (What Not To Do)",
+        "video_url": "https://www.youtube.com/watch?v=2q0BoioYSxQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/2q0BoioYSxQ/hqdefault.jpg",
+        "duration_minutes": 8.72,
+        "upload_date": "2024-02-29",
+        "comment_count": 62
+    },
+    {
+        "title": "Extension of the Week: Template String Converter",
+        "video_url": "https://www.youtube.com/watch?v=bFESKcX5PEM",
+        "thumbnail_url": "https://i.ytimg.com/vi/bFESKcX5PEM/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2023-03-28",
+        "comment_count": 33
+    },
+    {
+        "title": "Don\u2019t touch your \ud83d\udc2d #vscode #coding #programming",
+        "video_url": "https://www.youtube.com/watch?v=dJWJ0hCAkAI",
+        "thumbnail_url": "https://i.ytimg.com/vi/dJWJ0hCAkAI/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2023-02-08",
+        "comment_count": 414
+    },
+    {
+        "title": "Get Started with GitHub Copilot in VS Code (2023)",
+        "video_url": "https://www.youtube.com/watch?v=Fi3AJZZregI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Fi3AJZZregI/hqdefault.jpg",
+        "duration_minutes": 14.55,
+        "upload_date": "2023-03-03",
+        "comment_count": 209
+    },
+    {
+        "title": "Truthy and falsy values in JavaScript  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=KGkBy1qAdDM",
+        "thumbnail_url": "https://i.ytimg.com/vi/KGkBy1qAdDM/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-02-07",
+        "comment_count": 10
+    },
+    {
+        "title": "Master VS Code's keyboard shortcuts in 13 minutes",
+        "video_url": "https://www.youtube.com/watch?v=nWIRJBCjls8",
+        "thumbnail_url": "https://i.ytimg.com/vi/nWIRJBCjls8/hqdefault.jpg",
+        "duration_minutes": 12.83,
+        "upload_date": "2024-07-26",
+        "comment_count": 104
+    },
+    {
+        "title": "Getting Started with Python in VS Code (Official Video)",
+        "video_url": "https://www.youtube.com/watch?v=D2cwvpJSBX4",
+        "thumbnail_url": "https://i.ytimg.com/vi/D2cwvpJSBX4/hqdefault.jpg",
+        "duration_minutes": 10.33,
+        "upload_date": "2024-08-12",
+        "comment_count": 156
+    },
+    {
+        "title": "C++ in VS Code: A Quick Guide",
+        "video_url": "https://www.youtube.com/watch?v=qeEcV6u1kV4",
+        "thumbnail_url": "https://i.ytimg.com/vi/qeEcV6u1kV4/hqdefault.jpg",
+        "duration_minutes": 5.22,
+        "upload_date": "2024-01-05",
+        "comment_count": 85
+    },
+    {
+        "title": "Java in VS Code October 2022 Release Highlights",
+        "video_url": "https://www.youtube.com/watch?v=POBhv6Lci4E",
+        "thumbnail_url": "https://i.ytimg.com/vi/POBhv6Lci4E/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2022-11-07",
+        "comment_count": 16
+    },
+    {
+        "title": "Copilot and Jupyter Notebooks",
+        "video_url": "https://www.youtube.com/watch?v=ipHWdzbbOwA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ipHWdzbbOwA/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-03-03",
+        "comment_count": 16
+    },
+    {
+        "title": "GitHub Copilot's @Workspace - Deep Dive",
+        "video_url": "https://www.youtube.com/watch?v=3Yz48eenPEE",
+        "thumbnail_url": "https://i.ytimg.com/vi/3Yz48eenPEE/hqdefault.jpg",
+        "duration_minutes": 8.63,
+        "upload_date": "2024-04-05",
+        "comment_count": 18
+    },
+    {
+        "title": "Working with Multiple Dev Containers in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=bVmczgfeR5Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/bVmczgfeR5Y/hqdefault.jpg",
+        "duration_minutes": 9.77,
+        "upload_date": "2023-11-30",
+        "comment_count": 40
+    },
+    {
+        "title": "\u2615\ufe0f Change your Java versions in VS Code!",
+        "video_url": "https://www.youtube.com/watch?v=p-H7Q9PtSc8",
+        "thumbnail_url": "https://i.ytimg.com/vi/p-H7Q9PtSc8/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-05-06",
+        "comment_count": 21
+    },
+    {
+        "title": "How VS Code Makes Branches",
+        "video_url": "https://www.youtube.com/watch?v=-hvEdSI8ziE",
+        "thumbnail_url": "https://i.ytimg.com/vi/-hvEdSI8ziE/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-05-11",
+        "comment_count": 14
+    },
+    {
+        "title": "Protect your code time and stay in flow with Software.com in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=qnY34cVYM4g",
+        "thumbnail_url": "https://i.ytimg.com/vi/qnY34cVYM4g/hqdefault.jpg",
+        "duration_minutes": 31.7,
+        "upload_date": "2021-06-04",
+        "comment_count": 8
+    },
+    {
+        "title": "Copilot Unit Tests Like a Boss",
+        "video_url": "https://www.youtube.com/watch?v=AGFvs2pT1VQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/AGFvs2pT1VQ/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-03-13",
+        "comment_count": 13
+    },
+    {
+        "title": "The all NEW GitHub Copilot Experience",
+        "video_url": "https://www.youtube.com/watch?v=NvWl-bZTDKw",
+        "thumbnail_url": "https://i.ytimg.com/vi/NvWl-bZTDKw/hqdefault.jpg",
+        "duration_minutes": 13.77,
+        "upload_date": "2024-11-13",
+        "comment_count": 150
+    },
+    {
+        "title": "AI tip of the week: Automating email support with ChatGPT #vscode #chatgpt #ai",
+        "video_url": "https://www.youtube.com/watch?v=5n3enOoOcfI",
+        "thumbnail_url": "https://i.ytimg.com/vi/5n3enOoOcfI/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-04-26",
+        "comment_count": 10
+    },
+    {
+        "title": "#vscode profiles",
+        "video_url": "https://www.youtube.com/watch?v=WzlpGnbNPH4",
+        "thumbnail_url": "https://i.ytimg.com/vi/WzlpGnbNPH4/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-02-15",
+        "comment_count": 34
+    },
+    {
+        "title": "Port forwarding in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=zyaG4zGxz0c",
+        "thumbnail_url": "https://i.ytimg.com/vi/zyaG4zGxz0c/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-12-05",
+        "comment_count": 15
+    },
+    {
+        "title": "Keep Production Running with VS Code & CodeStream",
+        "video_url": "https://www.youtube.com/watch?v=nrdKQ2xkkog",
+        "thumbnail_url": "https://i.ytimg.com/vi/nrdKQ2xkkog/hqdefault.jpg",
+        "duration_minutes": 54.03,
+        "upload_date": "2023-08-04",
+        "comment_count": 1
+    },
+    {
+        "title": "Get Started with Azure using VS Code",
+        "video_url": "https://www.youtube.com/watch?v=xjDdO3lOOXw",
+        "thumbnail_url": "https://i.ytimg.com/vi/xjDdO3lOOXw/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2022-09-22",
+        "comment_count": 7
+    },
+    {
+        "title": "Auto Save - More than one way!",
+        "video_url": "https://www.youtube.com/watch?v=4fTPhOwTKss",
+        "thumbnail_url": "https://i.ytimg.com/vi/4fTPhOwTKss/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-02-22",
+        "comment_count": 14
+    },
+    {
+        "title": "more #vscode shortcuts!",
+        "video_url": "https://www.youtube.com/watch?v=oM33H0zuoA0",
+        "thumbnail_url": "https://i.ytimg.com/vi/oM33H0zuoA0/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-06-12",
+        "comment_count": 16
+    },
+    {
+        "title": "Use this one prompt to learn anything with AI",
+        "video_url": "https://www.youtube.com/watch?v=DIw30raLmdM",
+        "thumbnail_url": "https://i.ytimg.com/vi/DIw30raLmdM/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-08-06",
+        "comment_count": 18
+    },
+    {
+        "title": "CodeLens \ud83d\udc53",
+        "video_url": "https://www.youtube.com/watch?v=A_ggMC7XM8Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/A_ggMC7XM8Q/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-09-24",
+        "comment_count": 13
+    },
+    {
+        "title": "Nobody likes cron jobs #coding #vscode #programming",
+        "video_url": "https://www.youtube.com/watch?v=6u1FDm9zJ2k",
+        "thumbnail_url": "https://i.ytimg.com/vi/6u1FDm9zJ2k/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2023-02-13",
+        "comment_count": 29
+    },
+    {
+        "title": "terminal tricks #vscode",
+        "video_url": "https://www.youtube.com/watch?v=3Cu3c-ABuZk",
+        "thumbnail_url": "https://i.ytimg.com/vi/3Cu3c-ABuZk/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-06-05",
+        "comment_count": 17
+    },
+    {
+        "title": "why you don't need console.log",
+        "video_url": "https://www.youtube.com/watch?v=eVs7Gz3q33Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/eVs7Gz3q33Q/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2025-01-25",
+        "comment_count": 77
+    },
+    {
+        "title": "Extension of the Week: Thunder Client #vscode #programming #code",
+        "video_url": "https://www.youtube.com/watch?v=X3wgBid4gO8",
+        "thumbnail_url": "https://i.ytimg.com/vi/X3wgBid4gO8/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2023-04-05",
+        "comment_count": 22
+    },
+    {
+        "title": "New Copilot features in the #vscode terminal!",
+        "video_url": "https://www.youtube.com/watch?v=76jU7rF4ik8",
+        "thumbnail_url": "https://i.ytimg.com/vi/76jU7rF4ik8/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-11-08",
+        "comment_count": 12
+    },
+    {
+        "title": "Try Maven (and Java\ud83c\udf75) in VS Code!",
+        "video_url": "https://www.youtube.com/watch?v=t322UnzV9vM",
+        "thumbnail_url": "https://i.ytimg.com/vi/t322UnzV9vM/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2023-03-20",
+        "comment_count": 24
+    },
+    {
+        "title": "Bash shell in Windows??",
+        "video_url": "https://www.youtube.com/watch?v=Q51dOTjL6xc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q51dOTjL6xc/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-02-01",
+        "comment_count": 20
+    },
+    {
+        "title": "VS Code's Playground",
+        "video_url": "https://www.youtube.com/watch?v=IVpG0QeTt2I",
+        "thumbnail_url": "https://i.ytimg.com/vi/IVpG0QeTt2I/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-02-16",
+        "comment_count": 7
+    },
+    {
+        "title": "Take your extensions with you",
+        "video_url": "https://www.youtube.com/watch?v=HyhSDvaaRwM",
+        "thumbnail_url": "https://i.ytimg.com/vi/HyhSDvaaRwM/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2023-02-23",
+        "comment_count": 3
+    },
+    {
+        "title": "Download 1 File from Git Repository Like a Boss!",
+        "video_url": "https://www.youtube.com/watch?v=_XkTkRndqy4",
+        "thumbnail_url": "https://i.ytimg.com/vi/_XkTkRndqy4/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2023-01-26",
+        "comment_count": 14
+    },
+    {
+        "title": "API calls right in VS Code #vscode",
+        "video_url": "https://www.youtube.com/watch?v=PKmPnbL8KT8",
+        "thumbnail_url": "https://i.ytimg.com/vi/PKmPnbL8KT8/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-03-27",
+        "comment_count": 33
+    },
+    {
+        "title": "How to Switch Containers in VS Code #vscode",
+        "video_url": "https://www.youtube.com/watch?v=UWwpq3OmOg0",
+        "thumbnail_url": "https://i.ytimg.com/vi/UWwpq3OmOg0/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2023-12-04",
+        "comment_count": 40
+    },
+    {
+        "title": "Copilot",
+        "video_url": "https://www.youtube.com/watch?v=txCmSlNvCuw",
+        "thumbnail_url": "https://i.ytimg.com/vi/txCmSlNvCuw/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2022-07-19",
+        "comment_count": 70
+    },
+    {
+        "title": "New VS Code Release Highlights v1.88",
+        "video_url": "https://www.youtube.com/watch?v=bHv7kJ4I468",
+        "thumbnail_url": "https://i.ytimg.com/vi/bHv7kJ4I468/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-04-05",
+        "comment_count": 7
+    },
+    {
+        "title": "Get started with end-to-end testing: Playwright | Episode 1 - Introduction",
+        "video_url": "https://www.youtube.com/watch?v=4-LwodVujTg",
+        "thumbnail_url": "https://i.ytimg.com/vi/4-LwodVujTg/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2023-10-25",
+        "comment_count": 8
+    },
+    {
+        "title": "VS Code v1.81 Release Highlights #vscode",
+        "video_url": "https://www.youtube.com/watch?v=9rPIVQ6c71Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/9rPIVQ6c71Y/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-08-09",
+        "comment_count": 17
+    },
+    {
+        "title": "Prompting with Copilot",
+        "video_url": "https://www.youtube.com/watch?v=ImWfIDTxn7E",
+        "thumbnail_url": "https://i.ytimg.com/vi/ImWfIDTxn7E/hqdefault.jpg",
+        "duration_minutes": 14.1,
+        "upload_date": "2023-05-29",
+        "comment_count": 16
+    },
+    {
+        "title": "JavaScript String Interpolation",
+        "video_url": "https://www.youtube.com/watch?v=KQ4IBbb5qqg",
+        "thumbnail_url": "https://i.ytimg.com/vi/KQ4IBbb5qqg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-07-12",
+        "comment_count": 14
+    },
+    {
+        "title": "1 Million Java Virtual Threads!",
+        "video_url": "https://www.youtube.com/watch?v=DJhY-awvlqs",
+        "thumbnail_url": "https://i.ytimg.com/vi/DJhY-awvlqs/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-06-30",
+        "comment_count": 12
+    },
+    {
+        "title": "Get started with Java and Spring Boot in VS Code!",
+        "video_url": "https://www.youtube.com/watch?v=npEOMJrB9dc",
+        "thumbnail_url": "https://i.ytimg.com/vi/npEOMJrB9dc/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-01-30",
+        "comment_count": 13
+    },
+    {
+        "title": "Use THIS instead of IF-ELSE!",
+        "video_url": "https://www.youtube.com/watch?v=vPsePyu3BUU",
+        "thumbnail_url": "https://i.ytimg.com/vi/vPsePyu3BUU/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2023-08-11",
+        "comment_count": 53
+    },
+    {
+        "title": "\ud83c\udf89 Release party v1.72",
+        "video_url": "https://www.youtube.com/watch?v=mllbWOxbb-g",
+        "thumbnail_url": "https://i.ytimg.com/vi/mllbWOxbb-g/hqdefault.jpg",
+        "duration_minutes": 57.07,
+        "upload_date": "2022-10-13",
+        "comment_count": 14
+    },
+    {
+        "title": "Monocraft #fonts #vscode #minecraft #coding",
+        "video_url": "https://www.youtube.com/watch?v=L9F1AzF9oFo",
+        "thumbnail_url": "https://i.ytimg.com/vi/L9F1AzF9oFo/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-02-14",
+        "comment_count": 16
+    },
+    {
+        "title": "Pixel perfect with #vscode",
+        "video_url": "https://www.youtube.com/watch?v=hx76OxBIdEs",
+        "thumbnail_url": "https://i.ytimg.com/vi/hx76OxBIdEs/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-08-22",
+        "comment_count": 38
+    },
+    {
+        "title": "How is THIS valid c# code??",
+        "video_url": "https://www.youtube.com/watch?v=anwlmuHSD5M",
+        "thumbnail_url": "https://i.ytimg.com/vi/anwlmuHSD5M/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-07-19",
+        "comment_count": 20
+    },
+    {
+        "title": "C# Hello World tutorial",
+        "video_url": "https://www.youtube.com/watch?v=0qe30WAxeWE",
+        "thumbnail_url": "https://i.ytimg.com/vi/0qe30WAxeWE/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-10-28",
+        "comment_count": 10
+    },
+    {
+        "title": "Spring Beans in VS Code \ud83c\udf43",
+        "video_url": "https://www.youtube.com/watch?v=EQiWoXptPu4",
+        "thumbnail_url": "https://i.ytimg.com/vi/EQiWoXptPu4/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2023-03-01",
+        "comment_count": 13
+    },
+    {
+        "title": "Favorite VS Code features of 2022",
+        "video_url": "https://www.youtube.com/watch?v=0WOx1aoHH1o",
+        "thumbnail_url": "https://i.ytimg.com/vi/0WOx1aoHH1o/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2022-12-28",
+        "comment_count": 32
+    },
+    {
+        "title": "Nested Folder Hack  #vscode #code #coding #programming #java",
+        "video_url": "https://www.youtube.com/watch?v=01eZpFSI7AQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/01eZpFSI7AQ/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2023-08-25",
+        "comment_count": 11
+    },
+    {
+        "title": "I don't remember what my code does",
+        "video_url": "https://www.youtube.com/watch?v=4Q5ceNbNdew",
+        "thumbnail_url": "https://i.ytimg.com/vi/4Q5ceNbNdew/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2025-01-13",
+        "comment_count": 15
+    },
+    {
+        "title": "Look mom, no calculator!",
+        "video_url": "https://www.youtube.com/watch?v=_EHJD7nXmnE",
+        "thumbnail_url": "https://i.ytimg.com/vi/_EHJD7nXmnE/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-06-21",
+        "comment_count": 33
+    },
+    {
+        "title": "The best way to get a subset of your list in #python",
+        "video_url": "https://www.youtube.com/watch?v=-P6D5-PBY28",
+        "thumbnail_url": "https://i.ytimg.com/vi/-P6D5-PBY28/hqdefault.jpg",
+        "duration_minutes": 0.52,
+        "upload_date": "2023-09-19",
+        "comment_count": 11
+    },
+    {
+        "title": "Do you REALLY need to know CSS? #programming #coding #vscode",
+        "video_url": "https://www.youtube.com/watch?v=FaXlUpAxky4",
+        "thumbnail_url": "https://i.ytimg.com/vi/FaXlUpAxky4/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2023-05-20",
+        "comment_count": 25
+    },
+    {
+        "title": "Custom \u2699\ufe0f #vscode #coding",
+        "video_url": "https://www.youtube.com/watch?v=W9vhzlwzXIY",
+        "thumbnail_url": "https://i.ytimg.com/vi/W9vhzlwzXIY/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2023-11-01",
+        "comment_count": 9
+    },
+    {
+        "title": "Save some time with code snippets",
+        "video_url": "https://www.youtube.com/watch?v=RMOkYdKxelY",
+        "thumbnail_url": "https://i.ytimg.com/vi/RMOkYdKxelY/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2022-10-26",
+        "comment_count": 22
+    },
+    {
+        "title": "What does the middle mouse button even do? #vscode #programming #terminal",
+        "video_url": "https://www.youtube.com/watch?v=VgWE-9RtfpQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/VgWE-9RtfpQ/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2024-05-08",
+        "comment_count": 24
+    },
+    {
+        "title": "Arrow Function: Think Backwards",
+        "video_url": "https://www.youtube.com/watch?v=4dgSwnKtVLo",
+        "thumbnail_url": "https://i.ytimg.com/vi/4dgSwnKtVLo/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2023-09-22",
+        "comment_count": 20
+    },
+    {
+        "title": "VS Code icon themes",
+        "video_url": "https://www.youtube.com/watch?v=HV-cSSXka_I",
+        "thumbnail_url": "https://i.ytimg.com/vi/HV-cSSXka_I/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2024-10-30",
+        "comment_count": 10
+    },
+    {
+        "title": "VS Code Day 2024",
+        "video_url": "https://www.youtube.com/watch?v=iCDfAC4f25w",
+        "thumbnail_url": "https://i.ytimg.com/vi/iCDfAC4f25w/hqdefault.jpg",
+        "duration_minutes": 366.52,
+        "upload_date": "2024-04-24",
+        "comment_count": 28
+    },
+    {
+        "title": "VS Code Java April 2023 Updates \u2615",
+        "video_url": "https://www.youtube.com/watch?v=q-HfGwkOyP8",
+        "thumbnail_url": "https://i.ytimg.com/vi/q-HfGwkOyP8/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2023-05-15",
+        "comment_count": 4
+    },
+    {
+        "title": "New developer prank unlocked #vscode",
+        "video_url": "https://www.youtube.com/watch?v=58h9Xcesf0E",
+        "thumbnail_url": "https://i.ytimg.com/vi/58h9Xcesf0E/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-08-29",
+        "comment_count": 20
+    },
+    {
+        "title": "How to speed up Remote-Containers on Windows",
+        "video_url": "https://www.youtube.com/watch?v=MUsROtVmPJM",
+        "thumbnail_url": "https://i.ytimg.com/vi/MUsROtVmPJM/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2021-11-15",
+        "comment_count": 1
+    },
+    {
+        "title": "Using GitHub Copilot to build a mobile app without writing a SINGLE line of code",
+        "video_url": "https://www.youtube.com/watch?v=Vj13SdN6OxU",
+        "thumbnail_url": "https://i.ytimg.com/vi/Vj13SdN6OxU/hqdefault.jpg",
+        "duration_minutes": 16.38,
+        "upload_date": "2024-12-06",
+        "comment_count": 46
+    },
+    {
+        "title": "Pull Requests in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=LdSwWxVzUpo",
+        "thumbnail_url": "https://i.ytimg.com/vi/LdSwWxVzUpo/hqdefault.jpg",
+        "duration_minutes": 10.18,
+        "upload_date": "2022-10-13",
+        "comment_count": 41
+    },
+    {
+        "title": "Using Custom Instructions with Copilot to enhance our prompts",
+        "video_url": "https://www.youtube.com/watch?v=cu9zZAFmoDg",
+        "thumbnail_url": "https://i.ytimg.com/vi/cu9zZAFmoDg/hqdefault.jpg",
+        "duration_minutes": 10.13,
+        "upload_date": "2024-09-28",
+        "comment_count": 21
+    },
+    {
+        "title": "Jupyter Notebooks in VS Code Walkthrough",
+        "video_url": "https://www.youtube.com/watch?v=DA6ZAHBPF1U",
+        "thumbnail_url": "https://i.ytimg.com/vi/DA6ZAHBPF1U/hqdefault.jpg",
+        "duration_minutes": 10.68,
+        "upload_date": "2022-09-23",
+        "comment_count": 46
+    },
+    {
+        "title": "Claude? o1? GPT? Try them all",
+        "video_url": "https://www.youtube.com/watch?v=rYcPML187ro",
+        "thumbnail_url": "https://i.ytimg.com/vi/rYcPML187ro/hqdefault.jpg",
+        "duration_minutes": 1.1,
+        "upload_date": "2024-11-23",
+        "comment_count": 17
+    },
+    {
+        "title": "C++ in VS Code: Building your Code with CMake",
+        "video_url": "https://www.youtube.com/watch?v=_BWU5mWqVA4",
+        "thumbnail_url": "https://i.ytimg.com/vi/_BWU5mWqVA4/hqdefault.jpg",
+        "duration_minutes": 9.62,
+        "upload_date": "2024-04-26",
+        "comment_count": 50
+    },
+    {
+        "title": "Extension of the Week: Better Comments",
+        "video_url": "https://www.youtube.com/watch?v=6UJSufid3kk",
+        "thumbnail_url": "https://i.ytimg.com/vi/6UJSufid3kk/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-03-08",
+        "comment_count": 15
+    },
+    {
+        "title": "Building ChatGPT with ChatGPT and GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=zTlHLQaZsCc",
+        "thumbnail_url": "https://i.ytimg.com/vi/zTlHLQaZsCc/hqdefault.jpg",
+        "duration_minutes": 79.72,
+        "upload_date": "2023-06-01",
+        "comment_count": 15
+    },
+    {
+        "title": "Access Your Computer Anywhere with VS Code\u2014No VM Needed! \ud83d\udcbb\ud83c\udf0d",
+        "video_url": "https://www.youtube.com/watch?v=SyLHXdXhE1U",
+        "thumbnail_url": "https://i.ytimg.com/vi/SyLHXdXhE1U/hqdefault.jpg",
+        "duration_minutes": 6.9,
+        "upload_date": "2024-10-04",
+        "comment_count": 72
+    },
+    {
+        "title": "Get Started with GitHub Copilot in VS Code (2025)",
+        "video_url": "https://www.youtube.com/watch?v=vdBxfFVXnc0",
+        "thumbnail_url": "https://i.ytimg.com/vi/vdBxfFVXnc0/hqdefault.jpg",
+        "duration_minutes": 21.45,
+        "upload_date": "2025-01-31",
+        "comment_count": 34
+    },
+    {
+        "title": "Work in reverse \ud83d\udd04 #coding #vscode #ai",
+        "video_url": "https://www.youtube.com/watch?v=c-xaun_Ziq4",
+        "thumbnail_url": "https://i.ytimg.com/vi/c-xaun_Ziq4/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-05-03",
+        "comment_count": 41
+    },
+    {
+        "title": "Introducing GitHub Copilot Next Edit Suggestions (preview) in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=mbUnwaSllTY",
+        "thumbnail_url": "https://i.ytimg.com/vi/mbUnwaSllTY/hqdefault.jpg",
+        "duration_minutes": 1.08,
+        "upload_date": "2025-02-13",
+        "comment_count": 27
+    },
+    {
+        "title": "Mastering your data with Data Wrangler in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=5tWJVLF6PuA",
+        "thumbnail_url": "https://i.ytimg.com/vi/5tWJVLF6PuA/hqdefault.jpg",
+        "duration_minutes": 8.57,
+        "upload_date": "2024-05-13",
+        "comment_count": 38
+    },
+    {
+        "title": "Getting Started with Debugging in VS Code (Official Beginner Guide)",
+        "video_url": "https://www.youtube.com/watch?v=3HiLLByBWkg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3HiLLByBWkg/hqdefault.jpg",
+        "duration_minutes": 13.0,
+        "upload_date": "2024-07-01",
+        "comment_count": 72
+    },
+    {
+        "title": "Master Git with Git Graph\ud83d\udcca #coding #vscode #code #git",
+        "video_url": "https://www.youtube.com/watch?v=OfsixF-splk",
+        "thumbnail_url": "https://i.ytimg.com/vi/OfsixF-splk/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2023-07-21",
+        "comment_count": 19
+    },
+    {
+        "title": "Version Lens \ud83d\udc53",
+        "video_url": "https://www.youtube.com/watch?v=JWxXhQrRpMQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/JWxXhQrRpMQ/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-10-24",
+        "comment_count": 16
+    },
+    {
+        "title": "Ask Me Anything (AMA) with GitLens Creator: Eric Amodio",
+        "video_url": "https://www.youtube.com/watch?v=nIis0xKwHXw",
+        "thumbnail_url": "https://i.ytimg.com/vi/nIis0xKwHXw/hqdefault.jpg",
+        "duration_minutes": 35.22,
+        "upload_date": "2022-05-20",
+        "comment_count": 4
+    },
+    {
+        "title": "Try out .NET 8 with this free Codespace!",
+        "video_url": "https://www.youtube.com/watch?v=zU59WgWb25M",
+        "thumbnail_url": "https://i.ytimg.com/vi/zU59WgWb25M/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2023-10-24",
+        "comment_count": 5
+    },
+    {
+        "title": "Easily setup VS Code on a New Computer!",
+        "video_url": "https://www.youtube.com/watch?v=NKemXGeSmY4",
+        "thumbnail_url": "https://i.ytimg.com/vi/NKemXGeSmY4/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2023-12-11",
+        "comment_count": 18
+    },
+    {
+        "title": "Regular expressions don't have to be painful",
+        "video_url": "https://www.youtube.com/watch?v=yXqZqVacD3k",
+        "thumbnail_url": "https://i.ytimg.com/vi/yXqZqVacD3k/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-09-18",
+        "comment_count": 27
+    },
+    {
+        "title": "\ud83c\udf89 Release party v1.79 | Markdown, JS, vscode.dev and Copilot Chat",
+        "video_url": "https://www.youtube.com/watch?v=Q1B-BeygOwQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q1B-BeygOwQ/hqdefault.jpg",
+        "duration_minutes": 63.4,
+        "upload_date": "2023-06-15",
+        "comment_count": 10
+    },
+    {
+        "title": "How to quickly change your VS Code setup #vscode",
+        "video_url": "https://www.youtube.com/watch?v=6Zk-s9sm6GI",
+        "thumbnail_url": "https://i.ytimg.com/vi/6Zk-s9sm6GI/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-08-02",
+        "comment_count": 24
+    },
+    {
+        "title": "Minimap Makeover \ud83d\udc84  #coding #vscode #tips",
+        "video_url": "https://www.youtube.com/watch?v=t5vXCNIBVYw",
+        "thumbnail_url": "https://i.ytimg.com/vi/t5vXCNIBVYw/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2023-05-31",
+        "comment_count": 65
+    },
+    {
+        "title": "Exploring the Stripe SDK with Polyglot Notebooks in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=cY9wHDhJA6Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/cY9wHDhJA6Y/hqdefault.jpg",
+        "duration_minutes": 69.47,
+        "upload_date": "2023-03-17",
+        "comment_count": 3
+    },
+    {
+        "title": "Different Ways to Run Dev Containers: VS Code vs CLI",
+        "video_url": "https://www.youtube.com/watch?v=Fc6TAahZ1Pk",
+        "thumbnail_url": "https://i.ytimg.com/vi/Fc6TAahZ1Pk/hqdefault.jpg",
+        "duration_minutes": 5.37,
+        "upload_date": "2023-10-04",
+        "comment_count": 10
+    },
+    {
+        "title": "Code Customization 101: Supercharge VS Code with Profiles",
+        "video_url": "https://www.youtube.com/watch?v=QjvvqR9KyVo",
+        "thumbnail_url": "https://i.ytimg.com/vi/QjvvqR9KyVo/hqdefault.jpg",
+        "duration_minutes": 4.97,
+        "upload_date": "2023-06-29",
+        "comment_count": 48
+    },
+    {
+        "title": "Multi-Cursor Magic #marathon",
+        "video_url": "https://www.youtube.com/watch?v=1V4Lj8Eqdvc",
+        "thumbnail_url": "https://i.ytimg.com/vi/1V4Lj8Eqdvc/hqdefault.jpg",
+        "duration_minutes": 4.22,
+        "upload_date": "2024-06-27",
+        "comment_count": 1
+    },
+    {
+        "title": "How to be a professional (un)wrapper #vscode #programmingtools #coding",
+        "video_url": "https://www.youtube.com/watch?v=yuzKp_KsGIk",
+        "thumbnail_url": "https://i.ytimg.com/vi/yuzKp_KsGIk/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-07-22",
+        "comment_count": 39
+    },
+    {
+        "title": "How to use VS Code from ANYWHERE",
+        "video_url": "https://www.youtube.com/watch?v=q2viJSYyKio",
+        "thumbnail_url": "https://i.ytimg.com/vi/q2viJSYyKio/hqdefault.jpg",
+        "duration_minutes": 5.32,
+        "upload_date": "2022-07-07",
+        "comment_count": 502
+    },
+    {
+        "title": "\ud83c\udf89 Release Party v1.81 | Profiles, Jupyter and GHPRI Updates",
+        "video_url": "https://www.youtube.com/watch?v=hgLJKlA0oys",
+        "thumbnail_url": "https://i.ytimg.com/vi/hgLJKlA0oys/hqdefault.jpg",
+        "duration_minutes": 43.52,
+        "upload_date": "2023-08-11",
+        "comment_count": 6
+    },
+    {
+        "title": "VS Code, Azure ML, and GitHub Codespaces",
+        "video_url": "https://www.youtube.com/watch?v=-tBrncvGncA",
+        "thumbnail_url": "https://i.ytimg.com/vi/-tBrncvGncA/hqdefault.jpg",
+        "duration_minutes": 57.9,
+        "upload_date": "2022-04-01",
+        "comment_count": 4
+    },
+    {
+        "title": "Learn Visual Studio Code (For the Web)",
+        "video_url": "https://www.youtube.com/watch?v=2sdXMJZKLJE",
+        "thumbnail_url": "https://i.ytimg.com/vi/2sdXMJZKLJE/hqdefault.jpg",
+        "duration_minutes": 8.82,
+        "upload_date": "2024-11-22",
+        "comment_count": 22
+    },
+    {
+        "title": "Remote Tunnels #vscode #programming #software #coding",
+        "video_url": "https://www.youtube.com/watch?v=PGvV-r8IzoI",
+        "thumbnail_url": "https://i.ytimg.com/vi/PGvV-r8IzoI/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2022-12-28",
+        "comment_count": 31
+    },
+    {
+        "title": "5 things you had no idea you could do with Jupyter Notebooks",
+        "video_url": "https://www.youtube.com/watch?v=QJo57-pmcuM",
+        "thumbnail_url": "https://i.ytimg.com/vi/QJo57-pmcuM/hqdefault.jpg",
+        "duration_minutes": 3.93,
+        "upload_date": "2022-08-30",
+        "comment_count": 40
+    },
+    {
+        "title": "Getting Started using Copilot Chat for C++ in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=ZfT2CXY5-Dc",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZfT2CXY5-Dc/hqdefault.jpg",
+        "duration_minutes": 5.85,
+        "upload_date": "2024-03-11",
+        "comment_count": 19
+    },
+    {
+        "title": "Copilot For Java",
+        "video_url": "https://www.youtube.com/watch?v=zhCB95cE0HY",
+        "thumbnail_url": "https://i.ytimg.com/vi/zhCB95cE0HY/hqdefault.jpg",
+        "duration_minutes": 8.83,
+        "upload_date": "2023-05-22",
+        "comment_count": 13
+    },
+    {
+        "title": "Can you use ChatGPT in VS Code??",
+        "video_url": "https://www.youtube.com/watch?v=gDJzr9DBKTI",
+        "thumbnail_url": "https://i.ytimg.com/vi/gDJzr9DBKTI/hqdefault.jpg",
+        "duration_minutes": 5.4,
+        "upload_date": "2023-03-30",
+        "comment_count": 195
+    },
+    {
+        "title": "Installing MinGW to build C++ Code on Windows",
+        "video_url": "https://www.youtube.com/watch?v=oC69vlWofJQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/oC69vlWofJQ/hqdefault.jpg",
+        "duration_minutes": 3.13,
+        "upload_date": "2024-01-05",
+        "comment_count": 505
+    },
+    {
+        "title": "Unlock GitHub Copilot\u2019s Full Potential: Advanced Features You\u2019re Overlooking!",
+        "video_url": "https://www.youtube.com/watch?v=SLMfhuptCo8",
+        "thumbnail_url": "https://i.ytimg.com/vi/SLMfhuptCo8/hqdefault.jpg",
+        "duration_minutes": 21.38,
+        "upload_date": "2024-10-25",
+        "comment_count": 44
+    },
+    {
+        "title": "How to modify the PATH variable in a dev container",
+        "video_url": "https://www.youtube.com/watch?v=vEb7hKlagAU",
+        "thumbnail_url": "https://i.ytimg.com/vi/vEb7hKlagAU/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2021-09-15",
+        "comment_count": 6
+    },
+    {
+        "title": "Extension of the Week: Reactree #vscode #coding #react",
+        "video_url": "https://www.youtube.com/watch?v=6qegIBVX2Qw",
+        "thumbnail_url": "https://i.ytimg.com/vi/6qegIBVX2Qw/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-02-28",
+        "comment_count": 38
+    },
+    {
+        "title": "Supercharging your Data Science projects with GitHub tools | Python Data Science Day",
+        "video_url": "https://www.youtube.com/watch?v=hlhQp8EovAA",
+        "thumbnail_url": "https://i.ytimg.com/vi/hlhQp8EovAA/hqdefault.jpg",
+        "duration_minutes": 23.55,
+        "upload_date": "2024-03-28",
+        "comment_count": 0
+    },
+    {
+        "title": "editor.rulers \ud83d\udccf",
+        "video_url": "https://www.youtube.com/watch?v=cTE0ec3IurE",
+        "thumbnail_url": "https://i.ytimg.com/vi/cTE0ec3IurE/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-06-07",
+        "comment_count": 28
+    },
+    {
+        "title": "New VS Code features!",
+        "video_url": "https://www.youtube.com/watch?v=8iVaeLjzY6s",
+        "thumbnail_url": "https://i.ytimg.com/vi/8iVaeLjzY6s/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-12-19",
+        "comment_count": 35
+    },
+    {
+        "title": "C# Project and Package Management in VS Code - Everything you need to know!",
+        "video_url": "https://www.youtube.com/watch?v=YciV8GL8pLs",
+        "thumbnail_url": "https://i.ytimg.com/vi/YciV8GL8pLs/hqdefault.jpg",
+        "duration_minutes": 10.05,
+        "upload_date": "2024-07-23",
+        "comment_count": 18
+    },
+    {
+        "title": "Min/Maxxing VS Code by Stripping the UI and Adding Vim",
+        "video_url": "https://www.youtube.com/watch?v=F7ZEKjDia1c",
+        "thumbnail_url": "https://i.ytimg.com/vi/F7ZEKjDia1c/hqdefault.jpg",
+        "duration_minutes": 16.67,
+        "upload_date": "2024-08-18",
+        "comment_count": 57
+    },
+    {
+        "title": "Top 5 Viral VS Code Shorts #marathon",
+        "video_url": "https://www.youtube.com/watch?v=3ioYnNfvIFg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3ioYnNfvIFg/hqdefault.jpg",
+        "duration_minutes": 4.02,
+        "upload_date": "2023-03-28",
+        "comment_count": 9
+    },
+    {
+        "title": "Getting Started with Remote Development",
+        "video_url": "https://www.youtube.com/watch?v=QA9jlp-o5vQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/QA9jlp-o5vQ/hqdefault.jpg",
+        "duration_minutes": 12.45,
+        "upload_date": "2024-10-18",
+        "comment_count": 20
+    },
+    {
+        "title": "C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!",
+        "video_url": "https://www.youtube.com/watch?v=PBLCKJ9bP94",
+        "thumbnail_url": "https://i.ytimg.com/vi/PBLCKJ9bP94/hqdefault.jpg",
+        "duration_minutes": 6.5,
+        "upload_date": "2025-02-12",
+        "comment_count": 13
+    },
+    {
+        "title": "Convert to Title Case Like a Boss #titlecase #javascript",
+        "video_url": "https://www.youtube.com/watch?v=000sQXSuTgg",
+        "thumbnail_url": "https://i.ytimg.com/vi/000sQXSuTgg/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-07-27",
+        "comment_count": 36
+    },
+    {
+        "title": "TODO",
+        "video_url": "https://www.youtube.com/watch?v=_vNt04DimtU",
+        "thumbnail_url": "https://i.ytimg.com/vi/_vNt04DimtU/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2022-09-28",
+        "comment_count": 63
+    },
+    {
+        "title": "Learn Python AND Data Science in just an hour",
+        "video_url": "https://www.youtube.com/watch?v=HrRA67O-QXI",
+        "thumbnail_url": "https://i.ytimg.com/vi/HrRA67O-QXI/hqdefault.jpg",
+        "duration_minutes": 72.55,
+        "upload_date": "2022-11-08",
+        "comment_count": 30
+    },
+    {
+        "title": "Learn with Copilot",
+        "video_url": "https://www.youtube.com/watch?v=rjmXBs5l_7M",
+        "thumbnail_url": "https://i.ytimg.com/vi/rjmXBs5l_7M/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-07-05",
+        "comment_count": 1
+    },
+    {
+        "title": "Building your own GitHub Copilot chat participant in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=OdW2r3raAHI",
+        "thumbnail_url": "https://i.ytimg.com/vi/OdW2r3raAHI/hqdefault.jpg",
+        "duration_minutes": 13.03,
+        "upload_date": "2024-07-30",
+        "comment_count": 21
+    },
+    {
+        "title": "Test like a pro with Playwright and GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=rjbaIVOGfyo",
+        "thumbnail_url": "https://i.ytimg.com/vi/rjbaIVOGfyo/hqdefault.jpg",
+        "duration_minutes": 14.4,
+        "upload_date": "2024-11-25",
+        "comment_count": 17
+    },
+    {
+        "title": "Remote Debug",
+        "video_url": "https://www.youtube.com/watch?v=7w1UikAQiSU",
+        "thumbnail_url": "https://i.ytimg.com/vi/7w1UikAQiSU/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-08-17",
+        "comment_count": 10
+    },
+    {
+        "title": "A tour around the MakeCode Arcade extension for VS Code",
+        "video_url": "https://www.youtube.com/watch?v=nxa6_lsnKfM",
+        "thumbnail_url": "https://i.ytimg.com/vi/nxa6_lsnKfM/hqdefault.jpg",
+        "duration_minutes": 57.07,
+        "upload_date": "2023-05-26",
+        "comment_count": 7
+    },
+    {
+        "title": "Git Rebase & Squash in VS Code using GitLens Supercharge",
+        "video_url": "https://www.youtube.com/watch?v=3o_01F04bZ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/3o_01F04bZ4/hqdefault.jpg",
+        "duration_minutes": 9.95,
+        "upload_date": "2022-11-14",
+        "comment_count": 26
+    },
+    {
+        "title": "Run your Nightwatch tests from VS Code",
+        "video_url": "https://www.youtube.com/watch?v=UZ3G61yGl8M",
+        "thumbnail_url": "https://i.ytimg.com/vi/UZ3G61yGl8M/hqdefault.jpg",
+        "duration_minutes": 58.52,
+        "upload_date": "2022-10-28",
+        "comment_count": 3
+    },
+    {
+        "title": "Copilot for PowerShell",
+        "video_url": "https://www.youtube.com/watch?v=EwtRzAFiXEM",
+        "thumbnail_url": "https://i.ytimg.com/vi/EwtRzAFiXEM/hqdefault.jpg",
+        "duration_minutes": 6.53,
+        "upload_date": "2023-06-13",
+        "comment_count": 11
+    },
+    {
+        "title": "Inline Chat in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=HiWR1RJHOg4",
+        "thumbnail_url": "https://i.ytimg.com/vi/HiWR1RJHOg4/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2023-09-14",
+        "comment_count": 10
+    },
+    {
+        "title": "Oh Snap! CodeSnap!",
+        "video_url": "https://www.youtube.com/watch?v=uz_kD5dnb_A",
+        "thumbnail_url": "https://i.ytimg.com/vi/uz_kD5dnb_A/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2023-06-01",
+        "comment_count": 33
+    },
+    {
+        "title": "best #vscode themes",
+        "video_url": "https://www.youtube.com/watch?v=kNjQOjBhoKI",
+        "thumbnail_url": "https://i.ytimg.com/vi/kNjQOjBhoKI/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-04-10",
+        "comment_count": 62
+    },
+    {
+        "title": "How to be a professional wrapper #coding #vscode #programming",
+        "video_url": "https://www.youtube.com/watch?v=cx6iYUXkfds",
+        "thumbnail_url": "https://i.ytimg.com/vi/cx6iYUXkfds/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-07-15",
+        "comment_count": 139
+    },
+    {
+        "title": "Get started with end-to-end testing: Playwright | Episode 3 - Running Tests",
+        "video_url": "https://www.youtube.com/watch?v=DcVYaZ8QDsw",
+        "thumbnail_url": "https://i.ytimg.com/vi/DcVYaZ8QDsw/hqdefault.jpg",
+        "duration_minutes": 3.47,
+        "upload_date": "2023-11-08",
+        "comment_count": 7
+    },
+    {
+        "title": "Code Runner",
+        "video_url": "https://www.youtube.com/watch?v=zwit6f6Nuwk",
+        "thumbnail_url": "https://i.ytimg.com/vi/zwit6f6Nuwk/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2023-10-05",
+        "comment_count": 13
+    },
+    {
+        "title": "Getting the most out of GitHub Copilot's free tier",
+        "video_url": "https://www.youtube.com/watch?v=z7JVTxiVcNk",
+        "thumbnail_url": "https://i.ytimg.com/vi/z7JVTxiVcNk/hqdefault.jpg",
+        "duration_minutes": 11.08,
+        "upload_date": "2025-01-07",
+        "comment_count": 22
+    },
+    {
+        "title": "TOP 3 VS Code Extensions You Can't Ignore!",
+        "video_url": "https://www.youtube.com/watch?v=945YY3ATqQ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/945YY3ATqQ4/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2022-12-16",
+        "comment_count": 20
+    },
+    {
+        "title": "Code in Power Mode!",
+        "video_url": "https://www.youtube.com/watch?v=bkI6sD87GJY",
+        "thumbnail_url": "https://i.ytimg.com/vi/bkI6sD87GJY/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2023-06-29",
+        "comment_count": 53
+    },
+    {
+        "title": "Terminal Inline Chat \ud83e\udd2f",
+        "video_url": "https://www.youtube.com/watch?v=mnoHT249Kvk",
+        "thumbnail_url": "https://i.ytimg.com/vi/mnoHT249Kvk/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2025-01-17",
+        "comment_count": 38
+    },
+    {
+        "title": "I teach you data science from SCRATCH : Part 1 - Getting Started",
+        "video_url": "https://www.youtube.com/watch?v=EZ_KDKoBBb4",
+        "thumbnail_url": "https://i.ytimg.com/vi/EZ_KDKoBBb4/hqdefault.jpg",
+        "duration_minutes": 25.4,
+        "upload_date": "2022-07-26",
+        "comment_count": 10
+    },
+    {
+        "title": "Command Prompt Face lift..",
+        "video_url": "https://www.youtube.com/watch?v=Xee9VGTAEf0",
+        "thumbnail_url": "https://i.ytimg.com/vi/Xee9VGTAEf0/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2022-05-12",
+        "comment_count": 15
+    },
+    {
+        "title": "Time Bash Commands Like This!",
+        "video_url": "https://www.youtube.com/watch?v=PYomK_bUGvE",
+        "thumbnail_url": "https://i.ytimg.com/vi/PYomK_bUGvE/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-03-03",
+        "comment_count": 5
+    },
+    {
+        "title": "\u25b6\ufe0f VS Code Rewind | Building Your First Extension in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=9pAxk7oVoA8",
+        "thumbnail_url": "https://i.ytimg.com/vi/9pAxk7oVoA8/hqdefault.jpg",
+        "duration_minutes": 67.5,
+        "upload_date": "2023-11-17",
+        "comment_count": 0
+    },
+    {
+        "title": "Develop your own Machine Learning Model with Azure Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=jHGqT_X7e7Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/jHGqT_X7e7Q/hqdefault.jpg",
+        "duration_minutes": 4.85,
+        "upload_date": "2024-08-26",
+        "comment_count": 3
+    },
+    {
+        "title": "How many lines?!?! #vscode #python #ai",
+        "video_url": "https://www.youtube.com/watch?v=bzmmsDteFEA",
+        "thumbnail_url": "https://i.ytimg.com/vi/bzmmsDteFEA/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2023-04-12",
+        "comment_count": 81
+    },
+    {
+        "title": "Getting Started with C# & .NET in VS Code (Official Beginner Guide)",
+        "video_url": "https://www.youtube.com/watch?v=ZVGutgqBMUM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZVGutgqBMUM/hqdefault.jpg",
+        "duration_minutes": 9.83,
+        "upload_date": "2024-06-12",
+        "comment_count": 44
+    },
+    {
+        "title": "New VS Code Release Highlights v1.86",
+        "video_url": "https://www.youtube.com/watch?v=bVlIo4H0IDU",
+        "thumbnail_url": "https://i.ytimg.com/vi/bVlIo4H0IDU/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-02-08",
+        "comment_count": 8
+    },
+    {
+        "title": "Ask your database to query itself",
+        "video_url": "https://www.youtube.com/watch?v=F8ZBawclcJs",
+        "thumbnail_url": "https://i.ytimg.com/vi/F8ZBawclcJs/hqdefault.jpg",
+        "duration_minutes": 11.78,
+        "upload_date": "2024-06-26",
+        "comment_count": 14
+    },
+    {
+        "title": "Easy web deployment with GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=w-K6awH2TEM",
+        "thumbnail_url": "https://i.ytimg.com/vi/w-K6awH2TEM/hqdefault.jpg",
+        "duration_minutes": 7.02,
+        "upload_date": "2024-04-17",
+        "comment_count": 7
+    },
+    {
+        "title": "Voice-Powered Coding with GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=pUPqKm5wVhw",
+        "thumbnail_url": "https://i.ytimg.com/vi/pUPqKm5wVhw/hqdefault.jpg",
+        "duration_minutes": 3.52,
+        "upload_date": "2024-10-29",
+        "comment_count": 17
+    },
+    {
+        "title": "VS Code January 2023 Release Highlights (v1.75)",
+        "video_url": "https://www.youtube.com/watch?v=l8Lq9jf8Xxc",
+        "thumbnail_url": "https://i.ytimg.com/vi/l8Lq9jf8Xxc/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-02-03",
+        "comment_count": 19
+    },
+    {
+        "title": "Top 5 ALL TIME installed VS CODE Extensions",
+        "video_url": "https://www.youtube.com/watch?v=nEwD6BNwxS4",
+        "thumbnail_url": "https://i.ytimg.com/vi/nEwD6BNwxS4/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-08-03",
+        "comment_count": 21
+    },
+    {
+        "title": "How slow is iterating over a pandas DataFrame?",
+        "video_url": "https://www.youtube.com/watch?v=LkBz5NS-RF8",
+        "thumbnail_url": "https://i.ytimg.com/vi/LkBz5NS-RF8/hqdefault.jpg",
+        "duration_minutes": 6.57,
+        "upload_date": "2022-04-18",
+        "comment_count": 18
+    },
+    {
+        "title": "Add Copilot to your VS Code extension",
+        "video_url": "https://www.youtube.com/watch?v=qtf7X4SOK1w",
+        "thumbnail_url": "https://i.ytimg.com/vi/qtf7X4SOK1w/hqdefault.jpg",
+        "duration_minutes": 2.33,
+        "upload_date": "2024-11-09",
+        "comment_count": 18
+    },
+    {
+        "title": "The magic of Template String Converter",
+        "video_url": "https://www.youtube.com/watch?v=CHIzjkTuUmg",
+        "thumbnail_url": "https://i.ytimg.com/vi/CHIzjkTuUmg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-09-17",
+        "comment_count": 37
+    },
+    {
+        "title": "VS Code May 2023 Release Highlights (v1.79)",
+        "video_url": "https://www.youtube.com/watch?v=sltKrfogMWc",
+        "thumbnail_url": "https://i.ytimg.com/vi/sltKrfogMWc/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2023-06-09",
+        "comment_count": 12
+    },
+    {
+        "title": "How did I not know this? #programming #vscode #how",
+        "video_url": "https://www.youtube.com/watch?v=eBaX4WTXt5Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/eBaX4WTXt5Q/hqdefault.jpg",
+        "duration_minutes": 0.38,
+        "upload_date": "2024-05-15",
+        "comment_count": 30
+    },
+    {
+        "title": "Get started with end-to-end testing: Playwright | Episode 5 - Debugging Tests",
+        "video_url": "https://www.youtube.com/watch?v=oYCSzYG-Bbg",
+        "thumbnail_url": "https://i.ytimg.com/vi/oYCSzYG-Bbg/hqdefault.jpg",
+        "duration_minutes": 5.5,
+        "upload_date": "2023-11-22",
+        "comment_count": 5
+    },
+    {
+        "title": "The ULTIMATE VS Code Setup for ReactJS",
+        "video_url": "https://www.youtube.com/watch?v=LyNEHVzJ24U",
+        "thumbnail_url": "https://i.ytimg.com/vi/LyNEHVzJ24U/hqdefault.jpg",
+        "duration_minutes": 16.97,
+        "upload_date": "2024-08-06",
+        "comment_count": 52
+    },
+    {
+        "title": "GIF? Or JIF?",
+        "video_url": "https://www.youtube.com/watch?v=yefz5D_9d9Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/yefz5D_9d9Y/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-10-17",
+        "comment_count": 24
+    },
+    {
+        "title": "Build games with GitHub Copilot | VS Code Day 2024",
+        "video_url": "https://www.youtube.com/watch?v=0JYv9M9phAs",
+        "thumbnail_url": "https://i.ytimg.com/vi/0JYv9M9phAs/hqdefault.jpg",
+        "duration_minutes": 28.97,
+        "upload_date": "2024-05-01",
+        "comment_count": 6
+    },
+    {
+        "title": "How to use multiple cursors #programming #code #vscode",
+        "video_url": "https://www.youtube.com/watch?v=4lssq0zYxv0",
+        "thumbnail_url": "https://i.ytimg.com/vi/4lssq0zYxv0/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-11",
+        "comment_count": 26
+    },
+    {
+        "title": "sticky scroll",
+        "video_url": "https://www.youtube.com/watch?v=iM4Vhrk4irY",
+        "thumbnail_url": "https://i.ytimg.com/vi/iM4Vhrk4irY/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2022-08-10",
+        "comment_count": 213
+    },
+    {
+        "title": "learning terminal commands  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=u9jXOmQrfaQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/u9jXOmQrfaQ/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-05-22",
+        "comment_count": 9
+    },
+    {
+        "title": "Editor Groups #vscode #coding #code",
+        "video_url": "https://www.youtube.com/watch?v=b26wI_1NgNM",
+        "thumbnail_url": "https://i.ytimg.com/vi/b26wI_1NgNM/hqdefault.jpg",
+        "duration_minutes": 1.02,
+        "upload_date": "2024-03-21",
+        "comment_count": 8
+    },
+    {
+        "title": "SQLAlchemy & Copilot Pt 1 - Defining Models",
+        "video_url": "https://www.youtube.com/watch?v=qS7ueUcQfjI",
+        "thumbnail_url": "https://i.ytimg.com/vi/qS7ueUcQfjI/hqdefault.jpg",
+        "duration_minutes": 9.73,
+        "upload_date": "2023-08-07",
+        "comment_count": 8
+    },
+    {
+        "title": "Find the first commit",
+        "video_url": "https://www.youtube.com/watch?v=CEt5rCcFg4g",
+        "thumbnail_url": "https://i.ytimg.com/vi/CEt5rCcFg4g/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2022-08-24",
+        "comment_count": 23
+    },
+    {
+        "title": "TypeScript Challenge!",
+        "video_url": "https://www.youtube.com/watch?v=a2A2EDEzsHg",
+        "thumbnail_url": "https://i.ytimg.com/vi/a2A2EDEzsHg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-08-01",
+        "comment_count": 7
+    },
+    {
+        "title": "Time Travel! #programming #code #vscode",
+        "video_url": "https://www.youtube.com/watch?v=0h1xNFsEZBU",
+        "thumbnail_url": "https://i.ytimg.com/vi/0h1xNFsEZBU/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-06-24",
+        "comment_count": 35
+    },
+    {
+        "title": "Does ChatGPT speak unicode? #chatgpt #programming  #ai",
+        "video_url": "https://www.youtube.com/watch?v=b_Wwaz2iqUc",
+        "thumbnail_url": "https://i.ytimg.com/vi/b_Wwaz2iqUc/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2023-06-14",
+        "comment_count": 19
+    },
+    {
+        "title": "No Calculator Needed!",
+        "video_url": "https://www.youtube.com/watch?v=q-BRgiy_jTs",
+        "thumbnail_url": "https://i.ytimg.com/vi/q-BRgiy_jTs/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-01-13",
+        "comment_count": 22
+    },
+    {
+        "title": "The reason behind preview mode in #vscode",
+        "video_url": "https://www.youtube.com/watch?v=RFyl4QgoIdY",
+        "thumbnail_url": "https://i.ytimg.com/vi/RFyl4QgoIdY/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-09-20",
+        "comment_count": 48
+    },
+    {
+        "title": "#Windows + #Linux + #VS Code",
+        "video_url": "https://www.youtube.com/watch?v=zt0FJzPnnek",
+        "thumbnail_url": "https://i.ytimg.com/vi/zt0FJzPnnek/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-03-13",
+        "comment_count": 16
+    },
+    {
+        "title": "VS Code Tips and Tricks for TypeScript Wizards",
+        "video_url": "https://www.youtube.com/watch?v=HalycM9tSNM",
+        "thumbnail_url": "https://i.ytimg.com/vi/HalycM9tSNM/hqdefault.jpg",
+        "duration_minutes": 29.22,
+        "upload_date": "2023-04-28",
+        "comment_count": 9
+    },
+    {
+        "title": "Letting an AI fix my website on mobile",
+        "video_url": "https://www.youtube.com/watch?v=bpF5WVQS-L0",
+        "thumbnail_url": "https://i.ytimg.com/vi/bpF5WVQS-L0/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-02-01",
+        "comment_count": 19
+    },
+    {
+        "title": "Python Linting in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=dF1wWo2aJCo",
+        "thumbnail_url": "https://i.ytimg.com/vi/dF1wWo2aJCo/hqdefault.jpg",
+        "duration_minutes": 10.12,
+        "upload_date": "2023-11-27",
+        "comment_count": 25
+    },
+    {
+        "title": "v1.90 Release Highlights #vscode",
+        "video_url": "https://www.youtube.com/watch?v=iTSvIzNDpBI",
+        "thumbnail_url": "https://i.ytimg.com/vi/iTSvIzNDpBI/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-06-13",
+        "comment_count": 13
+    },
+    {
+        "title": "but how do you actually write this\u2026.?",
+        "video_url": "https://www.youtube.com/watch?v=1qnf6j_89ik",
+        "thumbnail_url": "https://i.ytimg.com/vi/1qnf6j_89ik/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-06-20",
+        "comment_count": 1931
+    },
+    {
+        "title": "#visualstudiocode - Forgotten UI Flexibility",
+        "video_url": "https://www.youtube.com/watch?v=lxqikBtwJFE",
+        "thumbnail_url": "https://i.ytimg.com/vi/lxqikBtwJFE/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2023-07-12",
+        "comment_count": 45
+    },
+    {
+        "title": "Best activity bar position? #vscode",
+        "video_url": "https://www.youtube.com/watch?v=HKKKauGwKkc",
+        "thumbnail_url": "https://i.ytimg.com/vi/HKKKauGwKkc/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-01",
+        "comment_count": 27
+    },
+    {
+        "title": "Even more ways to customize VS Code in the latest release!",
+        "video_url": "https://www.youtube.com/watch?v=15sDmzcj7Hw",
+        "thumbnail_url": "https://i.ytimg.com/vi/15sDmzcj7Hw/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2023-11-21",
+        "comment_count": 14
+    },
+    {
+        "title": "Create a resume website in your browser with VS Code and GitHub Pages",
+        "video_url": "https://www.youtube.com/watch?v=srQjolk7rj8",
+        "thumbnail_url": "https://i.ytimg.com/vi/srQjolk7rj8/hqdefault.jpg",
+        "duration_minutes": 5.0,
+        "upload_date": "2022-03-03",
+        "comment_count": 21
+    },
+    {
+        "title": "There\u2019s a PC on my Mac! #coding #vscode #how",
+        "video_url": "https://www.youtube.com/watch?v=u2a9AEoB8OM",
+        "thumbnail_url": "https://i.ytimg.com/vi/u2a9AEoB8OM/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-06-28",
+        "comment_count": 30
+    },
+    {
+        "title": "Exploring Data Wrangler in VS Code | Python Data Science Day",
+        "video_url": "https://www.youtube.com/watch?v=kM5mAeEaWkw",
+        "thumbnail_url": "https://i.ytimg.com/vi/kM5mAeEaWkw/hqdefault.jpg",
+        "duration_minutes": 25.33,
+        "upload_date": "2024-03-28",
+        "comment_count": 1
+    },
+    {
+        "title": "Vertical rulers #vscode",
+        "video_url": "https://www.youtube.com/watch?v=HPKBkJPs2DM",
+        "thumbnail_url": "https://i.ytimg.com/vi/HPKBkJPs2DM/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-12-16",
+        "comment_count": 14
+    },
+    {
+        "title": "VS Code April 2023 Release Highlights (v1.78)",
+        "video_url": "https://www.youtube.com/watch?v=ToGRhGvo62k",
+        "thumbnail_url": "https://i.ytimg.com/vi/ToGRhGvo62k/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2023-05-11",
+        "comment_count": 11
+    },
+    {
+        "title": "So THAT's how rounding in C# works...",
+        "video_url": "https://www.youtube.com/watch?v=LkmuZswxxmY",
+        "thumbnail_url": "https://i.ytimg.com/vi/LkmuZswxxmY/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-03-22",
+        "comment_count": 5
+    },
+    {
+        "title": "Playing Your Tests Wright with VS Code",
+        "video_url": "https://www.youtube.com/watch?v=ECkMUATC1aA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ECkMUATC1aA/hqdefault.jpg",
+        "duration_minutes": 13.67,
+        "upload_date": "2023-04-26",
+        "comment_count": 5
+    },
+    {
+        "title": "GitHub Copilot with Teams",
+        "video_url": "https://www.youtube.com/watch?v=a06rT7Jxyr8",
+        "thumbnail_url": "https://i.ytimg.com/vi/a06rT7Jxyr8/hqdefault.jpg",
+        "duration_minutes": 5.23,
+        "upload_date": "2023-08-03",
+        "comment_count": 14
+    },
+    {
+        "title": "Keyboard shortcuts!  #vscode",
+        "video_url": "https://www.youtube.com/watch?v=zxiiNAOgWcg",
+        "thumbnail_url": "https://i.ytimg.com/vi/zxiiNAOgWcg/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-04-03",
+        "comment_count": 32
+    },
+    {
+        "title": "Beyond Chat: Unveiling the New Features in VS Code & GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=Dlt-DCLHnxM",
+        "thumbnail_url": "https://i.ytimg.com/vi/Dlt-DCLHnxM/hqdefault.jpg",
+        "duration_minutes": 8.05,
+        "upload_date": "2023-08-01",
+        "comment_count": 63
+    },
+    {
+        "title": "AI tip of the week: Browser Debugging #coding #ai #vscode",
+        "video_url": "https://www.youtube.com/watch?v=y6x2W6UvzIU",
+        "thumbnail_url": "https://i.ytimg.com/vi/y6x2W6UvzIU/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-04-19",
+        "comment_count": 21
+    },
+    {
+        "title": "Copilot Writing Markdown",
+        "video_url": "https://www.youtube.com/watch?v=70voiUcMk_I",
+        "thumbnail_url": "https://i.ytimg.com/vi/70voiUcMk_I/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-05-04",
+        "comment_count": 3
+    },
+    {
+        "title": "VS Code v1.80 Release Highlights #vscode",
+        "video_url": "https://www.youtube.com/watch?v=-rI1DpQG5Ok",
+        "thumbnail_url": "https://i.ytimg.com/vi/-rI1DpQG5Ok/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2023-07-14",
+        "comment_count": 11
+    },
+    {
+        "title": "Give Copilot a lil nudge #programming #coding #vscode",
+        "video_url": "https://www.youtube.com/watch?v=ns15fnTk7pI",
+        "thumbnail_url": "https://i.ytimg.com/vi/ns15fnTk7pI/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2023-05-13",
+        "comment_count": 15
+    },
+    {
+        "title": "Behind The Scenes: The Making of VS Code",
+        "video_url": "https://www.youtube.com/watch?v=BDU63r4bS9Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/BDU63r4bS9Q/hqdefault.jpg",
+        "duration_minutes": 96.32,
+        "upload_date": "2024-08-23",
+        "comment_count": 15
+    },
+    {
+        "title": "From Zero to Hero with Notebooks in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=cKFp8DBF75Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/cKFp8DBF75Y/hqdefault.jpg",
+        "duration_minutes": 55.63,
+        "upload_date": "2024-01-26",
+        "comment_count": 5
+    },
+    {
+        "title": "Comment your code better",
+        "video_url": "https://www.youtube.com/watch?v=pBOBR8INXNM",
+        "thumbnail_url": "https://i.ytimg.com/vi/pBOBR8INXNM/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-11-07",
+        "comment_count": 17
+    },
+    {
+        "title": "How does the new diff algorithm work in VS Code?",
+        "video_url": "https://www.youtube.com/watch?v=yWy-0TNVsLg",
+        "thumbnail_url": "https://i.ytimg.com/vi/yWy-0TNVsLg/hqdefault.jpg",
+        "duration_minutes": 65.0,
+        "upload_date": "2023-09-08",
+        "comment_count": 5
+    },
+    {
+        "title": "Jupyter Notebooks Tutorial: How to put the legend outside the plot in Matplotlib",
+        "video_url": "https://www.youtube.com/watch?v=HyoPxdSlbgg",
+        "thumbnail_url": "https://i.ytimg.com/vi/HyoPxdSlbgg/hqdefault.jpg",
+        "duration_minutes": 2.67,
+        "upload_date": "2022-03-28",
+        "comment_count": 4
+    },
+    {
+        "title": "New Copilot Features Marathon",
+        "video_url": "https://www.youtube.com/watch?v=n8fNI4SIlk8",
+        "thumbnail_url": "https://i.ytimg.com/vi/n8fNI4SIlk8/hqdefault.jpg",
+        "duration_minutes": 3.8,
+        "upload_date": "2023-12-18",
+        "comment_count": 69
+    },
+    {
+        "title": "The Complete Beginners Guide to Testing in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=pXuFniI0XUY",
+        "thumbnail_url": "https://i.ytimg.com/vi/pXuFniI0XUY/hqdefault.jpg",
+        "duration_minutes": 22.4,
+        "upload_date": "2024-09-18",
+        "comment_count": 14
+    },
+    {
+        "title": "my computer interviewed me and I bombed",
+        "video_url": "https://www.youtube.com/watch?v=07T46BlXe4o",
+        "thumbnail_url": "https://i.ytimg.com/vi/07T46BlXe4o/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-08-14",
+        "comment_count": 4
+    },
+    {
+        "title": "Diving into TypeChat",
+        "video_url": "https://www.youtube.com/watch?v=n1ZLKf72zvU",
+        "thumbnail_url": "https://i.ytimg.com/vi/n1ZLKf72zvU/hqdefault.jpg",
+        "duration_minutes": 56.63,
+        "upload_date": "2023-10-06",
+        "comment_count": 7
+    },
+    {
+        "title": "\ud83d\udce2 Copilot Chat Beta, Now Available for All Individuals!",
+        "video_url": "https://www.youtube.com/watch?v=CpkDrPmQUNg",
+        "thumbnail_url": "https://i.ytimg.com/vi/CpkDrPmQUNg/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2023-09-28",
+        "comment_count": 18
+    },
+    {
+        "title": "The Developer's Journey: Episode 1",
+        "video_url": "https://www.youtube.com/watch?v=ZQwGd4MNQyU",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZQwGd4MNQyU/hqdefault.jpg",
+        "duration_minutes": 22.62,
+        "upload_date": "2025-02-07",
+        "comment_count": 12
+    },
+    {
+        "title": "\ud83c\udf89 Release party v1.80 | Accessibility, Tunnels and Diff Editor Updates",
+        "video_url": "https://www.youtube.com/watch?v=3GY2casyuOU",
+        "thumbnail_url": "https://i.ytimg.com/vi/3GY2casyuOU/hqdefault.jpg",
+        "duration_minutes": 37.23,
+        "upload_date": "2023-07-14",
+        "comment_count": 10
+    },
+    {
+        "title": "1.88 GitHub Copilot Release Highlights",
+        "video_url": "https://www.youtube.com/watch?v=7NZvCQcxEb8",
+        "thumbnail_url": "https://i.ytimg.com/vi/7NZvCQcxEb8/hqdefault.jpg",
+        "duration_minutes": 2.8,
+        "upload_date": "2024-04-25",
+        "comment_count": 25
+    },
+    {
+        "title": "This IS the VS Code feature you\u2019re looking for #vscode #tips #programming",
+        "video_url": "https://www.youtube.com/watch?v=AqZWWc3DzLo",
+        "thumbnail_url": "https://i.ytimg.com/vi/AqZWWc3DzLo/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-07-18",
+        "comment_count": 28
+    },
+    {
+        "title": "Writing Python Web Apps with VS Code",
+        "video_url": "https://www.youtube.com/watch?v=AO9yHm8zKsk",
+        "thumbnail_url": "https://i.ytimg.com/vi/AO9yHm8zKsk/hqdefault.jpg",
+        "duration_minutes": 31.0,
+        "upload_date": "2023-04-28",
+        "comment_count": 7
+    },
+    {
+        "title": "Expand Selection",
+        "video_url": "https://www.youtube.com/watch?v=VJ5KZMgvqWI",
+        "thumbnail_url": "https://i.ytimg.com/vi/VJ5KZMgvqWI/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2023-01-18",
+        "comment_count": 28
+    },
+    {
+        "title": "\ud83d\udd34 Pulumi IaC and Config Management Extension for VS Code",
+        "video_url": "https://www.youtube.com/watch?v=rRsnk1sv_xE",
+        "thumbnail_url": "https://i.ytimg.com/vi/rRsnk1sv_xE/hqdefault.jpg",
+        "duration_minutes": 48.87,
+        "upload_date": "2024-11-22",
+        "comment_count": 1
+    },
+    {
+        "title": "What's new with Copilot Chat and VS Code - v1.83",
+        "video_url": "https://www.youtube.com/watch?v=rri0UaEBSZ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/rri0UaEBSZ4/hqdefault.jpg",
+        "duration_minutes": 1.68,
+        "upload_date": "2023-10-18",
+        "comment_count": 14
+    },
+    {
+        "title": "Python Pulse - Revolutionizing the way you clean data with Data Wrangler",
+        "video_url": "https://www.youtube.com/watch?v=5EeBSNr0x3Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/5EeBSNr0x3Y/hqdefault.jpg",
+        "duration_minutes": 62.57,
+        "upload_date": "2023-05-13",
+        "comment_count": 6
+    },
+    {
+        "title": "An easy code library",
+        "video_url": "https://www.youtube.com/watch?v=NnVQYdi31ts",
+        "thumbnail_url": "https://i.ytimg.com/vi/NnVQYdi31ts/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-07-31",
+        "comment_count": 4
+    },
+    {
+        "title": "#Copilot Explains- Ep 2 - Exceptions",
+        "video_url": "https://www.youtube.com/watch?v=jMjxBo0sDKk",
+        "thumbnail_url": "https://i.ytimg.com/vi/jMjxBo0sDKk/hqdefault.jpg",
+        "duration_minutes": 7.62,
+        "upload_date": "2023-10-02",
+        "comment_count": 4
+    },
+    {
+        "title": "VS Code Rewind: AI-Powered Coding: Unleashing Data and SQL Mastery with GPT Function Calling",
+        "video_url": "https://www.youtube.com/watch?v=t7VuBktLdD0",
+        "thumbnail_url": "https://i.ytimg.com/vi/t7VuBktLdD0/hqdefault.jpg",
+        "duration_minutes": 57.88,
+        "upload_date": "2024-04-05",
+        "comment_count": 5
+    },
+    {
+        "title": "Automated evaluation of LLM apps with the azure-ai-generative SDK | Python Data Science Day",
+        "video_url": "https://www.youtube.com/watch?v=hEN7aPt39-Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/hEN7aPt39-Q/hqdefault.jpg",
+        "duration_minutes": 26.63,
+        "upload_date": "2024-03-28",
+        "comment_count": 0
+    },
+    {
+        "title": "Git gotcha down?",
+        "video_url": "https://www.youtube.com/watch?v=6s1G1sIHF9E",
+        "thumbnail_url": "https://i.ytimg.com/vi/6s1G1sIHF9E/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-09-21",
+        "comment_count": 6
+    },
+    {
+        "title": "The Easiest Way to Explore your MongoDB Data",
+        "video_url": "https://www.youtube.com/watch?v=i0Y80qS6TUw",
+        "thumbnail_url": "https://i.ytimg.com/vi/i0Y80qS6TUw/hqdefault.jpg",
+        "duration_minutes": 5.75,
+        "upload_date": "2022-10-20",
+        "comment_count": 20
+    },
+    {
+        "title": "GitHub Copilot for Azure Extension",
+        "video_url": "https://www.youtube.com/watch?v=sj9E7WUHbmU",
+        "thumbnail_url": "https://i.ytimg.com/vi/sj9E7WUHbmU/hqdefault.jpg",
+        "duration_minutes": 13.45,
+        "upload_date": "2024-12-11",
+        "comment_count": 6
+    },
+    {
+        "title": "Markdown Using Copilot",
+        "video_url": "https://www.youtube.com/watch?v=nmTMz8IXHbA",
+        "thumbnail_url": "https://i.ytimg.com/vi/nmTMz8IXHbA/hqdefault.jpg",
+        "duration_minutes": 7.52,
+        "upload_date": "2023-05-15",
+        "comment_count": 8
+    },
+    {
+        "title": "Real World Development with VS Code and C#",
+        "video_url": "https://www.youtube.com/watch?v=_Ebi2Q5QNEg",
+        "thumbnail_url": "https://i.ytimg.com/vi/_Ebi2Q5QNEg/hqdefault.jpg",
+        "duration_minutes": 34.58,
+        "upload_date": "2024-05-20",
+        "comment_count": 8
+    },
+    {
+        "title": "TypeScript Crash Course with Matt Pocock",
+        "video_url": "https://www.youtube.com/watch?v=p6dO9u0M7MQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/p6dO9u0M7MQ/hqdefault.jpg",
+        "duration_minutes": 63.48,
+        "upload_date": "2022-08-25",
+        "comment_count": 49
+    },
+    {
+        "title": "Python in VS Code - Release News v1.86",
+        "video_url": "https://www.youtube.com/watch?v=Oo43TnkNG3E",
+        "thumbnail_url": "https://i.ytimg.com/vi/Oo43TnkNG3E/hqdefault.jpg",
+        "duration_minutes": 4.38,
+        "upload_date": "2024-02-16",
+        "comment_count": 12
+    },
+    {
+        "title": "Shocking VS Code Disclaimers in Ad...| VS Code Day 2024",
+        "video_url": "https://www.youtube.com/watch?v=NuVpjq5C5yg",
+        "thumbnail_url": "https://i.ytimg.com/vi/NuVpjq5C5yg/hqdefault.jpg",
+        "duration_minutes": 1.7,
+        "upload_date": "2024-05-02",
+        "comment_count": 5
+    },
+    {
+        "title": "#Copilot Explains Ep 5: Async/Await in Python",
+        "video_url": "https://www.youtube.com/watch?v=6KmSX8KGnCM",
+        "thumbnail_url": "https://i.ytimg.com/vi/6KmSX8KGnCM/hqdefault.jpg",
+        "duration_minutes": 9.8,
+        "upload_date": "2023-10-30",
+        "comment_count": 8
+    },
+    {
+        "title": "20 Fan Favorite Extensions for VS Code",
+        "video_url": "https://www.youtube.com/watch?v=mI5My0cBTv4",
+        "thumbnail_url": "https://i.ytimg.com/vi/mI5My0cBTv4/hqdefault.jpg",
+        "duration_minutes": 11.13,
+        "upload_date": "2024-10-09",
+        "comment_count": 25
+    },
+    {
+        "title": "Can VS Code teach you TypeScript?",
+        "video_url": "https://www.youtube.com/watch?v=tDT214cE6Lo",
+        "thumbnail_url": "https://i.ytimg.com/vi/tDT214cE6Lo/hqdefault.jpg",
+        "duration_minutes": 57.5,
+        "upload_date": "2023-01-26",
+        "comment_count": 11
+    },
+    {
+        "title": "Generating Synthetic Datasets with GitHub Copilot",
+        "video_url": "https://www.youtube.com/watch?v=4kwX1CUT43Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/4kwX1CUT43Q/hqdefault.jpg",
+        "duration_minutes": 32.93,
+        "upload_date": "2024-05-15",
+        "comment_count": 5
+    },
+    {
+        "title": "Customizing VS Code's UI for Productivity",
+        "video_url": "https://www.youtube.com/watch?v=nORT3-kONgA",
+        "thumbnail_url": "https://i.ytimg.com/vi/nORT3-kONgA/hqdefault.jpg",
+        "duration_minutes": 14.28,
+        "upload_date": "2024-09-12",
+        "comment_count": 42
+    },
+    {
+        "title": "VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos",
+        "video_url": "https://www.youtube.com/watch?v=fvo5L2hSlGQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/fvo5L2hSlGQ/hqdefault.jpg",
+        "duration_minutes": 60.15,
+        "upload_date": "2024-09-06",
+        "comment_count": 1
+    },
+    {
+        "title": "5 fun things to try with VS Code. Just because you can #marathon",
+        "video_url": "https://www.youtube.com/watch?v=jJjtmRIaNXA",
+        "thumbnail_url": "https://i.ytimg.com/vi/jJjtmRIaNXA/hqdefault.jpg",
+        "duration_minutes": 3.63,
+        "upload_date": "2023-08-30",
+        "comment_count": 15
+    },
+    {
+        "title": "Python in VS Code - Release News v1.88",
+        "video_url": "https://www.youtube.com/watch?v=Uycqr4HG54E",
+        "thumbnail_url": "https://i.ytimg.com/vi/Uycqr4HG54E/hqdefault.jpg",
+        "duration_minutes": 4.38,
+        "upload_date": "2024-05-03",
+        "comment_count": 15
+    },
+    {
+        "title": "#Copilot Explains - Ep1: What is #polymorphism ?",
+        "video_url": "https://www.youtube.com/watch?v=2cf02fD96bM",
+        "thumbnail_url": "https://i.ytimg.com/vi/2cf02fD96bM/hqdefault.jpg",
+        "duration_minutes": 12.4,
+        "upload_date": "2023-09-13",
+        "comment_count": 8
+    },
+    {
+        "title": "Intro to the Stripe CLI and Stripe VS Code extension",
+        "video_url": "https://www.youtube.com/watch?v=5Ej0-Ce-fxM",
+        "thumbnail_url": "https://i.ytimg.com/vi/5Ej0-Ce-fxM/hqdefault.jpg",
+        "duration_minutes": 52.78,
+        "upload_date": "2022-07-29",
+        "comment_count": 3
+    },
+    {
+        "title": "Python in VS Code - Release News v1.87",
+        "video_url": "https://www.youtube.com/watch?v=gLojpjMFYZY",
+        "thumbnail_url": "https://i.ytimg.com/vi/gLojpjMFYZY/hqdefault.jpg",
+        "duration_minutes": 4.6,
+        "upload_date": "2024-03-13",
+        "comment_count": 12
+    },
+    {
+        "title": "What's New with C++ in VS Code | VS Code Day 2024",
+        "video_url": "https://www.youtube.com/watch?v=Xuucb2k6kI4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Xuucb2k6kI4/hqdefault.jpg",
+        "duration_minutes": 18.08,
+        "upload_date": "2024-05-01",
+        "comment_count": 8
+    },
+    {
+        "title": "Build a ChatGPT plugin with VS Code and Codespaces",
+        "video_url": "https://www.youtube.com/watch?v=fPCjEbRpK1M",
+        "thumbnail_url": "https://i.ytimg.com/vi/fPCjEbRpK1M/hqdefault.jpg",
+        "duration_minutes": 58.05,
+        "upload_date": "2023-06-29",
+        "comment_count": 7
+    },
+    {
+        "title": "Copilot + PowerShell + Polyglot Notebooks",
+        "video_url": "https://www.youtube.com/watch?v=U9S4BMqJPQ8",
+        "thumbnail_url": "https://i.ytimg.com/vi/U9S4BMqJPQ8/hqdefault.jpg",
+        "duration_minutes": 52.43,
+        "upload_date": "2023-06-22",
+        "comment_count": 6
+    },
+    {
+        "title": "\ud83c\udf89 Release party v1.86 - \"Hey Code\", Markdown, and Source Control Updates",
+        "video_url": "https://www.youtube.com/watch?v=rzxpFwBPlec",
+        "thumbnail_url": "https://i.ytimg.com/vi/rzxpFwBPlec/hqdefault.jpg",
+        "duration_minutes": 58.7,
+        "upload_date": "2024-02-08",
+        "comment_count": 9
+    },
+    {
+        "title": "Data Science for Everyone and Everywhere",
+        "video_url": "https://www.youtube.com/watch?v=3JvIS2lvkqQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/3JvIS2lvkqQ/hqdefault.jpg",
+        "duration_minutes": 26.4,
+        "upload_date": "2023-04-28",
+        "comment_count": 7
+    },
+    {
+        "title": "\ud83c\udf89 Release Party v1.88 | Terminal Improvements, all new test coverage features and more!",
+        "video_url": "https://www.youtube.com/watch?v=kfsmadQXb8I",
+        "thumbnail_url": "https://i.ytimg.com/vi/kfsmadQXb8I/hqdefault.jpg",
+        "duration_minutes": 57.07,
+        "upload_date": "2024-04-19",
+        "comment_count": 3
+    },
+    {
+        "title": "SQLAlchemy & Copilot Pt 3 - Running Queries",
+        "video_url": "https://www.youtube.com/watch?v=iqOSuQo2CRw",
+        "thumbnail_url": "https://i.ytimg.com/vi/iqOSuQo2CRw/hqdefault.jpg",
+        "duration_minutes": 6.18,
+        "upload_date": "2023-08-07",
+        "comment_count": 1
+    },
+    {
+        "title": "Creating VS Code extensions for Python-based tools | Part 2",
+        "video_url": "https://www.youtube.com/watch?v=9p_ceWPbl0Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/9p_ceWPbl0Q/hqdefault.jpg",
+        "duration_minutes": 53.53,
+        "upload_date": "2024-01-12",
+        "comment_count": 3
+    },
+    {
+        "title": "Packaging Machine Learning Models with Copilot",
+        "video_url": "https://www.youtube.com/watch?v=PEKjJasSClI",
+        "thumbnail_url": "https://i.ytimg.com/vi/PEKjJasSClI/hqdefault.jpg",
+        "duration_minutes": 60.92,
+        "upload_date": "2024-02-02",
+        "comment_count": 8
+    },
+    {
+        "title": "Building a RAG application with GitHub Models and Postgres FROM SCRATCH",
+        "video_url": "https://www.youtube.com/watch?v=NC4msKJ_Euo",
+        "thumbnail_url": "https://i.ytimg.com/vi/NC4msKJ_Euo/hqdefault.jpg",
+        "duration_minutes": 78.38,
+        "upload_date": "2024-09-04",
+        "comment_count": 9
+    },
+    {
+        "title": "Vim in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=IMuFW9as-Dc",
+        "thumbnail_url": "https://i.ytimg.com/vi/IMuFW9as-Dc/hqdefault.jpg",
+        "duration_minutes": 59.02,
+        "upload_date": "2023-04-21",
+        "comment_count": 28
+    },
+    {
+        "title": "LangChain Examples with Azure OpenAI Service + VS Code",
+        "video_url": "https://www.youtube.com/watch?v=sxz7If9H60k",
+        "thumbnail_url": "https://i.ytimg.com/vi/sxz7If9H60k/hqdefault.jpg",
+        "duration_minutes": 31.33,
+        "upload_date": "2024-05-29",
+        "comment_count": 3
+    },
+    {
+        "title": "Building a RAG-powered AI chat app with Python and VS Code",
+        "video_url": "https://www.youtube.com/watch?v=3ctFWU492xk",
+        "thumbnail_url": "https://i.ytimg.com/vi/3ctFWU492xk/hqdefault.jpg",
+        "duration_minutes": 29.48,
+        "upload_date": "2024-05-22",
+        "comment_count": 7
+    },
+    {
+        "title": "Building your own VS Code theme",
+        "video_url": "https://www.youtube.com/watch?v=FeApSxfazVg",
+        "thumbnail_url": "https://i.ytimg.com/vi/FeApSxfazVg/hqdefault.jpg",
+        "duration_minutes": 38.45,
+        "upload_date": "2022-03-17",
+        "comment_count": 33
+    },
+    {
+        "title": "From Zero to Hero Coding Spring Boot Applications in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=XbpFSyeMYfg",
+        "thumbnail_url": "https://i.ytimg.com/vi/XbpFSyeMYfg/hqdefault.jpg",
+        "duration_minutes": 51.77,
+        "upload_date": "2023-09-29",
+        "comment_count": 17
+    },
+    {
+        "title": "Using Laravel in VS Code (start quickly with a DevContainer)",
+        "video_url": "https://www.youtube.com/watch?v=rnJiGEObynE",
+        "thumbnail_url": "https://i.ytimg.com/vi/rnJiGEObynE/hqdefault.jpg",
+        "duration_minutes": 43.63,
+        "upload_date": "2022-02-17",
+        "comment_count": 13
+    },
+    {
+        "title": "TypeScript tips and Tricks with Matt",
+        "video_url": "https://www.youtube.com/watch?v=hBk4nV7q6-w",
+        "thumbnail_url": "https://i.ytimg.com/vi/hBk4nV7q6-w/hqdefault.jpg",
+        "duration_minutes": 55.18,
+        "upload_date": "2022-04-21",
+        "comment_count": 117
+    },
+    {
+        "title": "Python Pulse - Aspire Telemetry with Python Projects",
+        "video_url": "https://www.youtube.com/watch?v=JqSC7-tTNNU",
+        "thumbnail_url": "https://i.ytimg.com/vi/JqSC7-tTNNU/hqdefault.jpg",
+        "duration_minutes": 53.22,
+        "upload_date": "2024-08-24",
+        "comment_count": 4
+    },
+    {
+        "title": "Code in the Flow with VS Code\u2019s GitHub Copilot Chat | Part 2",
+        "video_url": "https://www.youtube.com/watch?v=3EQMO667PUg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3EQMO667PUg/hqdefault.jpg",
+        "duration_minutes": 85.98,
+        "upload_date": "2024-03-29",
+        "comment_count": 5
+    },
+    {
+        "title": "How to develop like a Senior Software Engineer",
+        "video_url": "https://www.youtube.com/watch?v=FxXyoRyzxoU",
+        "thumbnail_url": "https://i.ytimg.com/vi/FxXyoRyzxoU/hqdefault.jpg",
+        "duration_minutes": 57.42,
+        "upload_date": "2023-11-02",
+        "comment_count": 11
+    },
+    {
+        "title": "Creating a Dataset from Scratch with Copilot",
+        "video_url": "https://www.youtube.com/watch?v=gUgBlCMHkSQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/gUgBlCMHkSQ/hqdefault.jpg",
+        "duration_minutes": 29.57,
+        "upload_date": "2023-04-28",
+        "comment_count": 1
+    },
+    {
+        "title": "Connecting to SQL databases from VS Code",
+        "video_url": "https://www.youtube.com/watch?v=_8nSXEIMMpA",
+        "thumbnail_url": "https://i.ytimg.com/vi/_8nSXEIMMpA/hqdefault.jpg",
+        "duration_minutes": 59.95,
+        "upload_date": "2023-08-24",
+        "comment_count": 9
+    },
+    {
+        "title": "VS Code Extension: Beyond \u201cHello World\u201d",
+        "video_url": "https://www.youtube.com/watch?v=4WblV-wbih8",
+        "thumbnail_url": "https://i.ytimg.com/vi/4WblV-wbih8/hqdefault.jpg",
+        "duration_minutes": 76.57,
+        "upload_date": "2023-07-21",
+        "comment_count": 8
+    },
+    {
+        "title": "Getting started with Rust in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=B1zIYKP_1Fw",
+        "thumbnail_url": "https://i.ytimg.com/vi/B1zIYKP_1Fw/hqdefault.jpg",
+        "duration_minutes": 42.9,
+        "upload_date": "2022-01-27",
+        "comment_count": 17
+    },
+    {
+        "title": "Accessibilty in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=iFPsrvjZ9yo",
+        "thumbnail_url": "https://i.ytimg.com/vi/iFPsrvjZ9yo/hqdefault.jpg",
+        "duration_minutes": 25.15,
+        "upload_date": "2023-04-28",
+        "comment_count": 8
+    },
+    {
+        "title": "\u25b6\ufe0f Connecting to SQL databases from VS Code",
+        "video_url": "https://www.youtube.com/watch?v=9ZIBcr0ZFtU",
+        "thumbnail_url": "https://i.ytimg.com/vi/9ZIBcr0ZFtU/hqdefault.jpg",
+        "duration_minutes": 59.93,
+        "upload_date": "2024-03-01",
+        "comment_count": 6
+    },
+    {
+        "title": "Python Pulse: LangChain Code and Contributions",
+        "video_url": "https://www.youtube.com/watch?v=x_sgqs94bIo",
+        "thumbnail_url": "https://i.ytimg.com/vi/x_sgqs94bIo/hqdefault.jpg",
+        "duration_minutes": 61.17,
+        "upload_date": "2024-04-20",
+        "comment_count": 8
+    },
+    {
+        "title": "Accessibility in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=9biCDjSSwqw",
+        "thumbnail_url": "https://i.ytimg.com/vi/9biCDjSSwqw/hqdefault.jpg",
+        "duration_minutes": 35.5,
+        "upload_date": "2022-09-30",
+        "comment_count": 5
+    },
+    {
+        "title": "Using VS Code to develop C, COBOL and RPGLE",
+        "video_url": "https://www.youtube.com/watch?v=JRI7K8Y7cjQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/JRI7K8Y7cjQ/hqdefault.jpg",
+        "duration_minutes": 52.12,
+        "upload_date": "2022-08-11",
+        "comment_count": 16
+    },
+    {
+        "title": "\ud83d\udd34 A Very Special Gift from VS Code",
+        "video_url": "https://www.youtube.com/watch?v=CijHJBR9KbQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/CijHJBR9KbQ/hqdefault.jpg",
+        "duration_minutes": 118.03,
+        "upload_date": "2024-12-18",
+        "comment_count": 13
+    },
+    {
+        "title": "Coding Python in a Haunted House Using VS Code for Education",
+        "video_url": "https://www.youtube.com/watch?v=Wm7vkNc8NBE",
+        "thumbnail_url": "https://i.ytimg.com/vi/Wm7vkNc8NBE/hqdefault.jpg",
+        "duration_minutes": 36.13,
+        "upload_date": "2023-10-20",
+        "comment_count": 2
+    },
+    {
+        "title": "Modern Debugging in VS Code: SSH, Remote and Live Debugging in VS Code with Lightrun",
+        "video_url": "https://www.youtube.com/watch?v=IetCyWdtMx8",
+        "thumbnail_url": "https://i.ytimg.com/vi/IetCyWdtMx8/hqdefault.jpg",
+        "duration_minutes": 58.15,
+        "upload_date": "2022-07-21",
+        "comment_count": 6
+    },
+    {
+        "title": "\u00a1Trucazos de Visual Studio Code para Programadores Web!",
+        "video_url": "https://www.youtube.com/watch?v=UdIcAdQtiws",
+        "thumbnail_url": "https://i.ytimg.com/vi/UdIcAdQtiws/hqdefault.jpg",
+        "duration_minutes": 80.4,
+        "upload_date": "2024-11-14",
+        "comment_count": 38
+    },
+    {
+        "title": "Building faster websites with Astro",
+        "video_url": "https://www.youtube.com/watch?v=0eka27P4Pr4",
+        "thumbnail_url": "https://i.ytimg.com/vi/0eka27P4Pr4/hqdefault.jpg",
+        "duration_minutes": 69.38,
+        "upload_date": "2023-01-19",
+        "comment_count": 13
+    },
+    {
+        "title": "Python Pulse - Securing Python Applications",
+        "video_url": "https://www.youtube.com/watch?v=u6Jk8igG_Po",
+        "thumbnail_url": "https://i.ytimg.com/vi/u6Jk8igG_Po/hqdefault.jpg",
+        "duration_minutes": 60.82,
+        "upload_date": "2024-09-13",
+        "comment_count": 0
+    },
+    {
+        "title": "Dog vs Cat Classification Using Convolution Neural Network | Python Data Science Day",
+        "video_url": "https://www.youtube.com/watch?v=91TorIswgPw",
+        "thumbnail_url": "https://i.ytimg.com/vi/91TorIswgPw/hqdefault.jpg",
+        "duration_minutes": 22.88,
+        "upload_date": "2024-03-28",
+        "comment_count": 0
+    },
+    {
+        "title": "Visualizing Data Structures and Algorithms with VS Code",
+        "video_url": "https://www.youtube.com/watch?v=ElbGMWA6wA4",
+        "thumbnail_url": "https://i.ytimg.com/vi/ElbGMWA6wA4/hqdefault.jpg",
+        "duration_minutes": 67.92,
+        "upload_date": "2022-12-01",
+        "comment_count": 55
+    },
+    {
+        "title": "Learn Data Science from SCRATCH (with GitHub CoPilot)",
+        "video_url": "https://www.youtube.com/watch?v=C_0mtbAWNtQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/C_0mtbAWNtQ/hqdefault.jpg",
+        "duration_minutes": 65.98,
+        "upload_date": "2022-09-22",
+        "comment_count": 3
+    },
+    {
+        "title": "Bringing Figma to developers in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=xAipdCNtvR8",
+        "thumbnail_url": "https://i.ytimg.com/vi/xAipdCNtvR8/hqdefault.jpg",
+        "duration_minutes": 58.78,
+        "upload_date": "2024-02-15",
+        "comment_count": 12
+    },
+    {
+        "title": "The Python Pulse - E2E Testing with Playwright",
+        "video_url": "https://www.youtube.com/watch?v=kMDdFURhKoo",
+        "thumbnail_url": "https://i.ytimg.com/vi/kMDdFURhKoo/hqdefault.jpg",
+        "duration_minutes": 63.65,
+        "upload_date": "2023-08-12",
+        "comment_count": 5
+    },
+    {
+        "title": "Effortless Data Analysis and Cleaning with Data Wrangler in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=gc0Hm1NpYPo",
+        "thumbnail_url": "https://i.ytimg.com/vi/gc0Hm1NpYPo/hqdefault.jpg",
+        "duration_minutes": 56.77,
+        "upload_date": "2023-05-04",
+        "comment_count": 10
+    },
+    {
+        "title": "Python Data Science Day",
+        "video_url": "https://www.youtube.com/watch?v=scvDXfCMHYU",
+        "thumbnail_url": "https://i.ytimg.com/vi/scvDXfCMHYU/hqdefault.jpg",
+        "duration_minutes": 480.52,
+        "upload_date": "2024-03-15",
+        "comment_count": 9
+    },
+    {
+        "title": "Building Your First Extension in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=i5wK7_E9SWo",
+        "thumbnail_url": "https://i.ytimg.com/vi/i5wK7_E9SWo/hqdefault.jpg",
+        "duration_minutes": 67.53,
+        "upload_date": "2023-01-12",
+        "comment_count": 14
+    },
+    {
+        "title": "\ud83c\udf89 Release Party v1.87 | VS Code Speech and Copilot Extensibility",
+        "video_url": "https://www.youtube.com/watch?v=7PtNKleyHNk",
+        "thumbnail_url": "https://i.ytimg.com/vi/7PtNKleyHNk/hqdefault.jpg",
+        "duration_minutes": 56.63,
+        "upload_date": "2024-03-08",
+        "comment_count": 14
+    },
+    {
+        "title": "Introducci\u00f3n al front-end: Crea interfaces incre\u00edbles desde cero",
+        "video_url": "https://www.youtube.com/watch?v=3cbhKA2mQW8",
+        "thumbnail_url": "https://i.ytimg.com/vi/3cbhKA2mQW8/hqdefault.jpg",
+        "duration_minutes": 85.78,
+        "upload_date": "2024-11-07",
+        "comment_count": 17
+    },
+    {
+        "title": "Creating VS Code extensions for Python-based tools | Part 1",
+        "video_url": "https://www.youtube.com/watch?v=EHpFewLrEZo",
+        "thumbnail_url": "https://i.ytimg.com/vi/EHpFewLrEZo/hqdefault.jpg",
+        "duration_minutes": 66.95,
+        "upload_date": "2024-01-05",
+        "comment_count": 5
+    },
+    {
+        "title": "El d\u00eda que comenc\u00e9 a desarrollar todas mis webs con Python",
+        "video_url": "https://www.youtube.com/watch?v=FJEXZi7QdbM",
+        "thumbnail_url": "https://i.ytimg.com/vi/FJEXZi7QdbM/hqdefault.jpg",
+        "duration_minutes": 65.73,
+        "upload_date": "2024-11-06",
+        "comment_count": 35
+    },
+    {
+        "title": "Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento",
+        "video_url": "https://www.youtube.com/watch?v=JcPyHU6a4zY",
+        "thumbnail_url": "https://i.ytimg.com/vi/JcPyHU6a4zY/hqdefault.jpg",
+        "duration_minutes": 80.13,
+        "upload_date": "2024-11-01",
+        "comment_count": 6
+    },
+    {
+        "title": "Learning about the Recursion Algorithm with Minesweeper",
+        "video_url": "https://www.youtube.com/watch?v=uH1tMf2CKPw",
+        "thumbnail_url": "https://i.ytimg.com/vi/uH1tMf2CKPw/hqdefault.jpg",
+        "duration_minutes": 59.52,
+        "upload_date": "2023-04-07",
+        "comment_count": 10
+    },
+    {
+        "title": "Code in the Flow with VS Code\u2019s GitHub Copilot Chat",
+        "video_url": "https://www.youtube.com/watch?v=UqX2hCpgUJ0",
+        "thumbnail_url": "https://i.ytimg.com/vi/UqX2hCpgUJ0/hqdefault.jpg",
+        "duration_minutes": 71.25,
+        "upload_date": "2024-01-19",
+        "comment_count": 17
+    }
+]
