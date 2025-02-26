@@ -222,7 +222,7 @@
             if (event.key === "Enter") {
                 event.preventDefault();
                 let enteredValue = this.value.trim();
-                if (enteredValue) loadVideoData(`https://persistentcoder7.github.io/YoutubeLookup/data/${enteredValue}_channel_videos.json`);
+                if (enteredValue) loadVideoData(`data/${enteredValue}_channel_videos.json`);
             }
         });
 
