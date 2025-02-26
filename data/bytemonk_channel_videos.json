@@ -1,0 +1,2586 @@
+[
+    {
+        "title": "Vector Database: A Must-Know Guide",
+        "video_url": "https://www.youtube.com/watch?v=0d6tBMxFCt4",
+        "thumbnail_url": "https://i.ytimg.com/vi/0d6tBMxFCt4/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-08-12",
+        "comment_count": 6
+    },
+    {
+        "title": "Rate Limit : Token Bucket Algorithm #distributedsystems",
+        "video_url": "https://www.youtube.com/watch?v=rQWR_D3aoG8",
+        "thumbnail_url": "https://i.ytimg.com/vi/rQWR_D3aoG8/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2023-09-26",
+        "comment_count": 6
+    },
+    {
+        "title": "Rate Limit : Leaky Bucket Algorithm #distributedsystems",
+        "video_url": "https://www.youtube.com/watch?v=Lhk9BJ7XY9k",
+        "thumbnail_url": "https://i.ytimg.com/vi/Lhk9BJ7XY9k/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-09-27",
+        "comment_count": 4
+    },
+    {
+        "title": "TLS Handshake Explained #systemdesign #ssl",
+        "video_url": "https://www.youtube.com/watch?v=pOcHamIz7Ko",
+        "thumbnail_url": "https://i.ytimg.com/vi/pOcHamIz7Ko/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-19",
+        "comment_count": 13
+    },
+    {
+        "title": "Circuit Breaker Pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=JiBSltuT0cM",
+        "thumbnail_url": "https://i.ytimg.com/vi/JiBSltuT0cM/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-11-27",
+        "comment_count": 0
+    },
+    {
+        "title": "EventSourcing explained in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=h-zpahPej4U",
+        "thumbnail_url": "https://i.ytimg.com/vi/h-zpahPej4U/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-09-11",
+        "comment_count": 3
+    },
+    {
+        "title": "How Load Balancers Keep Your Web App Running Smoothly",
+        "video_url": "https://www.youtube.com/watch?v=dUO4ayAAnqQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/dUO4ayAAnqQ/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2025-01-07",
+        "comment_count": 2
+    },
+    {
+        "title": "Service Mesh Explained with example: Why You Need It for Microservice",
+        "video_url": "https://www.youtube.com/watch?v=_iqNjvaUVsM",
+        "thumbnail_url": "https://i.ytimg.com/vi/_iqNjvaUVsM/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-10-09",
+        "comment_count": 0
+    },
+    {
+        "title": "bulkhead pattern in microservices",
+        "video_url": "https://www.youtube.com/watch?v=UnFG2izFm2k",
+        "thumbnail_url": "https://i.ytimg.com/vi/UnFG2izFm2k/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-12-03",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Decomposition: Simplifying Monolith to Microservices Transition",
+        "video_url": "https://www.youtube.com/watch?v=9-n5oJG4XMY",
+        "thumbnail_url": "https://i.ytimg.com/vi/9-n5oJG4XMY/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-10-30",
+        "comment_count": 0
+    },
+    {
+        "title": "Sidecar Proxy example in Service Mesh Architecture",
+        "video_url": "https://www.youtube.com/watch?v=iDJvRLQAL0I",
+        "thumbnail_url": "https://i.ytimg.com/vi/iDJvRLQAL0I/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-09-21",
+        "comment_count": 0
+    },
+    {
+        "title": "Why Terraform for Multi-Cloud Infrastructure?",
+        "video_url": "https://www.youtube.com/watch?v=8wSluwEJTFo",
+        "thumbnail_url": "https://i.ytimg.com/vi/8wSluwEJTFo/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2024-11-15",
+        "comment_count": 4
+    },
+    {
+        "title": "CQRS Pattern vs CRUD in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=13vkP6cVa4U",
+        "thumbnail_url": "https://i.ytimg.com/vi/13vkP6cVa4U/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-09-03",
+        "comment_count": 0
+    },
+    {
+        "title": "Database Per Service Pattern",
+        "video_url": "https://www.youtube.com/watch?v=q81-wDiJRN0",
+        "thumbnail_url": "https://i.ytimg.com/vi/q81-wDiJRN0/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-10-21",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Discovery : Client Side vs Server Side",
+        "video_url": "https://www.youtube.com/watch?v=XUIdwTnRi0g",
+        "thumbnail_url": "https://i.ytimg.com/vi/XUIdwTnRi0g/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2024-10-15",
+        "comment_count": 0
+    },
+    {
+        "title": "Netflix Eureka Service Discovery",
+        "video_url": "https://www.youtube.com/watch?v=JMXh_6N9PAk",
+        "thumbnail_url": "https://i.ytimg.com/vi/JMXh_6N9PAk/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2024-10-19",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Discovery using Netflix Eureka",
+        "video_url": "https://www.youtube.com/watch?v=XH5QBurZ9OU",
+        "thumbnail_url": "https://i.ytimg.com/vi/XH5QBurZ9OU/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-10-16",
+        "comment_count": 0
+    },
+    {
+        "title": "What Is Onion Architecture? Simplified!",
+        "video_url": "https://www.youtube.com/watch?v=ASm8uKLYXa8",
+        "thumbnail_url": "https://i.ytimg.com/vi/ASm8uKLYXa8/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2025-01-08",
+        "comment_count": 5
+    },
+    {
+        "title": "What is CQRS? Command Query Responsibility Segregation Explained",
+        "video_url": "https://www.youtube.com/watch?v=q07BGZBDo7g",
+        "thumbnail_url": "https://i.ytimg.com/vi/q07BGZBDo7g/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2025-01-21",
+        "comment_count": 3
+    },
+    {
+        "title": "What is a Service Mesh? Simplifying Microservices Communication",
+        "video_url": "https://www.youtube.com/watch?v=EZctFC4daPw",
+        "thumbnail_url": "https://i.ytimg.com/vi/EZctFC4daPw/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-10-07",
+        "comment_count": 0
+    },
+    {
+        "title": "Accuracy in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=hz1qw-WbXk8",
+        "thumbnail_url": "https://i.ytimg.com/vi/hz1qw-WbXk8/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-09-10",
+        "comment_count": 0
+    },
+    {
+        "title": "What is Hexagonal Architecture? Explained with Examples",
+        "video_url": "https://www.youtube.com/watch?v=uvlXQ4w-l94",
+        "thumbnail_url": "https://i.ytimg.com/vi/uvlXQ4w-l94/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2025-01-10",
+        "comment_count": 1
+    },
+    {
+        "title": "Why Amazon is the Perfect Strangler Pattern Example",
+        "video_url": "https://www.youtube.com/watch?v=p5KoYRll_Bg",
+        "thumbnail_url": "https://i.ytimg.com/vi/p5KoYRll_Bg/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-11-13",
+        "comment_count": 4
+    },
+    {
+        "title": "Sidecar Pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=z9wuLNJdiqQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/z9wuLNJdiqQ/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-09-17",
+        "comment_count": 0
+    },
+    {
+        "title": "aws load balancers explained",
+        "video_url": "https://www.youtube.com/watch?v=uG7_0Zi5oVk",
+        "thumbnail_url": "https://i.ytimg.com/vi/uG7_0Zi5oVk/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2024-12-20",
+        "comment_count": 0
+    },
+    {
+        "title": "CPU Core and Concurrency Explained for Beginners | Multithreading",
+        "video_url": "https://www.youtube.com/watch?v=3Lzubtz9SUY",
+        "thumbnail_url": "https://i.ytimg.com/vi/3Lzubtz9SUY/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-10-03",
+        "comment_count": 1
+    },
+    {
+        "title": "Traditional Search vs Semantic Search  #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=04K490hWRoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/04K490hWRoQ/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-08-18",
+        "comment_count": 0
+    },
+    {
+        "title": "Uber Event-Driven Architecture",
+        "video_url": "https://www.youtube.com/watch?v=-yX-2LChou0",
+        "thumbnail_url": "https://i.ytimg.com/vi/-yX-2LChou0/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-09-28",
+        "comment_count": 0
+    },
+    {
+        "title": "Data Mesh: Revolutionizing Data Architecture",
+        "video_url": "https://www.youtube.com/watch?v=IAbZJt7nY6E",
+        "thumbnail_url": "https://i.ytimg.com/vi/IAbZJt7nY6E/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2024-09-14",
+        "comment_count": 0
+    },
+    {
+        "title": "How CDN works| System Design",
+        "video_url": "https://www.youtube.com/watch?v=UpZWf1tH6K0",
+        "thumbnail_url": "https://i.ytimg.com/vi/UpZWf1tH6K0/hqdefault.jpg",
+        "duration_minutes": 1.02,
+        "upload_date": "2023-10-16",
+        "comment_count": 3
+    },
+    {
+        "title": "Types of Service Decomposition Explained",
+        "video_url": "https://www.youtube.com/watch?v=LsHa1o9JN-k",
+        "thumbnail_url": "https://i.ytimg.com/vi/LsHa1o9JN-k/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-11-04",
+        "comment_count": 1
+    },
+    {
+        "title": "Scalability and Event-Driven Architecture",
+        "video_url": "https://www.youtube.com/watch?v=kxKqp1HEN_8",
+        "thumbnail_url": "https://i.ytimg.com/vi/kxKqp1HEN_8/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-09-30",
+        "comment_count": 0
+    },
+    {
+        "title": "Event-Driven Architecture",
+        "video_url": "https://www.youtube.com/watch?v=TRb9L-5bWgM",
+        "thumbnail_url": "https://i.ytimg.com/vi/TRb9L-5bWgM/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-09-26",
+        "comment_count": 0
+    },
+    {
+        "title": "canary deployment explained",
+        "video_url": "https://www.youtube.com/watch?v=H48JzcLQs1c",
+        "thumbnail_url": "https://i.ytimg.com/vi/H48JzcLQs1c/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-12-23",
+        "comment_count": 1
+    },
+    {
+        "title": "how waf and nginx strengthen backend security",
+        "video_url": "https://www.youtube.com/watch?v=SXeW5kyk5-U",
+        "thumbnail_url": "https://i.ytimg.com/vi/SXeW5kyk5-U/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-12-28",
+        "comment_count": 0
+    },
+    {
+        "title": "What is Clean Architecture?",
+        "video_url": "https://www.youtube.com/watch?v=PLi-dO1RiFw",
+        "thumbnail_url": "https://i.ytimg.com/vi/PLi-dO1RiFw/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2025-01-18",
+        "comment_count": 0
+    },
+    {
+        "title": "What is mTLS and Why is it Secure than TLS",
+        "video_url": "https://www.youtube.com/watch?v=9AhzLGmp9V4",
+        "thumbnail_url": "https://i.ytimg.com/vi/9AhzLGmp9V4/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-11-12",
+        "comment_count": 0
+    },
+    {
+        "title": "What is SAML? A Comprehensive Guide with Examples",
+        "video_url": "https://www.youtube.com/watch?v=4ULlJEupV-I",
+        "thumbnail_url": "https://i.ytimg.com/vi/4ULlJEupV-I/hqdefault.jpg",
+        "duration_minutes": 9.87,
+        "upload_date": "2023-09-22",
+        "comment_count": 30
+    },
+    {
+        "title": "Real-World Terraform Script Explained",
+        "video_url": "https://www.youtube.com/watch?v=B6DiINe3QT0",
+        "thumbnail_url": "https://i.ytimg.com/vi/B6DiINe3QT0/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-11-24",
+        "comment_count": 0
+    },
+    {
+        "title": "How Credit Card Payments work #visa #fintech",
+        "video_url": "https://www.youtube.com/watch?v=L2cYptW2ouw",
+        "thumbnail_url": "https://i.ytimg.com/vi/L2cYptW2ouw/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-24",
+        "comment_count": 0
+    },
+    {
+        "title": "What is Elasticsearch? #systemdesign #elasticsearch",
+        "video_url": "https://www.youtube.com/watch?v=kqbPw03jw90",
+        "thumbnail_url": "https://i.ytimg.com/vi/kqbPw03jw90/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-08-26",
+        "comment_count": 3
+    },
+    {
+        "title": "Netflix Event-Driven Architecture",
+        "video_url": "https://www.youtube.com/watch?v=W8YLcfXNnZo",
+        "thumbnail_url": "https://i.ytimg.com/vi/W8YLcfXNnZo/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-09-27",
+        "comment_count": 0
+    },
+    {
+        "title": "Sidecar Pattern in Service Mesh Architecture",
+        "video_url": "https://www.youtube.com/watch?v=FMxUYhYDiys",
+        "thumbnail_url": "https://i.ytimg.com/vi/FMxUYhYDiys/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-09-19",
+        "comment_count": 0
+    },
+    {
+        "title": "Mastering CQRS in Just 5 Minutes",
+        "video_url": "https://www.youtube.com/watch?v=SvjdJoNPcHs",
+        "thumbnail_url": "https://i.ytimg.com/vi/SvjdJoNPcHs/hqdefault.jpg",
+        "duration_minutes": 5.8,
+        "upload_date": "2024-08-28",
+        "comment_count": 6
+    },
+    {
+        "title": "Large Language Models Explained #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=jRfIqQu_mcY",
+        "thumbnail_url": "https://i.ytimg.com/vi/jRfIqQu_mcY/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-08-17",
+        "comment_count": 0
+    },
+    {
+        "title": "Sidecar Pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=sh2nwXJLDkE",
+        "thumbnail_url": "https://i.ytimg.com/vi/sh2nwXJLDkE/hqdefault.jpg",
+        "duration_minutes": 7.03,
+        "upload_date": "2024-09-05",
+        "comment_count": 14
+    },
+    {
+        "title": "REST vs gRPC",
+        "video_url": "https://www.youtube.com/watch?v=TFXBFh66rrk",
+        "thumbnail_url": "https://i.ytimg.com/vi/TFXBFh66rrk/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2023-08-30",
+        "comment_count": 0
+    },
+    {
+        "title": "How CDN Works | System Design",
+        "video_url": "https://www.youtube.com/watch?v=bJ9NnLLMQ78",
+        "thumbnail_url": "https://i.ytimg.com/vi/bJ9NnLLMQ78/hqdefault.jpg",
+        "duration_minutes": 5.95,
+        "upload_date": "2023-02-26",
+        "comment_count": 42
+    },
+    {
+        "title": "Greedy Sampling in Language Models #ai #llm #sampling",
+        "video_url": "https://www.youtube.com/watch?v=F7pN7wAHpP0",
+        "thumbnail_url": "https://i.ytimg.com/vi/F7pN7wAHpP0/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-08-19",
+        "comment_count": 0
+    },
+    {
+        "title": "Precision vs Recall in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=67Ekk-rM5dE",
+        "thumbnail_url": "https://i.ytimg.com/vi/67Ekk-rM5dE/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2024-09-09",
+        "comment_count": 0
+    },
+    {
+        "title": "Database Per Service Explained | Credit Card App example",
+        "video_url": "https://www.youtube.com/watch?v=YrCjrJLON6g",
+        "thumbnail_url": "https://i.ytimg.com/vi/YrCjrJLON6g/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-10-10",
+        "comment_count": 4
+    },
+    {
+        "title": "availability zones ensure app uptime",
+        "video_url": "https://www.youtube.com/watch?v=ywNjcATFmYU",
+        "thumbnail_url": "https://i.ytimg.com/vi/ywNjcATFmYU/hqdefault.jpg",
+        "duration_minutes": 0.48,
+        "upload_date": "2024-12-08",
+        "comment_count": 2
+    },
+    {
+        "title": "Supervised Learning  #ai #machinelearning",
+        "video_url": "https://www.youtube.com/watch?v=UADHHrm436M",
+        "thumbnail_url": "https://i.ytimg.com/vi/UADHHrm436M/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-08-29",
+        "comment_count": 0
+    },
+    {
+        "title": "What is DNS?",
+        "video_url": "https://www.youtube.com/watch?v=6bGvO18yAH0",
+        "thumbnail_url": "https://i.ytimg.com/vi/6bGvO18yAH0/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-08-15",
+        "comment_count": 1
+    },
+    {
+        "title": "Concurrency Explained in Java",
+        "video_url": "https://www.youtube.com/watch?v=zalmfGCr6vQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/zalmfGCr6vQ/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-09-22",
+        "comment_count": 0
+    },
+    {
+        "title": "Concurrency and CPU Core Explained for Beginners | Multithreading",
+        "video_url": "https://www.youtube.com/watch?v=hkXijFYZ4jA",
+        "thumbnail_url": "https://i.ytimg.com/vi/hkXijFYZ4jA/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-09-25",
+        "comment_count": 1
+    },
+    {
+        "title": "\ud83d\udd25 How Rate Limiting and Throttling Saves Your API Server From CRASHING!",
+        "video_url": "https://www.youtube.com/watch?v=_qNHROq0pGk",
+        "thumbnail_url": "https://i.ytimg.com/vi/_qNHROq0pGk/hqdefault.jpg",
+        "duration_minutes": 7.48,
+        "upload_date": "2025-02-18",
+        "comment_count": 20
+    },
+    {
+        "title": "Kubernetes Explained: Pods & Control Plane",
+        "video_url": "https://www.youtube.com/watch?v=2b2jcfLMkfc",
+        "thumbnail_url": "https://i.ytimg.com/vi/2b2jcfLMkfc/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-11-02",
+        "comment_count": 0
+    },
+    {
+        "title": "how elastic load balancers and auto scaling keep your app running smoothly",
+        "video_url": "https://www.youtube.com/watch?v=AvcTpQri-5M",
+        "thumbnail_url": "https://i.ytimg.com/vi/AvcTpQri-5M/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-12-16",
+        "comment_count": 0
+    },
+    {
+        "title": "Nvidia's AI Dominance: The Tech Behind Their Surge",
+        "video_url": "https://www.youtube.com/watch?v=vWKmH0BvqQo",
+        "thumbnail_url": "https://i.ytimg.com/vi/vWKmH0BvqQo/hqdefault.jpg",
+        "duration_minutes": 8.42,
+        "upload_date": "2024-08-08",
+        "comment_count": 3
+    },
+    {
+        "title": "Service Discovery: Server Side Discovery",
+        "video_url": "https://www.youtube.com/watch?v=uwKLX9UJ2Xw",
+        "thumbnail_url": "https://i.ytimg.com/vi/uwKLX9UJ2Xw/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-10-18",
+        "comment_count": 0
+    },
+    {
+        "title": "Transformer Architecture: Encoder explained #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=exP5T6IgQHs",
+        "thumbnail_url": "https://i.ytimg.com/vi/exP5T6IgQHs/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-08-23",
+        "comment_count": 0
+    },
+    {
+        "title": "Circuit Breaker Pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=dJI2saoM5_k",
+        "thumbnail_url": "https://i.ytimg.com/vi/dJI2saoM5_k/hqdefault.jpg",
+        "duration_minutes": 9.9,
+        "upload_date": "2024-06-21",
+        "comment_count": 22
+    },
+    {
+        "title": "EventSourcing and CQRS",
+        "video_url": "https://www.youtube.com/watch?v=s7uk69rMHFQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/s7uk69rMHFQ/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-09-13",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Mesh Architecture and Sidecar",
+        "video_url": "https://www.youtube.com/watch?v=X5LxprTgMQQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/X5LxprTgMQQ/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-09-20",
+        "comment_count": 4
+    },
+    {
+        "title": "Relational Databases | Storage Part 2 | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=6bZdMZb8xI8",
+        "thumbnail_url": "https://i.ytimg.com/vi/6bZdMZb8xI8/hqdefault.jpg",
+        "duration_minutes": 3.9,
+        "upload_date": "2022-06-15",
+        "comment_count": 1
+    },
+    {
+        "title": "Concurrency Node JS vs Java vs SQL",
+        "video_url": "https://www.youtube.com/watch?v=letG8Q1w3xQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/letG8Q1w3xQ/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-10-01",
+        "comment_count": 3
+    },
+    {
+        "title": "Arrays and Vectors in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=lbdxOqlt3V4",
+        "thumbnail_url": "https://i.ytimg.com/vi/lbdxOqlt3V4/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2024-08-30",
+        "comment_count": 0
+    },
+    {
+        "title": "Netlflix Microservices BFF Pattern",
+        "video_url": "https://www.youtube.com/watch?v=wIDh8MlkSoA",
+        "thumbnail_url": "https://i.ytimg.com/vi/wIDh8MlkSoA/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-09-24",
+        "comment_count": 0
+    },
+    {
+        "title": "How Amazon Route 53 powers fast and reliable DNS",
+        "video_url": "https://www.youtube.com/watch?v=LN-FyvIgwKs",
+        "thumbnail_url": "https://i.ytimg.com/vi/LN-FyvIgwKs/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-12-13",
+        "comment_count": 0
+    },
+    {
+        "title": "Distributed Systems Explained | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=IJWwfMyPu1c",
+        "thumbnail_url": "https://i.ytimg.com/vi/IJWwfMyPu1c/hqdefault.jpg",
+        "duration_minutes": 3.63,
+        "upload_date": "2021-12-26",
+        "comment_count": 13
+    },
+    {
+        "title": "Netflix Event-Driven Architecture and Service Mesh",
+        "video_url": "https://www.youtube.com/watch?v=Ix4CLPCziQk",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ix4CLPCziQk/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-09-29",
+        "comment_count": 1
+    },
+    {
+        "title": "Sidecar Logging and Tracing in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=v-6g06IEV90",
+        "thumbnail_url": "https://i.ytimg.com/vi/v-6g06IEV90/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-09-18",
+        "comment_count": 0
+    },
+    {
+        "title": "why timeouts are crucial",
+        "video_url": "https://www.youtube.com/watch?v=Ws79_YV7nhg",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ws79_YV7nhg/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-12-06",
+        "comment_count": 1
+    },
+    {
+        "title": "Evolution of Microservices | System Design Basics",
+        "video_url": "https://www.youtube.com/watch?v=hhgf6SO7_PI",
+        "thumbnail_url": "https://i.ytimg.com/vi/hhgf6SO7_PI/hqdefault.jpg",
+        "duration_minutes": 4.35,
+        "upload_date": "2022-02-05",
+        "comment_count": 3
+    },
+    {
+        "title": "EventSourcing and Event Propagation",
+        "video_url": "https://www.youtube.com/watch?v=jhDpgHfpn8M",
+        "thumbnail_url": "https://i.ytimg.com/vi/jhDpgHfpn8M/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-09-12",
+        "comment_count": 0
+    },
+    {
+        "title": "Health check in microservices",
+        "video_url": "https://www.youtube.com/watch?v=IkZFuVGOy2c",
+        "thumbnail_url": "https://i.ytimg.com/vi/IkZFuVGOy2c/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-11-28",
+        "comment_count": 3
+    },
+    {
+        "title": "difference between forward and reverse proxy explained",
+        "video_url": "https://www.youtube.com/watch?v=scDqfwhXtx8",
+        "thumbnail_url": "https://i.ytimg.com/vi/scDqfwhXtx8/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2025-01-02",
+        "comment_count": 2
+    },
+    {
+        "title": "Data Scientist vs Data Engineer #systemdesign #datascience",
+        "video_url": "https://www.youtube.com/watch?v=xmxJ4cS-niU",
+        "thumbnail_url": "https://i.ytimg.com/vi/xmxJ4cS-niU/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2023-10-23",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Decomposition by Usecase  Microservices Pattern",
+        "video_url": "https://www.youtube.com/watch?v=o8J0Xfjwwe0",
+        "thumbnail_url": "https://i.ytimg.com/vi/o8J0Xfjwwe0/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-11-06",
+        "comment_count": 0
+    },
+    {
+        "title": "Network Topology Explained in Seconds!",
+        "video_url": "https://www.youtube.com/watch?v=QxfYZpE9ch8",
+        "thumbnail_url": "https://i.ytimg.com/vi/QxfYZpE9ch8/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-11-10",
+        "comment_count": 3
+    },
+    {
+        "title": "How WebHook works | System Design",
+        "video_url": "https://www.youtube.com/watch?v=oQaJn6RdA3g",
+        "thumbnail_url": "https://i.ytimg.com/vi/oQaJn6RdA3g/hqdefault.jpg",
+        "duration_minutes": 7.72,
+        "upload_date": "2023-03-13",
+        "comment_count": 92
+    },
+    {
+        "title": "Twitter Timeline Architecture |  Fanout | System Design",
+        "video_url": "https://www.youtube.com/watch?v=FEkXjNFrL1o",
+        "thumbnail_url": "https://i.ytimg.com/vi/FEkXjNFrL1o/hqdefault.jpg",
+        "duration_minutes": 5.72,
+        "upload_date": "2022-11-26",
+        "comment_count": 22
+    },
+    {
+        "title": "How Credit Card work example  #fintech",
+        "video_url": "https://www.youtube.com/watch?v=M87WMpG4G78",
+        "thumbnail_url": "https://i.ytimg.com/vi/M87WMpG4G78/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2023-10-25",
+        "comment_count": 2
+    },
+    {
+        "title": "Stateful vs Stateless Architecture Explained",
+        "video_url": "https://www.youtube.com/watch?v=fLwlslWLBsk",
+        "thumbnail_url": "https://i.ytimg.com/vi/fLwlslWLBsk/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-11-26",
+        "comment_count": 1
+    },
+    {
+        "title": "Essential Network Protocols | Computer Networks",
+        "video_url": "https://www.youtube.com/watch?v=jQ6_XhsMwws",
+        "thumbnail_url": "https://i.ytimg.com/vi/jQ6_XhsMwws/hqdefault.jpg",
+        "duration_minutes": 9.08,
+        "upload_date": "2024-07-16",
+        "comment_count": 1
+    },
+    {
+        "title": "API Gateway vs Load Balancer: What Every Developer Should Know!",
+        "video_url": "https://www.youtube.com/watch?v=_ErhwTPSpws",
+        "thumbnail_url": "https://i.ytimg.com/vi/_ErhwTPSpws/hqdefault.jpg",
+        "duration_minutes": 8.62,
+        "upload_date": "2024-12-22",
+        "comment_count": 15
+    },
+    {
+        "title": "LLM Crash Course - Chapter 3 | Prompt Engineering Patterns",
+        "video_url": "https://www.youtube.com/watch?v=A7lWqZ9_XpI",
+        "thumbnail_url": "https://i.ytimg.com/vi/A7lWqZ9_XpI/hqdefault.jpg",
+        "duration_minutes": 9.6,
+        "upload_date": "2024-05-24",
+        "comment_count": 6
+    },
+    {
+        "title": "Github Copilot X and Chat GPT 4 Plugins",
+        "video_url": "https://www.youtube.com/watch?v=C1rKHJApZ_E",
+        "thumbnail_url": "https://i.ytimg.com/vi/C1rKHJApZ_E/hqdefault.jpg",
+        "duration_minutes": 5.15,
+        "upload_date": "2023-03-28",
+        "comment_count": 5
+    },
+    {
+        "title": "Hashing Simplified | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=pU1uifHXhE4",
+        "thumbnail_url": "https://i.ytimg.com/vi/pU1uifHXhE4/hqdefault.jpg",
+        "duration_minutes": 5.22,
+        "upload_date": "2022-02-09",
+        "comment_count": 3
+    },
+    {
+        "title": "Caching in a Nutshell - Part 1 | System Design",
+        "video_url": "https://www.youtube.com/watch?v=2KCPcBNe6Ao",
+        "thumbnail_url": "https://i.ytimg.com/vi/2KCPcBNe6Ao/hqdefault.jpg",
+        "duration_minutes": 6.5,
+        "upload_date": "2022-04-07",
+        "comment_count": 5
+    },
+    {
+        "title": "API Authentication: JWT, OAuth2, and More",
+        "video_url": "https://www.youtube.com/watch?v=xJA8tP74KD0",
+        "thumbnail_url": "https://i.ytimg.com/vi/xJA8tP74KD0/hqdefault.jpg",
+        "duration_minutes": 6.2,
+        "upload_date": "2024-11-01",
+        "comment_count": 31
+    },
+    {
+        "title": "Supercharge Your REST API with These Essential HTTP Headers",
+        "video_url": "https://www.youtube.com/watch?v=fFHl7psnvz0",
+        "thumbnail_url": "https://i.ytimg.com/vi/fFHl7psnvz0/hqdefault.jpg",
+        "duration_minutes": 8.68,
+        "upload_date": "2025-02-05",
+        "comment_count": 7
+    },
+    {
+        "title": "Stateful vs Stateless Architecture Explained with Real-World Examples",
+        "video_url": "https://www.youtube.com/watch?v=QDiPjMWeVC0",
+        "thumbnail_url": "https://i.ytimg.com/vi/QDiPjMWeVC0/hqdefault.jpg",
+        "duration_minutes": 5.5,
+        "upload_date": "2024-10-24",
+        "comment_count": 18
+    },
+    {
+        "title": "Presigned URL | Youtube System Design",
+        "video_url": "https://www.youtube.com/watch?v=wwKCURWnjto",
+        "thumbnail_url": "https://i.ytimg.com/vi/wwKCURWnjto/hqdefault.jpg",
+        "duration_minutes": 5.25,
+        "upload_date": "2023-08-07",
+        "comment_count": 5
+    },
+    {
+        "title": "Evolution of Data Mesh Architecture: OLAP vs OLTP",
+        "video_url": "https://www.youtube.com/watch?v=Gp_V4oEDrNo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gp_V4oEDrNo/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-09-15",
+        "comment_count": 0
+    },
+    {
+        "title": "What is IP and URL Hashing in Load Balancing?",
+        "video_url": "https://www.youtube.com/watch?v=KuH55P6UgVc",
+        "thumbnail_url": "https://i.ytimg.com/vi/KuH55P6UgVc/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2025-01-20",
+        "comment_count": 3
+    },
+    {
+        "title": "Master Microservices Strangler Pattern by Top AWS Experts",
+        "video_url": "https://www.youtube.com/watch?v=DpuQ3-7e-rY",
+        "thumbnail_url": "https://i.ytimg.com/vi/DpuQ3-7e-rY/hqdefault.jpg",
+        "duration_minutes": 5.72,
+        "upload_date": "2024-09-26",
+        "comment_count": 9
+    },
+    {
+        "title": "How Terraform Works?",
+        "video_url": "https://www.youtube.com/watch?v=mhJaoyx-afs",
+        "thumbnail_url": "https://i.ytimg.com/vi/mhJaoyx-afs/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2024-11-09",
+        "comment_count": 0
+    },
+    {
+        "title": "What is mTLS? Secure Your Microservices from MITM Attacks",
+        "video_url": "https://www.youtube.com/watch?v=uWmZZyaHFEY",
+        "thumbnail_url": "https://i.ytimg.com/vi/uWmZZyaHFEY/hqdefault.jpg",
+        "duration_minutes": 5.82,
+        "upload_date": "2024-10-05",
+        "comment_count": 8
+    },
+    {
+        "title": "Bulkhead Pattern Explained: Resilience in Microservices Architecture",
+        "video_url": "https://www.youtube.com/watch?v=2I3-lbnMXec",
+        "thumbnail_url": "https://i.ytimg.com/vi/2I3-lbnMXec/hqdefault.jpg",
+        "duration_minutes": 6.8,
+        "upload_date": "2024-10-17",
+        "comment_count": 5
+    },
+    {
+        "title": "\u274c XSS Attacks Explained \u2013 How HACKERS steal data with one line of code",
+        "video_url": "https://www.youtube.com/watch?v=m-0p2BFAZvI",
+        "thumbnail_url": "https://i.ytimg.com/vi/m-0p2BFAZvI/hqdefault.jpg",
+        "duration_minutes": 8.68,
+        "upload_date": "2025-02-22",
+        "comment_count": 32
+    },
+    {
+        "title": "The Ultimate Guide to Aggregator Pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=6W8FCW2rWNQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/6W8FCW2rWNQ/hqdefault.jpg",
+        "duration_minutes": 6.5,
+        "upload_date": "2024-09-11",
+        "comment_count": 16
+    },
+    {
+        "title": "gRPC: The Future of Microservices Communication?",
+        "video_url": "https://www.youtube.com/watch?v=4w8pEyJMpvo",
+        "thumbnail_url": "https://i.ytimg.com/vi/4w8pEyJMpvo/hqdefault.jpg",
+        "duration_minutes": 8.0,
+        "upload_date": "2023-05-27",
+        "comment_count": 10
+    },
+    {
+        "title": "What is Least Connection Load Balancing?",
+        "video_url": "https://www.youtube.com/watch?v=06VI0JVZC04",
+        "thumbnail_url": "https://i.ytimg.com/vi/06VI0JVZC04/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2025-01-19",
+        "comment_count": 1
+    },
+    {
+        "title": "Top 5 Microservices Resilience Patterns",
+        "video_url": "https://www.youtube.com/watch?v=RfPNuaj5Ax0",
+        "thumbnail_url": "https://i.ytimg.com/vi/RfPNuaj5Ax0/hqdefault.jpg",
+        "duration_minutes": 6.8,
+        "upload_date": "2024-10-16",
+        "comment_count": 14
+    },
+    {
+        "title": "How Load Balancers Use Health Checks in Distributed Systems",
+        "video_url": "https://www.youtube.com/watch?v=4SWwWIpi3E4",
+        "thumbnail_url": "https://i.ytimg.com/vi/4SWwWIpi3E4/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2025-01-11",
+        "comment_count": 2
+    },
+    {
+        "title": "Strangler Pattern Simplified for Migrations",
+        "video_url": "https://www.youtube.com/watch?v=VQ97sacUT3g",
+        "thumbnail_url": "https://i.ytimg.com/vi/VQ97sacUT3g/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-11-21",
+        "comment_count": 0
+    },
+    {
+        "title": "Strangler Pattern: Phasing Out Monoliths",
+        "video_url": "https://www.youtube.com/watch?v=A0iVkruYVcg",
+        "thumbnail_url": "https://i.ytimg.com/vi/A0iVkruYVcg/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2024-11-22",
+        "comment_count": 0
+    },
+    {
+        "title": "Unlock the Power of GraphQL in 10 minutes Vs REST",
+        "video_url": "https://www.youtube.com/watch?v=1VpqNYbdB6k",
+        "thumbnail_url": "https://i.ytimg.com/vi/1VpqNYbdB6k/hqdefault.jpg",
+        "duration_minutes": 13.35,
+        "upload_date": "2024-02-06",
+        "comment_count": 7
+    },
+    {
+        "title": "Random Load Balancing Strategy",
+        "video_url": "https://www.youtube.com/watch?v=EBTmNyqyacU",
+        "thumbnail_url": "https://i.ytimg.com/vi/EBTmNyqyacU/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2025-01-13",
+        "comment_count": 0
+    },
+    {
+        "title": "Apple Pay Later and Credit Cards",
+        "video_url": "https://www.youtube.com/watch?v=Y8BhZv53e_8",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y8BhZv53e_8/hqdefault.jpg",
+        "duration_minutes": 8.47,
+        "upload_date": "2023-04-06",
+        "comment_count": 8
+    },
+    {
+        "title": "How Payment Processing Works in a Distributed System",
+        "video_url": "https://www.youtube.com/watch?v=Vn8xa6mUocA",
+        "thumbnail_url": "https://i.ytimg.com/vi/Vn8xa6mUocA/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2025-02-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Mesh Explained | Sidecar Proxy & Microservices Communication",
+        "video_url": "https://www.youtube.com/watch?v=xuOJF3w4vQQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/xuOJF3w4vQQ/hqdefault.jpg",
+        "duration_minutes": 5.93,
+        "upload_date": "2024-09-16",
+        "comment_count": 12
+    },
+    {
+        "title": "Unlock the Power of Event-Driven Architecture: How Netflix & Uber Handle Billions of Events",
+        "video_url": "https://www.youtube.com/watch?v=hrvx8Nv9eQA",
+        "thumbnail_url": "https://i.ytimg.com/vi/hrvx8Nv9eQA/hqdefault.jpg",
+        "duration_minutes": 8.65,
+        "upload_date": "2024-09-18",
+        "comment_count": 101
+    },
+    {
+        "title": "Transformer Architecture: Multi Headed Attention explained #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=oKzXV0-0qHQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/oKzXV0-0qHQ/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-08-22",
+        "comment_count": 0
+    },
+    {
+        "title": "Map Reduce explained with example | System Design",
+        "video_url": "https://www.youtube.com/watch?v=cHGaQz0E7AU",
+        "thumbnail_url": "https://i.ytimg.com/vi/cHGaQz0E7AU/hqdefault.jpg",
+        "duration_minutes": 9.15,
+        "upload_date": "2023-02-03",
+        "comment_count": 92
+    },
+    {
+        "title": "Transformer Architecture: Attention is all you need  #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=RUuhax5r1RA",
+        "thumbnail_url": "https://i.ytimg.com/vi/RUuhax5r1RA/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-08-21",
+        "comment_count": 0
+    },
+    {
+        "title": "Round Robin vs Weighted Round Robin Explained",
+        "video_url": "https://www.youtube.com/watch?v=-rBOAGxsf54",
+        "thumbnail_url": "https://i.ytimg.com/vi/-rBOAGxsf54/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2025-01-15",
+        "comment_count": 1
+    },
+    {
+        "title": "Composable Architecture - Microservices and APIs",
+        "video_url": "https://www.youtube.com/watch?v=E7kXoO9Z0NA",
+        "thumbnail_url": "https://i.ytimg.com/vi/E7kXoO9Z0NA/hqdefault.jpg",
+        "duration_minutes": 10.25,
+        "upload_date": "2024-07-08",
+        "comment_count": 5
+    },
+    {
+        "title": "SOLID principles explained | Java |  System Design Interview",
+        "video_url": "https://www.youtube.com/watch?v=5999cgzA95A",
+        "thumbnail_url": "https://i.ytimg.com/vi/5999cgzA95A/hqdefault.jpg",
+        "duration_minutes": 11.32,
+        "upload_date": "2024-06-12",
+        "comment_count": 11
+    },
+    {
+        "title": "How Facebook & YouTube Handle BILLIONS of Likes & Views!",
+        "video_url": "https://www.youtube.com/watch?v=LGOnP9Udffo",
+        "thumbnail_url": "https://i.ytimg.com/vi/LGOnP9Udffo/hqdefault.jpg",
+        "duration_minutes": 8.27,
+        "upload_date": "2025-02-24",
+        "comment_count": 41
+    },
+    {
+        "title": "\ud83e\uddd1\ud83c\udffd\u200d\ud83d\udcbb What REALLY Happens When You Type Localhost?",
+        "video_url": "https://www.youtube.com/watch?v=PwNJXUdMkVY",
+        "thumbnail_url": "https://i.ytimg.com/vi/PwNJXUdMkVY/hqdefault.jpg",
+        "duration_minutes": 9.5,
+        "upload_date": "2025-02-20",
+        "comment_count": 87
+    },
+    {
+        "title": "What is Encryption? #systemdesign",
+        "video_url": "https://www.youtube.com/watch?v=IiQS7zeUTU8",
+        "thumbnail_url": "https://i.ytimg.com/vi/IiQS7zeUTU8/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2023-10-18",
+        "comment_count": 7
+    },
+    {
+        "title": "Data Mesh Architecture - Netflix",
+        "video_url": "https://www.youtube.com/watch?v=7G4g6B78zxM",
+        "thumbnail_url": "https://i.ytimg.com/vi/7G4g6B78zxM/hqdefault.jpg",
+        "duration_minutes": 13.1,
+        "upload_date": "2024-07-12",
+        "comment_count": 5
+    },
+    {
+        "title": "OAuth 2.0 explained with examples",
+        "video_url": "https://www.youtube.com/watch?v=ZDuRmhLSLOY",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZDuRmhLSLOY/hqdefault.jpg",
+        "duration_minutes": 10.05,
+        "upload_date": "2023-09-13",
+        "comment_count": 127
+    },
+    {
+        "title": "Docker Explained Step by Step | System Design",
+        "video_url": "https://www.youtube.com/watch?v=KOwxqhFUgts",
+        "thumbnail_url": "https://i.ytimg.com/vi/KOwxqhFUgts/hqdefault.jpg",
+        "duration_minutes": 13.32,
+        "upload_date": "2024-03-25",
+        "comment_count": 8
+    },
+    {
+        "title": "reverse proxies and load balancers explained",
+        "video_url": "https://www.youtube.com/watch?v=2C-kLSYBfS4",
+        "thumbnail_url": "https://i.ytimg.com/vi/2C-kLSYBfS4/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-12-30",
+        "comment_count": 0
+    },
+    {
+        "title": "How UPI Works: Real-Time Payments in India | Paypal | Zelle",
+        "video_url": "https://www.youtube.com/watch?v=iI2NaN_QVTI",
+        "thumbnail_url": "https://i.ytimg.com/vi/iI2NaN_QVTI/hqdefault.jpg",
+        "duration_minutes": 9.63,
+        "upload_date": "2024-10-29",
+        "comment_count": 314
+    },
+    {
+        "title": "Metaverse and  NFTs explained with examples",
+        "video_url": "https://www.youtube.com/watch?v=HELut8eTRJg",
+        "thumbnail_url": "https://i.ytimg.com/vi/HELut8eTRJg/hqdefault.jpg",
+        "duration_minutes": 8.05,
+        "upload_date": "2022-01-27",
+        "comment_count": 5
+    },
+    {
+        "title": "Distributed Caching for System Design Interviews",
+        "video_url": "https://www.youtube.com/watch?v=Gdfj-544AkA",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gdfj-544AkA/hqdefault.jpg",
+        "duration_minutes": 7.07,
+        "upload_date": "2023-07-14",
+        "comment_count": 5
+    },
+    {
+        "title": "Client Server Architecture | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=yioOQ4ItYuo",
+        "thumbnail_url": "https://i.ytimg.com/vi/yioOQ4ItYuo/hqdefault.jpg",
+        "duration_minutes": 4.9,
+        "upload_date": "2022-03-24",
+        "comment_count": 14
+    },
+    {
+        "title": "understanding aws vpc and subnets explained",
+        "video_url": "https://www.youtube.com/watch?v=42eT62CON6o",
+        "thumbnail_url": "https://i.ytimg.com/vi/42eT62CON6o/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2024-12-15",
+        "comment_count": 0
+    },
+    {
+        "title": "How Zelle Works: Real-Time Bank Transfers in the U.S",
+        "video_url": "https://www.youtube.com/watch?v=AsiHK3KnYcU",
+        "thumbnail_url": "https://i.ytimg.com/vi/AsiHK3KnYcU/hqdefault.jpg",
+        "duration_minutes": 10.42,
+        "upload_date": "2024-11-15",
+        "comment_count": 13
+    },
+    {
+        "title": "Distributed Tracing in Microservices | System Design",
+        "video_url": "https://www.youtube.com/watch?v=XYvQHjWJJTE",
+        "thumbnail_url": "https://i.ytimg.com/vi/XYvQHjWJJTE/hqdefault.jpg",
+        "duration_minutes": 7.03,
+        "upload_date": "2023-06-04",
+        "comment_count": 15
+    },
+    {
+        "title": "Observability (Distributed Tracing) in #microservices   #systemdesign",
+        "video_url": "https://www.youtube.com/watch?v=tHk5nbwha64",
+        "thumbnail_url": "https://i.ytimg.com/vi/tHk5nbwha64/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-08-28",
+        "comment_count": 3
+    },
+    {
+        "title": "How Domain-Driven Design Makes You a Better Developer",
+        "video_url": "https://www.youtube.com/watch?v=sVi4aDNIPWo",
+        "thumbnail_url": "https://i.ytimg.com/vi/sVi4aDNIPWo/hqdefault.jpg",
+        "duration_minutes": 4.9,
+        "upload_date": "2025-01-20",
+        "comment_count": 34
+    },
+    {
+        "title": "Service-Oriented Architecture (SOA) Simplified",
+        "video_url": "https://www.youtube.com/watch?v=WS_u-_gnoVI",
+        "thumbnail_url": "https://i.ytimg.com/vi/WS_u-_gnoVI/hqdefault.jpg",
+        "duration_minutes": 0.55,
+        "upload_date": "2025-01-16",
+        "comment_count": 1
+    },
+    {
+        "title": "Understanding mTLS: How It Enhances Security",
+        "video_url": "https://www.youtube.com/watch?v=wpzeqAm9Fyo",
+        "thumbnail_url": "https://i.ytimg.com/vi/wpzeqAm9Fyo/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-11-16",
+        "comment_count": 0
+    },
+    {
+        "title": "Types of BFF  Patterns in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=N8tV6j0iy_g",
+        "thumbnail_url": "https://i.ytimg.com/vi/N8tV6j0iy_g/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-09-23",
+        "comment_count": 0
+    },
+    {
+        "title": "How Distributed File Servers Handle BILLIONS of Files",
+        "video_url": "https://www.youtube.com/watch?v=olcwFuJf8AA",
+        "thumbnail_url": "https://i.ytimg.com/vi/olcwFuJf8AA/hqdefault.jpg",
+        "duration_minutes": 9.6,
+        "upload_date": "2025-02-12",
+        "comment_count": 7
+    },
+    {
+        "title": "Docker, Clusters & Kubernetes: What's the Difference?",
+        "video_url": "https://www.youtube.com/watch?v=Et-dfMyW3qc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Et-dfMyW3qc/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-10-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Expert Guide: Backend for Frontend (BFF) in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=Pmzrogq4W4I",
+        "thumbnail_url": "https://i.ytimg.com/vi/Pmzrogq4W4I/hqdefault.jpg",
+        "duration_minutes": 6.6,
+        "upload_date": "2024-09-13",
+        "comment_count": 16
+    },
+    {
+        "title": "Behind Every Click: React, Angular, Vue, and Frontend Architecture",
+        "video_url": "https://www.youtube.com/watch?v=FruCVzHTzXE",
+        "thumbnail_url": "https://i.ytimg.com/vi/FruCVzHTzXE/hqdefault.jpg",
+        "duration_minutes": 6.18,
+        "upload_date": "2024-11-12",
+        "comment_count": 20
+    },
+    {
+        "title": "RAG: The LLM game-changer & Langchain",
+        "video_url": "https://www.youtube.com/watch?v=hYWqj9qb-R8",
+        "thumbnail_url": "https://i.ytimg.com/vi/hYWqj9qb-R8/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-08-13",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Decomposition Patterns and Netflix Microservices",
+        "video_url": "https://www.youtube.com/watch?v=Ko1_bJ44958",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ko1_bJ44958/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-11-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Confusion Matrix application in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=vWZIgHQn_oo",
+        "thumbnail_url": "https://i.ytimg.com/vi/vWZIgHQn_oo/hqdefault.jpg",
+        "duration_minutes": 0.53,
+        "upload_date": "2024-09-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Mastering Elasticsearch: CAP Theorem Explained",
+        "video_url": "https://www.youtube.com/watch?v=cdm_9YLCNlU",
+        "thumbnail_url": "https://i.ytimg.com/vi/cdm_9YLCNlU/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-08-27",
+        "comment_count": 0
+    },
+    {
+        "title": "What is Web3 | Explained in 3 minutes",
+        "video_url": "https://www.youtube.com/watch?v=fEQ_Hu3RNc0",
+        "thumbnail_url": "https://i.ytimg.com/vi/fEQ_Hu3RNc0/hqdefault.jpg",
+        "duration_minutes": 2.58,
+        "upload_date": "2022-01-02",
+        "comment_count": 2
+    },
+    {
+        "title": "Payment Gateway, Payment Processor and Payment Security Explained",
+        "video_url": "https://www.youtube.com/watch?v=hWQCiO04CXk",
+        "thumbnail_url": "https://i.ytimg.com/vi/hWQCiO04CXk/hqdefault.jpg",
+        "duration_minutes": 6.92,
+        "upload_date": "2024-02-25",
+        "comment_count": 21
+    },
+    {
+        "title": "What is a Payment Gateway? API Gateway vs. Payment Gateway Explained",
+        "video_url": "https://www.youtube.com/watch?v=KLiYkgaUCM8",
+        "thumbnail_url": "https://i.ytimg.com/vi/KLiYkgaUCM8/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2025-02-10",
+        "comment_count": 2
+    },
+    {
+        "title": "Web Application Architecture: Full Request-Response Lifecycle",
+        "video_url": "https://www.youtube.com/watch?v=xv0Be4QfkH0",
+        "thumbnail_url": "https://i.ytimg.com/vi/xv0Be4QfkH0/hqdefault.jpg",
+        "duration_minutes": 7.57,
+        "upload_date": "2024-10-22",
+        "comment_count": 85
+    },
+    {
+        "title": "Designing with API Gateway: Microservices Unleashed",
+        "video_url": "https://www.youtube.com/watch?v=JNmiOw26PGg",
+        "thumbnail_url": "https://i.ytimg.com/vi/JNmiOw26PGg/hqdefault.jpg",
+        "duration_minutes": 6.78,
+        "upload_date": "2024-09-09",
+        "comment_count": 10
+    },
+    {
+        "title": "Service Discovery Explained with code example",
+        "video_url": "https://www.youtube.com/watch?v=9yAFa60v7tE",
+        "thumbnail_url": "https://i.ytimg.com/vi/9yAFa60v7tE/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-10-14",
+        "comment_count": 2
+    },
+    {
+        "title": "ACID and Database Indexes | Storage Part 3 | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=Sahvj-0UYxM",
+        "thumbnail_url": "https://i.ytimg.com/vi/Sahvj-0UYxM/hqdefault.jpg",
+        "duration_minutes": 5.72,
+        "upload_date": "2022-06-30",
+        "comment_count": 2
+    },
+    {
+        "title": "Ultimate Guide to Database Per Service pattern in Microservices",
+        "video_url": "https://www.youtube.com/watch?v=DKQLhy9bgdk",
+        "thumbnail_url": "https://i.ytimg.com/vi/DKQLhy9bgdk/hqdefault.jpg",
+        "duration_minutes": 6.18,
+        "upload_date": "2024-09-23",
+        "comment_count": 20
+    },
+    {
+        "title": "how amazon cloudfront speeds up your web app",
+        "video_url": "https://www.youtube.com/watch?v=V-pwzjL6NLw",
+        "thumbnail_url": "https://i.ytimg.com/vi/V-pwzjL6NLw/hqdefault.jpg",
+        "duration_minutes": 0.5,
+        "upload_date": "2024-12-18",
+        "comment_count": 0
+    },
+    {
+        "title": "What is Event-Driven Architecture?",
+        "video_url": "https://www.youtube.com/watch?v=Ge7M_03JNqw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ge7M_03JNqw/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2025-01-23",
+        "comment_count": 0
+    },
+    {
+        "title": "Elasticsearch in 10 minutes: The Ultimate Search & Analytics Engine?",
+        "video_url": "https://www.youtube.com/watch?v=6k6-OeWZTYY",
+        "thumbnail_url": "https://i.ytimg.com/vi/6k6-OeWZTYY/hqdefault.jpg",
+        "duration_minutes": 8.63,
+        "upload_date": "2024-08-21",
+        "comment_count": 11
+    },
+    {
+        "title": "Master REST APIs: The Backbone of Modern Web Applications",
+        "video_url": "https://www.youtube.com/watch?v=HV5u-HjEFvY",
+        "thumbnail_url": "https://i.ytimg.com/vi/HV5u-HjEFvY/hqdefault.jpg",
+        "duration_minutes": 7.53,
+        "upload_date": "2025-01-12",
+        "comment_count": 14
+    },
+    {
+        "title": "how a/b testing drives better decisions in web systems",
+        "video_url": "https://www.youtube.com/watch?v=WrUi-JjJHD8",
+        "thumbnail_url": "https://i.ytimg.com/vi/WrUi-JjJHD8/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-12-27",
+        "comment_count": 0
+    },
+    {
+        "title": "Network Topology Explained | Computer Networks",
+        "video_url": "https://www.youtube.com/watch?v=4znRDbg0SYA",
+        "thumbnail_url": "https://i.ytimg.com/vi/4znRDbg0SYA/hqdefault.jpg",
+        "duration_minutes": 6.02,
+        "upload_date": "2024-07-18",
+        "comment_count": 2
+    },
+    {
+        "title": "Master Service Discovery in Microservices | Eureka and Java Spring Boot",
+        "video_url": "https://www.youtube.com/watch?v=ecuEkmFs5Vk",
+        "thumbnail_url": "https://i.ytimg.com/vi/ecuEkmFs5Vk/hqdefault.jpg",
+        "duration_minutes": 8.27,
+        "upload_date": "2024-09-21",
+        "comment_count": 18
+    },
+    {
+        "title": "Machine Learning: Features and Labels",
+        "video_url": "https://www.youtube.com/watch?v=GQXn_1HONBY",
+        "thumbnail_url": "https://i.ytimg.com/vi/GQXn_1HONBY/hqdefault.jpg",
+        "duration_minutes": 8.35,
+        "upload_date": "2024-08-19",
+        "comment_count": 4
+    },
+    {
+        "title": "Publisher Subscriber Pattern | Pub Sub | System Design",
+        "video_url": "https://www.youtube.com/watch?v=algmP8MGeL4",
+        "thumbnail_url": "https://i.ytimg.com/vi/algmP8MGeL4/hqdefault.jpg",
+        "duration_minutes": 9.15,
+        "upload_date": "2022-05-28",
+        "comment_count": 23
+    },
+    {
+        "title": "How to Pass AWS Certified Cloud Practitioner  2021 - 2022",
+        "video_url": "https://www.youtube.com/watch?v=wF1pldkQrOY",
+        "thumbnail_url": "https://i.ytimg.com/vi/wF1pldkQrOY/hqdefault.jpg",
+        "duration_minutes": 8.8,
+        "upload_date": "2021-11-14",
+        "comment_count": 23
+    },
+    {
+        "title": "How Web Sockets work | Deep Dive",
+        "video_url": "https://www.youtube.com/watch?v=G0_e02DdH7I",
+        "thumbnail_url": "https://i.ytimg.com/vi/G0_e02DdH7I/hqdefault.jpg",
+        "duration_minutes": 10.37,
+        "upload_date": "2024-04-13",
+        "comment_count": 30
+    },
+    {
+        "title": "Large Action Models Explained: AI That Acts, Not Just Talks!",
+        "video_url": "https://www.youtube.com/watch?v=JYN6O5Gbxlc",
+        "thumbnail_url": "https://i.ytimg.com/vi/JYN6O5Gbxlc/hqdefault.jpg",
+        "duration_minutes": 6.78,
+        "upload_date": "2024-11-10",
+        "comment_count": 8
+    },
+    {
+        "title": "Session Tokens | System Design #distributedsystems",
+        "video_url": "https://www.youtube.com/watch?v=VAL13kTgKk4",
+        "thumbnail_url": "https://i.ytimg.com/vi/VAL13kTgKk4/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-08-29",
+        "comment_count": 5
+    },
+    {
+        "title": "Top 9 Software Architecture Patterns Every Developer Must Know!",
+        "video_url": "https://www.youtube.com/watch?v=126ALse1rWA",
+        "thumbnail_url": "https://i.ytimg.com/vi/126ALse1rWA/hqdefault.jpg",
+        "duration_minutes": 9.45,
+        "upload_date": "2024-10-11",
+        "comment_count": 28
+    },
+    {
+        "title": "Level Up with Bytemonk! Exciting times ahead",
+        "video_url": "https://www.youtube.com/watch?v=pYnX5pgZ5tU",
+        "thumbnail_url": "https://i.ytimg.com/vi/pYnX5pgZ5tU/hqdefault.jpg",
+        "duration_minutes": 1.28,
+        "upload_date": "2024-08-24",
+        "comment_count": 11
+    },
+    {
+        "title": "JSON Web Tokens (JWTs) explained with examples | System Design",
+        "video_url": "https://www.youtube.com/watch?v=iB__rLXGsas",
+        "thumbnail_url": "https://i.ytimg.com/vi/iB__rLXGsas/hqdefault.jpg",
+        "duration_minutes": 11.4,
+        "upload_date": "2023-08-25",
+        "comment_count": 33
+    },
+    {
+        "title": "netflix\u2019s chaos engineering",
+        "video_url": "https://www.youtube.com/watch?v=saaJ4mYVhn4",
+        "thumbnail_url": "https://i.ytimg.com/vi/saaJ4mYVhn4/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-12-03",
+        "comment_count": 1
+    },
+    {
+        "title": "REST API Caching Strategies Every Developer Must Know",
+        "video_url": "https://www.youtube.com/watch?v=TV-xsNjbx_g",
+        "thumbnail_url": "https://i.ytimg.com/vi/TV-xsNjbx_g/hqdefault.jpg",
+        "duration_minutes": 12.22,
+        "upload_date": "2025-01-31",
+        "comment_count": 29
+    },
+    {
+        "title": "Event-Driven System Design",
+        "video_url": "https://www.youtube.com/watch?v=zMY_A9G1vyE",
+        "thumbnail_url": "https://i.ytimg.com/vi/zMY_A9G1vyE/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-10-04",
+        "comment_count": 2
+    },
+    {
+        "title": "mastering retry and fallback patterns",
+        "video_url": "https://www.youtube.com/watch?v=_6yM3B4F4xE",
+        "thumbnail_url": "https://i.ytimg.com/vi/_6yM3B4F4xE/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-12-01",
+        "comment_count": 1
+    },
+    {
+        "title": "Load Balancing Algorithms Explained: Static vs. Dynamic",
+        "video_url": "https://www.youtube.com/watch?v=sKITdF9ZEqQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/sKITdF9ZEqQ/hqdefault.jpg",
+        "duration_minutes": 0.57,
+        "upload_date": "2025-01-09",
+        "comment_count": 0
+    },
+    {
+        "title": "How PayPal Scaled with just 8VM | Akka | System Design",
+        "video_url": "https://www.youtube.com/watch?v=5RzhSN1u8DY",
+        "thumbnail_url": "https://i.ytimg.com/vi/5RzhSN1u8DY/hqdefault.jpg",
+        "duration_minutes": 9.95,
+        "upload_date": "2024-03-16",
+        "comment_count": 8
+    },
+    {
+        "title": "Ring Network Topology",
+        "video_url": "https://www.youtube.com/watch?v=j-VASLQbDik",
+        "thumbnail_url": "https://i.ytimg.com/vi/j-VASLQbDik/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-10-26",
+        "comment_count": 1
+    },
+    {
+        "title": "Kubernetes Alternatives: Docker Swarm, AWS Fargate & ECS Explained",
+        "video_url": "https://www.youtube.com/watch?v=fGjCWRSEXSQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/fGjCWRSEXSQ/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-11-03",
+        "comment_count": 1
+    },
+    {
+        "title": "Network Protocols | IP TCP HTTP | System Design Basics",
+        "video_url": "https://www.youtube.com/watch?v=35KXThuTeVs",
+        "thumbnail_url": "https://i.ytimg.com/vi/35KXThuTeVs/hqdefault.jpg",
+        "duration_minutes": 3.95,
+        "upload_date": "2022-02-17",
+        "comment_count": 12
+    },
+    {
+        "title": "BFF Pattern: Optimizing Microservices for Mobile vs Desktop",
+        "video_url": "https://www.youtube.com/watch?v=t-tTh94NI78",
+        "thumbnail_url": "https://i.ytimg.com/vi/t-tTh94NI78/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-10-06",
+        "comment_count": 1
+    },
+    {
+        "title": "API Gateway: Key Features Explained in System Design",
+        "video_url": "https://www.youtube.com/watch?v=u6pYBP92l84",
+        "thumbnail_url": "https://i.ytimg.com/vi/u6pYBP92l84/hqdefault.jpg",
+        "duration_minutes": 4.97,
+        "upload_date": "2023-03-23",
+        "comment_count": 8
+    },
+    {
+        "title": "Kubernetes Use Cases: When to Choose Kubernetes",
+        "video_url": "https://www.youtube.com/watch?v=0YCpmGZtTPs",
+        "thumbnail_url": "https://i.ytimg.com/vi/0YCpmGZtTPs/hqdefault.jpg",
+        "duration_minutes": 0.67,
+        "upload_date": "2024-11-05",
+        "comment_count": 4
+    },
+    {
+        "title": "Inside India\u2019s Aadhar: The World\u2019s Largest Biometric System Explained",
+        "video_url": "https://www.youtube.com/watch?v=FqriDe2nxlw",
+        "thumbnail_url": "https://i.ytimg.com/vi/FqriDe2nxlw/hqdefault.jpg",
+        "duration_minutes": 17.18,
+        "upload_date": "2025-01-26",
+        "comment_count": 58
+    },
+    {
+        "title": "Probability Distribution in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=Rhy6IDW4j3k",
+        "thumbnail_url": "https://i.ytimg.com/vi/Rhy6IDW4j3k/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2024-09-06",
+        "comment_count": 0
+    },
+    {
+        "title": "Master Event Sourcing in Just 10 Minutes",
+        "video_url": "https://www.youtube.com/watch?v=ID-_ic1fLkY",
+        "thumbnail_url": "https://i.ytimg.com/vi/ID-_ic1fLkY/hqdefault.jpg",
+        "duration_minutes": 10.8,
+        "upload_date": "2024-09-03",
+        "comment_count": 14
+    },
+    {
+        "title": "TCP/IP vs OSI: What\u2019s the Difference?",
+        "video_url": "https://www.youtube.com/watch?v=tpgoQwMg__M",
+        "thumbnail_url": "https://i.ytimg.com/vi/tpgoQwMg__M/hqdefault.jpg",
+        "duration_minutes": 11.28,
+        "upload_date": "2024-06-26",
+        "comment_count": 9
+    },
+    {
+        "title": "Basics Probability in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=znuZRn94SQk",
+        "thumbnail_url": "https://i.ytimg.com/vi/znuZRn94SQk/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-09-05",
+        "comment_count": 2
+    },
+    {
+        "title": "SSL to TLS: Securing the Web",
+        "video_url": "https://www.youtube.com/watch?v=s_r8GlYpcT4",
+        "thumbnail_url": "https://i.ytimg.com/vi/s_r8GlYpcT4/hqdefault.jpg",
+        "duration_minutes": 0.43,
+        "upload_date": "2024-11-20",
+        "comment_count": 0
+    },
+    {
+        "title": "choosing the right deployment strategy for your app",
+        "video_url": "https://www.youtube.com/watch?v=unhCmG4NrUA",
+        "thumbnail_url": "https://i.ytimg.com/vi/unhCmG4NrUA/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2024-12-29",
+        "comment_count": 0
+    },
+    {
+        "title": "Idempotency Key in Payments Systems like Paypal",
+        "video_url": "https://www.youtube.com/watch?v=vRtZ2wSj91w",
+        "thumbnail_url": "https://i.ytimg.com/vi/vRtZ2wSj91w/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-10-23",
+        "comment_count": 3
+    },
+    {
+        "title": "HTTPS Security | SSL | TLS | Network Protocols | System Design",
+        "video_url": "https://www.youtube.com/watch?v=BQwKZ6zfyk0",
+        "thumbnail_url": "https://i.ytimg.com/vi/BQwKZ6zfyk0/hqdefault.jpg",
+        "duration_minutes": 13.95,
+        "upload_date": "2023-01-21",
+        "comment_count": 16
+    },
+    {
+        "title": "how netflix ensures seamless global traffic routing",
+        "video_url": "https://www.youtube.com/watch?v=B5Il4OCjnn4",
+        "thumbnail_url": "https://i.ytimg.com/vi/B5Il4OCjnn4/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2025-01-01",
+        "comment_count": 1
+    },
+    {
+        "title": "Uber System Design | Websockets and Event Driven Architecture",
+        "video_url": "https://www.youtube.com/watch?v=2WYjtfRyHzQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/2WYjtfRyHzQ/hqdefault.jpg",
+        "duration_minutes": 18.9,
+        "upload_date": "2024-11-20",
+        "comment_count": 17
+    },
+    {
+        "title": "Terraform\u2019s Core Components",
+        "video_url": "https://www.youtube.com/watch?v=1In5A_nkGFw",
+        "thumbnail_url": "https://i.ytimg.com/vi/1In5A_nkGFw/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-11-19",
+        "comment_count": 1
+    },
+    {
+        "title": "rolling deployment explained",
+        "video_url": "https://www.youtube.com/watch?v=mWCId6kSpj0",
+        "thumbnail_url": "https://i.ytimg.com/vi/mWCId6kSpj0/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-12-19",
+        "comment_count": 3
+    },
+    {
+        "title": "HTTP/3 Explained with Animation",
+        "video_url": "https://www.youtube.com/watch?v=vJZuFixaG3s",
+        "thumbnail_url": "https://i.ytimg.com/vi/vJZuFixaG3s/hqdefault.jpg",
+        "duration_minutes": 2.78,
+        "upload_date": "2022-01-06",
+        "comment_count": 6
+    },
+    {
+        "title": "What is Database? | Storage Part 1 | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=aKnahfe0ebw",
+        "thumbnail_url": "https://i.ytimg.com/vi/aKnahfe0ebw/hqdefault.jpg",
+        "duration_minutes": 3.83,
+        "upload_date": "2022-06-01",
+        "comment_count": 11
+    },
+    {
+        "title": "Supercharging Google BERT Model with Hugging Face",
+        "video_url": "https://www.youtube.com/watch?v=j1PbS83HRwc",
+        "thumbnail_url": "https://i.ytimg.com/vi/j1PbS83HRwc/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-08-28",
+        "comment_count": 0
+    },
+    {
+        "title": "Consistent Hashing and Sharding | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=NLMZzElM8Z4",
+        "thumbnail_url": "https://i.ytimg.com/vi/NLMZzElM8Z4/hqdefault.jpg",
+        "duration_minutes": 3.77,
+        "upload_date": "2022-01-11",
+        "comment_count": 20
+    },
+    {
+        "title": "Sharding | Horizontal Scaling | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=0DzRdQ-sOTg",
+        "thumbnail_url": "https://i.ytimg.com/vi/0DzRdQ-sOTg/hqdefault.jpg",
+        "duration_minutes": 4.02,
+        "upload_date": "2022-06-12",
+        "comment_count": 12
+    },
+    {
+        "title": "Key Value Store | Storage Part 4 | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=ozJHmm05EXM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ozJHmm05EXM/hqdefault.jpg",
+        "duration_minutes": 5.07,
+        "upload_date": "2022-07-13",
+        "comment_count": 3
+    },
+    {
+        "title": "How Leader Election work in Distributed Systems | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=TzwiGTbUSHg",
+        "thumbnail_url": "https://i.ytimg.com/vi/TzwiGTbUSHg/hqdefault.jpg",
+        "duration_minutes": 4.25,
+        "upload_date": "2022-11-06",
+        "comment_count": 19
+    },
+    {
+        "title": "Essential Guide to Transformer Attention",
+        "video_url": "https://www.youtube.com/watch?v=G2WXzbeYiGk",
+        "thumbnail_url": "https://i.ytimg.com/vi/G2WXzbeYiGk/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-08-20",
+        "comment_count": 0
+    },
+    {
+        "title": "Stream Processing System Design Architecture",
+        "video_url": "https://www.youtube.com/watch?v=mG3xQb_-rV4",
+        "thumbnail_url": "https://i.ytimg.com/vi/mG3xQb_-rV4/hqdefault.jpg",
+        "duration_minutes": 11.4,
+        "upload_date": "2024-02-14",
+        "comment_count": 14
+    },
+    {
+        "title": "Microkernel Architecture Explained",
+        "video_url": "https://www.youtube.com/watch?v=tw5BvzsYSSQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/tw5BvzsYSSQ/hqdefault.jpg",
+        "duration_minutes": 0.65,
+        "upload_date": "2025-01-14",
+        "comment_count": 1
+    },
+    {
+        "title": "The Ultimate Guide to Multi-Tenancy in 5 minutes",
+        "video_url": "https://www.youtube.com/watch?v=ZYuu8sWUQww",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZYuu8sWUQww/hqdefault.jpg",
+        "duration_minutes": 5.82,
+        "upload_date": "2024-08-14",
+        "comment_count": 1
+    },
+    {
+        "title": "The power of Nvidia GPUs for AI and LLM",
+        "video_url": "https://www.youtube.com/watch?v=HJncmDD47kQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/HJncmDD47kQ/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-08-14",
+        "comment_count": 0
+    },
+    {
+        "title": "Optimistic Locking clearly explained | Java | SQL | System Design",
+        "video_url": "https://www.youtube.com/watch?v=d41JuPT_Wls",
+        "thumbnail_url": "https://i.ytimg.com/vi/d41JuPT_Wls/hqdefault.jpg",
+        "duration_minutes": 7.18,
+        "upload_date": "2024-06-08",
+        "comment_count": 11
+    },
+    {
+        "title": "Serverless Computing with AWS Lambda Explained",
+        "video_url": "https://www.youtube.com/watch?v=gbf-DIpFFoI",
+        "thumbnail_url": "https://i.ytimg.com/vi/gbf-DIpFFoI/hqdefault.jpg",
+        "duration_minutes": 11.32,
+        "upload_date": "2024-10-07",
+        "comment_count": 12
+    },
+    {
+        "title": "Mastering Reverse Proxies: Real-World Examples",
+        "video_url": "https://www.youtube.com/watch?v=1B1Hr-lM7jg",
+        "thumbnail_url": "https://i.ytimg.com/vi/1B1Hr-lM7jg/hqdefault.jpg",
+        "duration_minutes": 6.6,
+        "upload_date": "2024-12-17",
+        "comment_count": 17
+    },
+    {
+        "title": "Inside AWS Architecture: Journey of a Web Request",
+        "video_url": "https://www.youtube.com/watch?v=F318zw_HKDw",
+        "thumbnail_url": "https://i.ytimg.com/vi/F318zw_HKDw/hqdefault.jpg",
+        "duration_minutes": 8.05,
+        "upload_date": "2024-11-05",
+        "comment_count": 20
+    },
+    {
+        "title": "From Zero to Kubernetes Hero | Docker and Container",
+        "video_url": "https://www.youtube.com/watch?v=Dwufy7QtZR0",
+        "thumbnail_url": "https://i.ytimg.com/vi/Dwufy7QtZR0/hqdefault.jpg",
+        "duration_minutes": 5.52,
+        "upload_date": "2024-10-01",
+        "comment_count": 6
+    },
+    {
+        "title": "System Design Global Payment Processing | Paypal",
+        "video_url": "https://www.youtube.com/watch?v=7MXV7RfNtv0",
+        "thumbnail_url": "https://i.ytimg.com/vi/7MXV7RfNtv0/hqdefault.jpg",
+        "duration_minutes": 22.38,
+        "upload_date": "2024-11-08",
+        "comment_count": 38
+    },
+    {
+        "title": "Concurrency made easy | System Design",
+        "video_url": "https://www.youtube.com/watch?v=zOhiZJn-5cY",
+        "thumbnail_url": "https://i.ytimg.com/vi/zOhiZJn-5cY/hqdefault.jpg",
+        "duration_minutes": 11.15,
+        "upload_date": "2024-07-03",
+        "comment_count": 7
+    },
+    {
+        "title": "how api gateways manage traffic in microservices",
+        "video_url": "https://www.youtube.com/watch?v=jp_ONdr6_sQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/jp_ONdr6_sQ/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-12-24",
+        "comment_count": 0
+    },
+    {
+        "title": "Webhooks explained again",
+        "video_url": "https://www.youtube.com/watch?v=9zfAqoTm4-Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/9zfAqoTm4-Q/hqdefault.jpg",
+        "duration_minutes": 6.25,
+        "upload_date": "2024-11-28",
+        "comment_count": 5
+    },
+    {
+        "title": "Polynomials equations simplified in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=5FSDB4ne45M",
+        "thumbnail_url": "https://i.ytimg.com/vi/5FSDB4ne45M/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-08-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Master Load Balancer Algorithms for Distributed Systems",
+        "video_url": "https://www.youtube.com/watch?v=BWB-S0awDnA",
+        "thumbnail_url": "https://i.ytimg.com/vi/BWB-S0awDnA/hqdefault.jpg",
+        "duration_minutes": 8.42,
+        "upload_date": "2024-12-03",
+        "comment_count": 16
+    },
+    {
+        "title": "Network Topology Explained: Star, Tree, Mesh",
+        "video_url": "https://www.youtube.com/watch?v=yBY5GJtmhg0",
+        "thumbnail_url": "https://i.ytimg.com/vi/yBY5GJtmhg0/hqdefault.jpg",
+        "duration_minutes": 8.27,
+        "upload_date": "2024-07-30",
+        "comment_count": 5
+    },
+    {
+        "title": "How to Design API during interview | Twitter | System Design",
+        "video_url": "https://www.youtube.com/watch?v=Ch_IBiQvZ-c",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ch_IBiQvZ-c/hqdefault.jpg",
+        "duration_minutes": 5.15,
+        "upload_date": "2023-01-16",
+        "comment_count": 13
+    },
+    {
+        "title": "Vector Database: A Must-Know Guide",
+        "video_url": "https://www.youtube.com/watch?v=TPYBYSyDRH4",
+        "thumbnail_url": "https://i.ytimg.com/vi/TPYBYSyDRH4/hqdefault.jpg",
+        "duration_minutes": 5.8,
+        "upload_date": "2024-07-24",
+        "comment_count": 6
+    },
+    {
+        "title": "Symmetric Encryption #systemdesign",
+        "video_url": "https://www.youtube.com/watch?v=-L1mAFdASIs",
+        "thumbnail_url": "https://i.ytimg.com/vi/-L1mAFdASIs/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-21",
+        "comment_count": 1
+    },
+    {
+        "title": "Quadratics and Derivatives in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=2henXbwXVQw",
+        "thumbnail_url": "https://i.ytimg.com/vi/2henXbwXVQw/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-09-04",
+        "comment_count": 0
+    },
+    {
+        "title": "How Netflix Recommendation works",
+        "video_url": "https://www.youtube.com/watch?v=_JAN0cHiNHw",
+        "thumbnail_url": "https://i.ytimg.com/vi/_JAN0cHiNHw/hqdefault.jpg",
+        "duration_minutes": 0.63,
+        "upload_date": "2024-11-11",
+        "comment_count": 2
+    },
+    {
+        "title": "Rate Limiting | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=qUydEBZmGvU",
+        "thumbnail_url": "https://i.ytimg.com/vi/qUydEBZmGvU/hqdefault.jpg",
+        "duration_minutes": 8.05,
+        "upload_date": "2023-01-11",
+        "comment_count": 14
+    },
+    {
+        "title": "Distributed Systems - Java",
+        "video_url": "https://www.youtube.com/watch?v=0-BBs7q0HzI",
+        "thumbnail_url": "https://i.ytimg.com/vi/0-BBs7q0HzI/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-09-24",
+        "comment_count": 2
+    },
+    {
+        "title": "Micro-Frontends Explained in 10 Minutes | System Design",
+        "video_url": "https://www.youtube.com/watch?v=fkgQtEAZw4M",
+        "thumbnail_url": "https://i.ytimg.com/vi/fkgQtEAZw4M/hqdefault.jpg",
+        "duration_minutes": 10.67,
+        "upload_date": "2023-11-26",
+        "comment_count": 9
+    },
+    {
+        "title": "Erasure Coding in Action: How Big Tech Saves Petabytes of Data",
+        "video_url": "https://www.youtube.com/watch?v=VUxXH4uo4AY",
+        "thumbnail_url": "https://i.ytimg.com/vi/VUxXH4uo4AY/hqdefault.jpg",
+        "duration_minutes": 7.7,
+        "upload_date": "2025-02-07",
+        "comment_count": 9
+    },
+    {
+        "title": "Heartbeat | HTTP Keep-Alive | System Design",
+        "video_url": "https://www.youtube.com/watch?v=2LCyDvx7iIE",
+        "thumbnail_url": "https://i.ytimg.com/vi/2LCyDvx7iIE/hqdefault.jpg",
+        "duration_minutes": 12.68,
+        "upload_date": "2024-04-28",
+        "comment_count": 5
+    },
+    {
+        "title": "See How Amazon Is Transforming AI!",
+        "video_url": "https://www.youtube.com/watch?v=zEiStSS6_ow",
+        "thumbnail_url": "https://i.ytimg.com/vi/zEiStSS6_ow/hqdefault.jpg",
+        "duration_minutes": 6.23,
+        "upload_date": "2023-04-19",
+        "comment_count": 2
+    },
+    {
+        "title": "Scale Cube and Microservices | System Design",
+        "video_url": "https://www.youtube.com/watch?v=q1RUnL4xTds",
+        "thumbnail_url": "https://i.ytimg.com/vi/q1RUnL4xTds/hqdefault.jpg",
+        "duration_minutes": 3.12,
+        "upload_date": "2023-02-20",
+        "comment_count": 4
+    },
+    {
+        "title": "Zero Trust Security (ZTS) Explained: A Beginner's Guide for 2024",
+        "video_url": "https://www.youtube.com/watch?v=KBxkdPhKOHc",
+        "thumbnail_url": "https://i.ytimg.com/vi/KBxkdPhKOHc/hqdefault.jpg",
+        "duration_minutes": 7.63,
+        "upload_date": "2024-03-09",
+        "comment_count": 10
+    },
+    {
+        "title": "Bloom Filters | Hashtable | System Design",
+        "video_url": "https://www.youtube.com/watch?v=GT0En1dGntY",
+        "thumbnail_url": "https://i.ytimg.com/vi/GT0En1dGntY/hqdefault.jpg",
+        "duration_minutes": 12.93,
+        "upload_date": "2024-05-26",
+        "comment_count": 5
+    },
+    {
+        "title": "RAG: The LLM game-changer & Langchain",
+        "video_url": "https://www.youtube.com/watch?v=MlhZPTfOJBo",
+        "thumbnail_url": "https://i.ytimg.com/vi/MlhZPTfOJBo/hqdefault.jpg",
+        "duration_minutes": 5.93,
+        "upload_date": "2024-07-26",
+        "comment_count": 3
+    },
+    {
+        "title": "Foundation Models Explained | Generative AI",
+        "video_url": "https://www.youtube.com/watch?v=zg7nJrDQZ5s",
+        "thumbnail_url": "https://i.ytimg.com/vi/zg7nJrDQZ5s/hqdefault.jpg",
+        "duration_minutes": 12.43,
+        "upload_date": "2024-05-09",
+        "comment_count": 8
+    },
+    {
+        "title": "Chat App |  WhatsApp | Facebook Messenger | System Design",
+        "video_url": "https://www.youtube.com/watch?v=xyLO8ZAk2KE",
+        "thumbnail_url": "https://i.ytimg.com/vi/xyLO8ZAk2KE/hqdefault.jpg",
+        "duration_minutes": 10.1,
+        "upload_date": "2022-11-18",
+        "comment_count": 122
+    },
+    {
+        "title": "Transformer Architecture Explained  'Attention Is All You Need'",
+        "video_url": "https://www.youtube.com/watch?v=XwYY0lCGWW8",
+        "thumbnail_url": "https://i.ytimg.com/vi/XwYY0lCGWW8/hqdefault.jpg",
+        "duration_minutes": 12.82,
+        "upload_date": "2024-08-02",
+        "comment_count": 2
+    },
+    {
+        "title": "Mastering Email System Design: SMTP, IMAP, POP3, and Beyond",
+        "video_url": "https://www.youtube.com/watch?v=aria5gmElSc",
+        "thumbnail_url": "https://i.ytimg.com/vi/aria5gmElSc/hqdefault.jpg",
+        "duration_minutes": 15.67,
+        "upload_date": "2024-11-26",
+        "comment_count": 15
+    },
+    {
+        "title": "The Ultimate Guide to Microservices - Beginner to Expert",
+        "video_url": "https://www.youtube.com/watch?v=pq9WUeKSjTM",
+        "thumbnail_url": "https://i.ytimg.com/vi/pq9WUeKSjTM/hqdefault.jpg",
+        "duration_minutes": 6.93,
+        "upload_date": "2024-10-09",
+        "comment_count": 9
+    },
+    {
+        "title": "WASM is Awesome! Explained with Examples | Ft Docker",
+        "video_url": "https://www.youtube.com/watch?v=JFzpd1-6a3E",
+        "thumbnail_url": "https://i.ytimg.com/vi/JFzpd1-6a3E/hqdefault.jpg",
+        "duration_minutes": 13.72,
+        "upload_date": "2023-10-09",
+        "comment_count": 19
+    },
+    {
+        "title": "Software Deployment Strategies Used by Netflix, Amazon, Facebook",
+        "video_url": "https://www.youtube.com/watch?v=RThb3koc5DM",
+        "thumbnail_url": "https://i.ytimg.com/vi/RThb3koc5DM/hqdefault.jpg",
+        "duration_minutes": 8.33,
+        "upload_date": "2024-12-07",
+        "comment_count": 16
+    },
+    {
+        "title": "Data Platform | ETL | Data Engineer | Data Scientist",
+        "video_url": "https://www.youtube.com/watch?v=ulZP909iKq0",
+        "thumbnail_url": "https://i.ytimg.com/vi/ulZP909iKq0/hqdefault.jpg",
+        "duration_minutes": 4.78,
+        "upload_date": "2023-06-25",
+        "comment_count": 1
+    },
+    {
+        "title": "How PayPal Works: Payment Gateway vs. Payment Processor",
+        "video_url": "https://www.youtube.com/watch?v=Gsq7F9uYXZE",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gsq7F9uYXZE/hqdefault.jpg",
+        "duration_minutes": 0.62,
+        "upload_date": "2025-02-12",
+        "comment_count": 2
+    },
+    {
+        "title": "Latency versus Throughput | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=X0bnN8oBxeI",
+        "thumbnail_url": "https://i.ytimg.com/vi/X0bnN8oBxeI/hqdefault.jpg",
+        "duration_minutes": 3.5,
+        "upload_date": "2022-03-20",
+        "comment_count": 7
+    },
+    {
+        "title": "MVC  Architecture Explained: Build Robust and Clean Software Systems",
+        "video_url": "https://www.youtube.com/watch?v=04xGE47faUY",
+        "thumbnail_url": "https://i.ytimg.com/vi/04xGE47faUY/hqdefault.jpg",
+        "duration_minutes": 5.55,
+        "upload_date": "2025-01-06",
+        "comment_count": 8
+    },
+    {
+        "title": "Instagram System Design | Meta | Facebook",
+        "video_url": "https://www.youtube.com/watch?v=YoS5cp0cirM",
+        "thumbnail_url": "https://i.ytimg.com/vi/YoS5cp0cirM/hqdefault.jpg",
+        "duration_minutes": 16.63,
+        "upload_date": "2023-06-18",
+        "comment_count": 62
+    },
+    {
+        "title": "Sticky Round Robin Explained",
+        "video_url": "https://www.youtube.com/watch?v=OsM1dhOiNFs",
+        "thumbnail_url": "https://i.ytimg.com/vi/OsM1dhOiNFs/hqdefault.jpg",
+        "duration_minutes": 0.68,
+        "upload_date": "2025-01-17",
+        "comment_count": 0
+    },
+    {
+        "title": "Ultimate Guide to Clean Architecture (Java / Spring Boot Examples)",
+        "video_url": "https://www.youtube.com/watch?v=4o9dUAp7xxk",
+        "thumbnail_url": "https://i.ytimg.com/vi/4o9dUAp7xxk/hqdefault.jpg",
+        "duration_minutes": 6.92,
+        "upload_date": "2024-12-10",
+        "comment_count": 26
+    },
+    {
+        "title": "TLS Handshake Secures Connections",
+        "video_url": "https://www.youtube.com/watch?v=3VbtQDFm8bM",
+        "thumbnail_url": "https://i.ytimg.com/vi/3VbtQDFm8bM/hqdefault.jpg",
+        "duration_minutes": 0.7,
+        "upload_date": "2024-11-23",
+        "comment_count": 1
+    },
+    {
+        "title": "How Load Balancer Work with Animation | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=ZcNaOuxcuyA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZcNaOuxcuyA/hqdefault.jpg",
+        "duration_minutes": 5.8,
+        "upload_date": "2022-03-08",
+        "comment_count": 16
+    },
+    {
+        "title": "oauth 2.0 explained for api authentication",
+        "video_url": "https://www.youtube.com/watch?v=vAT8YJTxhuU",
+        "thumbnail_url": "https://i.ytimg.com/vi/vAT8YJTxhuU/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-12-11",
+        "comment_count": 0
+    },
+    {
+        "title": "Mastering Laplace Smoothing in Naive Bayes: Avoiding Overfitting",
+        "video_url": "https://www.youtube.com/watch?v=mmguq4BHVCc",
+        "thumbnail_url": "https://i.ytimg.com/vi/mmguq4BHVCc/hqdefault.jpg",
+        "duration_minutes": 10.37,
+        "upload_date": "2024-09-12",
+        "comment_count": 2
+    },
+    {
+        "title": "Apache Kafka Crash Course - Part 1",
+        "video_url": "https://www.youtube.com/watch?v=ExJxPANMreM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ExJxPANMreM/hqdefault.jpg",
+        "duration_minutes": 24.82,
+        "upload_date": "2024-04-21",
+        "comment_count": 12
+    },
+    {
+        "title": "\ud83d\udd13 Mastering CORS: How to Securely Enable Cross-Origin Requests",
+        "video_url": "https://www.youtube.com/watch?v=E6jgEtj-UjI",
+        "thumbnail_url": "https://i.ytimg.com/vi/E6jgEtj-UjI/hqdefault.jpg",
+        "duration_minutes": 7.63,
+        "upload_date": "2025-02-15",
+        "comment_count": 48
+    },
+    {
+        "title": "Set Up OpenAI API Key and Build LLM Models with VS Code",
+        "video_url": "https://www.youtube.com/watch?v=9QpAjiJ0kPk",
+        "thumbnail_url": "https://i.ytimg.com/vi/9QpAjiJ0kPk/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-10-22",
+        "comment_count": 0
+    },
+    {
+        "title": "Serverless Architecture, Microservices and AWS Prime Monolith",
+        "video_url": "https://www.youtube.com/watch?v=C-CcuV1oMQI",
+        "thumbnail_url": "https://i.ytimg.com/vi/C-CcuV1oMQI/hqdefault.jpg",
+        "duration_minutes": 7.5,
+        "upload_date": "2023-05-17",
+        "comment_count": 10
+    },
+    {
+        "title": "How Clusters Work in Distributed Systems: A Deep Dive",
+        "video_url": "https://www.youtube.com/watch?v=pjWhtRtaJiA",
+        "thumbnail_url": "https://i.ytimg.com/vi/pjWhtRtaJiA/hqdefault.jpg",
+        "duration_minutes": 8.97,
+        "upload_date": "2024-11-30",
+        "comment_count": 6
+    },
+    {
+        "title": "aws waf and shield protecting your app from attacks",
+        "video_url": "https://www.youtube.com/watch?v=RClK9QqShUM",
+        "thumbnail_url": "https://i.ytimg.com/vi/RClK9QqShUM/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2024-12-17",
+        "comment_count": 3
+    },
+    {
+        "title": "Service Discovery Registration Patterns",
+        "video_url": "https://www.youtube.com/watch?v=Up3nZJtzfdc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Up3nZJtzfdc/hqdefault.jpg",
+        "duration_minutes": 0.78,
+        "upload_date": "2024-10-17",
+        "comment_count": 0
+    },
+    {
+        "title": "Challenges of the Strangler Pattern in System Migrations",
+        "video_url": "https://www.youtube.com/watch?v=Qld0l0ClsaI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qld0l0ClsaI/hqdefault.jpg",
+        "duration_minutes": 0.47,
+        "upload_date": "2024-11-17",
+        "comment_count": 4
+    },
+    {
+        "title": "Domain-Driven Design: Exploring Business Domains and Subdomains",
+        "video_url": "https://www.youtube.com/watch?v=eDpXY6KJiY8",
+        "thumbnail_url": "https://i.ytimg.com/vi/eDpXY6KJiY8/hqdefault.jpg",
+        "duration_minutes": 10.78,
+        "upload_date": "2025-01-22",
+        "comment_count": 6
+    },
+    {
+        "title": "how netflix handles traffic with edge services",
+        "video_url": "https://www.youtube.com/watch?v=62PxQP_jAxg",
+        "thumbnail_url": "https://i.ytimg.com/vi/62PxQP_jAxg/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-12-31",
+        "comment_count": 0
+    },
+    {
+        "title": "Mastering HTTP Methods: A REST API Deep Dive",
+        "video_url": "https://www.youtube.com/watch?v=KF-3jtGH6Yk",
+        "thumbnail_url": "https://i.ytimg.com/vi/KF-3jtGH6Yk/hqdefault.jpg",
+        "duration_minutes": 11.32,
+        "upload_date": "2025-01-14",
+        "comment_count": 8
+    },
+    {
+        "title": "CAP Theorem Explained in 5 minutes | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=xUBMRdTyd30",
+        "thumbnail_url": "https://i.ytimg.com/vi/xUBMRdTyd30/hqdefault.jpg",
+        "duration_minutes": 4.72,
+        "upload_date": "2021-12-19",
+        "comment_count": 5
+    },
+    {
+        "title": "Health Checks in Service Architecture",
+        "video_url": "https://www.youtube.com/watch?v=tGdwX-TFAA8",
+        "thumbnail_url": "https://i.ytimg.com/vi/tGdwX-TFAA8/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2024-11-25",
+        "comment_count": 4
+    },
+    {
+        "title": "9 Must-Know REST API Design Principles for Developers",
+        "video_url": "https://www.youtube.com/watch?v=pJ83mmqcvoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/pJ83mmqcvoQ/hqdefault.jpg",
+        "duration_minutes": 10.0,
+        "upload_date": "2025-01-18",
+        "comment_count": 30
+    },
+    {
+        "title": "Heartbeat of Security: HTTPS and MITM in #SystemDesign\"",
+        "video_url": "https://www.youtube.com/watch?v=YO9LnWD0Rck",
+        "thumbnail_url": "https://i.ytimg.com/vi/YO9LnWD0Rck/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-17",
+        "comment_count": 0
+    },
+    {
+        "title": "stateful vs stateless authentication",
+        "video_url": "https://www.youtube.com/watch?v=gh0mpS5PG1A",
+        "thumbnail_url": "https://i.ytimg.com/vi/gh0mpS5PG1A/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2024-12-02",
+        "comment_count": 0
+    },
+    {
+        "title": "Master Youtube System Design",
+        "video_url": "https://www.youtube.com/watch?v=WlMTxHcm4Qs",
+        "thumbnail_url": "https://i.ytimg.com/vi/WlMTxHcm4Qs/hqdefault.jpg",
+        "duration_minutes": 17.77,
+        "upload_date": "2023-05-08",
+        "comment_count": 36
+    },
+    {
+        "title": "Replication | Data Replication | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=CSCw16AfWHM",
+        "thumbnail_url": "https://i.ytimg.com/vi/CSCw16AfWHM/hqdefault.jpg",
+        "duration_minutes": 4.97,
+        "upload_date": "2022-06-06",
+        "comment_count": 4
+    },
+    {
+        "title": "how feature flags enable seamless feature rollouts",
+        "video_url": "https://www.youtube.com/watch?v=vLcrN75Kj8A",
+        "thumbnail_url": "https://i.ytimg.com/vi/vLcrN75Kj8A/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-12-25",
+        "comment_count": 0
+    },
+    {
+        "title": "Idempotency and Intelligent Retry | PayPal",
+        "video_url": "https://www.youtube.com/watch?v=S3nq_Iq4eMI",
+        "thumbnail_url": "https://i.ytimg.com/vi/S3nq_Iq4eMI/hqdefault.jpg",
+        "duration_minutes": 9.98,
+        "upload_date": "2024-06-01",
+        "comment_count": 6
+    },
+    {
+        "title": "The Journey of an Email: From Send to Inbox Explained",
+        "video_url": "https://www.youtube.com/watch?v=XSdfBQBeLgA",
+        "thumbnail_url": "https://i.ytimg.com/vi/XSdfBQBeLgA/hqdefault.jpg",
+        "duration_minutes": 6.1,
+        "upload_date": "2025-01-02",
+        "comment_count": 14
+    },
+    {
+        "title": "Domain-Driven Design: Unlocking the Power of Ubiquitous Language",
+        "video_url": "https://www.youtube.com/watch?v=OJNh4byblYI",
+        "thumbnail_url": "https://i.ytimg.com/vi/OJNh4byblYI/hqdefault.jpg",
+        "duration_minutes": 8.08,
+        "upload_date": "2025-01-24",
+        "comment_count": 4
+    },
+    {
+        "title": "Netflix\u2019s Service Mesh: Managing Millions of Microservices",
+        "video_url": "https://www.youtube.com/watch?v=Ewf1A8UwXW0",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ewf1A8UwXW0/hqdefault.jpg",
+        "duration_minutes": 0.58,
+        "upload_date": "2024-10-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Distributed Messaging Queue | Pub Sub, P2P in System Design",
+        "video_url": "https://www.youtube.com/watch?v=tBXK49CB-BU",
+        "thumbnail_url": "https://i.ytimg.com/vi/tBXK49CB-BU/hqdefault.jpg",
+        "duration_minutes": 6.15,
+        "upload_date": "2023-07-31",
+        "comment_count": 3
+    },
+    {
+        "title": "3 layer architecture explained for beginners",
+        "video_url": "https://www.youtube.com/watch?v=fGmIjstlFMU",
+        "thumbnail_url": "https://i.ytimg.com/vi/fGmIjstlFMU/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2025-01-06",
+        "comment_count": 0
+    },
+    {
+        "title": "Confusion Matrix in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=-cv9CKYwwfw",
+        "thumbnail_url": "https://i.ytimg.com/vi/-cv9CKYwwfw/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-09-07",
+        "comment_count": 0
+    },
+    {
+        "title": "Asymmetric Encryption #systemdesign",
+        "video_url": "https://www.youtube.com/watch?v=EXPnuj8BDgE",
+        "thumbnail_url": "https://i.ytimg.com/vi/EXPnuj8BDgE/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2023-10-21",
+        "comment_count": 3
+    },
+    {
+        "title": "Health Monitoring in Microservice explained with Spring Boot",
+        "video_url": "https://www.youtube.com/watch?v=me_FwTx3ZEw",
+        "thumbnail_url": "https://i.ytimg.com/vi/me_FwTx3ZEw/hqdefault.jpg",
+        "duration_minutes": 6.2,
+        "upload_date": "2024-10-14",
+        "comment_count": 7
+    },
+    {
+        "title": "Caching for Scalable #systemdesign",
+        "video_url": "https://www.youtube.com/watch?v=Y9GrMn8Usa8",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y9GrMn8Usa8/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2023-10-15",
+        "comment_count": 0
+    },
+    {
+        "title": "Terraform Simplified: Manage Your Multi-Cloud Infrastructure Like a Pro!",
+        "video_url": "https://www.youtube.com/watch?v=QcMRt4EzBw0",
+        "thumbnail_url": "https://i.ytimg.com/vi/QcMRt4EzBw0/hqdefault.jpg",
+        "duration_minutes": 6.32,
+        "upload_date": "2024-10-03",
+        "comment_count": 8
+    },
+    {
+        "title": "How Web Sockets work | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=pnj3Jbho5Ck",
+        "thumbnail_url": "https://i.ytimg.com/vi/pnj3Jbho5Ck/hqdefault.jpg",
+        "duration_minutes": 5.47,
+        "upload_date": "2022-11-10",
+        "comment_count": 106
+    },
+    {
+        "title": "Netflix Migrated to Microservices",
+        "video_url": "https://www.youtube.com/watch?v=2G02p2izBEY",
+        "thumbnail_url": "https://i.ytimg.com/vi/2G02p2izBEY/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2024-11-18",
+        "comment_count": 1
+    },
+    {
+        "title": "DNS: The Hidden Engine of the Internet | Computer Networks",
+        "video_url": "https://www.youtube.com/watch?v=Lsd80uR9Shs",
+        "thumbnail_url": "https://i.ytimg.com/vi/Lsd80uR9Shs/hqdefault.jpg",
+        "duration_minutes": 4.75,
+        "upload_date": "2024-07-22",
+        "comment_count": 2
+    },
+    {
+        "title": "aws scalable web app architecture explained",
+        "video_url": "https://www.youtube.com/watch?v=A1sq1MeKRpA",
+        "thumbnail_url": "https://i.ytimg.com/vi/A1sq1MeKRpA/hqdefault.jpg",
+        "duration_minutes": 0.77,
+        "upload_date": "2024-12-12",
+        "comment_count": 2
+    },
+    {
+        "title": "Scattered Plots & Line Graphs in Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=80_RUmj-4B0",
+        "thumbnail_url": "https://i.ytimg.com/vi/80_RUmj-4B0/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-09-01",
+        "comment_count": 0
+    },
+    {
+        "title": "How Spotify Uses Service Decomposition for Scalability",
+        "video_url": "https://www.youtube.com/watch?v=aei5tsd3L0s",
+        "thumbnail_url": "https://i.ytimg.com/vi/aei5tsd3L0s/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-11-01",
+        "comment_count": 1
+    },
+    {
+        "title": "Unlocking Netflix's Data Mesh Strategy",
+        "video_url": "https://www.youtube.com/watch?v=Gp5Et_nc_Kw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gp5Et_nc_Kw/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-09-16",
+        "comment_count": 0
+    },
+    {
+        "title": "amazon efs vs elasticache explained",
+        "video_url": "https://www.youtube.com/watch?v=Q8qW8Dygmbs",
+        "thumbnail_url": "https://i.ytimg.com/vi/Q8qW8Dygmbs/hqdefault.jpg",
+        "duration_minutes": 0.72,
+        "upload_date": "2024-12-10",
+        "comment_count": 2
+    },
+    {
+        "title": "blue green deployment explained",
+        "video_url": "https://www.youtube.com/watch?v=AZoIWCZo3_c",
+        "thumbnail_url": "https://i.ytimg.com/vi/AZoIWCZo3_c/hqdefault.jpg",
+        "duration_minutes": 1.05,
+        "upload_date": "2024-12-21",
+        "comment_count": 1
+    },
+    {
+        "title": "stateless systems explained",
+        "video_url": "https://www.youtube.com/watch?v=Kf9qqv1kC0s",
+        "thumbnail_url": "https://i.ytimg.com/vi/Kf9qqv1kC0s/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-12-05",
+        "comment_count": 1
+    },
+    {
+        "title": "Man vs. Machine: Turing Test  #ai #llm",
+        "video_url": "https://www.youtube.com/watch?v=aifDu8lInMc",
+        "thumbnail_url": "https://i.ytimg.com/vi/aifDu8lInMc/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2024-08-11",
+        "comment_count": 1
+    },
+    {
+        "title": "how a request-response cycle works in web systems",
+        "video_url": "https://www.youtube.com/watch?v=ZOoMX7uinKw",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZOoMX7uinKw/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-12-26",
+        "comment_count": 3
+    },
+    {
+        "title": "BLOB Store | Time Series DB | Graph DB | Storage Part 5 | System Design Interview Basics",
+        "video_url": "https://www.youtube.com/watch?v=ftEWQPDlTDA",
+        "thumbnail_url": "https://i.ytimg.com/vi/ftEWQPDlTDA/hqdefault.jpg",
+        "duration_minutes": 7.12,
+        "upload_date": "2022-07-20",
+        "comment_count": 3
+    },
+    {
+        "title": "what is jwt authentication?",
+        "video_url": "https://www.youtube.com/watch?v=0rcMDFU5P8w",
+        "thumbnail_url": "https://i.ytimg.com/vi/0rcMDFU5P8w/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-12-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Service Discovery Benefits",
+        "video_url": "https://www.youtube.com/watch?v=w8ZdjK3nbO8",
+        "thumbnail_url": "https://i.ytimg.com/vi/w8ZdjK3nbO8/hqdefault.jpg",
+        "duration_minutes": 0.45,
+        "upload_date": "2024-10-20",
+        "comment_count": 0
+    },
+    {
+        "title": "Netflix & Spotify\u2019s Secrets to Scaling: Master Service Decomposition",
+        "video_url": "https://www.youtube.com/watch?v=6DQzFUDkQB8",
+        "thumbnail_url": "https://i.ytimg.com/vi/6DQzFUDkQB8/hqdefault.jpg",
+        "duration_minutes": 10.35,
+        "upload_date": "2024-09-29",
+        "comment_count": 11
+    },
+    {
+        "title": "How ChatGPT Works | in 10 minutes",
+        "video_url": "https://www.youtube.com/watch?v=HtAZYXlsQ7s",
+        "thumbnail_url": "https://i.ytimg.com/vi/HtAZYXlsQ7s/hqdefault.jpg",
+        "duration_minutes": 8.1,
+        "upload_date": "2023-02-14",
+        "comment_count": 9
+    },
+    {
+        "title": "Blockchain Code Visualized in simple Javascript",
+        "video_url": "https://www.youtube.com/watch?v=9dRVFopEF34",
+        "thumbnail_url": "https://i.ytimg.com/vi/9dRVFopEF34/hqdefault.jpg",
+        "duration_minutes": 6.93,
+        "upload_date": "2022-02-26",
+        "comment_count": 1
+    },
+    {
+        "title": "How GPUs Work for Video Editing and Deep learning",
+        "video_url": "https://www.youtube.com/watch?v=iQ9arr3TTMA",
+        "thumbnail_url": "https://i.ytimg.com/vi/iQ9arr3TTMA/hqdefault.jpg",
+        "duration_minutes": 11.95,
+        "upload_date": "2024-04-07",
+        "comment_count": 4
+    },
+    {
+        "title": "http basic auth vs api key authentication explained",
+        "video_url": "https://www.youtube.com/watch?v=K6bkjs1q4cM",
+        "thumbnail_url": "https://i.ytimg.com/vi/K6bkjs1q4cM/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-12-07",
+        "comment_count": 0
+    },
+    {
+        "title": "Caching in a Nutshell - Part 2 | System Design",
+        "video_url": "https://www.youtube.com/watch?v=YIIm24HxBzY",
+        "thumbnail_url": "https://i.ytimg.com/vi/YIIm24HxBzY/hqdefault.jpg",
+        "duration_minutes": 4.72,
+        "upload_date": "2022-04-13",
+        "comment_count": 7
+    },
+    {
+        "title": "Windows Blue Screen of Death: Crowdstrike Kernel Panic explained",
+        "video_url": "https://www.youtube.com/watch?v=Fm42RGGwpyo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Fm42RGGwpyo/hqdefault.jpg",
+        "duration_minutes": 7.7,
+        "upload_date": "2024-07-27",
+        "comment_count": 4
+    },
+    {
+        "title": "LLM Crash Course - Chapter 2 | Embeddings and Parameters Explained",
+        "video_url": "https://www.youtube.com/watch?v=OtccjevZ5uc",
+        "thumbnail_url": "https://i.ytimg.com/vi/OtccjevZ5uc/hqdefault.jpg",
+        "duration_minutes": 10.07,
+        "upload_date": "2024-05-21",
+        "comment_count": 1
+    },
+    {
+        "title": "why stateless architecture powers modern apps",
+        "video_url": "https://www.youtube.com/watch?v=jX33SSUwzAU",
+        "thumbnail_url": "https://i.ytimg.com/vi/jX33SSUwzAU/hqdefault.jpg",
+        "duration_minutes": 0.85,
+        "upload_date": "2024-11-29",
+        "comment_count": 1
+    },
+    {
+        "title": "LLM Crash Course - Chapter 1 | Getting Started",
+        "video_url": "https://www.youtube.com/watch?v=DZLAJ67OP9s",
+        "thumbnail_url": "https://i.ytimg.com/vi/DZLAJ67OP9s/hqdefault.jpg",
+        "duration_minutes": 9.7,
+        "upload_date": "2024-05-15",
+        "comment_count": 3
+    },
+    {
+        "title": "Master Machine Learning: 5 Essential Tips for Beginners in 2024",
+        "video_url": "https://www.youtube.com/watch?v=UzZRN--atqY",
+        "thumbnail_url": "https://i.ytimg.com/vi/UzZRN--atqY/hqdefault.jpg",
+        "duration_minutes": 9.42,
+        "upload_date": "2024-08-05",
+        "comment_count": 2
+    },
+    {
+        "title": "Master Linear Algebra & Probability for Machine Learning",
+        "video_url": "https://www.youtube.com/watch?v=ttN2OAKlDzM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ttN2OAKlDzM/hqdefault.jpg",
+        "duration_minutes": 13.62,
+        "upload_date": "2024-08-27",
+        "comment_count": 5
+    },
+    {
+        "title": "How to Pass AWS Certified Solution Architect Professional 2021 - 2022",
+        "video_url": "https://www.youtube.com/watch?v=KFZrBxSA9tI",
+        "thumbnail_url": "https://i.ytimg.com/vi/KFZrBxSA9tI/hqdefault.jpg",
+        "duration_minutes": 10.98,
+        "upload_date": "2021-11-14",
+        "comment_count": 10
+    },
+    {
+        "title": "how kubernetes ensures service readiness",
+        "video_url": "https://www.youtube.com/watch?v=UnOpAr5jJbI",
+        "thumbnail_url": "https://i.ytimg.com/vi/UnOpAr5jJbI/hqdefault.jpg",
+        "duration_minutes": 0.75,
+        "upload_date": "2024-11-30",
+        "comment_count": 1
+    },
+    {
+        "title": "The Evolution of Gen AI with RNNs (2024)",
+        "video_url": "https://www.youtube.com/watch?v=hNLhcSm0CDo",
+        "thumbnail_url": "https://i.ytimg.com/vi/hNLhcSm0CDo/hqdefault.jpg",
+        "duration_minutes": 10.62,
+        "upload_date": "2024-07-31",
+        "comment_count": 2
+    },
+    {
+        "title": "ChatGPT for Software Engineers | in 10 minutes",
+        "video_url": "https://www.youtube.com/watch?v=hoGnHXdf5P8",
+        "thumbnail_url": "https://i.ytimg.com/vi/hoGnHXdf5P8/hqdefault.jpg",
+        "duration_minutes": 11.68,
+        "upload_date": "2023-01-27",
+        "comment_count": 7
+    },
+    {
+        "title": "Concurrency vs Parallelism in Multicore CPU",
+        "video_url": "https://www.youtube.com/watch?v=E4JEEcGbjIk",
+        "thumbnail_url": "https://i.ytimg.com/vi/E4JEEcGbjIk/hqdefault.jpg",
+        "duration_minutes": 0.82,
+        "upload_date": "2024-10-02",
+        "comment_count": 1
+    },
+    {
+        "title": "Naive Bayes Clearly Explained: How AI Can Identify Spam in Seconds",
+        "video_url": "https://www.youtube.com/watch?v=6VCnX0A0Gis",
+        "thumbnail_url": "https://i.ytimg.com/vi/6VCnX0A0Gis/hqdefault.jpg",
+        "duration_minutes": 16.38,
+        "upload_date": "2024-09-06",
+        "comment_count": 2
+    },
+    {
+        "title": "\ud83d\ude80  GitHub Models: The Future of AI Development | Game-Changing Update!",
+        "video_url": "https://www.youtube.com/watch?v=GQnEuz6hj5k",
+        "thumbnail_url": "https://i.ytimg.com/vi/GQnEuz6hj5k/hqdefault.jpg",
+        "duration_minutes": 8.42,
+        "upload_date": "2024-08-12",
+        "comment_count": 4
+    },
+    {
+        "title": "AWS Glue | ETL vs ELT | Ft Snowflake",
+        "video_url": "https://www.youtube.com/watch?v=KmOOoE3XO_o",
+        "thumbnail_url": "https://i.ytimg.com/vi/KmOOoE3XO_o/hqdefault.jpg",
+        "duration_minutes": 8.1,
+        "upload_date": "2024-01-06",
+        "comment_count": 2
+    },
+    {
+        "title": "how amazon rds and s3 simplify data storage",
+        "video_url": "https://www.youtube.com/watch?v=U8y1Gw2vMm4",
+        "thumbnail_url": "https://i.ytimg.com/vi/U8y1Gw2vMm4/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2024-12-14",
+        "comment_count": 0
+    },
+    {
+        "title": "How to Pass AWS Certified Solution Architect Associate 2021 - 2022",
+        "video_url": "https://www.youtube.com/watch?v=GzomXNLFgkk",
+        "thumbnail_url": "https://i.ytimg.com/vi/GzomXNLFgkk/hqdefault.jpg",
+        "duration_minutes": 20.17,
+        "upload_date": "2021-11-14",
+        "comment_count": 123
+    },
+    {
+        "title": "Service Decomposition Patterns Explained",
+        "video_url": "https://www.youtube.com/watch?v=kphfRALgT7k",
+        "thumbnail_url": "https://i.ytimg.com/vi/kphfRALgT7k/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-11-14",
+        "comment_count": 3
+    },
+    {
+        "title": "Precision, Recall, Confusion Matrix | Model Evaluation in ML",
+        "video_url": "https://www.youtube.com/watch?v=nzs8LB8Il-s",
+        "thumbnail_url": "https://i.ytimg.com/vi/nzs8LB8Il-s/hqdefault.jpg",
+        "duration_minutes": 8.23,
+        "upload_date": "2024-09-04",
+        "comment_count": 0
+    }
+]
