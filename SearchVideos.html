@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Video List</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
     <h1>📺 YouTube Video List</h1>
@@ -16,32 +18,36 @@
     </div>
 
     <div class="video-count">
-        Showing <span id="filteredCount">0</span> of <span id="totalCount">0</span> videos | Total Time: <span id="totalDuration">0</span> min
+        Showing <span id="filteredCount">0</span> of <span id="totalCount">0</span> videos | Total Time: <span
+            id="totalDuration">0</span> min
     </div>
 
     <!-- Search & Filters -->
     <div class="controls">
         <input type="text" id="searchInput" placeholder="Search by Title">
-        <select id="durationFilter">
-            <option value="all">All Durations</option>
-            <option value=">18000">> 5 Hours</option>
-            <option value="3600-18000">1 - 5 Hours</option>
-            <option value=">3600">> 1 Hour</option>
-            <option value="<3600">< 1 Hour</option>
-            <option value="<1800">< 30 Min</option>
-            <option value="<900">< 15 Min</option>
-            <option value="<300">< 5 Min</option>
-            <option value="<=60">Shorts (≤ 1 Min)</option>
-        </select>
         <select id="sortOption">
             <option value="upload_date">Sort By: Upload Date (Default)</option>
-            <option value="duration">Sort By: Duration</option>
             <option value="comments">Sort By: Comments</option>
         </select>
     </div>
 
-    <div class="container" id="videoList"></div>
+    <!-- Video Categories -->
+    <h2>0-15 min</h2>
+    <div class="category-row" id="videoList_0_15"></div>
+
+    <h2>15-30 min</h2>
+    <div class="category-row" id="videoList_15_30"></div>
+
+    <h2>30 min - 1 hr</h2>
+    <div class="category-row" id="videoList_30_60"></div>
+
+    <h2>1 hr - 5 hr</h2>
+    <div class="category-row" id="videoList_60_300"></div>
+
+    <h2>> 5 hr</h2>
+    <div class="category-row" id="videoList_300_plus"></div>
 
     <script src="scripts.js"></script>
 </body>
+
 </html>
