@@ -1,0 +1,114 @@
+[
+    {
+        "title": "13-OAuth in the Default ASP.NET 4.5 Templates",
+        "video_url": "https://www.youtube.com/watch?v=PTyvU4xxRJI",
+        "thumbnail_url": "https://i.ytimg.com/vi/PTyvU4xxRJI/hqdefault.jpg",
+        "duration_minutes": 3.75,
+        "upload_date": "2012-10-05",
+        "comment_count": 0
+    },
+    {
+        "title": "12-Async and Await",
+        "video_url": "https://www.youtube.com/watch?v=ApZIiEFyftc",
+        "thumbnail_url": "https://i.ytimg.com/vi/ApZIiEFyftc/hqdefault.jpg",
+        "duration_minutes": 5.18,
+        "upload_date": "2012-10-05",
+        "comment_count": 6
+    },
+    {
+        "title": "11-SignalR and Web Sockets",
+        "video_url": "https://www.youtube.com/watch?v=lQvpvkKCBmk",
+        "thumbnail_url": "https://i.ytimg.com/vi/lQvpvkKCBmk/hqdefault.jpg",
+        "duration_minutes": 6.87,
+        "upload_date": "2012-10-05",
+        "comment_count": 1
+    },
+    {
+        "title": "10-Bundling and Optimization",
+        "video_url": "https://www.youtube.com/watch?v=T815k7uOC7I",
+        "thumbnail_url": "https://i.ytimg.com/vi/T815k7uOC7I/hqdefault.jpg",
+        "duration_minutes": 5.08,
+        "upload_date": "2012-10-05",
+        "comment_count": 0
+    },
+    {
+        "title": "09-ASP.NET Web API",
+        "video_url": "https://www.youtube.com/watch?v=jlqrmGpOS2M",
+        "thumbnail_url": "https://i.ytimg.com/vi/jlqrmGpOS2M/hqdefault.jpg",
+        "duration_minutes": 6.57,
+        "upload_date": "2012-10-05",
+        "comment_count": 0
+    },
+    {
+        "title": "08-ASP.NET MVC 4",
+        "video_url": "https://www.youtube.com/watch?v=5nJ5s_lyqJU",
+        "thumbnail_url": "https://i.ytimg.com/vi/5nJ5s_lyqJU/hqdefault.jpg",
+        "duration_minutes": 7.8,
+        "upload_date": "2012-10-05",
+        "comment_count": 0
+    },
+    {
+        "title": "07-Web Publishing Improvements",
+        "video_url": "https://www.youtube.com/watch?v=5UfRx7wVse0",
+        "thumbnail_url": "https://i.ytimg.com/vi/5UfRx7wVse0/hqdefault.jpg",
+        "duration_minutes": 5.65,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "06-ASP.NET 4.5 Web Forms Strongly Typed Data Controls",
+        "video_url": "https://www.youtube.com/watch?v=HRrvYG_o3jM",
+        "thumbnail_url": "https://i.ytimg.com/vi/HRrvYG_o3jM/hqdefault.jpg",
+        "duration_minutes": 4.17,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "05-Page Inspector",
+        "video_url": "https://www.youtube.com/watch?v=WBNX8U1J-3I",
+        "thumbnail_url": "https://i.ytimg.com/vi/WBNX8U1J-3I/hqdefault.jpg",
+        "duration_minutes": 3.88,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "04-JavaScript Editor",
+        "video_url": "https://www.youtube.com/watch?v=Zy8ahkhBjlk",
+        "thumbnail_url": "https://i.ytimg.com/vi/Zy8ahkhBjlk/hqdefault.jpg",
+        "duration_minutes": 5.08,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "03-CSS Editor",
+        "video_url": "https://www.youtube.com/watch?v=lz6H2EyDvI8",
+        "thumbnail_url": "https://i.ytimg.com/vi/lz6H2EyDvI8/hqdefault.jpg",
+        "duration_minutes": 4.65,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "02-HTML Editor",
+        "video_url": "https://www.youtube.com/watch?v=El0HAizX9a4",
+        "thumbnail_url": "https://i.ytimg.com/vi/El0HAizX9a4/hqdefault.jpg",
+        "duration_minutes": 4.2,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "01-Model Binding",
+        "video_url": "https://www.youtube.com/watch?v=szWoS1gaOYY",
+        "thumbnail_url": "https://i.ytimg.com/vi/szWoS1gaOYY/hqdefault.jpg",
+        "duration_minutes": 7.85,
+        "upload_date": "2012-10-01",
+        "comment_count": 0
+    },
+    {
+        "title": "iPhone 5 Feature Keynote",
+        "video_url": "https://www.youtube.com/watch?v=2gOe-PBgqzc",
+        "thumbnail_url": "https://i.ytimg.com/vi/2gOe-PBgqzc/hqdefault.jpg",
+        "duration_minutes": 6.87,
+        "upload_date": "2012-09-13",
+        "comment_count": 0
+    }
+]
