@@ -1,0 +1,1890 @@
+[
+    {
+        "title": "Why Throw an Exception When You Mean an Error?",
+        "video_url": "https://www.youtube.com/watch?v=7zAfWaW2Ao0",
+        "thumbnail_url": "https://i.ytimg.com/vi/7zAfWaW2Ao0/hqdefault.jpg",
+        "duration_minutes": 10.93,
+        "upload_date": "2025-02-25",
+        "comment_count": 87
+    },
+    {
+        "title": "Master CQRS Queries in EF Core: Optimize for Speed and Efficiency",
+        "video_url": "https://www.youtube.com/watch?v=4pOp4qkq1L4",
+        "thumbnail_url": "https://i.ytimg.com/vi/4pOp4qkq1L4/hqdefault.jpg",
+        "duration_minutes": 9.87,
+        "upload_date": "2025-02-18",
+        "comment_count": 54
+    },
+    {
+        "title": "C# Curly Braces vs Expression-Bodied Methods: When to Use Which?",
+        "video_url": "https://www.youtube.com/watch?v=F2uw6-U-ReA",
+        "thumbnail_url": "https://i.ytimg.com/vi/F2uw6-U-ReA/hqdefault.jpg",
+        "duration_minutes": 9.92,
+        "upload_date": "2025-02-11",
+        "comment_count": 117
+    },
+    {
+        "title": "3 Game-Changing Tips for Writing Simpler Code",
+        "video_url": "https://www.youtube.com/watch?v=YmpwJXrt2kQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/YmpwJXrt2kQ/hqdefault.jpg",
+        "duration_minutes": 12.5,
+        "upload_date": "2025-02-04",
+        "comment_count": 124
+    },
+    {
+        "title": "Are You Using the Extended LINQ Operators?",
+        "video_url": "https://www.youtube.com/watch?v=o-HHERFaT1o",
+        "thumbnail_url": "https://i.ytimg.com/vi/o-HHERFaT1o/hqdefault.jpg",
+        "duration_minutes": 9.6,
+        "upload_date": "2025-01-24",
+        "comment_count": 65
+    },
+    {
+        "title": "This is How FP Made Me Understand Design Patterns Better",
+        "video_url": "https://www.youtube.com/watch?v=2UNAMhhh6n0",
+        "thumbnail_url": "https://i.ytimg.com/vi/2UNAMhhh6n0/hqdefault.jpg",
+        "duration_minutes": 10.2,
+        "upload_date": "2025-01-16",
+        "comment_count": 75
+    },
+    {
+        "title": "Make Domain Rules Explicit In Any Business Application",
+        "video_url": "https://www.youtube.com/watch?v=Ehpnndmu2Ow",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ehpnndmu2Ow/hqdefault.jpg",
+        "duration_minutes": 9.38,
+        "upload_date": "2025-01-09",
+        "comment_count": 54
+    },
+    {
+        "title": "Object Validation and Invariants End at This Point",
+        "video_url": "https://www.youtube.com/watch?v=_C6vsfvALCQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/_C6vsfvALCQ/hqdefault.jpg",
+        "duration_minutes": 9.95,
+        "upload_date": "2025-01-03",
+        "comment_count": 27
+    },
+    {
+        "title": "Master the PriorityQueue \u2013 A New Collection in .NET",
+        "video_url": "https://www.youtube.com/watch?v=d262kUQKT0E",
+        "thumbnail_url": "https://i.ytimg.com/vi/d262kUQKT0E/hqdefault.jpg",
+        "duration_minutes": 12.13,
+        "upload_date": "2024-12-27",
+        "comment_count": 18
+    },
+    {
+        "title": "How Far is Your Object-Oriented Code From Functional Programming?",
+        "video_url": "https://www.youtube.com/watch?v=kVEL6DWtOeM",
+        "thumbnail_url": "https://i.ytimg.com/vi/kVEL6DWtOeM/hqdefault.jpg",
+        "duration_minutes": 13.17,
+        "upload_date": "2024-12-19",
+        "comment_count": 58
+    },
+    {
+        "title": "Advent of Code 2024 Day 11 - Full Solution",
+        "video_url": "https://www.youtube.com/watch?v=fOqsRz2wPZg",
+        "thumbnail_url": "https://i.ytimg.com/vi/fOqsRz2wPZg/hqdefault.jpg",
+        "duration_minutes": 6.82,
+        "upload_date": "2024-12-17",
+        "comment_count": 17
+    },
+    {
+        "title": "Advent of Code 2024 Day 10 - Full Solution",
+        "video_url": "https://www.youtube.com/watch?v=Lot_4YlaZj8",
+        "thumbnail_url": "https://i.ytimg.com/vi/Lot_4YlaZj8/hqdefault.jpg",
+        "duration_minutes": 7.58,
+        "upload_date": "2024-12-14",
+        "comment_count": 7
+    },
+    {
+        "title": "Make Your Object Model More Object-Oriented",
+        "video_url": "https://www.youtube.com/watch?v=vSrKCHukzqY",
+        "thumbnail_url": "https://i.ytimg.com/vi/vSrKCHukzqY/hqdefault.jpg",
+        "duration_minutes": 13.17,
+        "upload_date": "2024-12-12",
+        "comment_count": 51
+    },
+    {
+        "title": "Advent of Code 2024 Day 3 - Full Solution",
+        "video_url": "https://www.youtube.com/watch?v=a2iVp-JGOMY",
+        "thumbnail_url": "https://i.ytimg.com/vi/a2iVp-JGOMY/hqdefault.jpg",
+        "duration_minutes": 5.85,
+        "upload_date": "2024-12-09",
+        "comment_count": 21
+    },
+    {
+        "title": "Advent of Code 2024 Day 2 - Full Solution",
+        "video_url": "https://www.youtube.com/watch?v=Flhwj_fzip4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Flhwj_fzip4/hqdefault.jpg",
+        "duration_minutes": 6.35,
+        "upload_date": "2024-12-07",
+        "comment_count": 21
+    },
+    {
+        "title": "Master the Keyed Services in ASP.NET Core Dependency Injection",
+        "video_url": "https://www.youtube.com/watch?v=qDNIqsle8Cs",
+        "thumbnail_url": "https://i.ytimg.com/vi/qDNIqsle8Cs/hqdefault.jpg",
+        "duration_minutes": 12.93,
+        "upload_date": "2024-12-04",
+        "comment_count": 60
+    },
+    {
+        "title": "C# Minimal APIs Quickly Get Messy - Clean Them Up!",
+        "video_url": "https://www.youtube.com/watch?v=2LvHXme-kcs",
+        "thumbnail_url": "https://i.ytimg.com/vi/2LvHXme-kcs/hqdefault.jpg",
+        "duration_minutes": 12.68,
+        "upload_date": "2024-11-26",
+        "comment_count": 107
+    },
+    {
+        "title": "How Does a Domain Model Serialize Itself? IT DOES NOT!",
+        "video_url": "https://www.youtube.com/watch?v=6KUheTnNY3M",
+        "thumbnail_url": "https://i.ytimg.com/vi/6KUheTnNY3M/hqdefault.jpg",
+        "duration_minutes": 11.1,
+        "upload_date": "2024-11-19",
+        "comment_count": 54
+    },
+    {
+        "title": "I Cut My Code in Half After Adding Just One Virtual Method",
+        "video_url": "https://www.youtube.com/watch?v=jgtPwXHTdHc",
+        "thumbnail_url": "https://i.ytimg.com/vi/jgtPwXHTdHc/hqdefault.jpg",
+        "duration_minutes": 12.63,
+        "upload_date": "2024-11-13",
+        "comment_count": 121
+    },
+    {
+        "title": "Eliminate Data Clumps: Step-by-Step Refactoring Guide",
+        "video_url": "https://www.youtube.com/watch?v=k1fIRmTsQMU",
+        "thumbnail_url": "https://i.ytimg.com/vi/k1fIRmTsQMU/hqdefault.jpg",
+        "duration_minutes": 14.4,
+        "upload_date": "2024-11-05",
+        "comment_count": 76
+    },
+    {
+        "title": "Why Writing Simple Code Isn't So Simple in Real Projects",
+        "video_url": "https://www.youtube.com/watch?v=nDSa5wuyYXg",
+        "thumbnail_url": "https://i.ytimg.com/vi/nDSa5wuyYXg/hqdefault.jpg",
+        "duration_minutes": 12.17,
+        "upload_date": "2024-10-30",
+        "comment_count": 102
+    },
+    {
+        "title": "The Combinatorial Explosion Trap: Does Your Code Have It?",
+        "video_url": "https://www.youtube.com/watch?v=g63pLbUrzjI",
+        "thumbnail_url": "https://i.ytimg.com/vi/g63pLbUrzjI/hqdefault.jpg",
+        "duration_minutes": 13.9,
+        "upload_date": "2024-10-17",
+        "comment_count": 63
+    },
+    {
+        "title": "10 Essential Constructors in C# Every Developer Should Know",
+        "video_url": "https://www.youtube.com/watch?v=Y3kMxoK7z6I",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y3kMxoK7z6I/hqdefault.jpg",
+        "duration_minutes": 12.87,
+        "upload_date": "2024-10-10",
+        "comment_count": 54
+    },
+    {
+        "title": "This Is How the Anemic Domain Model Turns Bad",
+        "video_url": "https://www.youtube.com/watch?v=rA_4lb8UCQo",
+        "thumbnail_url": "https://i.ytimg.com/vi/rA_4lb8UCQo/hqdefault.jpg",
+        "duration_minutes": 13.13,
+        "upload_date": "2024-10-04",
+        "comment_count": 48
+    },
+    {
+        "title": "Learn to Generate Quality URL Slugs From Proper Domain Objects",
+        "video_url": "https://www.youtube.com/watch?v=ye4zKlUchzQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/ye4zKlUchzQ/hqdefault.jpg",
+        "duration_minutes": 13.17,
+        "upload_date": "2024-09-27",
+        "comment_count": 28
+    },
+    {
+        "title": "You Can Now Track Record Types With EF Core",
+        "video_url": "https://www.youtube.com/watch?v=VOjeNS2MBw4",
+        "thumbnail_url": "https://i.ytimg.com/vi/VOjeNS2MBw4/hqdefault.jpg",
+        "duration_minutes": 12.82,
+        "upload_date": "2024-09-20",
+        "comment_count": 45
+    },
+    {
+        "title": "Here Is the Most Powerful EF Core Configuration Technique",
+        "video_url": "https://www.youtube.com/watch?v=xpm2nRpvvA8",
+        "thumbnail_url": "https://i.ytimg.com/vi/xpm2nRpvvA8/hqdefault.jpg",
+        "duration_minutes": 16.08,
+        "upload_date": "2024-09-13",
+        "comment_count": 140
+    },
+    {
+        "title": "C# Records Are Functional - Use Them That Way!",
+        "video_url": "https://www.youtube.com/watch?v=PCBXrUa0Kik",
+        "thumbnail_url": "https://i.ytimg.com/vi/PCBXrUa0Kik/hqdefault.jpg",
+        "duration_minutes": 10.92,
+        "upload_date": "2024-08-30",
+        "comment_count": 110
+    },
+    {
+        "title": "Boolean Is Not Your Friend",
+        "video_url": "https://www.youtube.com/watch?v=SVew0lXNCqQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/SVew0lXNCqQ/hqdefault.jpg",
+        "duration_minutes": 12.75,
+        "upload_date": "2024-08-15",
+        "comment_count": 378
+    },
+    {
+        "title": "Can You Avoid the Nightmare Scenario?",
+        "video_url": "https://www.youtube.com/watch?v=G2KVyLTgDdQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/G2KVyLTgDdQ/hqdefault.jpg",
+        "duration_minutes": 9.48,
+        "upload_date": "2024-08-06",
+        "comment_count": 46
+    },
+    {
+        "title": "5 Sure Signs You're No Longer Junior Programmer",
+        "video_url": "https://www.youtube.com/watch?v=Ftwo2y2KeXI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Ftwo2y2KeXI/hqdefault.jpg",
+        "duration_minutes": 13.35,
+        "upload_date": "2024-07-25",
+        "comment_count": 522
+    },
+    {
+        "title": "They Are Brilliant \u2013 But in Small Doses Only!",
+        "video_url": "https://www.youtube.com/watch?v=qr2VUer5iuc",
+        "thumbnail_url": "https://i.ytimg.com/vi/qr2VUer5iuc/hqdefault.jpg",
+        "duration_minutes": 10.53,
+        "upload_date": "2024-07-19",
+        "comment_count": 48
+    },
+    {
+        "title": "How Do I Escape From Here?",
+        "video_url": "https://www.youtube.com/watch?v=fs23tXSrF_k",
+        "thumbnail_url": "https://i.ytimg.com/vi/fs23tXSrF_k/hqdefault.jpg",
+        "duration_minutes": 8.97,
+        "upload_date": "2024-07-10",
+        "comment_count": 41
+    },
+    {
+        "title": "Lambdas Almost Killed the Strategy Pattern",
+        "video_url": "https://www.youtube.com/watch?v=C1pbRp1EQdk",
+        "thumbnail_url": "https://i.ytimg.com/vi/C1pbRp1EQdk/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-06-27",
+        "comment_count": 37
+    },
+    {
+        "title": "The Encapsulation Lose-Lose Game",
+        "video_url": "https://www.youtube.com/watch?v=EwMoiRHsZ7I",
+        "thumbnail_url": "https://i.ytimg.com/vi/EwMoiRHsZ7I/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-06-26",
+        "comment_count": 18
+    },
+    {
+        "title": "Programmers Massively Fail on This",
+        "video_url": "https://www.youtube.com/watch?v=KdpoCjcCRpc",
+        "thumbnail_url": "https://i.ytimg.com/vi/KdpoCjcCRpc/hqdefault.jpg",
+        "duration_minutes": 1.0,
+        "upload_date": "2024-06-25",
+        "comment_count": 31
+    },
+    {
+        "title": "Master the Design of Classes",
+        "video_url": "https://www.youtube.com/watch?v=oBdH_ZlALtY",
+        "thumbnail_url": "https://i.ytimg.com/vi/oBdH_ZlALtY/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-06-24",
+        "comment_count": 9
+    },
+    {
+        "title": "Master the Design of Classes (Part 2)",
+        "video_url": "https://www.youtube.com/watch?v=_oyMVfern7w",
+        "thumbnail_url": "https://i.ytimg.com/vi/_oyMVfern7w/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-06-23",
+        "comment_count": 6
+    },
+    {
+        "title": "What Good Is an Empty Interface?",
+        "video_url": "https://www.youtube.com/watch?v=6Iv57MsW-W8",
+        "thumbnail_url": "https://i.ytimg.com/vi/6Iv57MsW-W8/hqdefault.jpg",
+        "duration_minutes": 7.02,
+        "upload_date": "2024-06-21",
+        "comment_count": 137
+    },
+    {
+        "title": "Master the Design of Classes (Part 3)",
+        "video_url": "https://www.youtube.com/watch?v=Je0nP9iMk1c",
+        "thumbnail_url": "https://i.ytimg.com/vi/Je0nP9iMk1c/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-06-20",
+        "comment_count": 5
+    },
+    {
+        "title": "Master the Design of Classes (Part 4)",
+        "video_url": "https://www.youtube.com/watch?v=IfNS_bkCzxQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/IfNS_bkCzxQ/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-06-19",
+        "comment_count": 10
+    },
+    {
+        "title": "Master the Design of Classes (Part 5)",
+        "video_url": "https://www.youtube.com/watch?v=EjFOgAtQKYk",
+        "thumbnail_url": "https://i.ytimg.com/vi/EjFOgAtQKYk/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-06-18",
+        "comment_count": 47
+    },
+    {
+        "title": "Master the Design of Classes (Part 6)",
+        "video_url": "https://www.youtube.com/watch?v=rfCnHG6fiQI",
+        "thumbnail_url": "https://i.ytimg.com/vi/rfCnHG6fiQI/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-06-16",
+        "comment_count": 13
+    },
+    {
+        "title": "Master the Design of Classes (Part 7)",
+        "video_url": "https://www.youtube.com/watch?v=beYvaP56ZME",
+        "thumbnail_url": "https://i.ytimg.com/vi/beYvaP56ZME/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-06-15",
+        "comment_count": 6
+    },
+    {
+        "title": "Master the Design of Classes",
+        "video_url": "https://www.youtube.com/watch?v=jwCW446hoPk",
+        "thumbnail_url": "https://i.ytimg.com/vi/jwCW446hoPk/hqdefault.jpg",
+        "duration_minutes": 11.93,
+        "upload_date": "2024-06-12",
+        "comment_count": 96
+    },
+    {
+        "title": "3 C# Features You Should Never See",
+        "video_url": "https://www.youtube.com/watch?v=-7IZsb7-ZwU",
+        "thumbnail_url": "https://i.ytimg.com/vi/-7IZsb7-ZwU/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-06-11",
+        "comment_count": 14
+    },
+    {
+        "title": "Answer the Google Interview Question in 60 Seconds",
+        "video_url": "https://www.youtube.com/watch?v=xR_E5PcGpqc",
+        "thumbnail_url": "https://i.ytimg.com/vi/xR_E5PcGpqc/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-06-09",
+        "comment_count": 29
+    },
+    {
+        "title": "The C# Question I Hear Every Day",
+        "video_url": "https://www.youtube.com/watch?v=AD_MKP34fYs",
+        "thumbnail_url": "https://i.ytimg.com/vi/AD_MKP34fYs/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-06-08",
+        "comment_count": 14
+    },
+    {
+        "title": "C# Constructors Just Got Better!",
+        "video_url": "https://www.youtube.com/watch?v=PI138PhgIEU",
+        "thumbnail_url": "https://i.ytimg.com/vi/PI138PhgIEU/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-06-06",
+        "comment_count": 18
+    },
+    {
+        "title": "Switch Over to switch Expressions!",
+        "video_url": "https://www.youtube.com/watch?v=QdVx7HoRqH0",
+        "thumbnail_url": "https://i.ytimg.com/vi/QdVx7HoRqH0/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-06-05",
+        "comment_count": 16
+    },
+    {
+        "title": "Use Property Patterns in C#",
+        "video_url": "https://www.youtube.com/watch?v=4r-_34efDMk",
+        "thumbnail_url": "https://i.ytimg.com/vi/4r-_34efDMk/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2024-06-03",
+        "comment_count": 2
+    },
+    {
+        "title": "What is Functional C#?",
+        "video_url": "https://www.youtube.com/watch?v=7tyk2nOIeNA",
+        "thumbnail_url": "https://i.ytimg.com/vi/7tyk2nOIeNA/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-06-01",
+        "comment_count": 15
+    },
+    {
+        "title": "Master the Design of Functional Behavior in C#",
+        "video_url": "https://www.youtube.com/watch?v=2TXvwUgaMHs",
+        "thumbnail_url": "https://i.ytimg.com/vi/2TXvwUgaMHs/hqdefault.jpg",
+        "duration_minutes": 19.28,
+        "upload_date": "2024-05-31",
+        "comment_count": 81
+    },
+    {
+        "title": "Functional Types in the Latest C#",
+        "video_url": "https://www.youtube.com/watch?v=Yia_NKqkGD4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Yia_NKqkGD4/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-29",
+        "comment_count": 12
+    },
+    {
+        "title": "Remove Deep Nesting | Clean Code",
+        "video_url": "https://www.youtube.com/watch?v=SrHgkQz0cR4",
+        "thumbnail_url": "https://i.ytimg.com/vi/SrHgkQz0cR4/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2024-05-27",
+        "comment_count": 8
+    },
+    {
+        "title": "I Love C# for Things Like This",
+        "video_url": "https://www.youtube.com/watch?v=leK9Ug_z4_A",
+        "thumbnail_url": "https://i.ytimg.com/vi/leK9Ug_z4_A/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-25",
+        "comment_count": 4
+    },
+    {
+        "title": "Have You Got an Aliasing Bug?",
+        "video_url": "https://www.youtube.com/watch?v=U7rrYeQmOUQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/U7rrYeQmOUQ/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-24",
+        "comment_count": 5
+    },
+    {
+        "title": "Immutable Design: Why You Should Care",
+        "video_url": "https://www.youtube.com/watch?v=jjf5nEmDjaE",
+        "thumbnail_url": "https://i.ytimg.com/vi/jjf5nEmDjaE/hqdefault.jpg",
+        "duration_minutes": 14.4,
+        "upload_date": "2024-05-23",
+        "comment_count": 38
+    },
+    {
+        "title": "Guess the Pattern!",
+        "video_url": "https://www.youtube.com/watch?v=ljffrZSHoyk",
+        "thumbnail_url": "https://i.ytimg.com/vi/ljffrZSHoyk/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-19",
+        "comment_count": 16
+    },
+    {
+        "title": "What are ValueTasks Used For?",
+        "video_url": "https://www.youtube.com/watch?v=_ew8HX4osRM",
+        "thumbnail_url": "https://i.ytimg.com/vi/_ew8HX4osRM/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-05-18",
+        "comment_count": 3
+    },
+    {
+        "title": "You\u2019ll Never Write Functional C# Code if You Don\u2019t Know This",
+        "video_url": "https://www.youtube.com/watch?v=0BVBDp9QNFI",
+        "thumbnail_url": "https://i.ytimg.com/vi/0BVBDp9QNFI/hqdefault.jpg",
+        "duration_minutes": 6.33,
+        "upload_date": "2024-05-16",
+        "comment_count": 70
+    },
+    {
+        "title": "Have You Ever Seen This Method?",
+        "video_url": "https://www.youtube.com/watch?v=WrPejfGuqVc",
+        "thumbnail_url": "https://i.ytimg.com/vi/WrPejfGuqVc/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-05-14",
+        "comment_count": 6
+    },
+    {
+        "title": "Learn an Algorithm in 60 Seconds! \u2013 Combinations",
+        "video_url": "https://www.youtube.com/watch?v=Xpqy3sQC1Bo",
+        "thumbnail_url": "https://i.ytimg.com/vi/Xpqy3sQC1Bo/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-12",
+        "comment_count": 0
+    },
+    {
+        "title": "Have You Ever Signaled async/await Progress in These Three Ways?",
+        "video_url": "https://www.youtube.com/watch?v=dhleFJPOQOs",
+        "thumbnail_url": "https://i.ytimg.com/vi/dhleFJPOQOs/hqdefault.jpg",
+        "duration_minutes": 7.62,
+        "upload_date": "2024-05-10",
+        "comment_count": 46
+    },
+    {
+        "title": "Static Imports in C# Are Tricky",
+        "video_url": "https://www.youtube.com/watch?v=nZe_vmNRt6o",
+        "thumbnail_url": "https://i.ytimg.com/vi/nZe_vmNRt6o/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-08",
+        "comment_count": 11
+    },
+    {
+        "title": "C# 12 Collection Expressions",
+        "video_url": "https://www.youtube.com/watch?v=8YyiXOxsa3M",
+        "thumbnail_url": "https://i.ytimg.com/vi/8YyiXOxsa3M/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-06",
+        "comment_count": 5
+    },
+    {
+        "title": "Target-Typed new Expressions in C#",
+        "video_url": "https://www.youtube.com/watch?v=uR4mco9BAv0",
+        "thumbnail_url": "https://i.ytimg.com/vi/uR4mco9BAv0/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-05-04",
+        "comment_count": 15
+    },
+    {
+        "title": "Learn an Algorithm in 60 Seconds! - Shuffle",
+        "video_url": "https://www.youtube.com/watch?v=N4eN_sexrvU",
+        "thumbnail_url": "https://i.ytimg.com/vi/N4eN_sexrvU/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-05-03",
+        "comment_count": 19
+    },
+    {
+        "title": "Can You Extend LINQ?",
+        "video_url": "https://www.youtube.com/watch?v=WXuhJr-Lv-E",
+        "thumbnail_url": "https://i.ytimg.com/vi/WXuhJr-Lv-E/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2024-05-01",
+        "comment_count": 22
+    },
+    {
+        "title": "Master the Design of Functional Types in C#",
+        "video_url": "https://www.youtube.com/watch?v=uHn_Nts4TVQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/uHn_Nts4TVQ/hqdefault.jpg",
+        "duration_minutes": 17.88,
+        "upload_date": "2024-04-30",
+        "comment_count": 118
+    },
+    {
+        "title": "Are You a Control Freak Programmer?",
+        "video_url": "https://www.youtube.com/watch?v=ujRaw7mf8lM",
+        "thumbnail_url": "https://i.ytimg.com/vi/ujRaw7mf8lM/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-04-29",
+        "comment_count": 62
+    },
+    {
+        "title": "New Answer to the Oldest Interview Question",
+        "video_url": "https://www.youtube.com/watch?v=CCtTj69-3So",
+        "thumbnail_url": "https://i.ytimg.com/vi/CCtTj69-3So/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-04-27",
+        "comment_count": 15
+    },
+    {
+        "title": "Using Declarations are Tricky",
+        "video_url": "https://www.youtube.com/watch?v=jqfMBjTL1KI",
+        "thumbnail_url": "https://i.ytimg.com/vi/jqfMBjTL1KI/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-04-26",
+        "comment_count": 8
+    },
+    {
+        "title": "Find the Bug in 5s",
+        "video_url": "https://www.youtube.com/watch?v=b7czLKzBS2U",
+        "thumbnail_url": "https://i.ytimg.com/vi/b7czLKzBS2U/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-04-24",
+        "comment_count": 20
+    },
+    {
+        "title": "Avoid Deep Nesting | Clean Code",
+        "video_url": "https://www.youtube.com/watch?v=AH7Fw7VF3fo",
+        "thumbnail_url": "https://i.ytimg.com/vi/AH7Fw7VF3fo/hqdefault.jpg",
+        "duration_minutes": 7.97,
+        "upload_date": "2024-04-23",
+        "comment_count": 126
+    },
+    {
+        "title": "Nullable References Tips and Tricks",
+        "video_url": "https://www.youtube.com/watch?v=Y4A9PyX4ecA",
+        "thumbnail_url": "https://i.ytimg.com/vi/Y4A9PyX4ecA/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-04-22",
+        "comment_count": 10
+    },
+    {
+        "title": "Guess the Pattern!",
+        "video_url": "https://www.youtube.com/watch?v=CMhhVgdwdpM",
+        "thumbnail_url": "https://i.ytimg.com/vi/CMhhVgdwdpM/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2024-04-20",
+        "comment_count": 13
+    },
+    {
+        "title": "Deep Dive on Locks & Deadlocks for Application Developers",
+        "video_url": "https://www.youtube.com/watch?v=EzXKlTyk2KU",
+        "thumbnail_url": "https://i.ytimg.com/vi/EzXKlTyk2KU/hqdefault.jpg",
+        "duration_minutes": 27.83,
+        "upload_date": "2024-04-19",
+        "comment_count": 40
+    },
+    {
+        "title": "How To Cancel async Methods",
+        "video_url": "https://www.youtube.com/watch?v=RlQ1E63BZ8Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/RlQ1E63BZ8Y/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-04-17",
+        "comment_count": 10
+    },
+    {
+        "title": "How Do You Cancel an async Method? | Step-by-Step Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=PQORTKShZFw",
+        "thumbnail_url": "https://i.ytimg.com/vi/PQORTKShZFw/hqdefault.jpg",
+        "duration_minutes": 7.25,
+        "upload_date": "2024-04-15",
+        "comment_count": 48
+    },
+    {
+        "title": "C# with Expressions Evade Validation!",
+        "video_url": "https://www.youtube.com/watch?v=Al9a1u4fkkc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Al9a1u4fkkc/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-04-13",
+        "comment_count": 9
+    },
+    {
+        "title": "Does This Class Violate LSP?",
+        "video_url": "https://www.youtube.com/watch?v=PycXzd53su4",
+        "thumbnail_url": "https://i.ytimg.com/vi/PycXzd53su4/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2024-04-11",
+        "comment_count": 8
+    },
+    {
+        "title": "C#, Dapper & SQL: Interview Questions With Answers",
+        "video_url": "https://www.youtube.com/watch?v=h-nbp0dP08I",
+        "thumbnail_url": "https://i.ytimg.com/vi/h-nbp0dP08I/hqdefault.jpg",
+        "duration_minutes": 17.88,
+        "upload_date": "2024-04-10",
+        "comment_count": 23
+    },
+    {
+        "title": "Non-Nullable References Can Be Null!",
+        "video_url": "https://www.youtube.com/watch?v=AyMA0bniBvU",
+        "thumbnail_url": "https://i.ytimg.com/vi/AyMA0bniBvU/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2024-04-08",
+        "comment_count": 22
+    },
+    {
+        "title": "What Are Elevated Types in C#?",
+        "video_url": "https://www.youtube.com/watch?v=oYRUS1CdhnQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/oYRUS1CdhnQ/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-04-07",
+        "comment_count": 19
+    },
+    {
+        "title": "Use Strongly Typed IDs for Entities",
+        "video_url": "https://www.youtube.com/watch?v=vZm41bo2NqM",
+        "thumbnail_url": "https://i.ytimg.com/vi/vZm41bo2NqM/hqdefault.jpg",
+        "duration_minutes": 0.93,
+        "upload_date": "2024-04-04",
+        "comment_count": 6
+    },
+    {
+        "title": "When and How To Apply CQRS in an ASP.NET Core Application With EF Core",
+        "video_url": "https://www.youtube.com/watch?v=tCpMD94HhB4",
+        "thumbnail_url": "https://i.ytimg.com/vi/tCpMD94HhB4/hqdefault.jpg",
+        "duration_minutes": 15.17,
+        "upload_date": "2024-04-02",
+        "comment_count": 17
+    },
+    {
+        "title": "The Secret of Unit Testing I Learned by Failing",
+        "video_url": "https://www.youtube.com/watch?v=ZqShBWp-hd0",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZqShBWp-hd0/hqdefault.jpg",
+        "duration_minutes": 7.55,
+        "upload_date": "2024-03-28",
+        "comment_count": 41
+    },
+    {
+        "title": "How to Implement Strongly Typed IDs with EF Core and ASP.NET Core Razor Pages",
+        "video_url": "https://www.youtube.com/watch?v=MJcaxi3bOO8",
+        "thumbnail_url": "https://i.ytimg.com/vi/MJcaxi3bOO8/hqdefault.jpg",
+        "duration_minutes": 17.77,
+        "upload_date": "2024-03-25",
+        "comment_count": 37
+    },
+    {
+        "title": "Enjoy Strongly Typed Code Again With Covariant Return Types",
+        "video_url": "https://www.youtube.com/watch?v=C2WJPPtY6f4",
+        "thumbnail_url": "https://i.ytimg.com/vi/C2WJPPtY6f4/hqdefault.jpg",
+        "duration_minutes": 7.18,
+        "upload_date": "2024-03-19",
+        "comment_count": 24
+    },
+    {
+        "title": "Master The L in SOLID",
+        "video_url": "https://www.youtube.com/watch?v=NN7iGPUvxLc",
+        "thumbnail_url": "https://i.ytimg.com/vi/NN7iGPUvxLc/hqdefault.jpg",
+        "duration_minutes": 15.95,
+        "upload_date": "2024-03-16",
+        "comment_count": 57
+    },
+    {
+        "title": "Unveil the Mystery of the Liskov Substitution Principle",
+        "video_url": "https://www.youtube.com/watch?v=Cu2wI0Iqxfw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cu2wI0Iqxfw/hqdefault.jpg",
+        "duration_minutes": 7.82,
+        "upload_date": "2024-03-13",
+        "comment_count": 51
+    },
+    {
+        "title": "Learn C#: Method Hiding (and Why You Will Want To Avoid It)",
+        "video_url": "https://www.youtube.com/watch?v=fx6LxePgTNg",
+        "thumbnail_url": "https://i.ytimg.com/vi/fx6LxePgTNg/hqdefault.jpg",
+        "duration_minutes": 6.1,
+        "upload_date": "2024-03-11",
+        "comment_count": 42
+    },
+    {
+        "title": "Validating Records in C#: Everything You Ever Wanted To Know but Had No One To Ask",
+        "video_url": "https://www.youtube.com/watch?v=MUriDSrN_TY",
+        "thumbnail_url": "https://i.ytimg.com/vi/MUriDSrN_TY/hqdefault.jpg",
+        "duration_minutes": 14.92,
+        "upload_date": "2024-03-06",
+        "comment_count": 55
+    },
+    {
+        "title": "Learn C#: How Do Virtual Methods Work?",
+        "video_url": "https://www.youtube.com/watch?v=nVjBd9X9ack",
+        "thumbnail_url": "https://i.ytimg.com/vi/nVjBd9X9ack/hqdefault.jpg",
+        "duration_minutes": 8.25,
+        "upload_date": "2024-03-01",
+        "comment_count": 23
+    },
+    {
+        "title": "The Lesson About GUID IDs I Learned the Hard Way",
+        "video_url": "https://www.youtube.com/watch?v=n17U7ntLMt4",
+        "thumbnail_url": "https://i.ytimg.com/vi/n17U7ntLMt4/hqdefault.jpg",
+        "duration_minutes": 15.72,
+        "upload_date": "2024-02-26",
+        "comment_count": 238
+    },
+    {
+        "title": "Learn C#: Abstract or Virtual Method, Which Fits Better Here?",
+        "video_url": "https://www.youtube.com/watch?v=Tu3FEWTmaQY",
+        "thumbnail_url": "https://i.ytimg.com/vi/Tu3FEWTmaQY/hqdefault.jpg",
+        "duration_minutes": 7.52,
+        "upload_date": "2024-02-20",
+        "comment_count": 46
+    },
+    {
+        "title": "This Is How Domain-Driven Design Makes Object-Oriented Design More Powerful",
+        "video_url": "https://www.youtube.com/watch?v=W2OobtTQo9Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/W2OobtTQo9Y/hqdefault.jpg",
+        "duration_minutes": 15.57,
+        "upload_date": "2024-02-13",
+        "comment_count": 37
+    },
+    {
+        "title": "Avoid This Common Mistake in DDD Modeling",
+        "video_url": "https://www.youtube.com/watch?v=E4YSxUFHM-4",
+        "thumbnail_url": "https://i.ytimg.com/vi/E4YSxUFHM-4/hqdefault.jpg",
+        "duration_minutes": 10.28,
+        "upload_date": "2024-02-07",
+        "comment_count": 49
+    },
+    {
+        "title": "Learn To Love DDD-Style Strongly Typed IDs",
+        "video_url": "https://www.youtube.com/watch?v=hW-7lkuD-Cc",
+        "thumbnail_url": "https://i.ytimg.com/vi/hW-7lkuD-Cc/hqdefault.jpg",
+        "duration_minutes": 9.07,
+        "upload_date": "2024-01-31",
+        "comment_count": 177
+    },
+    {
+        "title": "Let C# Tuples Become Your Best Friends",
+        "video_url": "https://www.youtube.com/watch?v=Wyp7XaFYRBs",
+        "thumbnail_url": "https://i.ytimg.com/vi/Wyp7XaFYRBs/hqdefault.jpg",
+        "duration_minutes": 11.85,
+        "upload_date": "2024-01-25",
+        "comment_count": 77
+    },
+    {
+        "title": "The Ultimate Guide to C# Records",
+        "video_url": "https://www.youtube.com/watch?v=KFx9XHpoYV4",
+        "thumbnail_url": "https://i.ytimg.com/vi/KFx9XHpoYV4/hqdefault.jpg",
+        "duration_minutes": 12.92,
+        "upload_date": "2024-01-18",
+        "comment_count": 96
+    },
+    {
+        "title": "Here is How Fast is LINQ, Spans, and Everything",
+        "video_url": "https://www.youtube.com/watch?v=mdqNyfCxrv4",
+        "thumbnail_url": "https://i.ytimg.com/vi/mdqNyfCxrv4/hqdefault.jpg",
+        "duration_minutes": 12.67,
+        "upload_date": "2024-01-12",
+        "comment_count": 60
+    },
+    {
+        "title": "This Is the Place for LINQ in Modern .NET Design",
+        "video_url": "https://www.youtube.com/watch?v=oD99AyEzyEU",
+        "thumbnail_url": "https://i.ytimg.com/vi/oD99AyEzyEU/hqdefault.jpg",
+        "duration_minutes": 5.92,
+        "upload_date": "2024-01-05",
+        "comment_count": 19
+    },
+    {
+        "title": "17 Pieces of C# Syntax That Make Your Code Short",
+        "video_url": "https://www.youtube.com/watch?v=mGnpFGIRCjA",
+        "thumbnail_url": "https://i.ytimg.com/vi/mGnpFGIRCjA/hqdefault.jpg",
+        "duration_minutes": 12.68,
+        "upload_date": "2023-12-29",
+        "comment_count": 281
+    },
+    {
+        "title": "3 Shocking Misconceptions Among C# Programmers",
+        "video_url": "https://www.youtube.com/watch?v=P-0svGXEeNM",
+        "thumbnail_url": "https://i.ytimg.com/vi/P-0svGXEeNM/hqdefault.jpg",
+        "duration_minutes": 9.42,
+        "upload_date": "2023-12-23",
+        "comment_count": 111
+    },
+    {
+        "title": "Will All My Classes Look Like Records Now?",
+        "video_url": "https://www.youtube.com/watch?v=4evWM-HVWmA",
+        "thumbnail_url": "https://i.ytimg.com/vi/4evWM-HVWmA/hqdefault.jpg",
+        "duration_minutes": 12.77,
+        "upload_date": "2023-12-14",
+        "comment_count": 23
+    },
+    {
+        "title": "Why is C# Evolving This Way?",
+        "video_url": "https://www.youtube.com/watch?v=RfEbn9aXY-Y",
+        "thumbnail_url": "https://i.ytimg.com/vi/RfEbn9aXY-Y/hqdefault.jpg",
+        "duration_minutes": 15.03,
+        "upload_date": "2023-12-07",
+        "comment_count": 172
+    },
+    {
+        "title": "C# record struct Usage Explained",
+        "video_url": "https://www.youtube.com/watch?v=kPpnU-nqnhQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/kPpnU-nqnhQ/hqdefault.jpg",
+        "duration_minutes": 0.88,
+        "upload_date": "2023-12-04",
+        "comment_count": 13
+    },
+    {
+        "title": "Favor Guard Clauses Over if-else",
+        "video_url": "https://www.youtube.com/watch?v=HTrIbVZecOE",
+        "thumbnail_url": "https://i.ytimg.com/vi/HTrIbVZecOE/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-12-02",
+        "comment_count": 31
+    },
+    {
+        "title": "Getting Started With Azure Storage | Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=BAEBVJBNVf8",
+        "thumbnail_url": "https://i.ytimg.com/vi/BAEBVJBNVf8/hqdefault.jpg",
+        "duration_minutes": 15.28,
+        "upload_date": "2023-12-01",
+        "comment_count": 14
+    },
+    {
+        "title": "Do Not Iterate IEnumerable Multiple Times!",
+        "video_url": "https://www.youtube.com/watch?v=jZ9eFkpvl24",
+        "thumbnail_url": "https://i.ytimg.com/vi/jZ9eFkpvl24/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-11-30",
+        "comment_count": 28
+    },
+    {
+        "title": "Must-Have Tools To Develop Azure Storage Applications",
+        "video_url": "https://www.youtube.com/watch?v=BuQ3NDkS9Yw",
+        "thumbnail_url": "https://i.ytimg.com/vi/BuQ3NDkS9Yw/hqdefault.jpg",
+        "duration_minutes": 3.23,
+        "upload_date": "2023-11-27",
+        "comment_count": 7
+    },
+    {
+        "title": "Why Don\u2019t C# Records Validate Their Values?",
+        "video_url": "https://www.youtube.com/watch?v=J9iYdYDbQjs",
+        "thumbnail_url": "https://i.ytimg.com/vi/J9iYdYDbQjs/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-11-25",
+        "comment_count": 49
+    },
+    {
+        "title": "You May Have Never Learned This Lesson Right",
+        "video_url": "https://www.youtube.com/watch?v=8qgcTeO8a_0",
+        "thumbnail_url": "https://i.ytimg.com/vi/8qgcTeO8a_0/hqdefault.jpg",
+        "duration_minutes": 13.03,
+        "upload_date": "2023-11-23",
+        "comment_count": 25
+    },
+    {
+        "title": "Favor Declarative Design in C#",
+        "video_url": "https://www.youtube.com/watch?v=0AAuYgG90zc",
+        "thumbnail_url": "https://i.ytimg.com/vi/0AAuYgG90zc/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-11-22",
+        "comment_count": 15
+    },
+    {
+        "title": "Are You Afraid of LINQ Aggregate Operator?",
+        "video_url": "https://www.youtube.com/watch?v=UeBPx--JCtU",
+        "thumbnail_url": "https://i.ytimg.com/vi/UeBPx--JCtU/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2023-11-20",
+        "comment_count": 6
+    },
+    {
+        "title": "The KISS Principle Explained by Dino Esposito",
+        "video_url": "https://www.youtube.com/watch?v=GSfnlQmcefM",
+        "thumbnail_url": "https://i.ytimg.com/vi/GSfnlQmcefM/hqdefault.jpg",
+        "duration_minutes": 14.87,
+        "upload_date": "2023-11-15",
+        "comment_count": 24
+    },
+    {
+        "title": "You Can Untangle the Ball of Mud Using This Technique",
+        "video_url": "https://www.youtube.com/watch?v=q2ZdFS-SyyE",
+        "thumbnail_url": "https://i.ytimg.com/vi/q2ZdFS-SyyE/hqdefault.jpg",
+        "duration_minutes": 8.3,
+        "upload_date": "2023-11-09",
+        "comment_count": 13
+    },
+    {
+        "title": "Favor Declarative Design and Cure That Code Clutter",
+        "video_url": "https://www.youtube.com/watch?v=aSGJUAMvJBI",
+        "thumbnail_url": "https://i.ytimg.com/vi/aSGJUAMvJBI/hqdefault.jpg",
+        "duration_minutes": 10.48,
+        "upload_date": "2023-11-03",
+        "comment_count": 26
+    },
+    {
+        "title": "Complex Code, Complicated Code, and Why You Should Care",
+        "video_url": "https://www.youtube.com/watch?v=kWnm8vnEa7A",
+        "thumbnail_url": "https://i.ytimg.com/vi/kWnm8vnEa7A/hqdefault.jpg",
+        "duration_minutes": 9.65,
+        "upload_date": "2023-10-30",
+        "comment_count": 27
+    },
+    {
+        "title": "Make a Domain-Specific Language in Your Project",
+        "video_url": "https://www.youtube.com/watch?v=6cD9pcpqTG0",
+        "thumbnail_url": "https://i.ytimg.com/vi/6cD9pcpqTG0/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2023-10-28",
+        "comment_count": 2
+    },
+    {
+        "title": "Manage Nulls Like a Boss and Never Fail!",
+        "video_url": "https://www.youtube.com/watch?v=mLTD8DECCVQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/mLTD8DECCVQ/hqdefault.jpg",
+        "duration_minutes": 21.72,
+        "upload_date": "2023-10-24",
+        "comment_count": 22
+    },
+    {
+        "title": "Why Is C# Getting So Functional These Days?",
+        "video_url": "https://www.youtube.com/watch?v=bL3SspDT8kQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/bL3SspDT8kQ/hqdefault.jpg",
+        "duration_minutes": 0.73,
+        "upload_date": "2023-10-19",
+        "comment_count": 6
+    },
+    {
+        "title": "Boost Code Readability With Fluent Interface Design",
+        "video_url": "https://www.youtube.com/watch?v=YgX71yANayY",
+        "thumbnail_url": "https://i.ytimg.com/vi/YgX71yANayY/hqdefault.jpg",
+        "duration_minutes": 9.98,
+        "upload_date": "2023-10-17",
+        "comment_count": 41
+    },
+    {
+        "title": "No, Procedural Is Not Better Than Object-Oriented in Business Applications",
+        "video_url": "https://www.youtube.com/watch?v=cU7cXaNhxA8",
+        "thumbnail_url": "https://i.ytimg.com/vi/cU7cXaNhxA8/hqdefault.jpg",
+        "duration_minutes": 12.32,
+        "upload_date": "2023-10-11",
+        "comment_count": 77
+    },
+    {
+        "title": "Let Design by Contract Be Your Highest-Valued Design Method",
+        "video_url": "https://www.youtube.com/watch?v=E30N4FJwP3w",
+        "thumbnail_url": "https://i.ytimg.com/vi/E30N4FJwP3w/hqdefault.jpg",
+        "duration_minutes": 13.67,
+        "upload_date": "2023-10-05",
+        "comment_count": 39
+    },
+    {
+        "title": "Develop Flawless Regular Expressions Using This Step-by-Step Process",
+        "video_url": "https://www.youtube.com/watch?v=ykEJKNU_yas",
+        "thumbnail_url": "https://i.ytimg.com/vi/ykEJKNU_yas/hqdefault.jpg",
+        "duration_minutes": 19.47,
+        "upload_date": "2023-09-28",
+        "comment_count": 24
+    },
+    {
+        "title": "Give Expressions a Name | Clean Code",
+        "video_url": "https://www.youtube.com/watch?v=hC87MbFoRR0",
+        "thumbnail_url": "https://i.ytimg.com/vi/hC87MbFoRR0/hqdefault.jpg",
+        "duration_minutes": 10.03,
+        "upload_date": "2023-09-20",
+        "comment_count": 79
+    },
+    {
+        "title": "The One Thing Where OOP Shines Like No Other Programming Style",
+        "video_url": "https://www.youtube.com/watch?v=L6FHKBg3cgI",
+        "thumbnail_url": "https://i.ytimg.com/vi/L6FHKBg3cgI/hqdefault.jpg",
+        "duration_minutes": 8.18,
+        "upload_date": "2023-09-14",
+        "comment_count": 58
+    },
+    {
+        "title": "Tame the Power of the Iterator Pattern and yield return in C#",
+        "video_url": "https://www.youtube.com/watch?v=9xY31VV-_QU",
+        "thumbnail_url": "https://i.ytimg.com/vi/9xY31VV-_QU/hqdefault.jpg",
+        "duration_minutes": 11.6,
+        "upload_date": "2023-09-08",
+        "comment_count": 51
+    },
+    {
+        "title": "Favor Method Chaining Over Nested Calls | Clean Code",
+        "video_url": "https://www.youtube.com/watch?v=zWn0O0xzWMA",
+        "thumbnail_url": "https://i.ytimg.com/vi/zWn0O0xzWMA/hqdefault.jpg",
+        "duration_minutes": 10.38,
+        "upload_date": "2023-09-04",
+        "comment_count": 81
+    },
+    {
+        "title": "Keep an Eye on SRP - That Might Just Save Your Broken Code Base",
+        "video_url": "https://www.youtube.com/watch?v=vTnlFdRf1Kc",
+        "thumbnail_url": "https://i.ytimg.com/vi/vTnlFdRf1Kc/hqdefault.jpg",
+        "duration_minutes": 22.32,
+        "upload_date": "2023-08-29",
+        "comment_count": 49
+    },
+    {
+        "title": "Avoid Returning Null From Methods \u2013 There Is a Better Way To Write Them!",
+        "video_url": "https://www.youtube.com/watch?v=HRLdcMil7Ec",
+        "thumbnail_url": "https://i.ytimg.com/vi/HRLdcMil7Ec/hqdefault.jpg",
+        "duration_minutes": 9.07,
+        "upload_date": "2023-08-22",
+        "comment_count": 108
+    },
+    {
+        "title": "Remove Messy Constructor Calls | Clean Code",
+        "video_url": "https://www.youtube.com/watch?v=6g4ggpOxxCc",
+        "thumbnail_url": "https://i.ytimg.com/vi/6g4ggpOxxCc/hqdefault.jpg",
+        "duration_minutes": 12.32,
+        "upload_date": "2023-08-16",
+        "comment_count": 46
+    },
+    {
+        "title": "Remove Separate Concerns From a Class and Make It Favor SRP Again",
+        "video_url": "https://www.youtube.com/watch?v=5CU7137IWf4",
+        "thumbnail_url": "https://i.ytimg.com/vi/5CU7137IWf4/hqdefault.jpg",
+        "duration_minutes": 12.7,
+        "upload_date": "2023-08-11",
+        "comment_count": 20
+    },
+    {
+        "title": "Is Structural Inspection Part of Your Unit Testing Strategy?",
+        "video_url": "https://www.youtube.com/watch?v=YHOH2l9UE3o",
+        "thumbnail_url": "https://i.ytimg.com/vi/YHOH2l9UE3o/hqdefault.jpg",
+        "duration_minutes": 15.72,
+        "upload_date": "2023-08-07",
+        "comment_count": 10
+    },
+    {
+        "title": "Use the Decorator Pattern To Reduce Code Duplication in Complex Models",
+        "video_url": "https://www.youtube.com/watch?v=7N0LpGAI5T4",
+        "thumbnail_url": "https://i.ytimg.com/vi/7N0LpGAI5T4/hqdefault.jpg",
+        "duration_minutes": 8.97,
+        "upload_date": "2023-08-01",
+        "comment_count": 17
+    },
+    {
+        "title": "Type Test and Set Expressions Are Polymorphic",
+        "video_url": "https://www.youtube.com/watch?v=OofwD8d6rnc",
+        "thumbnail_url": "https://i.ytimg.com/vi/OofwD8d6rnc/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2023-07-31",
+        "comment_count": 15
+    },
+    {
+        "title": "Use Incremental Coding Technique and Make No Bugs in Complex Features",
+        "video_url": "https://www.youtube.com/watch?v=exsfSEDeyF4",
+        "thumbnail_url": "https://i.ytimg.com/vi/exsfSEDeyF4/hqdefault.jpg",
+        "duration_minutes": 17.82,
+        "upload_date": "2023-07-26",
+        "comment_count": 28
+    },
+    {
+        "title": "Combine Design Patterns To Reveal Their Greatest Power",
+        "video_url": "https://www.youtube.com/watch?v=b1JyDzCe9n8",
+        "thumbnail_url": "https://i.ytimg.com/vi/b1JyDzCe9n8/hqdefault.jpg",
+        "duration_minutes": 14.35,
+        "upload_date": "2023-07-20",
+        "comment_count": 30
+    },
+    {
+        "title": "Wish To Remove Primitive Obsession? Try This Effective Technique!",
+        "video_url": "https://www.youtube.com/watch?v=2izb2y819KU",
+        "thumbnail_url": "https://i.ytimg.com/vi/2izb2y819KU/hqdefault.jpg",
+        "duration_minutes": 15.47,
+        "upload_date": "2023-07-14",
+        "comment_count": 51
+    },
+    {
+        "title": "Master the Power of Composite Pattern in Rich Domain Modeling",
+        "video_url": "https://www.youtube.com/watch?v=1l_hHoMgTV0",
+        "thumbnail_url": "https://i.ytimg.com/vi/1l_hHoMgTV0/hqdefault.jpg",
+        "duration_minutes": 14.12,
+        "upload_date": "2023-07-10",
+        "comment_count": 23
+    },
+    {
+        "title": "Write Unit Tests Against the Interface, Not Implementation",
+        "video_url": "https://www.youtube.com/watch?v=po9ziMcnAWg",
+        "thumbnail_url": "https://i.ytimg.com/vi/po9ziMcnAWg/hqdefault.jpg",
+        "duration_minutes": 12.28,
+        "upload_date": "2023-07-04",
+        "comment_count": 32
+    },
+    {
+        "title": "The One Thing You Cannot Do in Object-Oriented Programming but You Can in Functional",
+        "video_url": "https://www.youtube.com/watch?v=_4WdW36725A",
+        "thumbnail_url": "https://i.ytimg.com/vi/_4WdW36725A/hqdefault.jpg",
+        "duration_minutes": 13.58,
+        "upload_date": "2023-06-28",
+        "comment_count": 179
+    },
+    {
+        "title": "Use C# 11 List Patterns To Write Short and Expressive Code",
+        "video_url": "https://www.youtube.com/watch?v=wEqhBD60gbc",
+        "thumbnail_url": "https://i.ytimg.com/vi/wEqhBD60gbc/hqdefault.jpg",
+        "duration_minutes": 0.8,
+        "upload_date": "2023-06-24",
+        "comment_count": 9
+    },
+    {
+        "title": "I Have Tried Copilot Chat on ASP.NET Core and This Is What I Got",
+        "video_url": "https://www.youtube.com/watch?v=XuMGzpg_x18",
+        "thumbnail_url": "https://i.ytimg.com/vi/XuMGzpg_x18/hqdefault.jpg",
+        "duration_minutes": 14.38,
+        "upload_date": "2023-06-22",
+        "comment_count": 5
+    },
+    {
+        "title": "Unleash Your Functional Modeling Superpowers | C# Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=Z-fMkvIEmGM",
+        "thumbnail_url": "https://i.ytimg.com/vi/Z-fMkvIEmGM/hqdefault.jpg",
+        "duration_minutes": 14.4,
+        "upload_date": "2023-06-16",
+        "comment_count": 50
+    },
+    {
+        "title": "Possibility of Discriminated Unions in C#: Functional Programming in .NET",
+        "video_url": "https://www.youtube.com/watch?v=q_tH3njpAFc",
+        "thumbnail_url": "https://i.ytimg.com/vi/q_tH3njpAFc/hqdefault.jpg",
+        "duration_minutes": 15.83,
+        "upload_date": "2023-06-12",
+        "comment_count": 66
+    },
+    {
+        "title": "You Will Add Smart Constructor to Your Rich Domain Models When You See This!",
+        "video_url": "https://www.youtube.com/watch?v=HeCbtcNll7w",
+        "thumbnail_url": "https://i.ytimg.com/vi/HeCbtcNll7w/hqdefault.jpg",
+        "duration_minutes": 9.9,
+        "upload_date": "2023-06-06",
+        "comment_count": 77
+    },
+    {
+        "title": "Copilot X Is Here and I Just Tried It in VS Code",
+        "video_url": "https://www.youtube.com/watch?v=8tz7h6G4vXc",
+        "thumbnail_url": "https://i.ytimg.com/vi/8tz7h6G4vXc/hqdefault.jpg",
+        "duration_minutes": 13.82,
+        "upload_date": "2023-05-31",
+        "comment_count": 62
+    },
+    {
+        "title": "Use Null Object Pattern in Your Rich Domain Model",
+        "video_url": "https://www.youtube.com/watch?v=Jf1_AmXO6Zc",
+        "thumbnail_url": "https://i.ytimg.com/vi/Jf1_AmXO6Zc/hqdefault.jpg",
+        "duration_minutes": 13.27,
+        "upload_date": "2023-05-26",
+        "comment_count": 34
+    },
+    {
+        "title": "Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=3p93Q6ivbZ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/3p93Q6ivbZ4/hqdefault.jpg",
+        "duration_minutes": 15.95,
+        "upload_date": "2023-05-12",
+        "comment_count": 50
+    },
+    {
+        "title": "Kill Anemic Domain Models with Encapsulation: The Hard Part",
+        "video_url": "https://www.youtube.com/watch?v=fzEFgIreHHM",
+        "thumbnail_url": "https://i.ytimg.com/vi/fzEFgIreHHM/hqdefault.jpg",
+        "duration_minutes": 15.07,
+        "upload_date": "2023-05-05",
+        "comment_count": 36
+    },
+    {
+        "title": "Is Your Coding Style Older Than You?",
+        "video_url": "https://www.youtube.com/watch?v=1fDJSDPksOU",
+        "thumbnail_url": "https://i.ytimg.com/vi/1fDJSDPksOU/hqdefault.jpg",
+        "duration_minutes": 14.38,
+        "upload_date": "2023-04-26",
+        "comment_count": 51
+    },
+    {
+        "title": "I Asked Copilot To Write Unit Tests \u2013 It Wasn\u2019t Great",
+        "video_url": "https://www.youtube.com/watch?v=kp6PQQSdT6k",
+        "thumbnail_url": "https://i.ytimg.com/vi/kp6PQQSdT6k/hqdefault.jpg",
+        "duration_minutes": 13.88,
+        "upload_date": "2023-04-18",
+        "comment_count": 17
+    },
+    {
+        "title": "Are Design Patterns Dead in C#?",
+        "video_url": "https://www.youtube.com/watch?v=4rQ0jFmKSgk",
+        "thumbnail_url": "https://i.ytimg.com/vi/4rQ0jFmKSgk/hqdefault.jpg",
+        "duration_minutes": 17.8,
+        "upload_date": "2023-04-11",
+        "comment_count": 158
+    },
+    {
+        "title": "LINQ Doesn\u2019t Have the Operator You Need",
+        "video_url": "https://www.youtube.com/watch?v=S9TkIwrRZ24",
+        "thumbnail_url": "https://i.ytimg.com/vi/S9TkIwrRZ24/hqdefault.jpg",
+        "duration_minutes": 10.67,
+        "upload_date": "2023-04-05",
+        "comment_count": 33
+    },
+    {
+        "title": "Stop Creating Class Hierarchies! (If You Haven't Already)",
+        "video_url": "https://www.youtube.com/watch?v=DW0BgHc6TRQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/DW0BgHc6TRQ/hqdefault.jpg",
+        "duration_minutes": 7.73,
+        "upload_date": "2023-03-30",
+        "comment_count": 67
+    },
+    {
+        "title": "Don\u2019t Let Your Domain Model Depend on Current Time!",
+        "video_url": "https://www.youtube.com/watch?v=DHIDcInpkLc",
+        "thumbnail_url": "https://i.ytimg.com/vi/DHIDcInpkLc/hqdefault.jpg",
+        "duration_minutes": 10.05,
+        "upload_date": "2023-03-24",
+        "comment_count": 27
+    },
+    {
+        "title": "How To Refactor Database Schema With Entity Framework Core",
+        "video_url": "https://www.youtube.com/watch?v=TE61lSuoPqs",
+        "thumbnail_url": "https://i.ytimg.com/vi/TE61lSuoPqs/hqdefault.jpg",
+        "duration_minutes": 9.23,
+        "upload_date": "2023-03-20",
+        "comment_count": 5
+    },
+    {
+        "title": "Unleash the Modeling Power With Record Types! #shorts",
+        "video_url": "https://www.youtube.com/watch?v=C6a43mQBBdU",
+        "thumbnail_url": "https://i.ytimg.com/vi/C6a43mQBBdU/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2023-03-17",
+        "comment_count": 9
+    },
+    {
+        "title": "Visitor Design Pattern Is Giving Way To Pattern Matching Expressions!",
+        "video_url": "https://www.youtube.com/watch?v=tq5ztZO45-g",
+        "thumbnail_url": "https://i.ytimg.com/vi/tq5ztZO45-g/hqdefault.jpg",
+        "duration_minutes": 15.67,
+        "upload_date": "2023-03-14",
+        "comment_count": 56
+    },
+    {
+        "title": "Deferred is not the same as lazy!",
+        "video_url": "https://www.youtube.com/watch?v=ZAwFyrAUR9w",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZAwFyrAUR9w/hqdefault.jpg",
+        "duration_minutes": 0.97,
+        "upload_date": "2023-03-12",
+        "comment_count": 4
+    },
+    {
+        "title": "LINQ GroupBy is an eager deferred operator!",
+        "video_url": "https://www.youtube.com/watch?v=v8_92jQ9Zz4",
+        "thumbnail_url": "https://i.ytimg.com/vi/v8_92jQ9Zz4/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2023-03-10",
+        "comment_count": 3
+    },
+    {
+        "title": "Let GitHub Copilot Write Your ASP.NET Core Application",
+        "video_url": "https://www.youtube.com/watch?v=u4oYzBg_ctw",
+        "thumbnail_url": "https://i.ytimg.com/vi/u4oYzBg_ctw/hqdefault.jpg",
+        "duration_minutes": 14.73,
+        "upload_date": "2023-03-08",
+        "comment_count": 10
+    },
+    {
+        "title": "Using GitHub Copilot to Write Complex Code | Step-by-step Tutorial",
+        "video_url": "https://www.youtube.com/watch?v=XktMg5jnaBI",
+        "thumbnail_url": "https://i.ytimg.com/vi/XktMg5jnaBI/hqdefault.jpg",
+        "duration_minutes": 16.02,
+        "upload_date": "2023-03-02",
+        "comment_count": 14
+    },
+    {
+        "title": "Have you ever tried smart constructors?",
+        "video_url": "https://www.youtube.com/watch?v=mzq-XcTKxrg",
+        "thumbnail_url": "https://i.ytimg.com/vi/mzq-XcTKxrg/hqdefault.jpg",
+        "duration_minutes": 0.83,
+        "upload_date": "2023-02-25",
+        "comment_count": 14
+    },
+    {
+        "title": "Favor Top-Down Domain Modeling in ASP.NET with Entity Framework Core",
+        "video_url": "https://www.youtube.com/watch?v=oXyXHJyltjA",
+        "thumbnail_url": "https://i.ytimg.com/vi/oXyXHJyltjA/hqdefault.jpg",
+        "duration_minutes": 18.77,
+        "upload_date": "2023-02-23",
+        "comment_count": 25
+    },
+    {
+        "title": "Build Your Own Option Type in C# and Use It Like a Pro",
+        "video_url": "https://www.youtube.com/watch?v=gpOQl2q0PTU",
+        "thumbnail_url": "https://i.ytimg.com/vi/gpOQl2q0PTU/hqdefault.jpg",
+        "duration_minutes": 18.52,
+        "upload_date": "2023-02-16",
+        "comment_count": 88
+    },
+    {
+        "title": "Option/Maybe type in C#: A 30-second take on monads",
+        "video_url": "https://www.youtube.com/watch?v=Xzw8Qkkd-hU",
+        "thumbnail_url": "https://i.ytimg.com/vi/Xzw8Qkkd-hU/hqdefault.jpg",
+        "duration_minutes": 0.6,
+        "upload_date": "2023-02-12",
+        "comment_count": 2
+    },
+    {
+        "title": "One-minute explanation of a monad in C#",
+        "video_url": "https://www.youtube.com/watch?v=C2-ljnsckrs",
+        "thumbnail_url": "https://i.ytimg.com/vi/C2-ljnsckrs/hqdefault.jpg",
+        "duration_minutes": 0.92,
+        "upload_date": "2023-02-10",
+        "comment_count": 22
+    },
+    {
+        "title": "How to Avoid Null Reference Exceptions: Optional Objects in C#",
+        "video_url": "https://www.youtube.com/watch?v=8-2xr_kBRnQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/8-2xr_kBRnQ/hqdefault.jpg",
+        "duration_minutes": 18.22,
+        "upload_date": "2023-02-09",
+        "comment_count": 176
+    },
+    {
+        "title": "Why Favor Object Composition Over Class Inheritance? A Deep Dive",
+        "video_url": "https://www.youtube.com/watch?v=_b_QiItg-9s",
+        "thumbnail_url": "https://i.ytimg.com/vi/_b_QiItg-9s/hqdefault.jpg",
+        "duration_minutes": 19.0,
+        "upload_date": "2023-02-02",
+        "comment_count": 106
+    },
+    {
+        "title": "Be Careful When Removing an EF Core Property!",
+        "video_url": "https://www.youtube.com/watch?v=YwFKpEFBR5Q",
+        "thumbnail_url": "https://i.ytimg.com/vi/YwFKpEFBR5Q/hqdefault.jpg",
+        "duration_minutes": 8.82,
+        "upload_date": "2023-01-27",
+        "comment_count": 8
+    },
+    {
+        "title": "5 books that shaped my C# programming career (No. 5) #shorts",
+        "video_url": "https://www.youtube.com/watch?v=wkkP6tqYJ04",
+        "thumbnail_url": "https://i.ytimg.com/vi/wkkP6tqYJ04/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2023-01-17",
+        "comment_count": 37
+    },
+    {
+        "title": "Adding an EF Property in a Zero Downtime Migration",
+        "video_url": "https://www.youtube.com/watch?v=tDyS16KSTwE",
+        "thumbnail_url": "https://i.ytimg.com/vi/tDyS16KSTwE/hqdefault.jpg",
+        "duration_minutes": 12.2,
+        "upload_date": "2023-01-12",
+        "comment_count": 4
+    },
+    {
+        "title": "Deploying an EF Migration Zero Downtime? Watch Out!",
+        "video_url": "https://www.youtube.com/watch?v=3CFAwDRbHXM",
+        "thumbnail_url": "https://i.ytimg.com/vi/3CFAwDRbHXM/hqdefault.jpg",
+        "duration_minutes": 9.22,
+        "upload_date": "2023-01-05",
+        "comment_count": 16
+    },
+    {
+        "title": "Chain of Responsibility to the Rescue!",
+        "video_url": "https://www.youtube.com/watch?v=i_dEHmWsZdA",
+        "thumbnail_url": "https://i.ytimg.com/vi/i_dEHmWsZdA/hqdefault.jpg",
+        "duration_minutes": 9.25,
+        "upload_date": "2022-12-29",
+        "comment_count": 24
+    },
+    {
+        "title": "How to Initialize a Clean ASP.NET Core Project with Entity Framework Core and Identity",
+        "video_url": "https://www.youtube.com/watch?v=3NGz1G_HF94",
+        "thumbnail_url": "https://i.ytimg.com/vi/3NGz1G_HF94/hqdefault.jpg",
+        "duration_minutes": 11.63,
+        "upload_date": "2022-12-22",
+        "comment_count": 8
+    },
+    {
+        "title": "Here is where a C# span can and cannot be",
+        "video_url": "https://www.youtube.com/watch?v=Fv_v7SwCwt0",
+        "thumbnail_url": "https://i.ytimg.com/vi/Fv_v7SwCwt0/hqdefault.jpg",
+        "duration_minutes": 0.9,
+        "upload_date": "2022-12-21",
+        "comment_count": 7
+    },
+    {
+        "title": "Design Self-documenting Types to Avoid Bugs",
+        "video_url": "https://www.youtube.com/watch?v=sqjKDM5BLAY",
+        "thumbnail_url": "https://i.ytimg.com/vi/sqjKDM5BLAY/hqdefault.jpg",
+        "duration_minutes": 13.38,
+        "upload_date": "2022-12-16",
+        "comment_count": 8
+    },
+    {
+        "title": "This Decorator Pattern Implementation Will Make Your Day!",
+        "video_url": "https://www.youtube.com/watch?v=Pqow_rfuZSU",
+        "thumbnail_url": "https://i.ytimg.com/vi/Pqow_rfuZSU/hqdefault.jpg",
+        "duration_minutes": 9.62,
+        "upload_date": "2022-12-12",
+        "comment_count": 20
+    },
+    {
+        "title": "Favor guard clauses over if-else",
+        "video_url": "https://www.youtube.com/watch?v=BuA7lnzbzYc",
+        "thumbnail_url": "https://i.ytimg.com/vi/BuA7lnzbzYc/hqdefault.jpg",
+        "duration_minutes": 0.95,
+        "upload_date": "2022-12-06",
+        "comment_count": 16
+    },
+    {
+        "title": "Write Self-documenting Code to Avoid Bugs",
+        "video_url": "https://www.youtube.com/watch?v=89EkmPVxiAI",
+        "thumbnail_url": "https://i.ytimg.com/vi/89EkmPVxiAI/hqdefault.jpg",
+        "duration_minutes": 9.65,
+        "upload_date": "2022-11-30",
+        "comment_count": 11
+    },
+    {
+        "title": "You'll never use the fastest way to iterate an array in C# #shorts",
+        "video_url": "https://www.youtube.com/watch?v=zRMtx0GVuRI",
+        "thumbnail_url": "https://i.ytimg.com/vi/zRMtx0GVuRI/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-11-27",
+        "comment_count": 8
+    },
+    {
+        "title": "ToList and ToArray may not do what you expect",
+        "video_url": "https://www.youtube.com/watch?v=Bqgt4slKgLI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bqgt4slKgLI/hqdefault.jpg",
+        "duration_minutes": 0.98,
+        "upload_date": "2022-11-26",
+        "comment_count": 11
+    },
+    {
+        "title": "Prefer IEnumerable over collections in method arguments",
+        "video_url": "https://www.youtube.com/watch?v=yDr2BV0OwdM",
+        "thumbnail_url": "https://i.ytimg.com/vi/yDr2BV0OwdM/hqdefault.jpg",
+        "duration_minutes": 0.87,
+        "upload_date": "2022-11-24",
+        "comment_count": 13
+    },
+    {
+        "title": "New C# 11 Keyword - required - and How To Use It Right",
+        "video_url": "https://www.youtube.com/watch?v=BC2bczOdd9w",
+        "thumbnail_url": "https://i.ytimg.com/vi/BC2bczOdd9w/hqdefault.jpg",
+        "duration_minutes": 7.45,
+        "upload_date": "2022-11-22",
+        "comment_count": 10
+    },
+    {
+        "title": "The Fastest Way to Modify a List in C# | Coding Demo",
+        "video_url": "https://www.youtube.com/watch?v=0oSN65eM-tc",
+        "thumbnail_url": "https://i.ytimg.com/vi/0oSN65eM-tc/hqdefault.jpg",
+        "duration_minutes": 10.5,
+        "upload_date": "2022-11-03",
+        "comment_count": 38
+    },
+    {
+        "title": "A Comprehensive Guide to GitHub Copilot: From Beginner to Expert | VS Code Demo",
+        "video_url": "https://www.youtube.com/watch?v=B9DKv09IfT4",
+        "thumbnail_url": "https://i.ytimg.com/vi/B9DKv09IfT4/hqdefault.jpg",
+        "duration_minutes": 16.05,
+        "upload_date": "2022-10-27",
+        "comment_count": 33
+    },
+    {
+        "title": "Crazy C# Interview Questions With Logical Answers | Coding Test",
+        "video_url": "https://www.youtube.com/watch?v=_t6s0nkrZSo",
+        "thumbnail_url": "https://i.ytimg.com/vi/_t6s0nkrZSo/hqdefault.jpg",
+        "duration_minutes": 15.58,
+        "upload_date": "2022-10-20",
+        "comment_count": 40
+    },
+    {
+        "title": "How to Use Debug Assertions in a Complex Function",
+        "video_url": "https://www.youtube.com/watch?v=0mYzyS31DZU",
+        "thumbnail_url": "https://i.ytimg.com/vi/0mYzyS31DZU/hqdefault.jpg",
+        "duration_minutes": 15.02,
+        "upload_date": "2022-10-13",
+        "comment_count": 7
+    },
+    {
+        "title": "Using Assertions to Demonstrate the Code is Correct",
+        "video_url": "https://www.youtube.com/watch?v=hskYMPcqHRI",
+        "thumbnail_url": "https://i.ytimg.com/vi/hskYMPcqHRI/hqdefault.jpg",
+        "duration_minutes": 14.62,
+        "upload_date": "2022-10-06",
+        "comment_count": 6
+    },
+    {
+        "title": "Formally Proving Code Correctness",
+        "video_url": "https://www.youtube.com/watch?v=ZKoSMvmo-ck",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZKoSMvmo-ck/hqdefault.jpg",
+        "duration_minutes": 18.85,
+        "upload_date": "2022-09-27",
+        "comment_count": 9
+    },
+    {
+        "title": "How to Make No Bugs? Write Code Incrementally!",
+        "video_url": "https://www.youtube.com/watch?v=N6uR97S8geE",
+        "thumbnail_url": "https://i.ytimg.com/vi/N6uR97S8geE/hqdefault.jpg",
+        "duration_minutes": 12.95,
+        "upload_date": "2022-09-20",
+        "comment_count": 11
+    },
+    {
+        "title": "Here Is Why HashSet Is So Fast in .NET",
+        "video_url": "https://www.youtube.com/watch?v=4zHIzsaIPkc",
+        "thumbnail_url": "https://i.ytimg.com/vi/4zHIzsaIPkc/hqdefault.jpg",
+        "duration_minutes": 26.4,
+        "upload_date": "2022-09-13",
+        "comment_count": 22
+    },
+    {
+        "title": "Here Is When HashSet & Dictionary Call GetHashCode and Equals",
+        "video_url": "https://www.youtube.com/watch?v=wO3Rg5dV9GI",
+        "thumbnail_url": "https://i.ytimg.com/vi/wO3Rg5dV9GI/hqdefault.jpg",
+        "duration_minutes": 7.53,
+        "upload_date": "2022-08-30",
+        "comment_count": 5
+    },
+    {
+        "title": "Calling a Virtual Function From a Constructor? Bad Idea!",
+        "video_url": "https://www.youtube.com/watch?v=1mWgeAvi5Fc",
+        "thumbnail_url": "https://i.ytimg.com/vi/1mWgeAvi5Fc/hqdefault.jpg",
+        "duration_minutes": 8.75,
+        "upload_date": "2022-08-23",
+        "comment_count": 4
+    },
+    {
+        "title": "Want to Start with DDD? Try Ubiquitous Language First!",
+        "video_url": "https://www.youtube.com/watch?v=_zWMjMUHinc",
+        "thumbnail_url": "https://i.ytimg.com/vi/_zWMjMUHinc/hqdefault.jpg",
+        "duration_minutes": 17.02,
+        "upload_date": "2022-08-16",
+        "comment_count": 11
+    },
+    {
+        "title": "Reimplementing .NET Runtime for Learning and Fun [4 of 4] | Understanding the .NET CLR",
+        "video_url": "https://www.youtube.com/watch?v=gOwQRUsJVto",
+        "thumbnail_url": "https://i.ytimg.com/vi/gOwQRUsJVto/hqdefault.jpg",
+        "duration_minutes": 12.62,
+        "upload_date": "2022-08-09",
+        "comment_count": 12
+    },
+    {
+        "title": "How Does .NET Runtime Resolve Object's Type and Methods? [3 of 4] | Understanding the .NET CLR",
+        "video_url": "https://www.youtube.com/watch?v=buLdXiJTtBs",
+        "thumbnail_url": "https://i.ytimg.com/vi/buLdXiJTtBs/hqdefault.jpg",
+        "duration_minutes": 11.95,
+        "upload_date": "2022-07-29",
+        "comment_count": 3
+    },
+    {
+        "title": "How Does C# Resolve Virtual Functions? [2 of 4] | Understanding the .NET CLR",
+        "video_url": "https://www.youtube.com/watch?v=3SitqWZkmD8",
+        "thumbnail_url": "https://i.ytimg.com/vi/3SitqWZkmD8/hqdefault.jpg",
+        "duration_minutes": 12.6,
+        "upload_date": "2022-07-19",
+        "comment_count": 8
+    },
+    {
+        "title": "How Do Virtual Functions Work? [1 of 4] | Understanding the .NET CLR",
+        "video_url": "https://www.youtube.com/watch?v=b0IDTWoaUJ0",
+        "thumbnail_url": "https://i.ytimg.com/vi/b0IDTWoaUJ0/hqdefault.jpg",
+        "duration_minutes": 7.85,
+        "upload_date": "2022-07-08",
+        "comment_count": 7
+    },
+    {
+        "title": "How Does List REALLY Work in .NET?",
+        "video_url": "https://www.youtube.com/watch?v=gjA0wHOL5KY",
+        "thumbnail_url": "https://i.ytimg.com/vi/gjA0wHOL5KY/hqdefault.jpg",
+        "duration_minutes": 12.68,
+        "upload_date": "2022-06-30",
+        "comment_count": 10
+    },
+    {
+        "title": "Course Trailer: Beginning Object-oriented Programming with C#",
+        "video_url": "https://www.youtube.com/watch?v=ESCXI65ixpk",
+        "thumbnail_url": "https://i.ytimg.com/vi/ESCXI65ixpk/hqdefault.jpg",
+        "duration_minutes": 3.53,
+        "upload_date": "2022-06-24",
+        "comment_count": 13
+    },
+    {
+        "title": "What Makes List So Efficient?",
+        "video_url": "https://www.youtube.com/watch?v=_F9jal5R0jw",
+        "thumbnail_url": "https://i.ytimg.com/vi/_F9jal5R0jw/hqdefault.jpg",
+        "duration_minutes": 9.85,
+        "upload_date": "2022-06-22",
+        "comment_count": 9
+    },
+    {
+        "title": "Nondestructive Mutation and Records in C#",
+        "video_url": "https://www.youtube.com/watch?v=m__l58cmiEQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/m__l58cmiEQ/hqdefault.jpg",
+        "duration_minutes": 13.05,
+        "upload_date": "2022-06-10",
+        "comment_count": 3
+    },
+    {
+        "title": "Decomposing a Complex LINQ Expression",
+        "video_url": "https://www.youtube.com/watch?v=mPd1KddYlPM",
+        "thumbnail_url": "https://i.ytimg.com/vi/mPd1KddYlPM/hqdefault.jpg",
+        "duration_minutes": 10.02,
+        "upload_date": "2022-06-02",
+        "comment_count": 10
+    },
+    {
+        "title": "Constructing a Complex LINQ Expression",
+        "video_url": "https://www.youtube.com/watch?v=JUkmzyB6VBM",
+        "thumbnail_url": "https://i.ytimg.com/vi/JUkmzyB6VBM/hqdefault.jpg",
+        "duration_minutes": 10.52,
+        "upload_date": "2022-05-24",
+        "comment_count": 16
+    },
+    {
+        "title": "What is Covariance and Contravariance in C#: A Complete Overview",
+        "video_url": "https://www.youtube.com/watch?v=Wp5iYQqHspg",
+        "thumbnail_url": "https://i.ytimg.com/vi/Wp5iYQqHspg/hqdefault.jpg",
+        "duration_minutes": 11.97,
+        "upload_date": "2022-05-16",
+        "comment_count": 61
+    },
+    {
+        "title": "Here is What Hides in Every C# Record (And How You Can Use That)",
+        "video_url": "https://www.youtube.com/watch?v=VouNkrgkH78",
+        "thumbnail_url": "https://i.ytimg.com/vi/VouNkrgkH78/hqdefault.jpg",
+        "duration_minutes": 11.38,
+        "upload_date": "2022-05-06",
+        "comment_count": 43
+    },
+    {
+        "title": "Working Software ep. 7: Aggregating Sequences in .NET",
+        "video_url": "https://www.youtube.com/watch?v=zEldO3y1sjs",
+        "thumbnail_url": "https://i.ytimg.com/vi/zEldO3y1sjs/hqdefault.jpg",
+        "duration_minutes": 62.48,
+        "upload_date": "2021-11-23",
+        "comment_count": 9
+    },
+    {
+        "title": "Working Software ep. 6: Using LINQ in Modeling and Prototyping",
+        "video_url": "https://www.youtube.com/watch?v=8t0u1QcZR5I",
+        "thumbnail_url": "https://i.ytimg.com/vi/8t0u1QcZR5I/hqdefault.jpg",
+        "duration_minutes": 67.5,
+        "upload_date": "2021-08-03",
+        "comment_count": 6
+    },
+    {
+        "title": "Working Software ep. 5: Implementation Planning, or How to Write Code w/o a Computer",
+        "video_url": "https://www.youtube.com/watch?v=S6QqqROdbX0",
+        "thumbnail_url": "https://i.ytimg.com/vi/S6QqqROdbX0/hqdefault.jpg",
+        "duration_minutes": 65.33,
+        "upload_date": "2021-04-29",
+        "comment_count": 1
+    },
+    {
+        "title": "Working Software ep. 4: Developing a Custom Scripting Language",
+        "video_url": "https://www.youtube.com/watch?v=RzKrUtwgPgY",
+        "thumbnail_url": "https://i.ytimg.com/vi/RzKrUtwgPgY/hqdefault.jpg",
+        "duration_minutes": 94.12,
+        "upload_date": "2020-10-27",
+        "comment_count": 10
+    },
+    {
+        "title": "Working Software ep. 3: Securing Database Layer",
+        "video_url": "https://www.youtube.com/watch?v=Hpazn6WlfoQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/Hpazn6WlfoQ/hqdefault.jpg",
+        "duration_minutes": 87.2,
+        "upload_date": "2020-09-01",
+        "comment_count": 12
+    },
+    {
+        "title": "The Tower of Babel (5000 pieces)",
+        "video_url": "https://www.youtube.com/watch?v=GfH8gAcDeK8",
+        "thumbnail_url": "https://i.ytimg.com/vi/GfH8gAcDeK8/hqdefault.jpg",
+        "duration_minutes": 1.42,
+        "upload_date": "2020-07-04",
+        "comment_count": 4
+    },
+    {
+        "title": "Working Software ep. 2: Processing Plain Text",
+        "video_url": "https://www.youtube.com/watch?v=h4DarWJIcvo",
+        "thumbnail_url": "https://i.ytimg.com/vi/h4DarWJIcvo/hqdefault.jpg",
+        "duration_minutes": 54.42,
+        "upload_date": "2020-07-04",
+        "comment_count": 7
+    },
+    {
+        "title": "Working Software ep. 1 part II: Live Coding Session",
+        "video_url": "https://www.youtube.com/watch?v=-yw7rOo1zHo",
+        "thumbnail_url": "https://i.ytimg.com/vi/-yw7rOo1zHo/hqdefault.jpg",
+        "duration_minutes": 88.75,
+        "upload_date": "2020-06-10",
+        "comment_count": 3
+    },
+    {
+        "title": "Working Software ep. 1 part I: Immutable Transforms on Large Data",
+        "video_url": "https://www.youtube.com/watch?v=DS8qA0wYt-I",
+        "thumbnail_url": "https://i.ytimg.com/vi/DS8qA0wYt-I/hqdefault.jpg",
+        "duration_minutes": 61.15,
+        "upload_date": "2020-06-09",
+        "comment_count": 6
+    },
+    {
+        "title": "Working Software ep. 0",
+        "video_url": "https://www.youtube.com/watch?v=x2eFDntvzMQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/x2eFDntvzMQ/hqdefault.jpg",
+        "duration_minutes": 33.35,
+        "upload_date": "2020-06-02",
+        "comment_count": 15
+    },
+    {
+        "title": "Course Preview: Design Patterns in C# Made Simple",
+        "video_url": "https://www.youtube.com/watch?v=MxISquIVh-g",
+        "thumbnail_url": "https://i.ytimg.com/vi/MxISquIVh-g/hqdefault.jpg",
+        "duration_minutes": 13.72,
+        "upload_date": "2020-04-24",
+        "comment_count": 17
+    },
+    {
+        "title": "So, You're Writing Code One Line at a Time? -- Yeah, Right...",
+        "video_url": "https://www.youtube.com/watch?v=Z6hQz81ex6U",
+        "thumbnail_url": "https://i.ytimg.com/vi/Z6hQz81ex6U/hqdefault.jpg",
+        "duration_minutes": 41.42,
+        "upload_date": "2019-08-15",
+        "comment_count": 10
+    },
+    {
+        "title": "Stepping from Object-oriented to Functional Style with C# 8, and No Tears",
+        "video_url": "https://www.youtube.com/watch?v=UM-3ZsHhogA",
+        "thumbnail_url": "https://i.ytimg.com/vi/UM-3ZsHhogA/hqdefault.jpg",
+        "duration_minutes": 54.17,
+        "upload_date": "2019-07-02",
+        "comment_count": 13
+    },
+    {
+        "title": "Kako prekora\u010diti sa objektno-orijentisanog na funkcionalni stil uz C# 8, bez suza",
+        "video_url": "https://www.youtube.com/watch?v=sybwiWvB3U8",
+        "thumbnail_url": "https://i.ytimg.com/vi/sybwiWvB3U8/hqdefault.jpg",
+        "duration_minutes": 54.17,
+        "upload_date": "2019-07-02",
+        "comment_count": 8
+    },
+    {
+        "title": "Refactoring to Design Patterns",
+        "video_url": "https://www.youtube.com/watch?v=vYsp7OC7JJk",
+        "thumbnail_url": "https://i.ytimg.com/vi/vYsp7OC7JJk/hqdefault.jpg",
+        "duration_minutes": 1.6,
+        "upload_date": "2019-02-28",
+        "comment_count": 3
+    },
+    {
+        "title": "Course Preview: Mastering Iterative Object-oriented Development in C#",
+        "video_url": "https://www.youtube.com/watch?v=k91-R9atTWY",
+        "thumbnail_url": "https://i.ytimg.com/vi/k91-R9atTWY/hqdefault.jpg",
+        "duration_minutes": 1.53,
+        "upload_date": "2018-12-09",
+        "comment_count": 10
+    },
+    {
+        "title": "Kako vratiti funkcionalno programiranje nazad u objektne jezike - Tarabica18",
+        "video_url": "https://www.youtube.com/watch?v=SrOcc5LlRxw",
+        "thumbnail_url": "https://i.ytimg.com/vi/SrOcc5LlRxw/hqdefault.jpg",
+        "duration_minutes": 53.72,
+        "upload_date": "2018-08-21",
+        "comment_count": 4
+    },
+    {
+        "title": "Introduction to Emergent Object-Oriented Design",
+        "video_url": "https://www.youtube.com/watch?v=foMXDS7xMDM",
+        "thumbnail_url": "https://i.ytimg.com/vi/foMXDS7xMDM/hqdefault.jpg",
+        "duration_minutes": 53.75,
+        "upload_date": "2018-07-25",
+        "comment_count": 5
+    },
+    {
+        "title": "Kako refaktorisati funkciju od 1000 linija u \u010dist(iji) kod",
+        "video_url": "https://www.youtube.com/watch?v=3-QrwizdHkg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3-QrwizdHkg/hqdefault.jpg",
+        "duration_minutes": 66.22,
+        "upload_date": "2018-06-27",
+        "comment_count": 14
+    },
+    {
+        "title": "Exception Handling Strategies in .NET (in Serbian)",
+        "video_url": "https://www.youtube.com/watch?v=bX_jMVG8nwM",
+        "thumbnail_url": "https://i.ytimg.com/vi/bX_jMVG8nwM/hqdefault.jpg",
+        "duration_minutes": 72.9,
+        "upload_date": "2017-05-10",
+        "comment_count": 3
+    },
+    {
+        "title": "Understanding Difference Between Branching Instructions and Guard Clauses",
+        "video_url": "https://www.youtube.com/watch?v=Vedisg2JsTw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Vedisg2JsTw/hqdefault.jpg",
+        "duration_minutes": 3.32,
+        "upload_date": "2016-12-01",
+        "comment_count": 0
+    },
+    {
+        "title": "Understanding Covariant Nature of the Abstract Factory",
+        "video_url": "https://www.youtube.com/watch?v=kHYKRn8gMow",
+        "thumbnail_url": "https://i.ytimg.com/vi/kHYKRn8gMow/hqdefault.jpg",
+        "duration_minutes": 1.4,
+        "upload_date": "2016-07-08",
+        "comment_count": 0
+    },
+    {
+        "title": "Simple Implementation of Option (Maybe) Type in C#",
+        "video_url": "https://www.youtube.com/watch?v=wI3Mq2gxvFA",
+        "thumbnail_url": "https://i.ytimg.com/vi/wI3Mq2gxvFA/hqdefault.jpg",
+        "duration_minutes": 3.02,
+        "upload_date": "2016-05-10",
+        "comment_count": 2
+    },
+    {
+        "title": "Using yield return in C# to Construct an Infinite Sequence",
+        "video_url": "https://www.youtube.com/watch?v=4KTCVZ4Dru8",
+        "thumbnail_url": "https://i.ytimg.com/vi/4KTCVZ4Dru8/hqdefault.jpg",
+        "duration_minutes": 3.02,
+        "upload_date": "2016-05-05",
+        "comment_count": 4
+    }
+]
