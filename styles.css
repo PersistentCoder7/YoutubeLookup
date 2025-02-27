@@ -1,0 +1,86 @@
+/* Dark Theme */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #181818;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+.video-count {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #bbb;
+}
+/* Search & Filter Section */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+input, select {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+input {
+    width: 200px;
+}
+select {
+    cursor: pointer;
+}
+/* Video Grid */
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    max-width: 1100px;
+    width: 100%;
+}
+.video-card {
+    background: #282828;
+    padding: 6px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.2s ease-in-out;
+}
+.video-card:hover {
+    transform: scale(1.05);
+}
+.thumbnail {
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.title {
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 4px;
+    color: white;
+    text-align: center;
+    max-width: 200px;
+}
+.details {
+    font-size: 10px;
+    color: #aaa;
+    margin-top: 3px;
+    text-align: center;
+}
+.duration {
+    color: #00FF00;
+    font-weight: bold;
+}
