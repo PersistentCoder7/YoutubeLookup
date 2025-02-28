@@ -33,6 +33,12 @@ function formatLikes(likes) {
   return likes.toString();
 }
 
+function formatComments(comments) {
+  if (comments >= 1_000_000) return `${(comments / 1_000_000).toFixed(1)}M`;
+  if (comments >= 1_000) return `${(comments / 1_000).toFixed(1)}K`;
+  return comments.toString();
+}
+
 function formatDate(dateString) {
   const date = new Date(dateString);
   return date.toISOString().split("T")[0];
@@ -51,6 +57,7 @@ function displayVideos(videos, containerId, startIndex) {
 
     const durationText = formatDuration(video.duration_seconds);
     const likesText = formatLikes(video.likes);
+    const commentsText = formatComments(video.comment_count);
     const uploadDate = formatDate(video.upload_date);
     const videoUrl = `https://www.youtube.com/watch?v=${video.videoID}`;
 
@@ -61,7 +68,9 @@ function displayVideos(videos, containerId, startIndex) {
       video.title
     }</a></td>
                 <td class="right-align">${uploadDate}</td>
-                <td>${durationText} | ${likesText} | ${video.comment_count}</td>
+                <td class="right-align"><img src="duration_icon.png" class="icon">${durationText}</td>
+                <td class="right-align"><img src="views_icon.png" class="icon">${likesText}</td>
+                <td class="right-align"><img src="comments_icon.png" class="icon">${commentsText}</td>
             </tr>
         `;
 
