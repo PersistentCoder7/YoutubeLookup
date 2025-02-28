@@ -17,6 +17,27 @@ function loadVideoData(fileName) {
     });
 }
 
+function formatDuration(seconds) {
+  if (seconds < 60) return `${seconds}s`;
+  const minutes = seconds / 60;
+  if (minutes < 60) return `${minutes.toFixed(1)}m`;
+  const hours = minutes / 60;
+  if (hours < 24) return `${hours.toFixed(1)}h`;
+  const days = hours / 24;
+  return `${days.toFixed(1)}d`;
+}
+
+function formatLikes(likes) {
+  if (likes >= 1_000_000) return `${(likes / 1_000_000).toFixed(1)}M`;
+  if (likes >= 1_000) return `${(likes / 1_000).toFixed(1)}K`;
+  return likes.toString();
+}
+
+function formatDate(dateString) {
+  const date = new Date(dateString);
+  return date.toISOString().split("T")[0];
+}
+
 function displayVideos(videos, containerId, startIndex) {
   const videoList = document.getElementById(containerId);
   videoList.innerHTML = "";
@@ -26,22 +47,21 @@ function displayVideos(videos, containerId, startIndex) {
   const tbody = document.createElement("tbody");
 
   videos.forEach((video, index) => {
-    totalDuration += video.duration_minutes;
+    totalDuration += video.duration_seconds / 60;
 
-    let durationText =
-      video.duration_minutes <= 1
-        ? `${Math.round(video.duration_minutes * 60)}s`
-        : `${Math.round(video.duration_minutes)} min`;
+    const durationText = formatDuration(video.duration_seconds);
+    const likesText = formatLikes(video.likes);
+    const uploadDate = formatDate(video.upload_date);
+    const videoUrl = `https://www.youtube.com/watch?v=${video.videoID}`;
 
     const row = `
             <tr>
                 <td>${startIndex + index + 1}</td>
-                <td><a href="${video.video_url}" target="_blank">${
+                <td><a href="${videoUrl}" target="_blank">${
       video.title
     }</a></td>
-                <td>${durationText} | ${video.upload_date} | ${
-      video.comment_count
-    }</td>
+                <td class="right-align">${uploadDate}</td>
+                <td>${durationText} | ${likesText} | ${video.comment_count}</td>
             </tr>
         `;
 
@@ -71,10 +91,10 @@ function applyFilters() {
   }
 
   // Sort by duration first
-  filteredVideos.sort((a, b) => a.duration_minutes - b.duration_minutes);
+  filteredVideos.sort((a, b) => a.duration_seconds - b.duration_seconds);
 
   // Then sort by the selected criteria within each duration category
-  if (sortOption === "upload_date" || sortOption === "default") {
+  if (sortOption === "upload_date") {
     filteredVideos.sort(
       (a, b) => new Date(b.upload_date) - new Date(a.upload_date)
     );
@@ -92,19 +112,20 @@ function applyFilters() {
   // Categorize and display videos
   const categories = {
     videoList_0_15: filteredVideos.filter(
-      (video) => video.duration_minutes <= 15
+      (video) => video.duration_seconds <= 900
     ),
     videoList_15_30: filteredVideos.filter(
-      (video) => video.duration_minutes > 15 && video.duration_minutes <= 30
+      (video) => video.duration_seconds > 900 && video.duration_seconds <= 1800
     ),
     videoList_30_60: filteredVideos.filter(
-      (video) => video.duration_minutes > 30 && video.duration_minutes <= 60
+      (video) => video.duration_seconds > 1800 && video.duration_seconds <= 3600
     ),
     videoList_60_300: filteredVideos.filter(
-      (video) => video.duration_minutes > 60 && video.duration_minutes <= 300
+      (video) =>
+        video.duration_seconds > 3600 && video.duration_seconds <= 18000
     ),
     videoList_300_plus: filteredVideos.filter(
-      (video) => video.duration_minutes > 300
+      (video) => video.duration_seconds > 18000
     ),
   };
 

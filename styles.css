@@ -70,3 +70,6 @@ select {
 .panel a:hover {
     text-decoration: underline;
 }
+.panel .right-align {
+    text-align: right;
+}
