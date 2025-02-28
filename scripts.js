@@ -17,6 +17,12 @@ function loadVideoData(fileName) {
     });
 }
 
+function formatNumber(number, divisor, suffix) {
+  return number >= divisor
+    ? `${(number / divisor).toFixed(1)}${suffix}`
+    : number.toString();
+}
+
 function formatDuration(seconds) {
   if (seconds < 60) return `${seconds}s`;
   const minutes = seconds / 60;
@@ -28,15 +34,13 @@ function formatDuration(seconds) {
 }
 
 function formatLikes(likes) {
-  if (likes >= 1_000_000) return `${(likes / 1_000_000).toFixed(1)}M`;
-  if (likes >= 1_000) return `${(likes / 1_000).toFixed(1)}K`;
-  return likes.toString();
+  return formatNumber(likes, 1_000_000, "M") || formatNumber(likes, 1_000, "K");
 }
 
 function formatComments(comments) {
-  if (comments >= 1_000_000) return `${(comments / 1_000_000).toFixed(1)}M`;
-  if (comments >= 1_000) return `${(comments / 1_000).toFixed(1)}K`;
-  return comments.toString();
+  return (
+    formatNumber(comments, 1_000_000, "M") || formatNumber(comments, 1_000, "K")
+  );
 }
 
 function formatDate(dateString) {
@@ -78,7 +82,6 @@ function displayVideos(videos, containerId, startIndex) {
     videoList.innerHTML += videoItem;
   });
 
-  document.getElementById("filteredCount").textContent = videos.length;
   document.getElementById("totalDuration").textContent =
     Math.round(totalDuration);
 }
@@ -112,14 +115,19 @@ function applyFilters() {
   }
 
   // Clear all categories
-  document.getElementById("videoList_0_15").innerHTML = "";
-  document.getElementById("videoList_15_30").innerHTML = "";
-  document.getElementById("videoList_30_60").innerHTML = "";
-  document.getElementById("videoList_60_300").innerHTML = "";
-  document.getElementById("videoList_300_plus").innerHTML = "";
+  const categories = [
+    "videoList_0_15",
+    "videoList_15_30",
+    "videoList_30_60",
+    "videoList_60_300",
+    "videoList_300_plus",
+  ];
+  categories.forEach(
+    (category) => (document.getElementById(category).innerHTML = "")
+  );
 
   // Categorize and display videos
-  const categories = {
+  const categorizedVideos = {
     videoList_0_15: filteredVideos.filter(
       (video) => video.duration_seconds <= 900
     ),
@@ -138,7 +146,10 @@ function applyFilters() {
     ),
   };
 
-  for (const [containerId, videos] of Object.entries(categories)) {
+  let totalFilteredVideos = 0;
+
+  for (const [containerId, videos] of Object.entries(categorizedVideos)) {
+    totalFilteredVideos += videos.length;
     let chunkedVideos = chunkArray(videos, 50);
     chunkedVideos.forEach((chunk, index) => {
       let newContainerId = `${containerId}_${index}`;
@@ -149,6 +160,8 @@ function applyFilters() {
       displayVideos(chunk, newContainerId, index * 50);
     });
   }
+
+  document.getElementById("filteredCount").textContent = totalFilteredVideos;
 }
 
 function chunkArray(array, size) {
