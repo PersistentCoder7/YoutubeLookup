@@ -54,28 +54,51 @@ select {
     width: 48%;
     box-sizing: border-box;
 }
-.panel table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 12px; /* Reduce font size */
-}
-.panel td {
-    padding: 2px; /* Remove padding */
+.video-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
     border-bottom: 1px solid #444;
+    font-size: 0.75em; /* Change font size */
+    position: relative;
 }
-.panel a {
+.video-item span {
+    padding-left: 10px; /* Left padding for serial number */
+    cursor: pointer;
+    margin-right: 10px; /* Add padding between serial number and title */
+}
+.video-item a {
     color: #00FF00;
     text-decoration: none;
+    flex: 1;
+    margin-right: 10px;
 }
-.panel a:hover {
+.video-item a:hover {
     text-decoration: underline;
 }
-.panel .right-align {
+.video-item .right-align {
     text-align: right;
+    white-space: nowrap;
+    flex: 0 0 80px; /* Fixed width for columns after upload date */
 }
 .icon {
     width: 16px;
     height: 16px;
     vertical-align: middle;
     margin-right: 4px;
+}
+.thumbnail-popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    background-color: #000;
+    border: 1px solid #444;
+    padding: 5px;
+    z-index: 10;
+}
+.video-item span:hover .thumbnail-popup {
+    display: block;
 }

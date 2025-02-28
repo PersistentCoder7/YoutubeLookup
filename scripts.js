@@ -49,9 +49,6 @@ function displayVideos(videos, containerId, startIndex) {
   videoList.innerHTML = "";
   let totalDuration = 0;
 
-  const table = document.createElement("table");
-  const tbody = document.createElement("tbody");
-
   videos.forEach((video, index) => {
     totalDuration += video.duration_seconds / 60;
 
@@ -60,25 +57,26 @@ function displayVideos(videos, containerId, startIndex) {
     const commentsText = formatComments(video.comment_count);
     const uploadDate = formatDate(video.upload_date);
     const videoUrl = `https://www.youtube.com/watch?v=${video.videoID}`;
+    const thumbnailUrl = `https://i.ytimg.com/vi/${video.videoID}/hqdefault.jpg`;
 
-    const row = `
-            <tr>
-                <td>${startIndex + index + 1}</td>
-                <td><a href="${videoUrl}" target="_blank">${
-      video.title
-    }</a></td>
-                <td class="right-align">${uploadDate}</td>
-                <td class="right-align"><img src="duration_icon.png" class="icon">${durationText}</td>
-                <td class="right-align"><img src="views_icon.png" class="icon">${likesText}</td>
-                <td class="right-align"><img src="comments_icon.png" class="icon">${commentsText}</td>
-            </tr>
+    const videoItem = `
+            <div class="video-item">
+                <span>
+                    ${startIndex + index + 1}
+                    <div class="thumbnail-popup">
+                        <img src="${thumbnailUrl}" alt="Thumbnail" />
+                    </div>
+                </span>
+                <a href="${videoUrl}" target="_blank">${video.title}</a>
+                <span class="right-align">${uploadDate}</span>
+                <span class="right-align">${durationText}</span>
+                <span class="right-align">${likesText}</span>
+                <span class="right-align">${commentsText}</span>
+            </div>
         `;
 
-    tbody.innerHTML += row;
+    videoList.innerHTML += videoItem;
   });
-
-  table.appendChild(tbody);
-  videoList.appendChild(table);
 
   document.getElementById("filteredCount").textContent = videos.length;
   document.getElementById("totalDuration").textContent =
@@ -109,6 +107,8 @@ function applyFilters() {
     );
   } else if (sortOption === "comments") {
     filteredVideos.sort((a, b) => b.comment_count - a.comment_count);
+  } else if (sortOption === "views") {
+    filteredVideos.sort((a, b) => b.views - a.views);
   }
 
   // Clear all categories
