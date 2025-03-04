@@ -1,0 +1,2362 @@
+[
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "7zAfWaW2Ao0",
+        "title": "Why Throw an Exception When You Mean an Error?",
+        "duration_seconds": 656,
+        "upload_date": "2025-02-25T07:47:00Z",
+        "comment_count": 92,
+        "likes": 555,
+        "views": 11257
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4pOp4qkq1L4",
+        "title": "Master CQRS Queries in EF Core: Optimize for Speed and Efficiency",
+        "duration_seconds": 592,
+        "upload_date": "2025-02-18T07:47:00Z",
+        "comment_count": 54,
+        "likes": 332,
+        "views": 6201
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "F2uw6-U-ReA",
+        "title": "C# Curly Braces vs Expression-Bodied Methods: When to Use Which?",
+        "duration_seconds": 595,
+        "upload_date": "2025-02-11T07:47:00Z",
+        "comment_count": 118,
+        "likes": 379,
+        "views": 7929
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "YmpwJXrt2kQ",
+        "title": "3 Game-Changing Tips for Writing Simpler Code",
+        "duration_seconds": 750,
+        "upload_date": "2025-02-04T07:47:00Z",
+        "comment_count": 119,
+        "likes": 694,
+        "views": 13188
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "o-HHERFaT1o",
+        "title": "Are You Using the Extended LINQ Operators?",
+        "duration_seconds": 576,
+        "upload_date": "2025-01-24T07:47:00Z",
+        "comment_count": 65,
+        "likes": 490,
+        "views": 9085
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "2UNAMhhh6n0",
+        "title": "This is How FP Made Me Understand Design Patterns Better",
+        "duration_seconds": 612,
+        "upload_date": "2025-01-16T07:47:00Z",
+        "comment_count": 75,
+        "likes": 560,
+        "views": 9069
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Ehpnndmu2Ow",
+        "title": "Make Domain Rules Explicit In Any Business Application",
+        "duration_seconds": 563,
+        "upload_date": "2025-01-09T07:47:00Z",
+        "comment_count": 54,
+        "likes": 794,
+        "views": 18087
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_C6vsfvALCQ",
+        "title": "Object Validation and Invariants End at This Point",
+        "duration_seconds": 597,
+        "upload_date": "2025-01-03T07:47:00Z",
+        "comment_count": 27,
+        "likes": 250,
+        "views": 7074
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "d262kUQKT0E",
+        "title": "Master the PriorityQueue \u2013 A New Collection in .NET",
+        "duration_seconds": 728,
+        "upload_date": "2024-12-27T07:47:00Z",
+        "comment_count": 18,
+        "likes": 333,
+        "views": 8888
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "kVEL6DWtOeM",
+        "title": "How Far is Your Object-Oriented Code From Functional Programming?",
+        "duration_seconds": 790,
+        "upload_date": "2024-12-19T07:47:00Z",
+        "comment_count": 58,
+        "likes": 292,
+        "views": 6505
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "fOqsRz2wPZg",
+        "title": "Advent of Code 2024 Day 11 - Full Solution",
+        "duration_seconds": 409,
+        "upload_date": "2024-12-17T07:47:00Z",
+        "comment_count": 17,
+        "likes": 64,
+        "views": 1922
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Lot_4YlaZj8",
+        "title": "Advent of Code 2024 Day 10 - Full Solution",
+        "duration_seconds": 455,
+        "upload_date": "2024-12-14T07:47:00Z",
+        "comment_count": 7,
+        "likes": 67,
+        "views": 2058
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "vSrKCHukzqY",
+        "title": "Make Your Object Model More Object-Oriented",
+        "duration_seconds": 790,
+        "upload_date": "2024-12-12T07:47:00Z",
+        "comment_count": 51,
+        "likes": 312,
+        "views": 7598
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "a2iVp-JGOMY",
+        "title": "Advent of Code 2024 Day 3 - Full Solution",
+        "duration_seconds": 351,
+        "upload_date": "2024-12-09T07:47:00Z",
+        "comment_count": 21,
+        "likes": 123,
+        "views": 2730
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Flhwj_fzip4",
+        "title": "Advent of Code 2024 Day 2 - Full Solution",
+        "duration_seconds": 381,
+        "upload_date": "2024-12-07T07:47:00Z",
+        "comment_count": 21,
+        "likes": 159,
+        "views": 6275
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "qDNIqsle8Cs",
+        "title": "Master the Keyed Services in ASP.NET Core Dependency Injection",
+        "duration_seconds": 776,
+        "upload_date": "2024-12-04T07:47:00Z",
+        "comment_count": 60,
+        "likes": 251,
+        "views": 5332
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "2LvHXme-kcs",
+        "title": "C# Minimal APIs Quickly Get Messy - Clean Them Up!",
+        "duration_seconds": 761,
+        "upload_date": "2024-11-26T07:47:00Z",
+        "comment_count": 107,
+        "likes": 617,
+        "views": 10653
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "6KUheTnNY3M",
+        "title": "How Does a Domain Model Serialize Itself? IT DOES NOT!",
+        "duration_seconds": 666,
+        "upload_date": "2024-11-19T07:47:00Z",
+        "comment_count": 54,
+        "likes": 445,
+        "views": 10030
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "jgtPwXHTdHc",
+        "title": "I Cut My Code in Half After Adding Just One Virtual Method",
+        "duration_seconds": 758,
+        "upload_date": "2024-11-13T07:47:00Z",
+        "comment_count": 121,
+        "likes": 675,
+        "views": 14856
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "k1fIRmTsQMU",
+        "title": "Eliminate Data Clumps: Step-by-Step Refactoring Guide",
+        "duration_seconds": 864,
+        "upload_date": "2024-11-05T07:47:00Z",
+        "comment_count": 76,
+        "likes": 612,
+        "views": 12867
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "nDSa5wuyYXg",
+        "title": "Why Writing Simple Code Isn't So Simple in Real Projects",
+        "duration_seconds": 730,
+        "upload_date": "2024-10-30T07:47:00Z",
+        "comment_count": 102,
+        "likes": 747,
+        "views": 15698
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "g63pLbUrzjI",
+        "title": "The Combinatorial Explosion Trap: Does Your Code Have It?",
+        "duration_seconds": 834,
+        "upload_date": "2024-10-17T06:47:00Z",
+        "comment_count": 63,
+        "likes": 519,
+        "views": 11039
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Y3kMxoK7z6I",
+        "title": "10 Essential Constructors in C# Every Developer Should Know",
+        "duration_seconds": 772,
+        "upload_date": "2024-10-10T06:47:00Z",
+        "comment_count": 54,
+        "likes": 653,
+        "views": 12385
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "rA_4lb8UCQo",
+        "title": "This Is How the Anemic Domain Model Turns Bad",
+        "duration_seconds": 788,
+        "upload_date": "2024-10-04T06:47:00Z",
+        "comment_count": 48,
+        "likes": 497,
+        "views": 11253
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ye4zKlUchzQ",
+        "title": "Learn to Generate Quality URL Slugs From Proper Domain Objects",
+        "duration_seconds": 790,
+        "upload_date": "2024-09-27T06:47:00Z",
+        "comment_count": 28,
+        "likes": 344,
+        "views": 6222
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "VOjeNS2MBw4",
+        "title": "You Can Now Track Record Types With EF Core",
+        "duration_seconds": 769,
+        "upload_date": "2024-09-20T06:47:00Z",
+        "comment_count": 45,
+        "likes": 394,
+        "views": 7265
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "xpm2nRpvvA8",
+        "title": "Here Is the Most Powerful EF Core Configuration Technique",
+        "duration_seconds": 965,
+        "upload_date": "2024-09-13T06:47:00Z",
+        "comment_count": 140,
+        "likes": 879,
+        "views": 16705
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "PCBXrUa0Kik",
+        "title": "C# Records Are Functional - Use Them That Way!",
+        "duration_seconds": 655,
+        "upload_date": "2024-08-30T06:47:00Z",
+        "comment_count": 110,
+        "likes": 861,
+        "views": 16694
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "SVew0lXNCqQ",
+        "title": "Boolean Is Not Your Friend",
+        "duration_seconds": 765,
+        "upload_date": "2024-08-15T06:47:00Z",
+        "comment_count": 378,
+        "likes": 2158,
+        "views": 47501
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "G2KVyLTgDdQ",
+        "title": "Can You Avoid the Nightmare Scenario?",
+        "duration_seconds": 569,
+        "upload_date": "2024-08-06T06:47:00Z",
+        "comment_count": 46,
+        "likes": 303,
+        "views": 8827
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Ftwo2y2KeXI",
+        "title": "5 Sure Signs You're No Longer Junior Programmer",
+        "duration_seconds": 801,
+        "upload_date": "2024-07-25T06:47:00Z",
+        "comment_count": 522,
+        "likes": 2522,
+        "views": 72989
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "qr2VUer5iuc",
+        "title": "They Are Brilliant \u2013 But in Small Doses Only!",
+        "duration_seconds": 632,
+        "upload_date": "2024-07-19T06:47:00Z",
+        "comment_count": 48,
+        "likes": 577,
+        "views": 9494
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "fs23tXSrF_k",
+        "title": "How Do I Escape From Here?",
+        "duration_seconds": 538,
+        "upload_date": "2024-07-10T06:47:00Z",
+        "comment_count": 41,
+        "likes": 388,
+        "views": 7989
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "C1pbRp1EQdk",
+        "title": "Lambdas Almost Killed the Strategy Pattern",
+        "duration_seconds": 55,
+        "upload_date": "2024-06-27T06:47:00Z",
+        "comment_count": 37,
+        "likes": 935,
+        "views": 17578
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "EwMoiRHsZ7I",
+        "title": "The Encapsulation Lose-Lose Game",
+        "duration_seconds": 58,
+        "upload_date": "2024-06-26T06:47:00Z",
+        "comment_count": 18,
+        "likes": 305,
+        "views": 8257
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "KdpoCjcCRpc",
+        "title": "Programmers Massively Fail on This",
+        "duration_seconds": 60,
+        "upload_date": "2024-06-25T06:47:00Z",
+        "comment_count": 31,
+        "likes": 341,
+        "views": 8237
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "oBdH_ZlALtY",
+        "title": "Master the Design of Classes",
+        "duration_seconds": 59,
+        "upload_date": "2024-06-24T06:47:00Z",
+        "comment_count": 9,
+        "likes": 353,
+        "views": 6912
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_oyMVfern7w",
+        "title": "Master the Design of Classes (Part 2)",
+        "duration_seconds": 59,
+        "upload_date": "2024-06-23T06:47:00Z",
+        "comment_count": 6,
+        "likes": 145,
+        "views": 4153
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "6Iv57MsW-W8",
+        "title": "What Good Is an Empty Interface?",
+        "duration_seconds": 421,
+        "upload_date": "2024-06-21T06:47:00Z",
+        "comment_count": 137,
+        "likes": 774,
+        "views": 17148
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Je0nP9iMk1c",
+        "title": "Master the Design of Classes (Part 3)",
+        "duration_seconds": 55,
+        "upload_date": "2024-06-20T06:47:00Z",
+        "comment_count": 5,
+        "likes": 222,
+        "views": 5105
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "IfNS_bkCzxQ",
+        "title": "Master the Design of Classes (Part 4)",
+        "duration_seconds": 57,
+        "upload_date": "2024-06-19T06:47:00Z",
+        "comment_count": 10,
+        "likes": 239,
+        "views": 5501
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "EjFOgAtQKYk",
+        "title": "Master the Design of Classes (Part 5)",
+        "duration_seconds": 54,
+        "upload_date": "2024-06-18T06:47:00Z",
+        "comment_count": 47,
+        "likes": 232,
+        "views": 5426
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "rfCnHG6fiQI",
+        "title": "Master the Design of Classes (Part 6)",
+        "duration_seconds": 53,
+        "upload_date": "2024-06-16T06:47:00Z",
+        "comment_count": 13,
+        "likes": 269,
+        "views": 6561
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "beYvaP56ZME",
+        "title": "Master the Design of Classes (Part 7)",
+        "duration_seconds": 57,
+        "upload_date": "2024-06-15T06:47:00Z",
+        "comment_count": 6,
+        "likes": 252,
+        "views": 5213
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "jwCW446hoPk",
+        "title": "Master the Design of Classes",
+        "duration_seconds": 716,
+        "upload_date": "2024-06-12T06:47:00Z",
+        "comment_count": 96,
+        "likes": 1689,
+        "views": 37495
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "-7IZsb7-ZwU",
+        "title": "3 C# Features You Should Never See",
+        "duration_seconds": 55,
+        "upload_date": "2024-06-11T06:47:00Z",
+        "comment_count": 14,
+        "likes": 334,
+        "views": 6474
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "xR_E5PcGpqc",
+        "title": "Answer the Google Interview Question in 60 Seconds",
+        "duration_seconds": 56,
+        "upload_date": "2024-06-09T07:47:00Z",
+        "comment_count": 29,
+        "likes": 244,
+        "views": 5420
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "AD_MKP34fYs",
+        "title": "The C# Question I Hear Every Day",
+        "duration_seconds": 54,
+        "upload_date": "2024-06-08T07:47:00Z",
+        "comment_count": 14,
+        "likes": 206,
+        "views": 5590
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "PI138PhgIEU",
+        "title": "C# Constructors Just Got Better!",
+        "duration_seconds": 59,
+        "upload_date": "2024-06-06T06:47:00Z",
+        "comment_count": 18,
+        "likes": 401,
+        "views": 7380
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "QdVx7HoRqH0",
+        "title": "Switch Over to switch Expressions!",
+        "duration_seconds": 58,
+        "upload_date": "2024-06-05T06:47:00Z",
+        "comment_count": 16,
+        "likes": 347,
+        "views": 6249
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4r-_34efDMk",
+        "title": "Use Property Patterns in C#",
+        "duration_seconds": 53,
+        "upload_date": "2024-06-03T10:16:13Z",
+        "comment_count": 2,
+        "likes": 267,
+        "views": 5254
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "7tyk2nOIeNA",
+        "title": "What is Functional C#?",
+        "duration_seconds": 56,
+        "upload_date": "2024-06-01T10:17:30Z",
+        "comment_count": 15,
+        "likes": 230,
+        "views": 4260
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "2TXvwUgaMHs",
+        "title": "Master the Design of Functional Behavior in C#",
+        "duration_seconds": 1157,
+        "upload_date": "2024-05-31T08:51:32Z",
+        "comment_count": 81,
+        "likes": 631,
+        "views": 14824
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Yia_NKqkGD4",
+        "title": "Functional Types in the Latest C#",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-29T07:47:00Z",
+        "comment_count": 12,
+        "likes": 288,
+        "views": 5819
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "SrHgkQz0cR4",
+        "title": "Remove Deep Nesting | Clean Code",
+        "duration_seconds": 54,
+        "upload_date": "2024-05-27T08:28:13Z",
+        "comment_count": 8,
+        "likes": 274,
+        "views": 3981
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "leK9Ug_z4_A",
+        "title": "I Love C# for Things Like This",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-25T08:44:00Z",
+        "comment_count": 4,
+        "likes": 276,
+        "views": 4428
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "U7rrYeQmOUQ",
+        "title": "Have You Got an Aliasing Bug?",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-24T06:45:02Z",
+        "comment_count": 5,
+        "likes": 163,
+        "views": 4994
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "jjf5nEmDjaE",
+        "title": "Immutable Design: Why You Should Care",
+        "duration_seconds": 864,
+        "upload_date": "2024-05-23T11:23:04Z",
+        "comment_count": 38,
+        "likes": 431,
+        "views": 9359
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ljffrZSHoyk",
+        "title": "Guess the Pattern!",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-19T10:04:23Z",
+        "comment_count": 16,
+        "likes": 217,
+        "views": 4483
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_ew8HX4osRM",
+        "title": "What are ValueTasks Used For?",
+        "duration_seconds": 57,
+        "upload_date": "2024-05-18T08:53:00Z",
+        "comment_count": 3,
+        "likes": 251,
+        "views": 4279
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "0BVBDp9QNFI",
+        "title": "You\u2019ll Never Write Functional C# Code if You Don\u2019t Know This",
+        "duration_seconds": 380,
+        "upload_date": "2024-05-16T07:53:00Z",
+        "comment_count": 70,
+        "likes": 429,
+        "views": 12327
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "WrPejfGuqVc",
+        "title": "Have You Ever Seen This Method?",
+        "duration_seconds": 58,
+        "upload_date": "2024-05-14T07:53:00Z",
+        "comment_count": 6,
+        "likes": 429,
+        "views": 7410
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Xpqy3sQC1Bo",
+        "title": "Learn an Algorithm in 60 Seconds! \u2013 Combinations",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-12T08:56:00Z",
+        "comment_count": 0,
+        "likes": 202,
+        "views": 5383
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "dhleFJPOQOs",
+        "title": "Have You Ever Signaled async/await Progress in These Three Ways?",
+        "duration_seconds": 457,
+        "upload_date": "2024-05-10T08:00:16Z",
+        "comment_count": 46,
+        "likes": 694,
+        "views": 13017
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "nZe_vmNRt6o",
+        "title": "Static Imports in C# Are Tricky",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-08T08:00:24Z",
+        "comment_count": 11,
+        "likes": 270,
+        "views": 7091
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "8YyiXOxsa3M",
+        "title": "C# 12 Collection Expressions",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-06T09:00:12Z",
+        "comment_count": 5,
+        "likes": 238,
+        "views": 5901
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "uR4mco9BAv0",
+        "title": "Target-Typed new Expressions in C#",
+        "duration_seconds": 57,
+        "upload_date": "2024-05-04T09:00:43Z",
+        "comment_count": 15,
+        "likes": 242,
+        "views": 6835
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "N4eN_sexrvU",
+        "title": "Learn an Algorithm in 60 Seconds! - Shuffle",
+        "duration_seconds": 59,
+        "upload_date": "2024-05-03T08:00:10Z",
+        "comment_count": 19,
+        "likes": 290,
+        "views": 7775
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "WXuhJr-Lv-E",
+        "title": "Can You Extend LINQ?",
+        "duration_seconds": 55,
+        "upload_date": "2024-05-01T09:00:22Z",
+        "comment_count": 22,
+        "likes": 323,
+        "views": 6223
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "uHn_Nts4TVQ",
+        "title": "Master the Design of Functional Types in C#",
+        "duration_seconds": 1073,
+        "upload_date": "2024-04-30T08:00:25Z",
+        "comment_count": 118,
+        "likes": 847,
+        "views": 19648
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ujRaw7mf8lM",
+        "title": "Are You a Control Freak Programmer?",
+        "duration_seconds": 58,
+        "upload_date": "2024-04-29T09:00:40Z",
+        "comment_count": 62,
+        "likes": 368,
+        "views": 11171
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "CCtTj69-3So",
+        "title": "New Answer to the Oldest Interview Question",
+        "duration_seconds": 59,
+        "upload_date": "2024-04-27T09:00:54Z",
+        "comment_count": 15,
+        "likes": 315,
+        "views": 9903
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "jqfMBjTL1KI",
+        "title": "Using Declarations are Tricky",
+        "duration_seconds": 58,
+        "upload_date": "2024-04-26T08:00:31Z",
+        "comment_count": 8,
+        "likes": 232,
+        "views": 4248
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "b7czLKzBS2U",
+        "title": "Find the Bug in 5s",
+        "duration_seconds": 59,
+        "upload_date": "2024-04-24T08:00:20Z",
+        "comment_count": 20,
+        "likes": 298,
+        "views": 9015
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "AH7Fw7VF3fo",
+        "title": "Avoid Deep Nesting | Clean Code",
+        "duration_seconds": 478,
+        "upload_date": "2024-04-23T08:00:04Z",
+        "comment_count": 126,
+        "likes": 651,
+        "views": 10453
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Y4A9PyX4ecA",
+        "title": "Nullable References Tips and Tricks",
+        "duration_seconds": 56,
+        "upload_date": "2024-04-22T08:00:13Z",
+        "comment_count": 10,
+        "likes": 224,
+        "views": 5761
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "CMhhVgdwdpM",
+        "title": "Guess the Pattern!",
+        "duration_seconds": 59,
+        "upload_date": "2024-04-20T09:35:26Z",
+        "comment_count": 13,
+        "likes": 338,
+        "views": 8847
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "EzXKlTyk2KU",
+        "title": "Deep Dive on Locks & Deadlocks for Application Developers",
+        "duration_seconds": 1670,
+        "upload_date": "2024-04-19T08:00:06Z",
+        "comment_count": 40,
+        "likes": 391,
+        "views": 7219
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "RlQ1E63BZ8Y",
+        "title": "How To Cancel async Methods",
+        "duration_seconds": 57,
+        "upload_date": "2024-04-17T09:02:12Z",
+        "comment_count": 10,
+        "likes": 443,
+        "views": 11784
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "PQORTKShZFw",
+        "title": "How Do You Cancel an async Method? | Step-by-Step Tutorial",
+        "duration_seconds": 435,
+        "upload_date": "2024-04-15T08:00:18Z",
+        "comment_count": 48,
+        "likes": 449,
+        "views": 8160
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Al9a1u4fkkc",
+        "title": "C# with Expressions Evade Validation!",
+        "duration_seconds": 58,
+        "upload_date": "2024-04-13T08:00:09Z",
+        "comment_count": 9,
+        "likes": 227,
+        "views": 6377
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "PycXzd53su4",
+        "title": "Does This Class Violate LSP?",
+        "duration_seconds": 57,
+        "upload_date": "2024-04-11T08:00:12Z",
+        "comment_count": 8,
+        "likes": 337,
+        "views": 13181
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "h-nbp0dP08I",
+        "title": "C#, Dapper & SQL: Interview Questions With Answers",
+        "duration_seconds": 1073,
+        "upload_date": "2024-04-10T08:00:32Z",
+        "comment_count": 23,
+        "likes": 207,
+        "views": 5275
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "AyMA0bniBvU",
+        "title": "Non-Nullable References Can Be Null!",
+        "duration_seconds": 58,
+        "upload_date": "2024-04-08T08:00:05Z",
+        "comment_count": 22,
+        "likes": 322,
+        "views": 8299
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "oYRUS1CdhnQ",
+        "title": "What Are Elevated Types in C#?",
+        "duration_seconds": 56,
+        "upload_date": "2024-04-07T08:00:23Z",
+        "comment_count": 19,
+        "likes": 279,
+        "views": 7882
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "vZm41bo2NqM",
+        "title": "Use Strongly Typed IDs for Entities",
+        "duration_seconds": 56,
+        "upload_date": "2024-04-04T08:00:26Z",
+        "comment_count": 6,
+        "likes": 349,
+        "views": 6047
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "tCpMD94HhB4",
+        "title": "When and How To Apply CQRS in an ASP.NET Core Application With EF Core",
+        "duration_seconds": 910,
+        "upload_date": "2024-04-02T08:00:33Z",
+        "comment_count": 17,
+        "likes": 339,
+        "views": 9588
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ZqShBWp-hd0",
+        "title": "The Secret of Unit Testing I Learned by Failing",
+        "duration_seconds": 453,
+        "upload_date": "2024-03-28T10:00:37Z",
+        "comment_count": 41,
+        "likes": 208,
+        "views": 4829
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "MJcaxi3bOO8",
+        "title": "How to Implement Strongly Typed IDs with EF Core and ASP.NET Core Razor Pages",
+        "duration_seconds": 1066,
+        "upload_date": "2024-03-25T10:00:26Z",
+        "comment_count": 37,
+        "likes": 322,
+        "views": 8016
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "C2WJPPtY6f4",
+        "title": "Enjoy Strongly Typed Code Again With Covariant Return Types",
+        "duration_seconds": 431,
+        "upload_date": "2024-03-19T10:00:08Z",
+        "comment_count": 24,
+        "likes": 316,
+        "views": 8101
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "NN7iGPUvxLc",
+        "title": "Master The L in SOLID",
+        "duration_seconds": 957,
+        "upload_date": "2024-03-16T10:00:19Z",
+        "comment_count": 57,
+        "likes": 349,
+        "views": 8390
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Cu2wI0Iqxfw",
+        "title": "Unveil the Mystery of the Liskov Substitution Principle",
+        "duration_seconds": 469,
+        "upload_date": "2024-03-13T10:00:14Z",
+        "comment_count": 51,
+        "likes": 268,
+        "views": 6756
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "fx6LxePgTNg",
+        "title": "Learn C#: Method Hiding (and Why You Will Want To Avoid It)",
+        "duration_seconds": 366,
+        "upload_date": "2024-03-11T10:00:25Z",
+        "comment_count": 42,
+        "likes": 266,
+        "views": 5389
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "MUriDSrN_TY",
+        "title": "Validating Records in C#: Everything You Ever Wanted To Know but Had No One To Ask",
+        "duration_seconds": 895,
+        "upload_date": "2024-03-06T10:00:25Z",
+        "comment_count": 55,
+        "likes": 502,
+        "views": 10992
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "nVjBd9X9ack",
+        "title": "Learn C#: How Do Virtual Methods Work?",
+        "duration_seconds": 495,
+        "upload_date": "2024-03-01T10:00:39Z",
+        "comment_count": 23,
+        "likes": 319,
+        "views": 6688
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "n17U7ntLMt4",
+        "title": "The Lesson About GUID IDs I Learned the Hard Way",
+        "duration_seconds": 943,
+        "upload_date": "2024-02-26T10:00:33Z",
+        "comment_count": 238,
+        "likes": 1479,
+        "views": 32987
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Tu3FEWTmaQY",
+        "title": "Learn C#: Abstract or Virtual Method, Which Fits Better Here?",
+        "duration_seconds": 451,
+        "upload_date": "2024-02-20T10:00:30Z",
+        "comment_count": 46,
+        "likes": 721,
+        "views": 14433
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "W2OobtTQo9Y",
+        "title": "This Is How Domain-Driven Design Makes Object-Oriented Design More Powerful",
+        "duration_seconds": 934,
+        "upload_date": "2024-02-13T10:00:23Z",
+        "comment_count": 37,
+        "likes": 806,
+        "views": 16079
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "E4YSxUFHM-4",
+        "title": "Avoid This Common Mistake in DDD Modeling",
+        "duration_seconds": 617,
+        "upload_date": "2024-02-07T09:00:09Z",
+        "comment_count": 49,
+        "likes": 647,
+        "views": 9850
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "hW-7lkuD-Cc",
+        "title": "Learn To Love DDD-Style Strongly Typed IDs",
+        "duration_seconds": 544,
+        "upload_date": "2024-01-31T09:00:36Z",
+        "comment_count": 177,
+        "likes": 1674,
+        "views": 29748
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Wyp7XaFYRBs",
+        "title": "Let C# Tuples Become Your Best Friends",
+        "duration_seconds": 711,
+        "upload_date": "2024-01-25T09:00:32Z",
+        "comment_count": 77,
+        "likes": 691,
+        "views": 10805
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "KFx9XHpoYV4",
+        "title": "The Ultimate Guide to C# Records",
+        "duration_seconds": 775,
+        "upload_date": "2024-01-18T10:00:12Z",
+        "comment_count": 96,
+        "likes": 1320,
+        "views": 25048
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "mdqNyfCxrv4",
+        "title": "Here is How Fast is LINQ, Spans, and Everything",
+        "duration_seconds": 760,
+        "upload_date": "2024-01-12T10:00:38Z",
+        "comment_count": 60,
+        "likes": 659,
+        "views": 11419
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "oD99AyEzyEU",
+        "title": "This Is the Place for LINQ in Modern .NET Design",
+        "duration_seconds": 355,
+        "upload_date": "2024-01-05T10:20:39Z",
+        "comment_count": 19,
+        "likes": 455,
+        "views": 10255
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "mGnpFGIRCjA",
+        "title": "17 Pieces of C# Syntax That Make Your Code Short",
+        "duration_seconds": 761,
+        "upload_date": "2023-12-29T11:00:44Z",
+        "comment_count": 281,
+        "likes": 1526,
+        "views": 28486
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "P-0svGXEeNM",
+        "title": "3 Shocking Misconceptions Among C# Programmers",
+        "duration_seconds": 565,
+        "upload_date": "2023-12-23T11:10:15Z",
+        "comment_count": 111,
+        "likes": 899,
+        "views": 16010
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4evWM-HVWmA",
+        "title": "Will All My Classes Look Like Records Now?",
+        "duration_seconds": 766,
+        "upload_date": "2023-12-14T09:00:03Z",
+        "comment_count": 23,
+        "likes": 458,
+        "views": 7821
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "RfEbn9aXY-Y",
+        "title": "Why is C# Evolving This Way?",
+        "duration_seconds": 902,
+        "upload_date": "2023-12-07T09:00:16Z",
+        "comment_count": 172,
+        "likes": 1232,
+        "views": 24337
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "kPpnU-nqnhQ",
+        "title": "C# record struct Usage Explained",
+        "duration_seconds": 53,
+        "upload_date": "2023-12-04T11:51:41Z",
+        "comment_count": 13,
+        "likes": 263,
+        "views": 5371
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "HTrIbVZecOE",
+        "title": "Favor Guard Clauses Over if-else",
+        "duration_seconds": 57,
+        "upload_date": "2023-12-02T09:00:10Z",
+        "comment_count": 31,
+        "likes": 417,
+        "views": 7027
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "BAEBVJBNVf8",
+        "title": "Getting Started With Azure Storage | Tutorial",
+        "duration_seconds": 917,
+        "upload_date": "2023-12-01T09:00:08Z",
+        "comment_count": 14,
+        "likes": 207,
+        "views": 6263
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "jZ9eFkpvl24",
+        "title": "Do Not Iterate IEnumerable Multiple Times!",
+        "duration_seconds": 57,
+        "upload_date": "2023-11-30T09:00:30Z",
+        "comment_count": 28,
+        "likes": 341,
+        "views": 7074
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "BuQ3NDkS9Yw",
+        "title": "Must-Have Tools To Develop Azure Storage Applications",
+        "duration_seconds": 194,
+        "upload_date": "2023-11-27T09:00:13Z",
+        "comment_count": 7,
+        "likes": 122,
+        "views": 2878
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "J9iYdYDbQjs",
+        "title": "Why Don\u2019t C# Records Validate Their Values?",
+        "duration_seconds": 57,
+        "upload_date": "2023-11-25T09:00:10Z",
+        "comment_count": 49,
+        "likes": 245,
+        "views": 5890
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "8qgcTeO8a_0",
+        "title": "You May Have Never Learned This Lesson Right",
+        "duration_seconds": 782,
+        "upload_date": "2023-11-23T09:00:09Z",
+        "comment_count": 25,
+        "likes": 619,
+        "views": 13153
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "0AAuYgG90zc",
+        "title": "Favor Declarative Design in C#",
+        "duration_seconds": 58,
+        "upload_date": "2023-11-22T09:00:00Z",
+        "comment_count": 15,
+        "likes": 197,
+        "views": 5371
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "UeBPx--JCtU",
+        "title": "Are You Afraid of LINQ Aggregate Operator?",
+        "duration_seconds": 50,
+        "upload_date": "2023-11-20T08:01:03Z",
+        "comment_count": 6,
+        "likes": 248,
+        "views": 4638
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "GSfnlQmcefM",
+        "title": "The KISS Principle Explained by Dino Esposito",
+        "duration_seconds": 892,
+        "upload_date": "2023-11-15T09:00:07Z",
+        "comment_count": 24,
+        "likes": 209,
+        "views": 3154
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "q2ZdFS-SyyE",
+        "title": "You Can Untangle the Ball of Mud Using This Technique",
+        "duration_seconds": 498,
+        "upload_date": "2023-11-09T08:00:33Z",
+        "comment_count": 13,
+        "likes": 297,
+        "views": 6210
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "aSGJUAMvJBI",
+        "title": "Favor Declarative Design and Cure That Code Clutter",
+        "duration_seconds": 629,
+        "upload_date": "2023-11-03T08:00:01Z",
+        "comment_count": 26,
+        "likes": 499,
+        "views": 9725
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "kWnm8vnEa7A",
+        "title": "Complex Code, Complicated Code, and Why You Should Care",
+        "duration_seconds": 579,
+        "upload_date": "2023-10-30T08:00:18Z",
+        "comment_count": 27,
+        "likes": 357,
+        "views": 5823
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "6cD9pcpqTG0",
+        "title": "Make a Domain-Specific Language in Your Project",
+        "duration_seconds": 50,
+        "upload_date": "2023-10-28T07:00:06Z",
+        "comment_count": 2,
+        "likes": 143,
+        "views": 3307
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "mLTD8DECCVQ",
+        "title": "Manage Nulls Like a Boss and Never Fail!",
+        "duration_seconds": 1303,
+        "upload_date": "2023-10-24T07:00:30Z",
+        "comment_count": 22,
+        "likes": 717,
+        "views": 15966
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "bL3SspDT8kQ",
+        "title": "Why Is C# Getting So Functional These Days?",
+        "duration_seconds": 44,
+        "upload_date": "2023-10-19T07:00:25Z",
+        "comment_count": 6,
+        "likes": 299,
+        "views": 6913
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "YgX71yANayY",
+        "title": "Boost Code Readability With Fluent Interface Design",
+        "duration_seconds": 599,
+        "upload_date": "2023-10-17T07:00:20Z",
+        "comment_count": 41,
+        "likes": 567,
+        "views": 12858
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "cU7cXaNhxA8",
+        "title": "No, Procedural Is Not Better Than Object-Oriented in Business Applications",
+        "duration_seconds": 739,
+        "upload_date": "2023-10-11T07:00:13Z",
+        "comment_count": 77,
+        "likes": 382,
+        "views": 8652
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "E30N4FJwP3w",
+        "title": "Let Design by Contract Be Your Highest-Valued Design Method",
+        "duration_seconds": 820,
+        "upload_date": "2023-10-05T07:00:05Z",
+        "comment_count": 39,
+        "likes": 542,
+        "views": 11176
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ykEJKNU_yas",
+        "title": "Develop Flawless Regular Expressions Using This Step-by-Step Process",
+        "duration_seconds": 1168,
+        "upload_date": "2023-09-28T07:00:25Z",
+        "comment_count": 24,
+        "likes": 326,
+        "views": 8893
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "hC87MbFoRR0",
+        "title": "Give Expressions a Name | Clean Code",
+        "duration_seconds": 602,
+        "upload_date": "2023-09-20T07:00:18Z",
+        "comment_count": 79,
+        "likes": 748,
+        "views": 9015
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "L6FHKBg3cgI",
+        "title": "The One Thing Where OOP Shines Like No Other Programming Style",
+        "duration_seconds": 491,
+        "upload_date": "2023-09-14T07:00:07Z",
+        "comment_count": 58,
+        "likes": 383,
+        "views": 6881
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "9xY31VV-_QU",
+        "title": "Tame the Power of the Iterator Pattern and yield return in C#",
+        "duration_seconds": 696,
+        "upload_date": "2023-09-08T07:00:05Z",
+        "comment_count": 51,
+        "likes": 935,
+        "views": 17383
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "zWn0O0xzWMA",
+        "title": "Favor Method Chaining Over Nested Calls | Clean Code",
+        "duration_seconds": 623,
+        "upload_date": "2023-09-04T07:00:22Z",
+        "comment_count": 81,
+        "likes": 1662,
+        "views": 27176
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "vTnlFdRf1Kc",
+        "title": "Keep an Eye on SRP - That Might Just Save Your Broken Code Base",
+        "duration_seconds": 1339,
+        "upload_date": "2023-08-29T07:00:19Z",
+        "comment_count": 49,
+        "likes": 579,
+        "views": 8973
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "HRLdcMil7Ec",
+        "title": "Avoid Returning Null From Methods \u2013 There Is a Better Way To Write Them!",
+        "duration_seconds": 544,
+        "upload_date": "2023-08-22T07:00:10Z",
+        "comment_count": 108,
+        "likes": 1358,
+        "views": 31210
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "6g4ggpOxxCc",
+        "title": "Remove Messy Constructor Calls | Clean Code",
+        "duration_seconds": 739,
+        "upload_date": "2023-08-16T07:00:07Z",
+        "comment_count": 46,
+        "likes": 1151,
+        "views": 16043
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "5CU7137IWf4",
+        "title": "Remove Separate Concerns From a Class and Make It Favor SRP Again",
+        "duration_seconds": 762,
+        "upload_date": "2023-08-11T07:00:02Z",
+        "comment_count": 20,
+        "likes": 537,
+        "views": 7143
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "YHOH2l9UE3o",
+        "title": "Is Structural Inspection Part of Your Unit Testing Strategy?",
+        "duration_seconds": 943,
+        "upload_date": "2023-08-07T07:00:13Z",
+        "comment_count": 10,
+        "likes": 245,
+        "views": 3962
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "7N0LpGAI5T4",
+        "title": "Use the Decorator Pattern To Reduce Code Duplication in Complex Models",
+        "duration_seconds": 538,
+        "upload_date": "2023-08-01T08:00:03Z",
+        "comment_count": 17,
+        "likes": 987,
+        "views": 25039
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "OofwD8d6rnc",
+        "title": "Type Test and Set Expressions Are Polymorphic",
+        "duration_seconds": 54,
+        "upload_date": "2023-07-31T07:00:20Z",
+        "comment_count": 15,
+        "likes": 148,
+        "views": 3288
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "exsfSEDeyF4",
+        "title": "Use Incremental Coding Technique and Make No Bugs in Complex Features",
+        "duration_seconds": 1069,
+        "upload_date": "2023-07-26T08:00:00Z",
+        "comment_count": 28,
+        "likes": 1118,
+        "views": 13572
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "b1JyDzCe9n8",
+        "title": "Combine Design Patterns To Reveal Their Greatest Power",
+        "duration_seconds": 861,
+        "upload_date": "2023-07-20T07:00:26Z",
+        "comment_count": 30,
+        "likes": 536,
+        "views": 8554
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "2izb2y819KU",
+        "title": "Wish To Remove Primitive Obsession? Try This Effective Technique!",
+        "duration_seconds": 928,
+        "upload_date": "2023-07-14T07:00:02Z",
+        "comment_count": 51,
+        "likes": 733,
+        "views": 11483
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "1l_hHoMgTV0",
+        "title": "Master the Power of Composite Pattern in Rich Domain Modeling",
+        "duration_seconds": 847,
+        "upload_date": "2023-07-10T07:00:00Z",
+        "comment_count": 23,
+        "likes": 786,
+        "views": 12959
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "po9ziMcnAWg",
+        "title": "Write Unit Tests Against the Interface, Not Implementation",
+        "duration_seconds": 737,
+        "upload_date": "2023-07-04T07:00:31Z",
+        "comment_count": 32,
+        "likes": 489,
+        "views": 7140
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_4WdW36725A",
+        "title": "The One Thing You Cannot Do in Object-Oriented Programming but You Can in Functional",
+        "duration_seconds": 815,
+        "upload_date": "2023-06-28T07:00:14Z",
+        "comment_count": 179,
+        "likes": 767,
+        "views": 11005
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "wEqhBD60gbc",
+        "title": "Use C# 11 List Patterns To Write Short and Expressive Code",
+        "duration_seconds": 48,
+        "upload_date": "2023-06-24T07:00:23Z",
+        "comment_count": 9,
+        "likes": 488,
+        "views": 7165
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "XuMGzpg_x18",
+        "title": "I Have Tried Copilot Chat on ASP.NET Core and This Is What I Got",
+        "duration_seconds": 863,
+        "upload_date": "2023-06-22T07:00:11Z",
+        "comment_count": 5,
+        "likes": 175,
+        "views": 4246
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Z-fMkvIEmGM",
+        "title": "Unleash Your Functional Modeling Superpowers | C# Tutorial",
+        "duration_seconds": 864,
+        "upload_date": "2023-06-16T07:00:12Z",
+        "comment_count": 50,
+        "likes": 955,
+        "views": 16698
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "q_tH3njpAFc",
+        "title": "Possibility of Discriminated Unions in C#: Functional Programming in .NET",
+        "duration_seconds": 950,
+        "upload_date": "2023-06-12T07:00:20Z",
+        "comment_count": 66,
+        "likes": 963,
+        "views": 14292
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "HeCbtcNll7w",
+        "title": "You Will Add Smart Constructor to Your Rich Domain Models When You See This!",
+        "duration_seconds": 594,
+        "upload_date": "2023-06-06T07:00:09Z",
+        "comment_count": 77,
+        "likes": 1036,
+        "views": 12205
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "8tz7h6G4vXc",
+        "title": "Copilot X Is Here and I Just Tried It in VS Code",
+        "duration_seconds": 829,
+        "upload_date": "2023-05-31T07:00:04Z",
+        "comment_count": 62,
+        "likes": 688,
+        "views": 33801
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Jf1_AmXO6Zc",
+        "title": "Use Null Object Pattern in Your Rich Domain Model",
+        "duration_seconds": 796,
+        "upload_date": "2023-05-26T07:00:14Z",
+        "comment_count": 34,
+        "likes": 864,
+        "views": 13084
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "3p93Q6ivbZ4",
+        "title": "Master the Builder Pattern: The King of Creational Design Patterns in C# | ASP.NET Core Tutorial",
+        "duration_seconds": 957,
+        "upload_date": "2023-05-12T07:00:01Z",
+        "comment_count": 50,
+        "likes": 1131,
+        "views": 28334
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "fzEFgIreHHM",
+        "title": "Kill Anemic Domain Models with Encapsulation: The Hard Part",
+        "duration_seconds": 904,
+        "upload_date": "2023-05-05T08:00:17Z",
+        "comment_count": 36,
+        "likes": 619,
+        "views": 10356
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "1fDJSDPksOU",
+        "title": "Is Your Coding Style Older Than You?",
+        "duration_seconds": 863,
+        "upload_date": "2023-04-26T08:00:01Z",
+        "comment_count": 51,
+        "likes": 583,
+        "views": 6146
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "kp6PQQSdT6k",
+        "title": "I Asked Copilot To Write Unit Tests \u2013 It Wasn\u2019t Great",
+        "duration_seconds": 833,
+        "upload_date": "2023-04-18T08:00:27Z",
+        "comment_count": 17,
+        "likes": 267,
+        "views": 18476
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4rQ0jFmKSgk",
+        "title": "Are Design Patterns Dead in C#?",
+        "duration_seconds": 1068,
+        "upload_date": "2023-04-11T08:00:03Z",
+        "comment_count": 158,
+        "likes": 2118,
+        "views": 49946
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "S9TkIwrRZ24",
+        "title": "LINQ Doesn\u2019t Have the Operator You Need",
+        "duration_seconds": 640,
+        "upload_date": "2023-04-05T10:00:22Z",
+        "comment_count": 33,
+        "likes": 582,
+        "views": 6423
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "DW0BgHc6TRQ",
+        "title": "Stop Creating Class Hierarchies! (If You Haven't Already)",
+        "duration_seconds": 464,
+        "upload_date": "2023-03-30T09:00:12Z",
+        "comment_count": 67,
+        "likes": 1318,
+        "views": 14546
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "DHIDcInpkLc",
+        "title": "Don\u2019t Let Your Domain Model Depend on Current Time!",
+        "duration_seconds": 603,
+        "upload_date": "2023-03-24T08:00:06Z",
+        "comment_count": 27,
+        "likes": 492,
+        "views": 5699
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "TE61lSuoPqs",
+        "title": "How To Refactor Database Schema With Entity Framework Core",
+        "duration_seconds": 554,
+        "upload_date": "2023-03-20T10:30:09Z",
+        "comment_count": 5,
+        "likes": 170,
+        "views": 3215
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "C6a43mQBBdU",
+        "title": "Unleash the Modeling Power With Record Types! #shorts",
+        "duration_seconds": 52,
+        "upload_date": "2023-03-17T06:00:05Z",
+        "comment_count": 9,
+        "likes": 214,
+        "views": 2959
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "tq5ztZO45-g",
+        "title": "Visitor Design Pattern Is Giving Way To Pattern Matching Expressions!",
+        "duration_seconds": 940,
+        "upload_date": "2023-03-14T08:45:03Z",
+        "comment_count": 56,
+        "likes": 1220,
+        "views": 18653
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ZAwFyrAUR9w",
+        "title": "Deferred is not the same as lazy!",
+        "duration_seconds": 58,
+        "upload_date": "2023-03-12T11:00:32Z",
+        "comment_count": 4,
+        "likes": 185,
+        "views": 2994
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "v8_92jQ9Zz4",
+        "title": "LINQ GroupBy is an eager deferred operator!",
+        "duration_seconds": 54,
+        "upload_date": "2023-03-10T06:00:31Z",
+        "comment_count": 3,
+        "likes": 104,
+        "views": 2261
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "u4oYzBg_ctw",
+        "title": "Let GitHub Copilot Write Your ASP.NET Core Application",
+        "duration_seconds": 884,
+        "upload_date": "2023-03-08T13:45:03Z",
+        "comment_count": 10,
+        "likes": 376,
+        "views": 15932
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "XktMg5jnaBI",
+        "title": "Using GitHub Copilot to Write Complex Code | Step-by-step Tutorial",
+        "duration_seconds": 961,
+        "upload_date": "2023-03-02T12:00:19Z",
+        "comment_count": 14,
+        "likes": 411,
+        "views": 15854
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "mzq-XcTKxrg",
+        "title": "Have you ever tried smart constructors?",
+        "duration_seconds": 50,
+        "upload_date": "2023-02-25T11:00:28Z",
+        "comment_count": 14,
+        "likes": 249,
+        "views": 3437
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "oXyXHJyltjA",
+        "title": "Favor Top-Down Domain Modeling in ASP.NET with Entity Framework Core",
+        "duration_seconds": 1126,
+        "upload_date": "2023-02-23T14:00:28Z",
+        "comment_count": 25,
+        "likes": 427,
+        "views": 5525
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "gpOQl2q0PTU",
+        "title": "Build Your Own Option Type in C# and Use It Like a Pro",
+        "duration_seconds": 1111,
+        "upload_date": "2023-02-16T09:00:31Z",
+        "comment_count": 88,
+        "likes": 1041,
+        "views": 16225
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Xzw8Qkkd-hU",
+        "title": "Option/Maybe type in C#: A 30-second take on monads",
+        "duration_seconds": 36,
+        "upload_date": "2023-02-12T11:46:05Z",
+        "comment_count": 2,
+        "likes": 119,
+        "views": 4202
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "C2-ljnsckrs",
+        "title": "One-minute explanation of a monad in C#",
+        "duration_seconds": 55,
+        "upload_date": "2023-02-10T11:49:31Z",
+        "comment_count": 22,
+        "likes": 560,
+        "views": 17563
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "8-2xr_kBRnQ",
+        "title": "How to Avoid Null Reference Exceptions: Optional Objects in C#",
+        "duration_seconds": 1093,
+        "upload_date": "2023-02-09T13:27:40Z",
+        "comment_count": 176,
+        "likes": 2043,
+        "views": 25462
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_b_QiItg-9s",
+        "title": "Why Favor Object Composition Over Class Inheritance? A Deep Dive",
+        "duration_seconds": 1140,
+        "upload_date": "2023-02-02T09:40:15Z",
+        "comment_count": 106,
+        "likes": 1695,
+        "views": 26614
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "YwFKpEFBR5Q",
+        "title": "Be Careful When Removing an EF Core Property!",
+        "duration_seconds": 529,
+        "upload_date": "2023-01-27T09:00:30Z",
+        "comment_count": 8,
+        "likes": 95,
+        "views": 1229
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "wkkP6tqYJ04",
+        "title": "5 books that shaped my C# programming career (No. 5) #shorts",
+        "duration_seconds": 57,
+        "upload_date": "2023-01-17T09:00:29Z",
+        "comment_count": 40,
+        "likes": 1140,
+        "views": 19927
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "tDyS16KSTwE",
+        "title": "Adding an EF Property in a Zero Downtime Migration",
+        "duration_seconds": 732,
+        "upload_date": "2023-01-12T09:00:34Z",
+        "comment_count": 4,
+        "likes": 137,
+        "views": 1750
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "3CFAwDRbHXM",
+        "title": "Deploying an EF Migration Zero Downtime? Watch Out!",
+        "duration_seconds": 553,
+        "upload_date": "2023-01-05T09:00:01Z",
+        "comment_count": 16,
+        "likes": 315,
+        "views": 7183
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "i_dEHmWsZdA",
+        "title": "Chain of Responsibility to the Rescue!",
+        "duration_seconds": 555,
+        "upload_date": "2022-12-29T09:00:31Z",
+        "comment_count": 25,
+        "likes": 905,
+        "views": 13714
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "3NGz1G_HF94",
+        "title": "How to Initialize a Clean ASP.NET Core Project with Entity Framework Core and Identity",
+        "duration_seconds": 698,
+        "upload_date": "2022-12-22T09:00:01Z",
+        "comment_count": 8,
+        "likes": 432,
+        "views": 7079
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Fv_v7SwCwt0",
+        "title": "Here is where a C# span can and cannot be",
+        "duration_seconds": 54,
+        "upload_date": "2022-12-21T09:00:12Z",
+        "comment_count": 7,
+        "likes": 170,
+        "views": 3761
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "sqjKDM5BLAY",
+        "title": "Design Self-documenting Types to Avoid Bugs",
+        "duration_seconds": 803,
+        "upload_date": "2022-12-16T09:00:25Z",
+        "comment_count": 8,
+        "likes": 176,
+        "views": 2954
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Pqow_rfuZSU",
+        "title": "This Decorator Pattern Implementation Will Make Your Day!",
+        "duration_seconds": 577,
+        "upload_date": "2022-12-12T10:00:13Z",
+        "comment_count": 20,
+        "likes": 693,
+        "views": 12849
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "BuA7lnzbzYc",
+        "title": "Favor guard clauses over if-else",
+        "duration_seconds": 57,
+        "upload_date": "2022-12-06T10:00:05Z",
+        "comment_count": 16,
+        "likes": 221,
+        "views": 4168
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "89EkmPVxiAI",
+        "title": "Write Self-documenting Code to Avoid Bugs",
+        "duration_seconds": 579,
+        "upload_date": "2022-11-30T10:00:08Z",
+        "comment_count": 11,
+        "likes": 209,
+        "views": 2701
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "zRMtx0GVuRI",
+        "title": "You'll never use the fastest way to iterate an array in C# #shorts",
+        "duration_seconds": 59,
+        "upload_date": "2022-11-27T10:00:27Z",
+        "comment_count": 8,
+        "likes": 273,
+        "views": 5527
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Bqgt4slKgLI",
+        "title": "ToList and ToArray may not do what you expect",
+        "duration_seconds": 59,
+        "upload_date": "2022-11-26T11:00:06Z",
+        "comment_count": 11,
+        "likes": 311,
+        "views": 5931
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "yDr2BV0OwdM",
+        "title": "Prefer IEnumerable over collections in method arguments",
+        "duration_seconds": 52,
+        "upload_date": "2022-11-24T08:00:26Z",
+        "comment_count": 13,
+        "likes": 208,
+        "views": 3594
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "BC2bczOdd9w",
+        "title": "New C# 11 Keyword - required - and How To Use It Right",
+        "duration_seconds": 447,
+        "upload_date": "2022-11-22T10:00:06Z",
+        "comment_count": 10,
+        "likes": 249,
+        "views": 2732
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "0oSN65eM-tc",
+        "title": "The Fastest Way to Modify a List in C# | Coding Demo",
+        "duration_seconds": 630,
+        "upload_date": "2022-11-03T08:50:00Z",
+        "comment_count": 38,
+        "likes": 1683,
+        "views": 27592
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "B9DKv09IfT4",
+        "title": "A Comprehensive Guide to GitHub Copilot: From Beginner to Expert | VS Code Demo",
+        "duration_seconds": 963,
+        "upload_date": "2022-10-27T08:08:49Z",
+        "comment_count": 33,
+        "likes": 962,
+        "views": 21957
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_t6s0nkrZSo",
+        "title": "Crazy C# Interview Questions With Logical Answers | Coding Test",
+        "duration_seconds": 935,
+        "upload_date": "2022-10-20T08:40:51Z",
+        "comment_count": 40,
+        "likes": 577,
+        "views": 11111
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "0mYzyS31DZU",
+        "title": "How to Use Debug Assertions in a Complex Function",
+        "duration_seconds": 901,
+        "upload_date": "2022-10-13T08:11:17Z",
+        "comment_count": 7,
+        "likes": 74,
+        "views": 1342
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "hskYMPcqHRI",
+        "title": "Using Assertions to Demonstrate the Code is Correct",
+        "duration_seconds": 877,
+        "upload_date": "2022-10-06T09:34:20Z",
+        "comment_count": 6,
+        "likes": 146,
+        "views": 3623
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ZKoSMvmo-ck",
+        "title": "Formally Proving Code Correctness",
+        "duration_seconds": 1131,
+        "upload_date": "2022-09-27T08:09:09Z",
+        "comment_count": 9,
+        "likes": 111,
+        "views": 3423
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "N6uR97S8geE",
+        "title": "How to Make No Bugs? Write Code Incrementally!",
+        "duration_seconds": 777,
+        "upload_date": "2022-09-20T09:03:39Z",
+        "comment_count": 11,
+        "likes": 175,
+        "views": 4724
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4zHIzsaIPkc",
+        "title": "Here Is Why HashSet Is So Fast in .NET",
+        "duration_seconds": 1584,
+        "upload_date": "2022-09-13T08:49:53Z",
+        "comment_count": 22,
+        "likes": 329,
+        "views": 8777
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "wO3Rg5dV9GI",
+        "title": "Here Is When HashSet & Dictionary Call GetHashCode and Equals",
+        "duration_seconds": 452,
+        "upload_date": "2022-08-30T09:11:51Z",
+        "comment_count": 5,
+        "likes": 96,
+        "views": 1549
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "1mWgeAvi5Fc",
+        "title": "Calling a Virtual Function From a Constructor? Bad Idea!",
+        "duration_seconds": 525,
+        "upload_date": "2022-08-23T09:08:15Z",
+        "comment_count": 4,
+        "likes": 85,
+        "views": 1534
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_zWMjMUHinc",
+        "title": "Want to Start with DDD? Try Ubiquitous Language First!",
+        "duration_seconds": 1021,
+        "upload_date": "2022-08-16T09:34:46Z",
+        "comment_count": 11,
+        "likes": 244,
+        "views": 4356
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "gOwQRUsJVto",
+        "title": "Reimplementing .NET Runtime for Learning and Fun [4 of 4] | Understanding the .NET CLR",
+        "duration_seconds": 757,
+        "upload_date": "2022-08-09T12:56:21Z",
+        "comment_count": 12,
+        "likes": 113,
+        "views": 2035
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "buLdXiJTtBs",
+        "title": "How Does .NET Runtime Resolve Object's Type and Methods? [3 of 4] | Understanding the .NET CLR",
+        "duration_seconds": 717,
+        "upload_date": "2022-07-29T08:20:28Z",
+        "comment_count": 3,
+        "likes": 78,
+        "views": 1568
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "3SitqWZkmD8",
+        "title": "How Does C# Resolve Virtual Functions? [2 of 4] | Understanding the .NET CLR",
+        "duration_seconds": 756,
+        "upload_date": "2022-07-19T08:38:10Z",
+        "comment_count": 8,
+        "likes": 143,
+        "views": 3107
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "b0IDTWoaUJ0",
+        "title": "How Do Virtual Functions Work? [1 of 4] | Understanding the .NET CLR",
+        "duration_seconds": 471,
+        "upload_date": "2022-07-08T09:03:44Z",
+        "comment_count": 7,
+        "likes": 138,
+        "views": 4312
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "gjA0wHOL5KY",
+        "title": "How Does List REALLY Work in .NET?",
+        "duration_seconds": 761,
+        "upload_date": "2022-06-30T08:08:16Z",
+        "comment_count": 10,
+        "likes": 92,
+        "views": 1434
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "ESCXI65ixpk",
+        "title": "Course Trailer: Beginning Object-oriented Programming with C#",
+        "duration_seconds": 212,
+        "upload_date": "2022-06-24T11:52:34Z",
+        "comment_count": 13,
+        "likes": 35,
+        "views": 1540
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "_F9jal5R0jw",
+        "title": "What Makes List So Efficient?",
+        "duration_seconds": 591,
+        "upload_date": "2022-06-22T08:15:02Z",
+        "comment_count": 9,
+        "likes": 91,
+        "views": 1918
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "m__l58cmiEQ",
+        "title": "Nondestructive Mutation and Records in C#",
+        "duration_seconds": 783,
+        "upload_date": "2022-06-10T13:00:28Z",
+        "comment_count": 3,
+        "likes": 82,
+        "views": 1229
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "mPd1KddYlPM",
+        "title": "Decomposing a Complex LINQ Expression",
+        "duration_seconds": 601,
+        "upload_date": "2022-06-02T10:00:31Z",
+        "comment_count": 10,
+        "likes": 119,
+        "views": 1798
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "JUkmzyB6VBM",
+        "title": "Constructing a Complex LINQ Expression",
+        "duration_seconds": 631,
+        "upload_date": "2022-05-24T09:16:33Z",
+        "comment_count": 16,
+        "likes": 117,
+        "views": 3170
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Wp5iYQqHspg",
+        "title": "What is Covariance and Contravariance in C#: A Complete Overview",
+        "duration_seconds": 718,
+        "upload_date": "2022-05-16T09:37:32Z",
+        "comment_count": 61,
+        "likes": 1036,
+        "views": 24470
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "VouNkrgkH78",
+        "title": "Here is What Hides in Every C# Record (And How You Can Use That)",
+        "duration_seconds": 683,
+        "upload_date": "2022-05-06T10:27:14Z",
+        "comment_count": 43,
+        "likes": 575,
+        "views": 10190
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "zEldO3y1sjs",
+        "title": "Working Software ep. 7: Aggregating Sequences in .NET",
+        "duration_seconds": 3749,
+        "upload_date": "2021-11-23T11:00:33Z",
+        "comment_count": 9,
+        "likes": 36,
+        "views": 1083
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "8t0u1QcZR5I",
+        "title": "Working Software ep. 6: Using LINQ in Modeling and Prototyping",
+        "duration_seconds": 4050,
+        "upload_date": "2021-08-03T10:00:06Z",
+        "comment_count": 6,
+        "likes": 39,
+        "views": 929
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "S6QqqROdbX0",
+        "title": "Working Software ep. 5: Implementation Planning, or How to Write Code w/o a Computer",
+        "duration_seconds": 3920,
+        "upload_date": "2021-04-29T14:25:54Z",
+        "comment_count": 1,
+        "likes": 27,
+        "views": 750
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "RzKrUtwgPgY",
+        "title": "Working Software ep. 4: Developing a Custom Scripting Language",
+        "duration_seconds": 5647,
+        "upload_date": "2020-10-27T11:05:07Z",
+        "comment_count": 10,
+        "likes": 45,
+        "views": 1895
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Hpazn6WlfoQ",
+        "title": "Working Software ep. 3: Securing Database Layer",
+        "duration_seconds": 5232,
+        "upload_date": "2020-09-01T11:50:51Z",
+        "comment_count": 12,
+        "likes": 45,
+        "views": 1217
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "GfH8gAcDeK8",
+        "title": "The Tower of Babel (5000 pieces)",
+        "duration_seconds": 85,
+        "upload_date": "2020-07-04T12:14:35Z",
+        "comment_count": 4,
+        "likes": 56,
+        "views": 1517
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "h4DarWJIcvo",
+        "title": "Working Software ep. 2: Processing Plain Text",
+        "duration_seconds": 3265,
+        "upload_date": "2020-07-04T10:38:15Z",
+        "comment_count": 7,
+        "likes": 34,
+        "views": 878
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "-yw7rOo1zHo",
+        "title": "Working Software ep. 1 part II: Live Coding Session",
+        "duration_seconds": 5325,
+        "upload_date": "2020-06-10T14:32:14Z",
+        "comment_count": 3,
+        "likes": 39,
+        "views": 1410
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "DS8qA0wYt-I",
+        "title": "Working Software ep. 1 part I: Immutable Transforms on Large Data",
+        "duration_seconds": 3669,
+        "upload_date": "2020-06-09T15:06:00Z",
+        "comment_count": 6,
+        "likes": 60,
+        "views": 1937
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "x2eFDntvzMQ",
+        "title": "Working Software ep. 0",
+        "duration_seconds": 2001,
+        "upload_date": "2020-06-02T13:40:51Z",
+        "comment_count": 15,
+        "likes": 138,
+        "views": 2864
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "MxISquIVh-g",
+        "title": "Course Preview: Design Patterns in C# Made Simple",
+        "duration_seconds": 823,
+        "upload_date": "2020-04-24T09:48:43Z",
+        "comment_count": 17,
+        "likes": 49,
+        "views": 1405
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Z6hQz81ex6U",
+        "title": "So, You're Writing Code One Line at a Time? -- Yeah, Right...",
+        "duration_seconds": 2485,
+        "upload_date": "2019-08-15T11:27:41Z",
+        "comment_count": 10,
+        "likes": 109,
+        "views": 3471
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "UM-3ZsHhogA",
+        "title": "Stepping from Object-oriented to Functional Style with C# 8, and No Tears",
+        "duration_seconds": 3250,
+        "upload_date": "2019-07-02T10:17:38Z",
+        "comment_count": 13,
+        "likes": 203,
+        "views": 8683
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "sybwiWvB3U8",
+        "title": "Kako prekora\u010diti sa objektno-orijentisanog na funkcionalni stil uz C# 8, bez suza",
+        "duration_seconds": 3250,
+        "upload_date": "2019-07-02T10:17:33Z",
+        "comment_count": 8,
+        "likes": 51,
+        "views": 2311
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "vYsp7OC7JJk",
+        "title": "Refactoring to Design Patterns",
+        "duration_seconds": 96,
+        "upload_date": "2019-02-28T19:12:22Z",
+        "comment_count": 3,
+        "likes": 21,
+        "views": 1427
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "k91-R9atTWY",
+        "title": "Course Preview: Mastering Iterative Object-oriented Development in C#",
+        "duration_seconds": 92,
+        "upload_date": "2018-12-09T21:36:43Z",
+        "comment_count": 10,
+        "likes": 18,
+        "views": 953
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "SrOcc5LlRxw",
+        "title": "Kako vratiti funkcionalno programiranje nazad u objektne jezike - Tarabica18",
+        "duration_seconds": 3223,
+        "upload_date": "2018-08-21T10:28:26Z",
+        "comment_count": 4,
+        "likes": 28,
+        "views": 1250
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "foMXDS7xMDM",
+        "title": "Introduction to Emergent Object-Oriented Design",
+        "duration_seconds": 3225,
+        "upload_date": "2018-07-25T22:53:59Z",
+        "comment_count": 5,
+        "likes": 83,
+        "views": 3158
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "3-QrwizdHkg",
+        "title": "Kako refaktorisati funkciju od 1000 linija u \u010dist(iji) kod",
+        "duration_seconds": 3973,
+        "upload_date": "2018-06-27T20:36:53Z",
+        "comment_count": 14,
+        "likes": 63,
+        "views": 3815
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "bX_jMVG8nwM",
+        "title": "Exception Handling Strategies in .NET (in Serbian)",
+        "duration_seconds": 4374,
+        "upload_date": "2017-05-10T08:24:54Z",
+        "comment_count": 3,
+        "likes": 34,
+        "views": 1755
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "Vedisg2JsTw",
+        "title": "Understanding Difference Between Branching Instructions and Guard Clauses",
+        "duration_seconds": 199,
+        "upload_date": "2016-12-01T11:33:49Z",
+        "comment_count": 0,
+        "likes": 19,
+        "views": 941
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "kHYKRn8gMow",
+        "title": "Understanding Covariant Nature of the Abstract Factory",
+        "duration_seconds": 84,
+        "upload_date": "2016-07-08T09:46:42Z",
+        "comment_count": 0,
+        "likes": 10,
+        "views": 663
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "wI3Mq2gxvFA",
+        "title": "Simple Implementation of Option (Maybe) Type in C#",
+        "duration_seconds": 181,
+        "upload_date": "2016-05-10T14:26:20Z",
+        "comment_count": 2,
+        "likes": 55,
+        "views": 3394
+    },
+    {
+        "channelID": "UCxsWfh8LCcn55mFB6zGBT1g",
+        "videoID": "4KTCVZ4Dru8",
+        "title": "Using yield return in C# to Construct an Infinite Sequence",
+        "duration_seconds": 181,
+        "upload_date": "2016-05-05T10:29:37Z",
+        "comment_count": 4,
+        "likes": 36,
+        "views": 1951
+    }
+]

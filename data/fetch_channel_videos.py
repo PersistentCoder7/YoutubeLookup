@@ -35,7 +35,7 @@ args = parser.parse_args()
 channel_name = args.channel_name.strip().lower()
 channel_display_name = channel_name.replace("@", "")
 published_after = args.publishedAfter
-output_filename = f"{channel_display_name}_channel_videos.json"
+output_filename = f"{channel_display_name}.json"
 
 # Load existing data if the file exists
 existing_videos = {}

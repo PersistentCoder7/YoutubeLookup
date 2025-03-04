@@ -1,0 +1,3782 @@
+[
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XT_m3nua72E",
+        "title": "Live Coding with GitHub Copilot Agent Mode, Next Edit Suggestions, and GPT-4o Copilot",
+        "duration_seconds": 7465,
+        "upload_date": "2025-02-24T06:16:20Z",
+        "comment_count": 1,
+        "likes": 89,
+        "views": 3033
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "pUK7MRzoTDc",
+        "title": "Let's try GitHub Copilot Agent mode to build a FULL app!",
+        "duration_seconds": 1533,
+        "upload_date": "2025-02-20T14:00:06Z",
+        "comment_count": 72,
+        "likes": 1063,
+        "views": 35864
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "D2voUPyq5lY",
+        "title": "BETTER, FASTER, STRONGER Hot Reload & Live Preview for .NET MAUI & Blazor Hybrid in Visual Studio",
+        "duration_seconds": 507,
+        "upload_date": "2025-02-06T14:00:18Z",
+        "comment_count": 38,
+        "likes": 230,
+        "views": 4989
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "6IQdMA95zXE",
+        "title": "Starting .NET MAUI Development in 2025 - Everything You Need To Know!",
+        "duration_seconds": 2169,
+        "upload_date": "2025-01-31T14:30:06Z",
+        "comment_count": 63,
+        "likes": 3925,
+        "views": 21548
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "uEjZqmQFU7M",
+        "title": "Running macOS in a macOS Virtual Machine on a Mac for Free (Full Setup Guide - Orka and UTM)",
+        "duration_seconds": 945,
+        "upload_date": "2025-01-16T14:01:03Z",
+        "comment_count": 18,
+        "likes": 101,
+        "views": 5464
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "pkhui1qIozA",
+        "title": "Install & Run Windows 11 on an Apple Silicon Mac with VMware Fusion for FREE (Full setup guide)",
+        "duration_seconds": 1204,
+        "upload_date": "2025-01-09T14:00:57Z",
+        "comment_count": 131,
+        "likes": 473,
+        "views": 23601
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "weWlepDDK24",
+        "title": "2024: A Year in Review",
+        "duration_seconds": 1074,
+        "upload_date": "2024-12-31T14:01:04Z",
+        "comment_count": 17,
+        "likes": 70,
+        "views": 1114
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "kPGcIyxYfBE",
+        "title": "My Mac Mini M4/M4 Pro Developer Setup - .NET, macOS, iOS, Android, Windows, & More",
+        "duration_seconds": 914,
+        "upload_date": "2024-12-23T14:00:46Z",
+        "comment_count": 60,
+        "likes": 417,
+        "views": 16601
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QEqa7X5xM6I",
+        "title": "Easily Upgrade .NET MAUI & Blazor Hybrid apps to .NET 9 in Minutes",
+        "duration_seconds": 1162,
+        "upload_date": "2024-12-05T14:00:33Z",
+        "comment_count": 41,
+        "likes": 196,
+        "views": 6783
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cxhbyq3qIq4",
+        "title": "SHOW ME ALL MY SOLUTIONS VISUAL STUDIO! #visualstudio #dotnet #tipsandtricks #programming",
+        "duration_seconds": 29,
+        "upload_date": "2024-10-22T21:24:18Z",
+        "comment_count": 2,
+        "likes": 105,
+        "views": 3838
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "e36NEWqO7GQ",
+        "title": "Build Better Apps with .NET Aspire - Complete Beginner's Guide & Tutorial",
+        "duration_seconds": 4367,
+        "upload_date": "2024-09-10T13:00:46Z",
+        "comment_count": 45,
+        "likes": 817,
+        "views": 31015
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "C3I33p0xUIM",
+        "title": "Gerald\u2019s 100K congratulations!!! #dotnetmaui @jfversluis",
+        "duration_seconds": 29,
+        "upload_date": "2024-08-23T23:30:40Z",
+        "comment_count": 4,
+        "likes": 70,
+        "views": 1231
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "B-kZ-AgEeO8",
+        "title": "Deploy & Debug .NET MAUI Apps to iOS Devices in VS Code - Complete Guide",
+        "duration_seconds": 699,
+        "upload_date": "2024-08-23T13:00:17Z",
+        "comment_count": 45,
+        "likes": 236,
+        "views": 14958
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Hr-i8nrSiXo",
+        "title": "HUGE .NET MAUI Update in .NET 9 Preview 7!! New HybridWebView #dotnet #dotnetmaui",
+        "duration_seconds": 60,
+        "upload_date": "2024-08-13T20:01:12Z",
+        "comment_count": 17,
+        "likes": 280,
+        "views": 7520
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ZkrUR3A9aM4",
+        "title": "Deploy & Debug .NET MAUI Apps to Android Devices in VS Code",
+        "duration_seconds": 438,
+        "upload_date": "2024-08-08T13:00:40Z",
+        "comment_count": 30,
+        "likes": 151,
+        "views": 7819
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "zfDCZkITpHU",
+        "title": ".NET MAUI Extensions for VS Code - Emulators, App Publishing, Manifest Editing, and More!",
+        "duration_seconds": 761,
+        "upload_date": "2024-07-25T13:01:04Z",
+        "comment_count": 23,
+        "likes": 258,
+        "views": 6562
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "h_Q8-BD0WJQ",
+        "title": "Founder & Friends: Everything .NET",
+        "duration_seconds": 3545,
+        "upload_date": "2024-07-25T10:05:50Z",
+        "comment_count": 2,
+        "likes": 33,
+        "views": 1341
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "1t2zzoW4D98",
+        "title": ".NET MAUI Development in VS Code - Complete Setup Guide (Develop on macOS, Linux, & Windows)!",
+        "duration_seconds": 1940,
+        "upload_date": "2024-07-18T13:00:02Z",
+        "comment_count": 113,
+        "likes": 756,
+        "views": 27359
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ilUohNPqnkU",
+        "title": "New Blazor Hybrid + .NET MAUI Templates are Incredible! Mobile, Desktop, Web all together!",
+        "duration_seconds": 583,
+        "upload_date": "2024-06-28T13:00:56Z",
+        "comment_count": 50,
+        "likes": 672,
+        "views": 26155
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "oqEROsx2A6E",
+        "title": "Let's Chat - Live Birthday Q&A!",
+        "duration_seconds": 3471,
+        "upload_date": "2024-06-26T06:05:40Z",
+        "comment_count": 1,
+        "likes": 32,
+        "views": 714
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YKraN1ZETpw",
+        "title": "Visualize OpenTelemetry Data in Seconds with Aspire Dashboard for JavaScript Developers",
+        "duration_seconds": 676,
+        "upload_date": "2024-06-13T13:30:15Z",
+        "comment_count": 8,
+        "likes": 114,
+        "views": 9391
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dALlcj7U-iI",
+        "title": ".NET Aspire Dashboard Deep Dive - Logs, Metrics, Traces & More!",
+        "duration_seconds": 1082,
+        "upload_date": "2024-06-06T13:00:40Z",
+        "comment_count": 24,
+        "likes": 216,
+        "views": 8084
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "I4FbxlI3gvU",
+        "title": "VS Code C# & Razor Hot Reload for .NET, .NET MAUI, Blazor Hybrid!!!!! #dotnet #vscode",
+        "duration_seconds": 59,
+        "upload_date": "2024-06-02T02:49:44Z",
+        "comment_count": 16,
+        "likes": 202,
+        "views": 6088
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "DLUieEOMO_Y",
+        "title": ".NET MAUI XAML Productivity Boost in VS Code is HERE!!! Hot Reload & IntelliSense!!!",
+        "duration_seconds": 594,
+        "upload_date": "2024-05-31T13:00:17Z",
+        "comment_count": 40,
+        "likes": 317,
+        "views": 8724
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "JrlHx81KwRg",
+        "title": ".NET at #MSBuild and new .NET MAUI XAML IntelliSense in VS Code!!!!",
+        "duration_seconds": 43,
+        "upload_date": "2024-05-21T22:44:58Z",
+        "comment_count": 11,
+        "likes": 217,
+        "views": 5117
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "X7guekGZM20",
+        "title": "Beginner's Guide to VS Code Dev Containers - The Instant Dev Environment That I LOVE!",
+        "duration_seconds": 315,
+        "upload_date": "2024-05-17T13:00:27Z",
+        "comment_count": 18,
+        "likes": 458,
+        "views": 21651
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "4t_-g4fwEG0",
+        "title": "Redis Cache, PostgreSQL Databases, Messaging, & More with .NET Aspire",
+        "duration_seconds": 997,
+        "upload_date": "2024-05-02T13:00:06Z",
+        "comment_count": 29,
+        "likes": 228,
+        "views": 7483
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NNPI4QQ8LhE",
+        "title": "Build Your First AI Chat Bot with OpenAI and .NET in Minutes",
+        "duration_seconds": 887,
+        "upload_date": "2024-04-25T04:00:09Z",
+        "comment_count": 32,
+        "likes": 555,
+        "views": 17492
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "fN3ufsIF7vs",
+        "title": "What is .NET Aspire? Why do you NEED it in every .NET app? How to get started in minutes!",
+        "duration_seconds": 1322,
+        "upload_date": "2024-04-18T13:00:40Z",
+        "comment_count": 72,
+        "likes": 1245,
+        "views": 43039
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QOWzBDXuhE4",
+        "title": "Passing data in .NET MAUI with Shell to a ViewModel #dotnet #dotnetmaui",
+        "duration_seconds": 54,
+        "upload_date": "2024-04-07T16:21:24Z",
+        "comment_count": 12,
+        "likes": 218,
+        "views": 5489
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LZV1TApcG4Y",
+        "title": "Error Monitoring & Crash Reporting for .NET MAUI Apps with Raygun",
+        "duration_seconds": 1160,
+        "upload_date": "2024-04-04T13:00:29Z",
+        "comment_count": 17,
+        "likes": 162,
+        "views": 5672
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "5LgQtIkneoI",
+        "title": "Adobe Podcast Enhance Speech is INCREDIBLE! Before & After",
+        "duration_seconds": 21,
+        "upload_date": "2024-04-01T02:32:01Z",
+        "comment_count": 9,
+        "likes": 41,
+        "views": 1970
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "F0uXADEgolw",
+        "title": "Let's Test This $40 Wireless Apple CarPlay & Android Auto Screen! Car Thing Alternative Review",
+        "duration_seconds": 969,
+        "upload_date": "2024-03-28T13:00:12Z",
+        "comment_count": 32,
+        "likes": 239,
+        "views": 46264
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vYZ9t-nHOss",
+        "title": "App Center Build to Azure DevOps Pipelines Migration Guide",
+        "duration_seconds": 1553,
+        "upload_date": "2024-03-21T13:00:50Z",
+        "comment_count": 22,
+        "likes": 138,
+        "views": 5866
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "lcMpkhtlKgU",
+        "title": "Do you have to use XAML with .NET MAUI??? NOOOOO! #dotnetmaui #dotnet",
+        "duration_seconds": 60,
+        "upload_date": "2024-03-20T01:52:00Z",
+        "comment_count": 19,
+        "likes": 228,
+        "views": 6655
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-SiYAYp5AOI",
+        "title": "Hello YARP, A Lightning Fast Reverse Proxy with .NET",
+        "duration_seconds": 1371,
+        "upload_date": "2024-03-08T14:30:00Z",
+        "comment_count": 39,
+        "likes": 405,
+        "views": 9913
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9QNBRT_8WKU",
+        "title": "Sticky Scroll Code Indentation Pinning in #VisualStudio",
+        "duration_seconds": 40,
+        "upload_date": "2024-03-01T00:08:05Z",
+        "comment_count": 8,
+        "likes": 213,
+        "views": 3917
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "tSUwr-R1JPQ",
+        "title": "Generate Blazor Websites in Minutes with Visual Studio's NEW Scaffolder for RAD development!",
+        "duration_seconds": 619,
+        "upload_date": "2024-02-29T14:00:45Z",
+        "comment_count": 87,
+        "likes": 1132,
+        "views": 27571
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "TcXSwSxlEiA",
+        "title": ".NET MAUI Signature Pad Complete Guide",
+        "duration_seconds": 906,
+        "upload_date": "2024-01-26T15:00:25Z",
+        "comment_count": 25,
+        "likes": 299,
+        "views": 8064
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "y2WjYq8nHHk",
+        "title": "Upgrade .NET MAUI to 8.0.6 SR1 NOW in SECONDS!  #dotnetmaui #dotnet",
+        "duration_seconds": 60,
+        "upload_date": "2024-01-20T18:01:09Z",
+        "comment_count": 7,
+        "likes": 184,
+        "views": 8078
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "02pjHAXYK6s",
+        "title": "Starting .NET MAUI Development in 2024 - What You Need To Know",
+        "duration_seconds": 2118,
+        "upload_date": "2024-01-19T14:30:00Z",
+        "comment_count": 178,
+        "likes": 2322,
+        "views": 87848
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "5qC89wNilhc",
+        "title": "Real World Production Apps Xamarin.Forms to .NET MAUI Migration Live Stream",
+        "duration_seconds": 9114,
+        "upload_date": "2023-12-29T18:39:21Z",
+        "comment_count": 22,
+        "likes": 187,
+        "views": 9372
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "jBUTT7s6zC0",
+        "title": "My Top 10 NEW Visual Studio Features of 2023",
+        "duration_seconds": 1925,
+        "upload_date": "2023-12-27T14:00:28Z",
+        "comment_count": 20,
+        "likes": 441,
+        "views": 26030
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XdsFhlazyhk",
+        "title": ".NET MAUI Barcode & QR Code Scanning Like a PRO!",
+        "duration_seconds": 723,
+        "upload_date": "2023-12-22T14:00:20Z",
+        "comment_count": 82,
+        "likes": 982,
+        "views": 27081
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "04YxaxeNkLQ",
+        "title": "WASI Will Change .NET Forever! Run WebAssembly Outside The Browser!",
+        "duration_seconds": 592,
+        "upload_date": "2023-12-15T14:00:00Z",
+        "comment_count": 54,
+        "likes": 452,
+        "views": 13482
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vBslkCF6hdw",
+        "title": "\ud83d\udd34 111K Subscriber Ask Me Anything + Exploring .NET Aspire!",
+        "duration_seconds": 6087,
+        "upload_date": "2023-12-09T06:31:14Z",
+        "comment_count": 6,
+        "likes": 58,
+        "views": 2177
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3EoAGNsYSDk",
+        "title": ".NET MAUI Version Pinning & Nightly Build Integration",
+        "duration_seconds": 476,
+        "upload_date": "2023-11-30T14:00:03Z",
+        "comment_count": 12,
+        "likes": 111,
+        "views": 3406
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "WT064JwxhHo",
+        "title": ".NET MAUI AOT App Size Improvements in .NET 8 #dotnetmaui #dotnet",
+        "duration_seconds": 61,
+        "upload_date": "2023-11-25T17:20:38Z",
+        "comment_count": 9,
+        "likes": 139,
+        "views": 4687
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LVhShrl_Eeo",
+        "title": "Where can I publish Blazor Hybrid apps? #dotnetmaui #blazor #dotnet",
+        "duration_seconds": 55,
+        "upload_date": "2023-11-25T17:14:29Z",
+        "comment_count": 2,
+        "likes": 98,
+        "views": 3301
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "jvfFWT30HyU",
+        "title": "Keyboard Shortcuts for .NET MAUI Desktop Apps with the NEW Keyboard Accelerator Feature",
+        "duration_seconds": 382,
+        "upload_date": "2023-11-21T14:00:27Z",
+        "comment_count": 10,
+        "likes": 146,
+        "views": 3294
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GwYasrVxmlg",
+        "title": "YouTube Sent Us A Package!?!?!?! 100K Thank You! #dotnet #dotnetmaui",
+        "duration_seconds": 39,
+        "upload_date": "2023-11-17T14:00:17Z",
+        "comment_count": 23,
+        "likes": 169,
+        "views": 2217
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "kB7oWHmuWN8",
+        "title": "Learn to Build .NET Cloud Native Apps & Microservices for FREE in the Browser!",
+        "duration_seconds": 709,
+        "upload_date": "2023-11-09T14:00:36Z",
+        "comment_count": 8,
+        "likes": 264,
+        "views": 7767
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "bJ8vfsqr4h0",
+        "title": "Instant .NET Developer Environment for APIs, Blazor, & More with GitHub Codespaces for FREE!",
+        "duration_seconds": 669,
+        "upload_date": "2023-10-24T13:00:24Z",
+        "comment_count": 22,
+        "likes": 477,
+        "views": 14672
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "f9Twoj0nbJY",
+        "title": "Best resources for Blazor Hybrid and .NET MAUI for beginners! #dotnetmaui #coding #blazor",
+        "duration_seconds": 58,
+        "upload_date": "2023-10-17T17:14:53Z",
+        "comment_count": 3,
+        "likes": 259,
+        "views": 6321
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LduB-eYmXXk",
+        "title": "The Best Single-pole Smart Thermostat for Baseboard/Cadet Heater! Sinop\u00e9 Review (Zigbee & Wi-Fi)",
+        "duration_seconds": 1674,
+        "upload_date": "2023-10-12T13:00:26Z",
+        "comment_count": 34,
+        "likes": 120,
+        "views": 13238
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "FDVs1PjSylY",
+        "title": "Xcode 15 (iOS 17) and Android API 34 Support for #Xamarin and #XamarinForms",
+        "duration_seconds": 43,
+        "upload_date": "2023-10-11T00:26:26Z",
+        "comment_count": 11,
+        "likes": 123,
+        "views": 3938
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "6qoW90eEBMQ",
+        "title": "NuGet Central Package Management Is AWSOME! .NET Global Packages & Versions Simplified",
+        "duration_seconds": 648,
+        "upload_date": "2023-09-28T13:00:06Z",
+        "comment_count": 47,
+        "likes": 575,
+        "views": 13887
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "mBrdr2j3eXE",
+        "title": "Where did my hair go!?!?! Donating hair to charity!",
+        "duration_seconds": 56,
+        "upload_date": "2023-09-21T01:35:41Z",
+        "comment_count": 11,
+        "likes": 138,
+        "views": 2366
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3lZldOqg5i0",
+        "title": ".NET MAUI in .NET 8 - Everything you need to know!",
+        "duration_seconds": 1131,
+        "upload_date": "2023-09-19T14:00:06Z",
+        "comment_count": 120,
+        "likes": 1187,
+        "views": 50443
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Sz0b8Lxn7_Q",
+        "title": "Blazor, React, and .NET MAUI?!?!? #dotnetmaui #coding #blazor",
+        "duration_seconds": 35,
+        "upload_date": "2023-09-18T18:09:37Z",
+        "comment_count": 6,
+        "likes": 149,
+        "views": 6201
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Yzv0u1ZA_UY",
+        "title": ".NET Upgrade Assistant on Mac and Linux?? #dotnetmaui #coding #visualstudio",
+        "duration_seconds": 32,
+        "upload_date": "2023-09-18T18:05:47Z",
+        "comment_count": 4,
+        "likes": 44,
+        "views": 2193
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "rg2OhsG3Kl4",
+        "title": "Blazor Hybrid MVVM? MVC?? What to do? #coding #dotnetmaui #blazor",
+        "duration_seconds": 59,
+        "upload_date": "2023-09-18T18:02:57Z",
+        "comment_count": 5,
+        "likes": 94,
+        "views": 3570
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "tcW-zZDn83E",
+        "title": "ALWAYS Use File Scoped Namespaces Visual Studio 2022!!!!!  #coding #visualstudio #dotnet #csharp",
+        "duration_seconds": 61,
+        "upload_date": "2023-09-15T22:00:25Z",
+        "comment_count": 5,
+        "likes": 272,
+        "views": 6126
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "2VAo-x07hBM",
+        "title": "How to share your iPhone/iPad screen on a FaceTime call",
+        "duration_seconds": 388,
+        "upload_date": "2023-09-14T13:00:03Z",
+        "comment_count": 5,
+        "likes": 100,
+        "views": 8794
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "gtkw0z3HBhE",
+        "title": "The Document Cam that is ALSO a Webcam! BenQ ideaCam S1 Pro Review",
+        "duration_seconds": 1115,
+        "upload_date": "2023-08-31T03:00:19Z",
+        "comment_count": 7,
+        "likes": 45,
+        "views": 1377
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7EaHKGUCIqc",
+        "title": "Migrate to .NET MAUI from Xamarin.Forms Faster Than Ever - .NET Upgrade Assistant for Visual Studio",
+        "duration_seconds": 1977,
+        "upload_date": "2023-08-24T13:00:04Z",
+        "comment_count": 65,
+        "likes": 464,
+        "views": 30776
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0WfGA3DrJLQ",
+        "title": "Merge Conflict has a NEW home on YouTube!!!",
+        "duration_seconds": 167,
+        "upload_date": "2023-08-22T01:15:01Z",
+        "comment_count": 4,
+        "likes": 61,
+        "views": 1629
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-ckmz89vhrQ",
+        "title": "Create a .NET MAUI Menu Bar on Windows and Mac with Ease",
+        "duration_seconds": 503,
+        "upload_date": "2023-08-10T13:00:00Z",
+        "comment_count": 39,
+        "likes": 344,
+        "views": 14032
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "KAU9SLm1nn0",
+        "title": "Building Hybrid Apps with .NET MAUI for iOS, Android, Mac, & Windows | React, Vue.js, Angular & More",
+        "duration_seconds": 1133,
+        "upload_date": "2023-08-03T13:00:17Z",
+        "comment_count": 52,
+        "likes": 500,
+        "views": 34493
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cyz_fKE5wQI",
+        "title": "Enable Hot Reload for .NET MAUI C# UI and Markup | Super Productivity Boost",
+        "duration_seconds": 691,
+        "upload_date": "2023-07-27T13:00:29Z",
+        "comment_count": 41,
+        "likes": 448,
+        "views": 55230
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "mHNO4yVtHPs",
+        "title": "\ud83d\udd34 Recreating Threads App with .NET MAUI - Profile Page in C# UI!",
+        "duration_seconds": 9298,
+        "upload_date": "2023-07-21T19:03:14Z",
+        "comment_count": 13,
+        "likes": 169,
+        "views": 5729
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "AZ1itc4y-RU",
+        "title": "\ud83d\udd34 Recreating Threads App with .NET MAUI & NEW VS Code Extension!",
+        "duration_seconds": 9586,
+        "upload_date": "2023-07-14T19:40:02Z",
+        "comment_count": 29,
+        "likes": 334,
+        "views": 13172
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Ivj21a_jMAo",
+        "title": "Enhancing .NET MAUI Desktop Apps with Context Menus",
+        "duration_seconds": 866,
+        "upload_date": "2023-07-07T13:00:25Z",
+        "comment_count": 28,
+        "likes": 326,
+        "views": 10146
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BHBYHC_9URc",
+        "title": "Mastering .NET MAUI SwipeView for Enhanced App Experience",
+        "duration_seconds": 1116,
+        "upload_date": "2023-06-29T13:00:13Z",
+        "comment_count": 53,
+        "likes": 503,
+        "views": 17073
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QpNYzigUdfg",
+        "title": "Developers Guide to the Windows Subsystem for Android | 2023 Edition",
+        "duration_seconds": 722,
+        "upload_date": "2023-06-15T13:00:18Z",
+        "comment_count": 32,
+        "likes": 303,
+        "views": 18201
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "doUDcQNoy38",
+        "title": "Share Local Web Services Across the Internet with Dev Tunnels CLI",
+        "duration_seconds": 871,
+        "upload_date": "2023-06-08T20:00:20Z",
+        "comment_count": 11,
+        "likes": 209,
+        "views": 5143
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "r3d9Cd5kwY0",
+        "title": "Deploy & Host Blazor Static Web Apps for FREE in Azure in ONE click with Visual Studio",
+        "duration_seconds": 367,
+        "upload_date": "2023-06-03T13:00:40Z",
+        "comment_count": 48,
+        "likes": 504,
+        "views": 13501
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "IXFcYHDpWIw",
+        "title": "Add Captions to Videos with Clipchamp",
+        "duration_seconds": 49,
+        "upload_date": "2023-05-30T13:00:20Z",
+        "comment_count": 26,
+        "likes": 1572,
+        "views": 96651
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7xYj7tykHAw",
+        "title": "Test & Explore .NET APIs in Seconds with Visual Studio",
+        "duration_seconds": 60,
+        "upload_date": "2023-05-29T20:00:02Z",
+        "comment_count": 1,
+        "likes": 192,
+        "views": 3882
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LdhTRfxsJTU",
+        "title": "Let's Put These $20 Lavalier Wireless Mics to the Test! Maybesta Review",
+        "duration_seconds": 477,
+        "upload_date": "2023-05-28T14:19:26Z",
+        "comment_count": 275,
+        "likes": 2296,
+        "views": 260423
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Slvyugn458Q",
+        "title": "Primary Constructors in C# 12 Explained!",
+        "duration_seconds": 579,
+        "upload_date": "2023-05-19T13:30:19Z",
+        "comment_count": 72,
+        "likes": 905,
+        "views": 25051
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "x7Pfdl9wl4Q",
+        "title": "Explore, Test, & Debug API Endpoints in Visual Studio Faster Than Ever!",
+        "duration_seconds": 653,
+        "upload_date": "2023-05-05T14:30:28Z",
+        "comment_count": 45,
+        "likes": 743,
+        "views": 26627
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "lqLfY9zNKNY",
+        "title": "Blazor Hybrid (+.NET MAUI) Tutorial for Beginners - Build mobile, desktop, & web apps with C#",
+        "duration_seconds": 2702,
+        "upload_date": "2023-04-28T13:30:09Z",
+        "comment_count": 189,
+        "likes": 3105,
+        "views": 149363
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "uv_jK44WdLg",
+        "title": "Faster API Development in Visual Studio is Here! Say Hello to .http/.rest Files!",
+        "duration_seconds": 526,
+        "upload_date": "2023-04-20T13:00:44Z",
+        "comment_count": 83,
+        "likes": 1488,
+        "views": 52836
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "c7ZkfmuW3-w",
+        "title": "3 Visual Studio Code Extensions for Programming/Code Presentations",
+        "duration_seconds": 521,
+        "upload_date": "2023-04-13T13:00:25Z",
+        "comment_count": 8,
+        "likes": 195,
+        "views": 6707
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NPJhrftkqeg",
+        "title": "New Visual Studio Feature is a Game Changer for API Developers - Put localhost Online",
+        "duration_seconds": 681,
+        "upload_date": "2023-03-30T13:30:14Z",
+        "comment_count": 99,
+        "likes": 1191,
+        "views": 23531
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QEi7xTaUaDI",
+        "title": "What apps are on my phone? App Developer Edition!",
+        "duration_seconds": 780,
+        "upload_date": "2023-03-10T15:00:17Z",
+        "comment_count": 13,
+        "likes": 84,
+        "views": 3012
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "AgP4p8qhi4s",
+        "title": "A Beginner's Guide to Azure Static Web Apps - Free hosting for Blazor, React, Angular, & more!",
+        "duration_seconds": 1592,
+        "upload_date": "2023-02-16T14:00:03Z",
+        "comment_count": 56,
+        "likes": 998,
+        "views": 23104
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "z0D7pYbp96I",
+        "title": "Hey ChatGPT! Code Me A Full Login Screen (XAML + MVVM) #shorts #dotnetmaui",
+        "duration_seconds": 60,
+        "upload_date": "2023-02-09T14:00:29Z",
+        "comment_count": 16,
+        "likes": 476,
+        "views": 16116
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "KPaKIUi-VJw",
+        "title": "Mirror Your iOS Device On Windows with Vysor #shorts",
+        "duration_seconds": 52,
+        "upload_date": "2023-02-07T14:00:10Z",
+        "comment_count": 21,
+        "likes": 463,
+        "views": 44405
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BbIe3Or4xjY",
+        "title": "Microsoft Teams Integration in Stream Deck Is Here!! (Full setup guide)",
+        "duration_seconds": 507,
+        "upload_date": "2023-02-03T14:00:08Z",
+        "comment_count": 38,
+        "likes": 218,
+        "views": 17669
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0h9xBBOUJoM",
+        "title": "4 Ways To Screen Mirror an iPhone or iPad to Windows",
+        "duration_seconds": 1048,
+        "upload_date": "2023-02-02T14:00:02Z",
+        "comment_count": 159,
+        "likes": 2458,
+        "views": 263980
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "snQ1C6Cppr8",
+        "title": "Build iOS Apps with or WITHOUT a Mac? Visual Studio, C#, & .NET MAUI with Hot Restart",
+        "duration_seconds": 996,
+        "upload_date": "2023-01-26T14:00:25Z",
+        "comment_count": 200,
+        "likes": 1820,
+        "views": 116059
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "TCz2IDuNZE8",
+        "title": "The Best Way To Style & Format XAML #shorts",
+        "duration_seconds": 58,
+        "upload_date": "2023-01-15T22:00:07Z",
+        "comment_count": 18,
+        "likes": 1012,
+        "views": 21326
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "4WVY-mFPFNI",
+        "title": "Share Partial Screen in Zoom, Microsoft Teams, Google Meet, & More",
+        "duration_seconds": 496,
+        "upload_date": "2023-01-12T14:00:03Z",
+        "comment_count": 67,
+        "likes": 732,
+        "views": 35739
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0P4bIDOElH8",
+        "title": "2023 Kickoff - Ask Me Anything! #dotnet #dotnetmaui #ama",
+        "duration_seconds": 3813,
+        "upload_date": "2023-01-03T05:10:57Z",
+        "comment_count": 7,
+        "likes": 79,
+        "views": 2237
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "mp0C4NOxHXE",
+        "title": ".NET 2022 Rewind - Everything Awesome For Developers",
+        "duration_seconds": 1369,
+        "upload_date": "2022-12-31T14:00:19Z",
+        "comment_count": 17,
+        "likes": 191,
+        "views": 4858
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "6qO50hRfoRI",
+        "title": "Getting Started with Airalo eSims for International Data | Full Android & iPhone Tutorial",
+        "duration_seconds": 872,
+        "upload_date": "2022-12-22T14:00:02Z",
+        "comment_count": 37,
+        "likes": 439,
+        "views": 27978
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "32iBQvIZQxU",
+        "title": "Scaffolding .NET Web APIs Powered By EF Core, SQL, & Azure in Seconds",
+        "duration_seconds": 1254,
+        "upload_date": "2022-12-16T14:00:03Z",
+        "comment_count": 57,
+        "likes": 1170,
+        "views": 83560
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "EXmSmv5ifkk",
+        "title": "Live Stream: Migrating & Upgrading Xamarin.Forms to .NET MAUI",
+        "duration_seconds": 12358,
+        "upload_date": "2022-12-02T20:37:13Z",
+        "comment_count": 19,
+        "likes": 299,
+        "views": 20792
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9vvm_-YveTs",
+        "title": "Even More MVVM Source Generator Awesomeness for .NET Developers",
+        "duration_seconds": 774,
+        "upload_date": "2022-12-01T14:00:05Z",
+        "comment_count": 56,
+        "likes": 1024,
+        "views": 28064
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0BvCzZ9P7UY",
+        "title": "7 Awesome New Features in .NET 7",
+        "duration_seconds": 1253,
+        "upload_date": "2022-11-24T14:00:00Z",
+        "comment_count": 43,
+        "likes": 1014,
+        "views": 34500
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "_dv6lwqKXPA",
+        "title": "Where did James go? (#dotnetconf edition) #shorts",
+        "duration_seconds": 41,
+        "upload_date": "2022-11-05T21:00:12Z",
+        "comment_count": 9,
+        "likes": 294,
+        "views": 5233
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Tvv9aO7S5hY",
+        "title": ".NET MAUI Code & Control Sharing Strategies",
+        "duration_seconds": 656,
+        "upload_date": "2022-10-30T13:00:30Z",
+        "comment_count": 33,
+        "likes": 606,
+        "views": 14337
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "JCgxK0pWjNg",
+        "title": "Accessing Native Platform APIs in .NET MAUI",
+        "duration_seconds": 1431,
+        "upload_date": "2022-10-13T13:00:11Z",
+        "comment_count": 68,
+        "likes": 670,
+        "views": 19455
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "faWIMmYyJ6s",
+        "title": "Update .NET MAUI Apps to .NET 7 in 60 Seconds | #shorts",
+        "duration_seconds": 55,
+        "upload_date": "2022-10-07T13:00:34Z",
+        "comment_count": 15,
+        "likes": 469,
+        "views": 10678
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9GljgwfpiiE",
+        "title": "Check and Request Permissions in .NET MAUI",
+        "duration_seconds": 1188,
+        "upload_date": "2022-09-29T13:00:10Z",
+        "comment_count": 67,
+        "likes": 622,
+        "views": 26782
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "CH_EVqafKMQ",
+        "title": "Colorful Braces & Brackets in Visual Studio | #shorts",
+        "duration_seconds": 50,
+        "upload_date": "2022-09-25T13:00:07Z",
+        "comment_count": 26,
+        "likes": 761,
+        "views": 17545
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "qR_YlN3ZrLo",
+        "title": "Let's Explore .NET MAUI in .NET 7 RC 1",
+        "duration_seconds": 4135,
+        "upload_date": "2022-09-23T16:09:53Z",
+        "comment_count": 36,
+        "likes": 271,
+        "views": 13047
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "41h0xIKusT0",
+        "title": "How to EASILY Install Side-By-Side Versions of Xcode on Your Mac with Xcodes",
+        "duration_seconds": 520,
+        "upload_date": "2022-09-22T13:00:02Z",
+        "comment_count": 21,
+        "likes": 189,
+        "views": 4875
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "x-kyAeAGFVg",
+        "title": ".NET MAUI CardViews & Circle Images with Borders, Shapes, and Shadows",
+        "duration_seconds": 654,
+        "upload_date": "2022-09-15T13:00:35Z",
+        "comment_count": 60,
+        "likes": 588,
+        "views": 18828
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "rumfIg9qJ_Y",
+        "title": ".NET MAUI Tutorial for Beginners - Build iOS, Android, macOS, & Windows Apps with C# & Visual Studio",
+        "duration_seconds": 4023,
+        "upload_date": "2022-09-08T13:00:09Z",
+        "comment_count": 180,
+        "likes": 3644,
+        "views": 177193
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "SAcv4nGDU_I",
+        "title": "Let's Build a Conference App with .NET MAUI Live!",
+        "duration_seconds": 8408,
+        "upload_date": "2022-09-02T21:59:24Z",
+        "comment_count": 24,
+        "likes": 555,
+        "views": 23719
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "DpkEhWF_h9Q",
+        "title": "Best Webcam Under $60? Logitech C920 vs Logitech C615 vs Anker C200 | Honest Review",
+        "duration_seconds": 1348,
+        "upload_date": "2022-09-01T13:00:12Z",
+        "comment_count": 47,
+        "likes": 549,
+        "views": 31312
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "q0X8RwhMNK4",
+        "title": "Pub/Sub++ for .NET Apps with MediatR (Request AND Response)",
+        "duration_seconds": 1332,
+        "upload_date": "2022-08-25T13:00:34Z",
+        "comment_count": 27,
+        "likes": 366,
+        "views": 10187
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vD17OetzGXc",
+        "title": "A Better Pub/Sub Messenger for .NET Applications with WeakReferenceMessenger",
+        "duration_seconds": 1019,
+        "upload_date": "2022-08-11T13:00:36Z",
+        "comment_count": 119,
+        "likes": 1579,
+        "views": 47323
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dmBqDcTOiOQ",
+        "title": "Never write C# #if preprocessor directives again! Use the Conditional attribute! \ud83e\udd2f",
+        "duration_seconds": 562,
+        "upload_date": "2022-08-04T13:00:19Z",
+        "comment_count": 61,
+        "likes": 700,
+        "views": 12583
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "W-ATf87ILcY",
+        "title": "1 Year with Mint Mobile - 4GB/5GB, $15 a month, Is it worth it?",
+        "duration_seconds": 1635,
+        "upload_date": "2022-07-28T13:00:16Z",
+        "comment_count": 165,
+        "likes": 1280,
+        "views": 54977
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "HMN26wQ8J54",
+        "title": "What is a Scoped .NET Dependency, and Why You Should Use Them",
+        "duration_seconds": 481,
+        "upload_date": "2022-07-21T18:00:11Z",
+        "comment_count": 36,
+        "likes": 616,
+        "views": 11391
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "oC5zpEbwViE",
+        "title": "Singleton vs Transient - What's the Difference in .NET Dependency Injection?",
+        "duration_seconds": 596,
+        "upload_date": "2022-07-14T13:00:27Z",
+        "comment_count": 53,
+        "likes": 1208,
+        "views": 20566
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ve0DFu-arD8",
+        "title": "MVVMS... A Better MVVM? Model-View-ViewModel-Services Explained",
+        "duration_seconds": 863,
+        "upload_date": "2022-07-07T10:00:35Z",
+        "comment_count": 128,
+        "likes": 1149,
+        "views": 32349
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "AXpTeiWtbC8",
+        "title": "What is the MVVM pattern, What benefits does MVVM have?",
+        "duration_seconds": 1358,
+        "upload_date": "2022-06-30T10:00:05Z",
+        "comment_count": 179,
+        "likes": 3075,
+        "views": 106882
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "5cFZJGEmji0",
+        "title": ".NET MAUI is here! AMA + Explore cross-platform development",
+        "duration_seconds": 6634,
+        "upload_date": "2022-06-24T16:59:55Z",
+        "comment_count": 41,
+        "likes": 340,
+        "views": 12507
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ld-vmpbngDE",
+        "title": "FancyZones in 5 Minutes (Beginner's Guide) | PowerToys Window Manager",
+        "duration_seconds": 367,
+        "upload_date": "2022-06-09T13:00:20Z",
+        "comment_count": 97,
+        "likes": 2263,
+        "views": 122390
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Y9-1tB6d0Ag",
+        "title": "Delete Your MVVM Code #Shorts",
+        "duration_seconds": 60,
+        "upload_date": "2022-06-02T13:00:13Z",
+        "comment_count": 38,
+        "likes": 474,
+        "views": 8254
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "DuNLR_NJv8U",
+        "title": "Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#",
+        "duration_seconds": 14933,
+        "upload_date": "2022-05-23T13:00:09Z",
+        "comment_count": 958,
+        "likes": 16969,
+        "views": 817686
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0QSOJERhhLY",
+        "title": "The Sudotack Condenser Mic - The Ultimate Budget-Friendly Microphone | ST-600 Review",
+        "duration_seconds": 706,
+        "upload_date": "2022-05-19T11:00:01Z",
+        "comment_count": 16,
+        "likes": 85,
+        "views": 4457
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "8z8qz-PePlc",
+        "title": ".NET MAUI's Navigation for Beginners - Push, Pop, & Pass Objects",
+        "duration_seconds": 1296,
+        "upload_date": "2022-05-12T10:00:06Z",
+        "comment_count": 145,
+        "likes": 1897,
+        "views": 71765
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xx1mve2AQr4",
+        "title": "Dependency Injection with .NET MAUI Explained! Full Beginner's Guide",
+        "duration_seconds": 1158,
+        "upload_date": "2022-05-05T11:00:32Z",
+        "comment_count": 124,
+        "likes": 2250,
+        "views": 70339
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "8Yf_CqEEiAE",
+        "title": ".NET MAUI RC 2 in 60 Seconds, Hello Tizen! #shorts",
+        "duration_seconds": 59,
+        "upload_date": "2022-05-01T16:11:13Z",
+        "comment_count": 17,
+        "likes": 553,
+        "views": 15947
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "KmLQLSKqvvI",
+        "title": ".NET MAUI Explained: What is it, How does it work, and What about Blazor?",
+        "duration_seconds": 2068,
+        "upload_date": "2022-04-28T09:00:08Z",
+        "comment_count": 204,
+        "likes": 3786,
+        "views": 116194
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dIjF3bwEmgU",
+        "title": ".NET MAUI Release Candidates! Multi-platform iOS, Android, macOS, & Windows in C#",
+        "duration_seconds": 1325,
+        "upload_date": "2022-04-21T09:00:17Z",
+        "comment_count": 136,
+        "likes": 645,
+        "views": 14904
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QFxxlTbwmOs",
+        "title": "Never lose VS Code settings again! #Shorts",
+        "duration_seconds": 43,
+        "upload_date": "2022-04-19T13:00:09Z",
+        "comment_count": 6,
+        "likes": 851,
+        "views": 39392
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ACzv4dEgrKA",
+        "title": "How To Create Developer YouTube Videos For Cheap",
+        "duration_seconds": 1036,
+        "upload_date": "2022-04-14T08:00:02Z",
+        "comment_count": 13,
+        "likes": 177,
+        "views": 2784
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "nFrB9SGftyI",
+        "title": "C# Null Checks and Argument Validation - The Wise Approach",
+        "duration_seconds": 840,
+        "upload_date": "2022-03-31T13:00:21Z",
+        "comment_count": 24,
+        "likes": 511,
+        "views": 9552
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LIyENBHwRX0",
+        "title": "Merge Conflict ep. 300 Live!",
+        "duration_seconds": 4420,
+        "upload_date": "2022-03-30T13:19:12Z",
+        "comment_count": 3,
+        "likes": 63,
+        "views": 1888
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "OfzAbxC7m6s",
+        "title": "Hello, .NET MAUI Preview 14 with Essential Interfaces and Desktop MenuBars!",
+        "duration_seconds": 855,
+        "upload_date": "2022-03-17T07:00:12Z",
+        "comment_count": 62,
+        "likes": 545,
+        "views": 16676
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "aCxl0z04BN8",
+        "title": "MVVM Source Generators: Never Write MVVM Boilerplate Code Again!",
+        "duration_seconds": 1165,
+        "upload_date": "2022-03-10T14:00:01Z",
+        "comment_count": 293,
+        "likes": 2950,
+        "views": 78778
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "d2hKN_VZmig",
+        "title": "5 Ways to Make Money As A Mobile App Developer",
+        "duration_seconds": 978,
+        "upload_date": "2022-03-03T14:00:14Z",
+        "comment_count": 38,
+        "likes": 404,
+        "views": 8880
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "2Dkk-74x-V8",
+        "title": ".NET MAUI Preview 13 - All Things MauiProgram, Essentials, & Extensions",
+        "duration_seconds": 805,
+        "upload_date": "2022-02-24T14:00:03Z",
+        "comment_count": 37,
+        "likes": 557,
+        "views": 13862
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "mrLOubYJm2Q",
+        "title": "Building a Wordle Clone LIVE with .NET MAUI",
+        "duration_seconds": 7029,
+        "upload_date": "2022-02-19T06:06:31Z",
+        "comment_count": 20,
+        "likes": 286,
+        "views": 13862
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "HYTxI6GjZzo",
+        "title": "Cancelled! C# 11 !! parameter null safety in 60 seconds #Shorts",
+        "duration_seconds": 57,
+        "upload_date": "2022-02-12T18:06:34Z",
+        "comment_count": 35,
+        "likes": 676,
+        "views": 14709
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "sAn4RVsroF4",
+        "title": "XAML Data Binding and MVVM Basics (.NET MAUI, WPF, UWP, Xamarin.Forms)",
+        "duration_seconds": 1155,
+        "upload_date": "2022-02-10T14:00:16Z",
+        "comment_count": 94,
+        "likes": 1859,
+        "views": 55397
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ua4SL_9H4dw",
+        "title": "Test your software with Windows Sandbox",
+        "duration_seconds": 488,
+        "upload_date": "2022-02-03T13:45:04Z",
+        "comment_count": 19,
+        "likes": 311,
+        "views": 7948
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9qv0aX7kgR4",
+        "title": "Learning Blazor Live \ud83d\udd34 - Build Reusable Components with Blazor",
+        "duration_seconds": 4373,
+        "upload_date": "2022-01-29T05:17:04Z",
+        "comment_count": 4,
+        "likes": 69,
+        "views": 3583
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "DwBdRyF9QG8",
+        "title": "Doge Terminal #Shorts",
+        "duration_seconds": 59,
+        "upload_date": "2022-01-27T14:00:05Z",
+        "comment_count": 6,
+        "likes": 204,
+        "views": 3958
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ugem4UbAtC0",
+        "title": ".NET MAUI Preview 12 - Constructor & Dependency Injection Everywhere!",
+        "duration_seconds": 806,
+        "upload_date": "2022-01-25T14:00:33Z",
+        "comment_count": 35,
+        "likes": 409,
+        "views": 15001
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ddpoeyEC7rs",
+        "title": "Learning Blazor Live \ud83d\udd34 - Build rich interactive components",
+        "duration_seconds": 7195,
+        "upload_date": "2022-01-22T06:06:16Z",
+        "comment_count": 1,
+        "likes": 61,
+        "views": 2893
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "48qN1h0DUjs",
+        "title": "Animating Controls in .NET MAUI & Xamarin.Forms",
+        "duration_seconds": 1159,
+        "upload_date": "2022-01-20T14:00:01Z",
+        "comment_count": 51,
+        "likes": 805,
+        "views": 27788
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dM4PhZAUhzU",
+        "title": "\ud83d\udc1a Shell for .NET MAUI & Xamarin.Forms - What, why, and how?!?!",
+        "duration_seconds": 1011,
+        "upload_date": "2022-01-13T14:00:13Z",
+        "comment_count": 101,
+        "likes": 1110,
+        "views": 38113
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0nY2WwbK2DE",
+        "title": "Learning Blazor Live \ud83d\udd34 - Blazor web forms, events, & validation",
+        "duration_seconds": 7346,
+        "upload_date": "2022-01-07T18:20:19Z",
+        "comment_count": 5,
+        "likes": 88,
+        "views": 3988
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "KBcXhvyCIf4",
+        "title": "Learning Blazor Live \ud83d\udd34 - Use pages, routing, and layouts to improve Blazor navigation",
+        "duration_seconds": 5792,
+        "upload_date": "2022-01-01T05:39:54Z",
+        "comment_count": 4,
+        "likes": 93,
+        "views": 3551
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BlOvmSqsC80",
+        "title": "20,000 Sub Thank You!!! \u2665 | New Merch & New Membership",
+        "duration_seconds": 243,
+        "upload_date": "2021-12-28T14:00:04Z",
+        "comment_count": 23,
+        "likes": 117,
+        "views": 881
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "OoSjWhfkAOY",
+        "title": "Learning Blazor Live \ud83d\udd34 - Interact with data in Blazor web apps",
+        "duration_seconds": 6592,
+        "upload_date": "2021-12-25T05:56:09Z",
+        "comment_count": 0,
+        "likes": 111,
+        "views": 4549
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "JFeulsDijs0",
+        "title": ".NET MAUI Preview 11 - Multi-window support, new templates, & Fluent UI",
+        "duration_seconds": 917,
+        "upload_date": "2021-12-21T14:00:08Z",
+        "comment_count": 33,
+        "likes": 490,
+        "views": 22242
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dINX88JOOAc",
+        "title": "Learning Blazor Live \ud83d\udd34 - Building our first web app with Blazor",
+        "duration_seconds": 6665,
+        "upload_date": "2021-12-18T07:54:01Z",
+        "comment_count": 6,
+        "likes": 267,
+        "views": 11127
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "fdL-3mhUThY",
+        "title": "Controlling Image Caching in Xamarin.Forms & .NET MAUI",
+        "duration_seconds": 727,
+        "upload_date": "2021-12-16T14:00:18Z",
+        "comment_count": 24,
+        "likes": 271,
+        "views": 10778
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "4e3kKCfdL6w",
+        "title": "Build & Deploy a Podcast Website, Services, & App in Minutes with .NET, Blazor, & Azure",
+        "duration_seconds": 1107,
+        "upload_date": "2021-12-10T14:00:05Z",
+        "comment_count": 11,
+        "likes": 153,
+        "views": 5333
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "rvsAFBwP3KA",
+        "title": "C# 10 - No more using directives! #Shorts",
+        "duration_seconds": 59,
+        "upload_date": "2021-12-07T14:00:19Z",
+        "comment_count": 17,
+        "likes": 428,
+        "views": 6891
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GzaWj41Qvko",
+        "title": "C# 10 Features You Need to Know About",
+        "duration_seconds": 903,
+        "upload_date": "2021-12-02T14:00:10Z",
+        "comment_count": 28,
+        "likes": 442,
+        "views": 13358
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "zQf3ffJqAuo",
+        "title": "C# 10 - File-scoped namespaces are here! | #Shorts",
+        "duration_seconds": 58,
+        "upload_date": "2021-11-30T14:00:19Z",
+        "comment_count": 8,
+        "likes": 230,
+        "views": 3362
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GAHFbxe_4ho",
+        "title": "'Tis the season for Red theme in VS Code! (and Visual Studio 2022) | #Shorts",
+        "duration_seconds": 52,
+        "upload_date": "2021-11-27T03:15:00Z",
+        "comment_count": 24,
+        "likes": 152,
+        "views": 5208
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "qH2MdEVuzxs",
+        "title": ".NET MAUI Preview 10 - Build native and hybrid apps with C# and Visual Studio 2022",
+        "duration_seconds": 717,
+        "upload_date": "2021-11-11T14:00:19Z",
+        "comment_count": 41,
+        "likes": 442,
+        "views": 19847
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "TkadU_OfmIE",
+        "title": "Reusable Controls and Data Template Selectors in Xamarin.Forms & .NET MAUI",
+        "duration_seconds": 1159,
+        "upload_date": "2021-11-04T13:00:10Z",
+        "comment_count": 35,
+        "likes": 628,
+        "views": 25073
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "e7ZQUA6NMR8",
+        "title": "How to record your screen for free with OBS",
+        "duration_seconds": 1249,
+        "upload_date": "2021-10-29T13:00:21Z",
+        "comment_count": 17,
+        "likes": 258,
+        "views": 11449
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BurpEcTsQbU",
+        "title": ".NET MAUI Preview 9 - Borders, Corners, and Shadows \u2013 Oh my!",
+        "duration_seconds": 783,
+        "upload_date": "2021-10-22T14:30:01Z",
+        "comment_count": 44,
+        "likes": 532,
+        "views": 11226
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "VRvGe6lv7gA",
+        "title": "How to Debug Apps with The Windows Subsystem for Android (WSA)",
+        "duration_seconds": 333,
+        "upload_date": "2021-10-21T23:00:11Z",
+        "comment_count": 91,
+        "likes": 689,
+        "views": 22994
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YDxQjb7N-P8",
+        "title": "All Things Tabs! Top Tabs, Bottom Tabs, Tab Sandwich - Xamarin.Forms & .NET MAUI",
+        "duration_seconds": 1784,
+        "upload_date": "2021-10-14T13:00:30Z",
+        "comment_count": 92,
+        "likes": 1002,
+        "views": 43566
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "E9tig5cuT5c",
+        "title": "The Easy Way to Turn Any Light Switch Into a Smart Switch",
+        "duration_seconds": 580,
+        "upload_date": "2021-10-07T13:00:05Z",
+        "comment_count": 26,
+        "likes": 176,
+        "views": 28841
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Gqt19bjjoQg",
+        "title": "Favorite foldable features & are they the future? | Stream Highlights",
+        "duration_seconds": 696,
+        "upload_date": "2021-10-05T13:00:06Z",
+        "comment_count": 5,
+        "likes": 35,
+        "views": 840
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BmI0QnwKTsQ",
+        "title": ".NET MAUI Preview 8 - Tips & Tricks | Windows Setup, MVVM Hot Reload, and Dependency Injection",
+        "duration_seconds": 255,
+        "upload_date": "2021-09-23T13:00:14Z",
+        "comment_count": 43,
+        "likes": 225,
+        "views": 6450
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Q0qLiBmbOTI",
+        "title": ".NET MAUI Preview 8 Hands-on - True Single Project, Hot Reload Everywhere, & 1 Click Install",
+        "duration_seconds": 1237,
+        "upload_date": "2021-09-21T13:00:12Z",
+        "comment_count": 126,
+        "likes": 748,
+        "views": 32979
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NiRAOfH-PuM",
+        "title": "3 Programming Languages: Learn How to Code & Work with VS Code",
+        "duration_seconds": 659,
+        "upload_date": "2021-09-16T13:00:17Z",
+        "comment_count": 11,
+        "likes": 234,
+        "views": 4067
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vHGjuqVGAbY",
+        "title": "Live Stream: Dual Screen Support for Mobile & Desktop with the Surface Duo team",
+        "duration_seconds": 9201,
+        "upload_date": "2021-09-14T13:00:24Z",
+        "comment_count": 4,
+        "likes": 41,
+        "views": 1395
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7KJmdE93HkI",
+        "title": "No more null exceptions in C# with null-coalescing, ?? and ??= operators",
+        "duration_seconds": 947,
+        "upload_date": "2021-09-10T15:00:04Z",
+        "comment_count": 38,
+        "likes": 391,
+        "views": 9285
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cY51JedRtHA",
+        "title": "Which C# UI Desktop Technology to Pick? | Stream Highlight | .NET MAUI, WinUI 3, WPF, Avalonia, Uno",
+        "duration_seconds": 727,
+        "upload_date": "2021-08-26T13:00:30Z",
+        "comment_count": 63,
+        "likes": 701,
+        "views": 49792
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "92hSPzyLIhI",
+        "title": "Yosuda spin bike review, a $230 Peloton & Apple Fitness+ DIY bike | Unboxing, Assembly, & Review",
+        "duration_seconds": 1059,
+        "upload_date": "2021-08-24T13:00:07Z",
+        "comment_count": 6,
+        "likes": 24,
+        "views": 2019
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "d8bP2zZeKUA",
+        "title": "How much code behind is Okay? MVVM best practices | Stream Highlight",
+        "duration_seconds": 196,
+        "upload_date": "2021-08-17T13:00:16Z",
+        "comment_count": 19,
+        "likes": 217,
+        "views": 4671
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "eF5YcpyzQIo",
+        "title": ".NET MAUI Preview 7 - Full Windows & Mac Setup with CLI, VS Code, & Visual Studio 2022",
+        "duration_seconds": 1702,
+        "upload_date": "2021-08-12T13:00:15Z",
+        "comment_count": 78,
+        "likes": 773,
+        "views": 35501
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "nd55iXY9dyA",
+        "title": "Live Stream: Xamarin.Forms Charts & Graphs with Microcharts",
+        "duration_seconds": 6574,
+        "upload_date": "2021-08-10T13:00:31Z",
+        "comment_count": 9,
+        "likes": 93,
+        "views": 4507
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "j9VyhDJB8lo",
+        "title": "Beginner's tutorial for recording, editing, & producing a podcast",
+        "duration_seconds": 1565,
+        "upload_date": "2021-08-05T13:00:30Z",
+        "comment_count": 4,
+        "likes": 45,
+        "views": 1475
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "P4JNWIKxTbA",
+        "title": "Live Stream: Adding a SQLite database to My Cadence",
+        "duration_seconds": 7642,
+        "upload_date": "2021-08-03T14:08:57Z",
+        "comment_count": 5,
+        "likes": 56,
+        "views": 2556
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "y7vpGT_bBr8",
+        "title": "Benefits of .NET MAUI over Xamarin/Xamarin.Forms - Live Stream Highlights",
+        "duration_seconds": 693,
+        "upload_date": "2021-07-27T13:00:33Z",
+        "comment_count": 76,
+        "likes": 849,
+        "views": 26809
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NEzb48bUJLk",
+        "title": "Live Stream: Get started contributing to .NET MAUI",
+        "duration_seconds": 5965,
+        "upload_date": "2021-07-22T13:00:20Z",
+        "comment_count": 11,
+        "likes": 50,
+        "views": 2302
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "T1T8cn3_kVw",
+        "title": ".NET MAUI Preview 6 - What You Need To Know",
+        "duration_seconds": 1071,
+        "upload_date": "2021-07-20T13:00:10Z",
+        "comment_count": 63,
+        "likes": 632,
+        "views": 21808
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "C2nrjMKOE9I",
+        "title": "How to keep you screen awake with PowerToys",
+        "duration_seconds": 384,
+        "upload_date": "2021-07-15T13:00:04Z",
+        "comment_count": 10,
+        "likes": 92,
+        "views": 8773
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3-cT97sBmxM",
+        "title": "Faster & Safer XAML with Compiled Bindings in Xamarin.Forms & .NET MAUI",
+        "duration_seconds": 823,
+        "upload_date": "2021-07-08T13:00:01Z",
+        "comment_count": 35,
+        "likes": 638,
+        "views": 11456
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-ThuZffAM0I",
+        "title": "Live Stream: Code reviewing YOUR apps and libraries - Crypto Currency App & MarkdownView",
+        "duration_seconds": 9961,
+        "upload_date": "2021-07-06T13:00:00Z",
+        "comment_count": 5,
+        "likes": 35,
+        "views": 1389
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "_OSjeqx3W5U",
+        "title": "Windows 11 First Look - My Favorite Features & Developer Setup",
+        "duration_seconds": 1135,
+        "upload_date": "2021-07-01T13:00:22Z",
+        "comment_count": 26,
+        "likes": 290,
+        "views": 7419
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "_rNfdhUpg3g",
+        "title": ".NET MAUI Preview 5 - Animations, Shell, Brushes, & More!",
+        "duration_seconds": 952,
+        "upload_date": "2021-06-25T13:00:30Z",
+        "comment_count": 45,
+        "likes": 495,
+        "views": 14966
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "peHvY5RE99Q",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms - CollectionView Inception!",
+        "duration_seconds": 5493,
+        "upload_date": "2021-06-22T13:00:16Z",
+        "comment_count": 11,
+        "likes": 56,
+        "views": 2211
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GKJRR8_DSSs",
+        "title": "Dynamic Status Bar Color (iOS & Android) in Xamarin/Xamarin.Forms",
+        "duration_seconds": 1168,
+        "upload_date": "2021-06-17T13:00:04Z",
+        "comment_count": 45,
+        "likes": 421,
+        "views": 19153
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "6CwQKqMpUFk",
+        "title": "Getting Started with Dependency Injection in Xamarin.Forms",
+        "duration_seconds": 1181,
+        "upload_date": "2021-06-10T15:00:02Z",
+        "comment_count": 47,
+        "likes": 617,
+        "views": 16754
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ba0k2lh-x1o",
+        "title": "Live Stream: Xamarin Weekly Newsletter App Code Review and Advanced Theming Additions",
+        "duration_seconds": 6955,
+        "upload_date": "2021-06-08T13:00:13Z",
+        "comment_count": 11,
+        "likes": 53,
+        "views": 1667
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "jtE-PsqxEuA",
+        "title": "30 Days with Mint Mobile - 4GB/5GB, $15 a month review",
+        "duration_seconds": 787,
+        "upload_date": "2021-06-03T13:00:15Z",
+        "comment_count": 59,
+        "likes": 240,
+        "views": 7509
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "MHISYUrjxQA",
+        "title": ".NET MAUI Preview 4 - 100% More Visual Studio & Blazor!",
+        "duration_seconds": 1619,
+        "upload_date": "2021-06-01T13:00:08Z",
+        "comment_count": 51,
+        "likes": 464,
+        "views": 15812
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "RpG711jrx9k",
+        "title": "Money In Excel Tutorial - Expenses, Budget, & Financial Planning",
+        "duration_seconds": 1134,
+        "upload_date": "2021-05-27T13:00:11Z",
+        "comment_count": 27,
+        "likes": 176,
+        "views": 9646
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "4w8TQ8njd3w",
+        "title": "Dynamic App Themes in Xamarin.Forms - Light, Dark, & Custom Modes",
+        "duration_seconds": 1513,
+        "upload_date": "2021-05-20T13:00:01Z",
+        "comment_count": 44,
+        "likes": 541,
+        "views": 20467
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "wWHjuHVyLCQ",
+        "title": "Genki Shadowcast Latency (Input Lag) Test - Desktop, MacBook Air, and Surface Go!",
+        "duration_seconds": 1058,
+        "upload_date": "2021-05-18T13:00:20Z",
+        "comment_count": 12,
+        "likes": 49,
+        "views": 4643
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "jZARFd8Gno0",
+        "title": "Custom Fonts & Font Icons/Images in Xamarin.Forms",
+        "duration_seconds": 1218,
+        "upload_date": "2021-05-13T13:00:30Z",
+        "comment_count": 38,
+        "likes": 543,
+        "views": 23089
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Se0yF5JXk70",
+        "title": "Styling Xamarin.Forms Apps with Reusable Resources & Styles",
+        "duration_seconds": 1167,
+        "upload_date": "2021-05-06T13:00:10Z",
+        "comment_count": 46,
+        "likes": 536,
+        "views": 16027
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XEAyAf3_MpU",
+        "title": "Beautiful iOS & Android Adaptive Icons Generated in Minutes",
+        "duration_seconds": 646,
+        "upload_date": "2021-04-29T13:00:10Z",
+        "comment_count": 37,
+        "likes": 540,
+        "views": 16775
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "x1Tmz9NnLPA",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 9 - Programs & Collections",
+        "duration_seconds": 6893,
+        "upload_date": "2021-04-27T13:00:20Z",
+        "comment_count": 5,
+        "likes": 37,
+        "views": 1732
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ylbgWHB_gMI",
+        "title": "Xamarin.Forms Shell Login Page Flow",
+        "duration_seconds": 847,
+        "upload_date": "2021-04-22T13:00:19Z",
+        "comment_count": 109,
+        "likes": 1110,
+        "views": 44442
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "rwehke9StqI",
+        "title": "Genki Shadowcast - Screen capture & mirror any HDMI device",
+        "duration_seconds": 516,
+        "upload_date": "2021-04-20T13:00:18Z",
+        "comment_count": 57,
+        "likes": 227,
+        "views": 19268
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "yxahL0xF3RU",
+        "title": ".NET MAUI Preview 3 Hands-on: iOS, Android, macOS, and now Windows with WinUI 3!",
+        "duration_seconds": 1263,
+        "upload_date": "2021-04-15T13:00:33Z",
+        "comment_count": 58,
+        "likes": 489,
+        "views": 18124
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "W662TsPVRt8",
+        "title": "How to split screen & pop-over apps on iPad",
+        "duration_seconds": 269,
+        "upload_date": "2021-04-13T13:00:20Z",
+        "comment_count": 1,
+        "likes": 38,
+        "views": 1667
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "8iYpLMKE_ws",
+        "title": "Xamarin.Forms & .NET MAUI Shell Navigation for Beginners",
+        "duration_seconds": 1214,
+        "upload_date": "2021-04-08T13:00:02Z",
+        "comment_count": 105,
+        "likes": 944,
+        "views": 40507
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "W6YAXY3nwcg",
+        "title": "How to Use an XLR Mic on Your Smartphone",
+        "duration_seconds": 603,
+        "upload_date": "2021-04-06T13:00:09Z",
+        "comment_count": 21,
+        "likes": 77,
+        "views": 4570
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "5OoRP3qJsSA",
+        "title": "Android Emulator Tips & Tricks | Always on Top, Hyper-V Support, Geolocation, & More",
+        "duration_seconds": 630,
+        "upload_date": "2021-04-01T13:00:03Z",
+        "comment_count": 34,
+        "likes": 151,
+        "views": 4837
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0i-WKF65fAA",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 8 - Settings Screen & Overview Page",
+        "duration_seconds": 6630,
+        "upload_date": "2021-03-30T13:00:00Z",
+        "comment_count": 4,
+        "likes": 40,
+        "views": 1960
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YX04sxwLMBE",
+        "title": "Code Generation from XAML in Visual Studio! (WPF, UWP, & Xamarin.Forms)",
+        "duration_seconds": 503,
+        "upload_date": "2021-03-25T13:00:08Z",
+        "comment_count": 98,
+        "likes": 560,
+        "views": 12739
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7Vuf0rl8CK4",
+        "title": "The best wireless earbuds under $30? | Boltune Review",
+        "duration_seconds": 439,
+        "upload_date": "2021-03-23T13:00:05Z",
+        "comment_count": 4,
+        "likes": 28,
+        "views": 782
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "a37qBMt0V9w",
+        "title": "REST Web Requests with Data Caching with ASP.NET Core Web API | Xamarin & .NET MAUI 101",
+        "duration_seconds": 1580,
+        "upload_date": "2021-03-18T13:00:00Z",
+        "comment_count": 71,
+        "likes": 812,
+        "views": 33138
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Ppb4PnpWrjg",
+        "title": "First .NET MAUI Preview - Installing & Exploring .NET 6 Preview 2 (CLI, VS 2019, & VS Code)",
+        "duration_seconds": 1119,
+        "upload_date": "2021-03-16T13:00:09Z",
+        "comment_count": 66,
+        "likes": 842,
+        "views": 31689
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "zvPPz6DABi8",
+        "title": "Learn Xamarin Today or Wait for .NET MAUI?",
+        "duration_seconds": 984,
+        "upload_date": "2021-03-11T16:30:04Z",
+        "comment_count": 196,
+        "likes": 2460,
+        "views": 60250
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "C7jqD5uePpg",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 7 - Profile & Calendar Views",
+        "duration_seconds": 5056,
+        "upload_date": "2021-03-09T14:00:03Z",
+        "comment_count": 5,
+        "likes": 31,
+        "views": 1284
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XFP8Np-uRWc",
+        "title": "How to Add a Database to Xamarin & .NET MAUI apps with SQLite-net",
+        "duration_seconds": 1393,
+        "upload_date": "2021-03-04T14:00:16Z",
+        "comment_count": 198,
+        "likes": 1790,
+        "views": 79073
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "kpw8N-Yusvo",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 6: CollectionView - Workouts Page",
+        "duration_seconds": 4938,
+        "upload_date": "2021-03-02T20:00:09Z",
+        "comment_count": 11,
+        "likes": 28,
+        "views": 1221
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7mpe_1okwxk",
+        "title": "Turn any Event into a Command in Xamarin.Forms (MVVM All The Things)",
+        "duration_seconds": 884,
+        "upload_date": "2021-02-25T20:00:01Z",
+        "comment_count": 57,
+        "likes": 807,
+        "views": 27292
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-TwJZG8sPQg",
+        "title": "Mini TMNT pinball review",
+        "duration_seconds": 523,
+        "upload_date": "2021-02-23T18:00:00Z",
+        "comment_count": 3,
+        "likes": 18,
+        "views": 439
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "_lVM9gpFSbw",
+        "title": "Xamarin.Forms ListView vs. CollectionView - Which to use and why!",
+        "duration_seconds": 1214,
+        "upload_date": "2021-02-18T20:00:07Z",
+        "comment_count": 111,
+        "likes": 960,
+        "views": 31841
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "71K4PVRLasI",
+        "title": "MVVM for the Xamarin.Forms ListView",
+        "duration_seconds": 1445,
+        "upload_date": "2021-02-11T18:30:01Z",
+        "comment_count": 56,
+        "likes": 739,
+        "views": 24612
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Tz0tUiMgZA8",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 5 - App Icons, Gradients, Shell Tabs",
+        "duration_seconds": 7593,
+        "upload_date": "2021-02-10T20:00:13Z",
+        "comment_count": 2,
+        "likes": 45,
+        "views": 2254
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "VzFqQv8YJNM",
+        "title": "Xamarin.Forms ListView - Everything you need to know (& .NET MAUI)",
+        "duration_seconds": 2209,
+        "upload_date": "2021-02-04T20:00:12Z",
+        "comment_count": 139,
+        "likes": 1273,
+        "views": 63905
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "WPT8LZCE4Pw",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 4 - TabView - Community Toolkit",
+        "duration_seconds": 5251,
+        "upload_date": "2021-02-02T20:00:12Z",
+        "comment_count": 5,
+        "likes": 43,
+        "views": 1831
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9YBhm_QsjD8",
+        "title": "Quick and Easy Window Arranging with PowerToys FancyZones - Beginner Tutorial",
+        "duration_seconds": 661,
+        "upload_date": "2021-01-28T20:00:04Z",
+        "comment_count": 58,
+        "likes": 695,
+        "views": 44403
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Y5JWoHXeT3c",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms: Part 3 - Refactoring & CarouselView",
+        "duration_seconds": 5535,
+        "upload_date": "2021-01-26T20:00:05Z",
+        "comment_count": 3,
+        "likes": 40,
+        "views": 1872
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "y8ZqEOLDeo8",
+        "title": "Better MVVM with MVVM Helpers",
+        "duration_seconds": 1277,
+        "upload_date": "2021-01-21T20:00:29Z",
+        "comment_count": 82,
+        "likes": 1169,
+        "views": 47310
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "v3GM72xEqUA",
+        "title": "Live Stream: Let's Explore C# 9!",
+        "duration_seconds": 6722,
+        "upload_date": "2021-01-14T20:00:10Z",
+        "comment_count": 2,
+        "likes": 23,
+        "views": 1415
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Pso1MeX_HvI",
+        "title": "MVVM for Beginners: Model-View-ViewModel Architecture for Xamarin.Forms, .NET MAUI, WPF, UWP, & More",
+        "duration_seconds": 1623,
+        "upload_date": "2021-01-07T20:00:04Z",
+        "comment_count": 195,
+        "likes": 3158,
+        "views": 131349
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Vl0egGicaEc",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms: Part 2 - CarouselView & Custom Tabs",
+        "duration_seconds": 7800,
+        "upload_date": "2021-01-05T18:00:17Z",
+        "comment_count": 2,
+        "likes": 62,
+        "views": 3457
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Hs9AawdZy6E",
+        "title": "Apple Fitness+ Cadence Display for Indoor Cycling Classes for iPad & iPhone",
+        "duration_seconds": 109,
+        "upload_date": "2021-01-05T01:56:00Z",
+        "comment_count": 46,
+        "likes": 271,
+        "views": 24296
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GLfR2uosoSw",
+        "title": "XAML for Beginners - Xamarin.Forms & .NET MAUI XAML",
+        "duration_seconds": 1690,
+        "upload_date": "2020-12-31T20:00:02Z",
+        "comment_count": 67,
+        "likes": 1943,
+        "views": 79311
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YHhTPkYUY5Q",
+        "title": "Taotronics Ring Light Review - Improve Web Meetings with Better Lighting",
+        "duration_seconds": 1209,
+        "upload_date": "2020-12-29T20:00:15Z",
+        "comment_count": 1,
+        "likes": 13,
+        "views": 484
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ivu6VF02z_g",
+        "title": "Live Stream: Building a Peloton Clone with Xamarin.Forms Part 1 - Getting Started & CollectionView",
+        "duration_seconds": 9146,
+        "upload_date": "2020-12-22T20:00:08Z",
+        "comment_count": 14,
+        "likes": 216,
+        "views": 12532
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "evctpFybZBY",
+        "title": "My Cadence for iOS & Android - Indoor Cycling Cadence Sensor Display",
+        "duration_seconds": 71,
+        "upload_date": "2020-12-22T17:30:02Z",
+        "comment_count": 17,
+        "likes": 24,
+        "views": 7903
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cRvb9TCvB6c",
+        "title": "Preparing a Xamarin.Forms Shell App for Development",
+        "duration_seconds": 688,
+        "upload_date": "2020-12-17T20:00:06Z",
+        "comment_count": 52,
+        "likes": 905,
+        "views": 34167
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "165oXyrDeD0",
+        "title": "Apple Fitness+ Overview: Apple Watch, iPhone, iPad, Apple TV, Multi-account, and Indoor Cycling",
+        "duration_seconds": 868,
+        "upload_date": "2020-12-16T16:00:01Z",
+        "comment_count": 41,
+        "likes": 193,
+        "views": 24766
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "1hMr1mYIFCA",
+        "title": "Zoom, Point, Outline, & Magnify The Screen During Presentations & Coding on Windows",
+        "duration_seconds": 322,
+        "upload_date": "2020-12-10T20:00:02Z",
+        "comment_count": 14,
+        "likes": 145,
+        "views": 3604
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "nDfO74TXQUg",
+        "title": "Managing & Updating Xamarin NuGet Packages Efficiently",
+        "duration_seconds": 1282,
+        "upload_date": "2020-12-03T20:00:13Z",
+        "comment_count": 25,
+        "likes": 673,
+        "views": 22474
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cHy_3cNLsj0",
+        "title": "Game & Watch - Super Mario Bros Edition Hands-on Review",
+        "duration_seconds": 516,
+        "upload_date": "2020-12-01T20:00:11Z",
+        "comment_count": 1,
+        "likes": 13,
+        "views": 661
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7kVeC1_14Ag",
+        "title": "Configuring & Optimizing Xamarin Projects - Smaller, Faster, Better Apps",
+        "duration_seconds": 1969,
+        "upload_date": "2020-11-26T20:00:12Z",
+        "comment_count": 59,
+        "likes": 1332,
+        "views": 48704
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "TAdcyTtgobs",
+        "title": "AZ Conf - Taking Mobile Development Serverless with C#",
+        "duration_seconds": 2972,
+        "upload_date": "2020-11-25T19:15:52Z",
+        "comment_count": 12,
+        "likes": 49,
+        "views": 1110
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "zvp7wvbyceo",
+        "title": "Xamarin Tutorial for Beginners - Build iOS & Android Apps with C#, Visual Studio, and Xamarin.Forms",
+        "duration_seconds": 2336,
+        "upload_date": "2020-11-19T20:00:09Z",
+        "comment_count": 422,
+        "likes": 7336,
+        "views": 487894
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "CpQvnTJlC-w",
+        "title": ".NET Conf & Apple M1 Event Recap| Merge Conflict ep. 228",
+        "duration_seconds": 6510,
+        "upload_date": "2020-11-12T20:00:01Z",
+        "comment_count": 1,
+        "likes": 10,
+        "views": 459
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "OqfCQFTxCnI",
+        "title": "StreamYard Custom Countdown Timer",
+        "duration_seconds": 417,
+        "upload_date": "2020-11-05T20:00:03Z",
+        "comment_count": 20,
+        "likes": 143,
+        "views": 13042
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "yrRzXuclScE",
+        "title": "LEGO Super Mario Honest Review from a LEGO Kid",
+        "duration_seconds": 397,
+        "upload_date": "2020-10-29T19:00:22Z",
+        "comment_count": 0,
+        "likes": 10,
+        "views": 239
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Ssjl-ZClNJQ",
+        "title": "iPhone 12 Event Recap| Merge Conflict ep. 224",
+        "duration_seconds": 4696,
+        "upload_date": "2020-10-19T07:00:03Z",
+        "comment_count": 0,
+        "likes": 10,
+        "views": 178
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "6AqAK6yGSbw",
+        "title": "Fiverr App Icon Challenge - Great iOS/Android Icons for $5?",
+        "duration_seconds": 658,
+        "upload_date": "2020-10-15T19:00:01Z",
+        "comment_count": 3,
+        "likes": 35,
+        "views": 975
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "o8diwwIEw6c",
+        "title": "YouTube Animated Subscribe Button Template - Free, Easy, and Generated in Seconds",
+        "duration_seconds": 174,
+        "upload_date": "2020-10-08T19:00:06Z",
+        "comment_count": 22,
+        "likes": 142,
+        "views": 9989
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "GTRjbDi4GIM",
+        "title": "Display Live COVID-19 Data in OBS/SLOBS!",
+        "duration_seconds": 423,
+        "upload_date": "2020-10-01T19:00:17Z",
+        "comment_count": 5,
+        "likes": 11,
+        "views": 446
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xCr_BWSA4GI",
+        "title": "Video Production Powerhouse for your Phone! DJI Osmo Mobile 3",
+        "duration_seconds": 604,
+        "upload_date": "2020-09-24T19:00:11Z",
+        "comment_count": 1,
+        "likes": 14,
+        "views": 242
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "scBI0sYIX1w",
+        "title": "Live Stream: Creating an Admin page and doing CRUD with Blazor",
+        "duration_seconds": 6853,
+        "upload_date": "2020-09-18T16:00:23Z",
+        "comment_count": 1,
+        "likes": 67,
+        "views": 5451
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "UBBcutRW0lk",
+        "title": "Apple Watch & iPad 2020 Event | Merge Conflict ep. 220",
+        "duration_seconds": 4510,
+        "upload_date": "2020-09-16T19:00:04Z",
+        "comment_count": 2,
+        "likes": 11,
+        "views": 212
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "usKRzHP5lXw",
+        "title": "My Stream Timer for OBS or SLOBS on macOS : Simple Countdown Timer",
+        "duration_seconds": 114,
+        "upload_date": "2020-05-10T21:09:24Z",
+        "comment_count": 66,
+        "likes": 156,
+        "views": 19500
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "mOCzfZrcXGo",
+        "title": "Tech Breakdown: Full User and Friends System with Azure Function and Table Storage",
+        "duration_seconds": 402,
+        "upload_date": "2020-04-26T22:00:16Z",
+        "comment_count": 5,
+        "likes": 19,
+        "views": 1552
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9h5CQXW3zIc",
+        "title": "Live Stream: Animal Crossing Turnip Tracking Mobile App - Profile UI and Data Persistency",
+        "duration_seconds": 12692,
+        "upload_date": "2020-04-26T02:42:21Z",
+        "comment_count": 2,
+        "likes": 20,
+        "views": 771
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "KnQa2LbJwyo",
+        "title": "OBS Scene & Graphic Setup for Developer Streamers",
+        "duration_seconds": 880,
+        "upload_date": "2020-04-19T04:06:57Z",
+        "comment_count": 1,
+        "likes": 56,
+        "views": 1919
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9stVw94qBrg",
+        "title": "Live Stream: Animal Crossing Turnip Tracking Mobile App - Profile UI | #Xamarin | @JamesMontemagno",
+        "duration_seconds": 5890,
+        "upload_date": "2020-04-14T23:58:12Z",
+        "comment_count": 1,
+        "likes": 13,
+        "views": 449
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Y4oHaVYUSDY",
+        "title": "Live Stream: Animal Crossing Turnip Tracking Mobile App - Part 2 | #Xamarin | @JamesMontemagno",
+        "duration_seconds": 7930,
+        "upload_date": "2020-04-14T23:57:45Z",
+        "comment_count": 1,
+        "likes": 8,
+        "views": 407
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "2Dj_GBW-n0o",
+        "title": "Live Stream: Animal Crossing Turnip Tracking Mobile App - The Start | #Xamarin | @JamesMontemagno",
+        "duration_seconds": 7754,
+        "upload_date": "2020-04-11T18:10:51Z",
+        "comment_count": 4,
+        "likes": 30,
+        "views": 2113
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "8h4MWSaZ2mo",
+        "title": "Seattle Mobile .NET Virtual Meetup: What's new in Visual Studio for Mac for .NET Developers",
+        "duration_seconds": 4500,
+        "upload_date": "2020-04-09T19:50:18Z",
+        "comment_count": 1,
+        "likes": 13,
+        "views": 250
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "m85ZGXF06vk",
+        "title": "Teams Live Event Setup for User Group Meetings  - Producer and Presenter",
+        "duration_seconds": 590,
+        "upload_date": "2020-03-30T22:45:36Z",
+        "comment_count": 20,
+        "likes": 127,
+        "views": 16149
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "LEqujGsspxQ",
+        "title": "Serverless Blazor Admin Site | #Xamarin  !CC | !what  | @JamesMontemagno Everywhere",
+        "duration_seconds": 13060,
+        "upload_date": "2020-01-02T04:12:12Z",
+        "comment_count": 2,
+        "likes": 7,
+        "views": 464
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vA8uy4uEEZg",
+        "title": "Live Stream: Serverless Blazor Admin Site | #Xamarin  !CC | !what  | @JamesMontemagno Everywhere",
+        "duration_seconds": 11367,
+        "upload_date": "2020-01-02T04:12:01Z",
+        "comment_count": 1,
+        "likes": 6,
+        "views": 273
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "oV8emRs68Zg",
+        "title": "Live Stream: CarouselView for Hanselman| #Xamarin  !CC | !what  | #RIPJuiceWRLD | @JamesMontemagno E",
+        "duration_seconds": 9466,
+        "upload_date": "2020-01-02T04:11:51Z",
+        "comment_count": 0,
+        "likes": 8,
+        "views": 698
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "1r2T9-GyID0",
+        "title": "Blinking IoT Light with Meadow from Wilderness Labs | #IoT | !CC | !what  | @JamesMontemagno Everywh",
+        "duration_seconds": 8824,
+        "upload_date": "2019-12-30T04:51:17Z",
+        "comment_count": 0,
+        "likes": 6,
+        "views": 260
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "2qO2426ZpJU",
+        "title": "Live Stream: Fun with CarouselView & CollectionView",
+        "duration_seconds": 11512,
+        "upload_date": "2019-12-06T08:00:00Z",
+        "comment_count": 1,
+        "likes": 8,
+        "views": 537
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "P6O9b5B2h4Y",
+        "title": "Live Stream: .NET Mobile Development | #Xamarin   | !CC | !what | @JamesMontemagno Everywhere",
+        "duration_seconds": 9294,
+        "upload_date": "2019-12-04T08:00:03Z",
+        "comment_count": 0,
+        "likes": 8,
+        "views": 273
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ypGyJSd_sxY",
+        "title": "Live Stream: Implementing Dark Theme in Mobile | #Xamarin  | !CC | !what | HAPPY NOVEMBER!",
+        "duration_seconds": 9797,
+        "upload_date": "2019-12-03T08:00:07Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 192
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "j5irODz0l0s",
+        "title": "Live Stream: mplementing Dark Theme in Mobile | #Xamarin  | !CC | !what | HAPPY NOVEMBER!",
+        "duration_seconds": 10811,
+        "upload_date": "2019-11-28T08:00:17Z",
+        "comment_count": 0,
+        "likes": 6,
+        "views": 306
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "zKEQjh2eEl0",
+        "title": "Live Stream: VS4M - Source Link & HTTP-REPL | Live from Germany  | !CC | !what",
+        "duration_seconds": 3910,
+        "upload_date": "2019-11-26T08:00:17Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 111
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "UDmUJOfcY1c",
+        "title": "Live Stream: Coffee & Mobile Coding  | #Xamarin | !CC | !what",
+        "duration_seconds": 13438,
+        "upload_date": "2019-11-23T08:00:05Z",
+        "comment_count": 0,
+        "likes": 9,
+        "views": 392
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "na7oDfrEzlE",
+        "title": "Live Stream:#OSS Hacktoberfest #NewPC   | #Xamarin | !CC | !what",
+        "duration_seconds": 6213,
+        "upload_date": "2019-11-07T02:00:34Z",
+        "comment_count": 0,
+        "likes": 1,
+        "views": 80
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3O1MISPzWno",
+        "title": "Live Stream:Dark Mode & Themes for Apps Part 3  | #Xamarin | #CC | !what",
+        "duration_seconds": 11544,
+        "upload_date": "2019-11-07T02:00:28Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 178
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xE1BEG3hTsI",
+        "title": "Live Stream:Dark Mode & Themes for Apps Part 2  | #Xamarin | #CC | !what",
+        "duration_seconds": 8612,
+        "upload_date": "2019-11-07T02:00:21Z",
+        "comment_count": 0,
+        "likes": 5,
+        "views": 262
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "OvdiA_D0HII",
+        "title": "Live Stream:Dark Mode & Themes for Apps Part 1  | #Xamarin | #CC | !what",
+        "duration_seconds": 3784,
+        "upload_date": "2019-11-07T02:00:12Z",
+        "comment_count": 1,
+        "likes": 5,
+        "views": 426
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "cuVA84Wept8",
+        "title": "Live Stream:TwitchCon Recap + Xamarin + Azure Challenge | #Xamarin | #CC | !what",
+        "duration_seconds": 11598,
+        "upload_date": "2019-11-07T02:00:04Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 88
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dg9-Fi8G85E",
+        "title": "Live Stream:Let's build a pretty weather app! | #Xamarin | #CC | !what",
+        "duration_seconds": 7979,
+        "upload_date": "2019-11-07T01:59:52Z",
+        "comment_count": 1,
+        "likes": 15,
+        "views": 754
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "j_GdGIdDRxI",
+        "title": "My Stream Timer: A drop dead simple count down timer for streamers.",
+        "duration_seconds": 163,
+        "upload_date": "2019-10-05T19:05:10Z",
+        "comment_count": 94,
+        "likes": 210,
+        "views": 30981
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ZwJL8gI2UE8",
+        "title": "Live Stream: Xamarin.Forms 4.2.0 Day! | Hanselman.Forms | !what",
+        "duration_seconds": 8011,
+        "upload_date": "2019-09-19T07:00:06Z",
+        "comment_count": 1,
+        "likes": 11,
+        "views": 370
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xl5iGmOL5Hs",
+        "title": "Live Stream: Finishing live.dot.net with @JonGalloway | #JustMarried Edition | !what",
+        "duration_seconds": 7930,
+        "upload_date": "2019-09-19T02:00:02Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 195
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7fLGW3QkPUs",
+        "title": "Live Stream - DevOps for Hanselman.Forms | #Xamarin | #CC | #JustMarried Edition | !what",
+        "duration_seconds": 10125,
+        "upload_date": "2019-09-19T01:59:52Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 104
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "me7rImiPlbA",
+        "title": "Live Stream: More DevOps for Hanselman.Forms | #Xamarin",
+        "duration_seconds": 8276,
+        "upload_date": "2019-09-19T01:59:46Z",
+        "comment_count": 0,
+        "likes": 5,
+        "views": 166
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "b-FOhHTPLy4",
+        "title": "Live Stream: CI/CD for Azure Functions & ASP.NET Core with Jon Galloway | !what",
+        "duration_seconds": 8171,
+        "upload_date": "2019-09-18T07:00:05Z",
+        "comment_count": 0,
+        "likes": 9,
+        "views": 161
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YQuPUBn_9XM",
+        "title": "Live Stream: Building Hanselman.Forms | Xamarin | PRs | URI Navigation | iOS Cleanup | !what",
+        "duration_seconds": 8897,
+        "upload_date": "2019-09-16T07:00:09Z",
+        "comment_count": 0,
+        "likes": 9,
+        "views": 192
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9lzKz7lgjl4",
+        "title": "Live Stream: Finishing live.dot.net with Jon Galloway | !what",
+        "duration_seconds": 9140,
+        "upload_date": "2019-09-12T08:45:01Z",
+        "comment_count": 1,
+        "likes": 4,
+        "views": 128
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "G3BJ2Ngn2bY",
+        "title": "Live Stream: Figuring out Shell Navigation in Xamarin.Forms | !what",
+        "duration_seconds": 11485,
+        "upload_date": "2019-09-11T11:45:01Z",
+        "comment_count": 1,
+        "likes": 19,
+        "views": 978
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-axAyJDVh28",
+        "title": "Smartphone Detox Challenge - A week with Alcatel Go Flip",
+        "duration_seconds": 502,
+        "upload_date": "2019-09-10T17:45:00Z",
+        "comment_count": 6,
+        "likes": 18,
+        "views": 972
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NCw2q2-XEPI",
+        "title": "Smartphone Detox Challenge - Life with a feature phone",
+        "duration_seconds": 159,
+        "upload_date": "2019-09-09T19:12:48Z",
+        "comment_count": 4,
+        "likes": 20,
+        "views": 1060
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "K482l4YWsv0",
+        "title": "Live Stream: Adding Video Playback to Hanselman.Forms | !what | #Xamarin",
+        "duration_seconds": 10251,
+        "upload_date": "2019-08-24T07:00:02Z",
+        "comment_count": 0,
+        "likes": 10,
+        "views": 364
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vCmHtMI-2wA",
+        "title": "Live Stream: Building a awesome ASP.NET Core & Azure functions with Jon Galloway!",
+        "duration_seconds": 7366,
+        "upload_date": "2019-08-23T07:00:08Z",
+        "comment_count": 0,
+        "likes": 9,
+        "views": 238
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "K-rTaCn9KxQ",
+        "title": "Live Stream: Building a awesome ASP.NET Core/Blazor/Xamarin Demo for Scott Hunter",
+        "duration_seconds": 11501,
+        "upload_date": "2019-08-09T13:30:00Z",
+        "comment_count": 0,
+        "likes": 13,
+        "views": 1900
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "HMRsW-Ba40A",
+        "title": "Live Stream: More ASP.NET Core with Jon Galloway!",
+        "duration_seconds": 6971,
+        "upload_date": "2019-08-08T17:45:02Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 121
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "HVdd6ubLQw0",
+        "title": "Live Stream: Building a new live.dot.net with @JonGalloway | !waht",
+        "duration_seconds": 6513,
+        "upload_date": "2019-08-07T12:30:02Z",
+        "comment_count": 0,
+        "likes": 5,
+        "views": 190
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "lk1Dh-mK5-M",
+        "title": "Live Stream: Building Xamarin Apps | Hanselman.Forms | !what",
+        "duration_seconds": 10774,
+        "upload_date": "2019-08-06T12:30:02Z",
+        "comment_count": 1,
+        "likes": 8,
+        "views": 376
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Rk2FGyDcGls",
+        "title": "Trying Logic Apps for Hanselman.Forms | .NET, C#, Xamarin | !what",
+        "duration_seconds": 8218,
+        "upload_date": "2019-08-04T12:15:02Z",
+        "comment_count": 1,
+        "likes": 7,
+        "views": 205
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "48xaKGCs5RE",
+        "title": "Live Stream: Building Xamarin Apps!",
+        "duration_seconds": 11287,
+        "upload_date": "2019-08-02T15:00:01Z",
+        "comment_count": 1,
+        "likes": 13,
+        "views": 487
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3E5Y2zT0eOI",
+        "title": "Live Stream: Writing Terrible ASP.NET Core Code | !what | Birthday Bits & Subs Please!",
+        "duration_seconds": 8413,
+        "upload_date": "2019-08-01T13:30:00Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 145
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "De752Wx2fek",
+        "title": "Live Stream: Building ASP.NET Core Live Stream Portal for .NET Community Standups with Jon | !what",
+        "duration_seconds": 8442,
+        "upload_date": "2019-07-31T12:45:00Z",
+        "comment_count": 3,
+        "likes": 86,
+        "views": 14721
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "BE0FFFiPY7E",
+        "title": "Live Stream: Building ASP.NET Core Live Stream Portal for .NET Community Standups | !what",
+        "duration_seconds": 7324,
+        "upload_date": "2019-07-30T14:45:00Z",
+        "comment_count": 1,
+        "likes": 21,
+        "views": 2347
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9qJwqNmO86E",
+        "title": "SwiftUI's Tasty Architecture | Merge Conflict ep. 156",
+        "duration_seconds": 4658,
+        "upload_date": "2019-07-29T13:15:01Z",
+        "comment_count": 1,
+        "likes": 14,
+        "views": 258
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "YYm5RuP28FM",
+        "title": "Hello iPadOS | Merge Conflict ep. 155",
+        "duration_seconds": 6198,
+        "upload_date": "2019-07-28T22:45:01Z",
+        "comment_count": 1,
+        "likes": 9,
+        "views": 184
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "JwotPdjcXMU",
+        "title": "Live Stream: Hanselman.Forms - Pretty Gradients, Backend Fixes, Lazy Lists",
+        "duration_seconds": 11181,
+        "upload_date": "2019-07-20T20:16:48Z",
+        "comment_count": 0,
+        "likes": 7,
+        "views": 224
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "tPMRhtFToBo",
+        "title": "Multi-Targeting Magic Based on File Names for Xamarin and  .NET",
+        "duration_seconds": 129,
+        "upload_date": "2019-06-27T20:07:39Z",
+        "comment_count": 0,
+        "likes": 14,
+        "views": 479
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Jz5bqZE3eeM",
+        "title": "Live Stream: Building live.dot.net with Jon Galloway Part 3: More YouTube API & Testing",
+        "duration_seconds": 11112,
+        "upload_date": "2019-06-22T17:15:00Z",
+        "comment_count": 1,
+        "likes": 3,
+        "views": 252
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "W_bixDAxW2c",
+        "title": "Live Stream: Backend Azure Functions for Hanselman.Forms | !what",
+        "duration_seconds": 7484,
+        "upload_date": "2019-06-22T07:00:06Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 130
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "EoJRGCr6-Wo",
+        "title": "Live Stream: Hanselman.Forms: Let's write some backend logic with Azure Functions: Part 2",
+        "duration_seconds": 5913,
+        "upload_date": "2019-06-19T07:00:01Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 116
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "rXJuhi1EfUc",
+        "title": "Live Stream: Xamarin - Hanselman.Forms - CollectionView Challenge!",
+        "duration_seconds": 11896,
+        "upload_date": "2019-06-18T07:00:05Z",
+        "comment_count": 1,
+        "likes": 7,
+        "views": 613
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "TUk9quB1t9Q",
+        "title": "Live Stream: Xamarin.Forms 4.0 Day: Shell, URI Navigation for Hanselman.Forms",
+        "duration_seconds": 6371,
+        "upload_date": "2019-06-17T07:00:02Z",
+        "comment_count": 1,
+        "likes": 9,
+        "views": 800
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "5Qanr71OQ70",
+        "title": "Live Stream: SignalR + Xamarin: XamChat Updates",
+        "duration_seconds": 5093,
+        "upload_date": "2019-06-16T07:00:00Z",
+        "comment_count": 1,
+        "likes": 22,
+        "views": 1050
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "L3Q08ccOaH4",
+        "title": "Live Stream: Porting CaptionR (SignalR app) Xamarin! Part 2",
+        "duration_seconds": 6620,
+        "upload_date": "2019-06-15T07:00:06Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 86
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "taJB5E5IiiM",
+        "title": "Live Stream: Porting CaptionR (SignalR app) Xamarin! Part 1",
+        "duration_seconds": 5090,
+        "upload_date": "2019-06-15T07:00:05Z",
+        "comment_count": 1,
+        "likes": 7,
+        "views": 262
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "dNo_cUpUHlc",
+        "title": "Live Stream: My First macOS app! Powered by Xamarin.Forms!",
+        "duration_seconds": 8776,
+        "upload_date": "2019-06-14T18:30:05Z",
+        "comment_count": 2,
+        "likes": 24,
+        "views": 2318
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Sghb6GlpN64",
+        "title": "Live Stream: Building live.dot.net with Jon Galloway - Part 2: YouTube API Integration",
+        "duration_seconds": 8064,
+        "upload_date": "2019-06-13T19:30:00Z",
+        "comment_count": 1,
+        "likes": 8,
+        "views": 342
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "E3U_z9ec6Nk",
+        "title": "Live Stream: Building live.dot.net with Jon Galloway - Part 1: Getting Started ASP.NET Core",
+        "duration_seconds": 7594,
+        "upload_date": "2019-06-13T16:00:04Z",
+        "comment_count": 0,
+        "likes": 16,
+        "views": 1661
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XphjMobs7Tc",
+        "title": "Live Stream: Hanselman.Forms: Let's write some backend logic with Azure Functions Part 1",
+        "duration_seconds": 5806,
+        "upload_date": "2019-06-03T01:27:57Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 186
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "E_AvO9Wt4DY",
+        "title": "Live Stream: Live Stream: More Hanselman.Forms Work",
+        "duration_seconds": 7656,
+        "upload_date": "2019-06-03T01:27:49Z",
+        "comment_count": 0,
+        "likes": 0,
+        "views": 37
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "aEMTb-yDs5A",
+        "title": "Live Stream: Xamarin Library Development: Making Permissions Linker Safe....",
+        "duration_seconds": 15265,
+        "upload_date": "2019-05-30T18:16:45Z",
+        "comment_count": 1,
+        "likes": 11,
+        "views": 342
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3tf5kIkn_os",
+        "title": "CaptionR: Live Translations for Xamarin Apps with C#, SignalR, and Azure Functions",
+        "duration_seconds": 79,
+        "upload_date": "2019-04-24T22:11:18Z",
+        "comment_count": 2,
+        "likes": 31,
+        "views": 936
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "aLj_24Uf9NA",
+        "title": "Live Stream: Post Workout Coding: Xamarin, WPF, Who knows!",
+        "duration_seconds": 4973,
+        "upload_date": "2019-04-10T17:15:01Z",
+        "comment_count": 1,
+        "likes": 5,
+        "views": 395
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "tu5zYQQT2iY",
+        "title": "Live Stream:  Crushing Some Hanselman.Forms Xamarin Mobile App PRs & Code",
+        "duration_seconds": 8752,
+        "upload_date": "2019-04-08T13:30:02Z",
+        "comment_count": 2,
+        "likes": 3,
+        "views": 228
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "uMFsDgxyePk",
+        "title": "Live Stream: Xamarin + C#: Hanselman.Forms: Pretty Podcast Details - Part 2",
+        "duration_seconds": 7070,
+        "upload_date": "2019-04-05T20:15:00Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 261
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "_lqIwG_7qf4",
+        "title": "Live Stream: Xamarin + C#: Hanselman.Forms: Pretty Podcast Details - Part 1",
+        "duration_seconds": 3311,
+        "upload_date": "2019-04-03T17:30:01Z",
+        "comment_count": 1,
+        "likes": 4,
+        "views": 240
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "eAs0jFfRjgU",
+        "title": "Live Stream:  Xamarin + C#: Hanselman.Forms: PRs + Podcast Details",
+        "duration_seconds": 11899,
+        "upload_date": "2019-04-01T19:15:00Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 302
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "o0ujEnjff2A",
+        "title": "Live Stream: .NET Core 3 + WPF: Stream Timer App",
+        "duration_seconds": 8626,
+        "upload_date": "2019-04-01T12:00:08Z",
+        "comment_count": 0,
+        "likes": 7,
+        "views": 1042
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3pfHv8osbCw",
+        "title": "Live Stream: Twitch Workshop Build your first iOS & Android app with C#, Xamarin, and the Cloud",
+        "duration_seconds": 22366,
+        "upload_date": "2019-03-23T19:31:59Z",
+        "comment_count": 16,
+        "likes": 263,
+        "views": 24889
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "m8eey1I1Zvc",
+        "title": "Live Stream: Hanselman.Forms - Pull Request Triage",
+        "duration_seconds": 7630,
+        "upload_date": "2019-03-15T16:32:43Z",
+        "comment_count": 1,
+        "likes": 3,
+        "views": 155
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "hg98_RbzEpI",
+        "title": "Live Stream:  Hanselman.Forms Updates: Podcast Cards with FlexLayout",
+        "duration_seconds": 12882,
+        "upload_date": "2019-03-15T16:32:38Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 159
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ilmdolrBCmw",
+        "title": "Live Stream: Building a .NET Core 3 Stream Countdown App for PC",
+        "duration_seconds": 10971,
+        "upload_date": "2019-03-15T16:32:31Z",
+        "comment_count": 1,
+        "likes": 3,
+        "views": 298
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "NjiAbUhHogs",
+        "title": "Live Stream: Setting up my Streamdeck",
+        "duration_seconds": 2912,
+        "upload_date": "2019-03-10T18:43:13Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 124
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "vkLIQVL_-v4",
+        "title": "Live Stream: Rebuilding Hanselman.Forms! A Cross-Platform app for Hanselman",
+        "duration_seconds": 9564,
+        "upload_date": "2019-03-08T07:49:21Z",
+        "comment_count": 0,
+        "likes": 7,
+        "views": 448
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "EU2dU4V8yMI",
+        "title": "Live Stream: Creating component based Mobile Apps with Xamarin (Feb 15, 2019)",
+        "duration_seconds": 8526,
+        "upload_date": "2019-02-28T01:22:37Z",
+        "comment_count": 0,
+        "likes": 17,
+        "views": 870
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "pI0Zm9561BQ",
+        "title": "Live Stream: Xamarin.Forms 3.5 Upgrade for Conference App Sample (Feb 9, 2019)",
+        "duration_seconds": 7760,
+        "upload_date": "2019-02-22T08:00:05Z",
+        "comment_count": 0,
+        "likes": 7,
+        "views": 824
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Kw2UbHuW2H8",
+        "title": "Live Stream: Working on Xamarin Libraries (.NET, C#, Essentials) - Feb 8, 2019",
+        "duration_seconds": 8831,
+        "upload_date": "2019-02-21T08:00:00Z",
+        "comment_count": 0,
+        "likes": 5,
+        "views": 199
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "kGS7-wdXVLk",
+        "title": "Live Stream: Working on Xamarin Libraries (.NET, C#, Essentials) - Jan 26, 2019",
+        "duration_seconds": 6329,
+        "upload_date": "2019-02-20T08:00:07Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 94
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "lYe7aBjWaps",
+        "title": "Live Stream: Working on Xamarin Libraries (.NET, C#, Essentials) - Feb 2, 2019",
+        "duration_seconds": 6371,
+        "upload_date": "2019-02-20T08:00:05Z",
+        "comment_count": 0,
+        "likes": 1,
+        "views": 92
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ttOLuwebmUM",
+        "title": "Live Stream: Working on Xamarin Libraries (.NET, C#, Essentials) - Feb 1, 2019",
+        "duration_seconds": 9178,
+        "upload_date": "2019-02-19T08:00:04Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 165
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "XPepntGw86c",
+        "title": "Live Stream: Working on Xamarin Libraries (.NET, C#, Essentials) - Jan 25, 2019",
+        "duration_seconds": 10132,
+        "upload_date": "2019-02-18T08:00:02Z",
+        "comment_count": 0,
+        "likes": 4,
+        "views": 171
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "3CqoLGnOPSA",
+        "title": "Live Stream: SignalR Saturday: Xamarin Mobile App + ASP.NET Signal R Goodness (Jan 12, 2019)",
+        "duration_seconds": 5783,
+        "upload_date": "2019-02-14T08:00:00Z",
+        "comment_count": 3,
+        "likes": 7,
+        "views": 579
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "QwvfEJRMwMY",
+        "title": "Live Stream: Random .NET Coding + AMA Holiday Edition (Dec 28, 2018)",
+        "duration_seconds": 7359,
+        "upload_date": "2019-02-13T08:00:02Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 97
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "8zCL7518wjY",
+        "title": "Live Stream: SignalR Saturday: Chill Last Stream of the Year (Dec 29, 2018)",
+        "duration_seconds": 6036,
+        "upload_date": "2019-02-12T07:42:20Z",
+        "comment_count": 0,
+        "likes": 5,
+        "views": 151
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "e28_voOxOdU",
+        "title": "IntelliCode predictive IntelliSense for Xamarin.Forms XAML",
+        "duration_seconds": 34,
+        "upload_date": "2019-01-31T02:42:25Z",
+        "comment_count": 3,
+        "likes": 12,
+        "views": 954
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "z5_W4LpIWME",
+        "title": "Live Stream: Building an Azure DevOps Extension Task for Mobile App Versioning",
+        "duration_seconds": 9974,
+        "upload_date": "2019-01-15T21:25:02Z",
+        "comment_count": 0,
+        "likes": 21,
+        "views": 2160
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "aYy6PzXYqd4",
+        "title": "Live Stream: Building Jeffsum.NET: A Jeff Goldblum text generator (Code, CI/CD, publishing!)",
+        "duration_seconds": 9284,
+        "upload_date": "2018-12-23T19:13:05Z",
+        "comment_count": 0,
+        "likes": 13,
+        "views": 326
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "IVANpgsyCP4",
+        "title": "Live Stream: Finishing our Xamarin.Forms CheckBox with Frank",
+        "duration_seconds": 10466,
+        "upload_date": "2018-12-17T05:42:09Z",
+        "comment_count": 1,
+        "likes": 11,
+        "views": 414
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "gnBKfeMF3h4",
+        "title": "Live Stream: SignalR Saturdays: Spicing up our Xamarin.Forms App",
+        "duration_seconds": 6421,
+        "upload_date": "2018-12-17T05:27:38Z",
+        "comment_count": 2,
+        "likes": 12,
+        "views": 861
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "ZQ9aIWg2x28",
+        "title": "Live Stream: Future of Visual Studio & .NET: VS 2019, C# 8, .NET Core 3, & Xamarin.Forms 4.0",
+        "duration_seconds": 7508,
+        "upload_date": "2018-12-09T00:53:42Z",
+        "comment_count": 4,
+        "likes": 57,
+        "views": 5327
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "7vfqEWA-WQ4",
+        "title": "Live Stream: SignalR Saturdays: 1 Shared Backend for Blazor, Xamarin, and .NET Core",
+        "duration_seconds": 6194,
+        "upload_date": "2018-12-09T00:50:55Z",
+        "comment_count": 1,
+        "likes": 6,
+        "views": 1020
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "X7jNVUbQduE",
+        "title": "Live Stream: Developing and Contributing Xamarin.Forms Checkbox Part 2",
+        "duration_seconds": 10597,
+        "upload_date": "2018-11-17T21:36:21Z",
+        "comment_count": 2,
+        "likes": 5,
+        "views": 284
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "EoP0Y1XB4_E",
+        "title": "Live Stream: SignalR Saturdays: Simplify Shared SignalR Code and Console App",
+        "duration_seconds": 5823,
+        "upload_date": "2018-11-17T21:26:05Z",
+        "comment_count": 0,
+        "likes": 6,
+        "views": 570
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "WtbehEtaONA",
+        "title": "Live Stream: SignalR Saturdays: Integrating Groups in Chat App",
+        "duration_seconds": 5898,
+        "upload_date": "2018-11-17T21:10:42Z",
+        "comment_count": 2,
+        "likes": 30,
+        "views": 3521
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "4x4dYcdNgj0",
+        "title": "Fast Android Emulators with Windows Hypervisor Platform",
+        "duration_seconds": 44,
+        "upload_date": "2018-11-12T05:34:07Z",
+        "comment_count": 9,
+        "likes": 51,
+        "views": 23873
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "yCXNq3GliI0",
+        "title": "Live Stream: Developing and Contributing a Xamarin.Forms CheckBox",
+        "duration_seconds": 10223,
+        "upload_date": "2018-11-10T19:30:46Z",
+        "comment_count": 0,
+        "likes": 12,
+        "views": 578
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "afUbnWlJM7M",
+        "title": "Live Stream: SignalR Saturdays: Integrating into Xamarin Mobile Apps",
+        "duration_seconds": 5256,
+        "upload_date": "2018-11-04T20:33:26Z",
+        "comment_count": 10,
+        "likes": 105,
+        "views": 8320
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "13EYs3RvLjk",
+        "title": "Live Stream: Mediocre Pinball - Medieval Madness on Nintendo Switch",
+        "duration_seconds": 4761,
+        "upload_date": "2018-10-22T17:00:01Z",
+        "comment_count": 3,
+        "likes": 2,
+        "views": 315
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "-LLWDfN8MxY",
+        "title": "Live Stream: SignalR Saturdays: ASP.NET Core Exploration",
+        "duration_seconds": 5527,
+        "upload_date": "2018-10-20T19:11:52Z",
+        "comment_count": 5,
+        "likes": 38,
+        "views": 3755
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "2gEdXCs7C98",
+        "title": "Live Stream: Integrating AppCenter Distribute into Xamarin.Essentials",
+        "duration_seconds": 10594,
+        "upload_date": "2018-10-20T19:11:42Z",
+        "comment_count": 1,
+        "likes": 8,
+        "views": 372
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "u2ysoUeGuf0",
+        "title": "Live Stream: Part 2: Finishing Monkey Cache! .NET Standard Caching Library",
+        "duration_seconds": 6374,
+        "upload_date": "2018-10-14T00:27:00Z",
+        "comment_count": 1,
+        "likes": 4,
+        "views": 251
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "0AfwGssWznw",
+        "title": "Live Stream: Part 1: Finishing Monkey Cache! .NET Standard Caching Library",
+        "duration_seconds": 7364,
+        "upload_date": "2018-10-14T00:25:03Z",
+        "comment_count": 0,
+        "likes": 9,
+        "views": 1050
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "9VKdj72ZhtQ",
+        "title": "Live Stream: Exploring Xamarin.Forms 3.2.0 with David Ortinau",
+        "duration_seconds": 3902,
+        "upload_date": "2018-09-19T01:18:06Z",
+        "comment_count": 10,
+        "likes": 38,
+        "views": 1756
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "yKnrx_n6gbg",
+        "title": "Optimizing C# Struct Equals with IEquatable and ValueTuples with VS 2017",
+        "duration_seconds": 210,
+        "upload_date": "2018-08-16T19:00:16Z",
+        "comment_count": 6,
+        "likes": 64,
+        "views": 3668
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "H41AyJ2Ef4w",
+        "title": "Converting Xamarin Libraries to SDK Style & Multi-Targeted Projects",
+        "duration_seconds": 781,
+        "upload_date": "2018-05-15T00:32:21Z",
+        "comment_count": 6,
+        "likes": 24,
+        "views": 2098
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "F0VWCmj2adw",
+        "title": "Converting Portable Class Libraries (PCL) to .NET Standard Libaries",
+        "duration_seconds": 400,
+        "upload_date": "2018-02-13T20:58:41Z",
+        "comment_count": 14,
+        "likes": 129,
+        "views": 9175
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "P8KCda1d71A",
+        "title": "Paste JSON as Code with quicktype.io in Visual Studio",
+        "duration_seconds": 427,
+        "upload_date": "2018-02-05T19:57:00Z",
+        "comment_count": 3,
+        "likes": 54,
+        "views": 11218
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "nI1S1FEdUSk",
+        "title": "Convert Json To C# (and More) with quicktype",
+        "duration_seconds": 233,
+        "upload_date": "2017-09-18T17:48:35Z",
+        "comment_count": 3,
+        "likes": 63,
+        "views": 5724
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "FsVhcp2qnEw",
+        "title": "December Coffee Dripper Review",
+        "duration_seconds": 317,
+        "upload_date": "2017-09-12T04:07:28Z",
+        "comment_count": 11,
+        "likes": 30,
+        "views": 3904
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "JoqKIlGOcLw",
+        "title": "C# Developers: Stop Calling .Result",
+        "duration_seconds": 515,
+        "upload_date": "2017-07-11T18:14:58Z",
+        "comment_count": 5,
+        "likes": 217,
+        "views": 13621
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "t1DfxiNKoII",
+        "title": "Xamarin.Forms Embedding for Xamarin Native iOS & Android Apps Walkthrough",
+        "duration_seconds": 831,
+        "upload_date": "2017-06-20T03:03:17Z",
+        "comment_count": 3,
+        "likes": 31,
+        "views": 2883
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Rcdl5gWJlE0",
+        "title": "HD Homerun and Android Live TV DVR Review",
+        "duration_seconds": 294,
+        "upload_date": "2017-02-20T21:53:12Z",
+        "comment_count": 22,
+        "likes": 128,
+        "views": 15965
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "gDeH8-cAVZs",
+        "title": "Setting up Android x86 HAXM Emulators",
+        "duration_seconds": 501,
+        "upload_date": "2016-12-06T00:10:10Z",
+        "comment_count": 14,
+        "likes": 28,
+        "views": 6763
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "r2tJWph0b8U",
+        "title": "Creating and Consuming .NET Standard Libraries in Xamarin and Xamarin.Forms",
+        "duration_seconds": 1032,
+        "upload_date": "2016-08-02T21:09:27Z",
+        "comment_count": 3,
+        "likes": 24,
+        "views": 5547
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "tf09knhkFgA",
+        "title": "Axiim Q Wireless Surround Sound System Review",
+        "duration_seconds": 549,
+        "upload_date": "2016-07-29T00:17:30Z",
+        "comment_count": 5,
+        "likes": 18,
+        "views": 6654
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "kAH4meDUe00",
+        "title": "Axiim Q Wireless Surround Sound System Unboxing",
+        "duration_seconds": 509,
+        "upload_date": "2016-07-01T16:41:57Z",
+        "comment_count": 4,
+        "likes": 13,
+        "views": 3179
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "Ebsiq1sIiBM",
+        "title": "Intro To Xamarin.Android Templates Pack",
+        "duration_seconds": 504,
+        "upload_date": "2015-03-09T18:07:09Z",
+        "comment_count": 16,
+        "likes": 76,
+        "views": 13784
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xA6-FKL73PQ",
+        "title": "Force iOS, Android, and Windows Phone into Landscape",
+        "duration_seconds": 230,
+        "upload_date": "2015-01-30T20:25:23Z",
+        "comment_count": 4,
+        "likes": 23,
+        "views": 4412
+    },
+    {
+        "channelID": "UCENTmbKaTphpWV2R2evVz2A",
+        "videoID": "xKDJmh9YPu4",
+        "title": "Screen Mirroring on iOS Android and WIndows Phone",
+        "duration_seconds": 246,
+        "upload_date": "2014-07-03T01:16:49Z",
+        "comment_count": 1,
+        "likes": 18,
+        "views": 16678
+    }
+]

@@ -186,8 +186,7 @@ document
     if (event.key === "Enter") {
       event.preventDefault();
       let enteredValue = this.value.trim();
-      if (enteredValue)
-        loadVideoData(`./data/${enteredValue}_channel_videos.json`);
+      if (enteredValue) loadVideoData(`./data/${enteredValue}.json`);
     }
   });
 
