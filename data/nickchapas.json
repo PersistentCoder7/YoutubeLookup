@@ -5,9 +5,9 @@
         "title": "else keyword very bad",
         "duration_seconds": 36,
         "upload_date": "2025-02-27T09:00:25Z",
-        "comment_count": 115,
-        "likes": 970,
-        "views": 20608
+        "comment_count": 143,
+        "likes": 1454,
+        "views": 32965
     },
     {
         "channelID": "UCrkPsvLGln62OMZRO6K-llg",
@@ -15,9 +15,9 @@
         "title": "The field keyword will break your code",
         "duration_seconds": 60,
         "upload_date": "2025-02-26T09:30:06Z",
-        "comment_count": 24,
-        "likes": 765,
-        "views": 21562
+        "comment_count": 26,
+        "likes": 870,
+        "views": 25639
     },
     {
         "channelID": "UCrkPsvLGln62OMZRO6K-llg",
@@ -25,9 +25,9 @@
         "title": "Don't Use WhenAll in .NET! Use WaitAny Instead | Code Cop #027",
         "duration_seconds": 467,
         "upload_date": "2025-02-25T11:45:04Z",
-        "comment_count": 123,
-        "likes": 1715,
-        "views": 30217
+        "comment_count": 130,
+        "likes": 1903,
+        "views": 34587
     },
     {
         "channelID": "UCrkPsvLGln62OMZRO6K-llg",
@@ -36,8 +36,8 @@
         "duration_seconds": 39,
         "upload_date": "2025-02-25T09:00:09Z",
         "comment_count": 26,
-        "likes": 961,
-        "views": 19072
+        "likes": 1087,
+        "views": 22074
     },
     {
         "channelID": "UCrkPsvLGln62OMZRO6K-llg",
@@ -6098,5 +6098,75 @@
         "comment_count": 164,
         "likes": 2255,
         "views": 230840
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "6PRsTTN7ccA",
+        "title": "I don't like Primary Constructors in C#",
+        "duration_seconds": 41,
+        "upload_date": "2025-03-05T09:00:11Z",
+        "comment_count": 8,
+        "likes": 114,
+        "views": 662
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "w2dFxDTP6NU",
+        "title": "Use Scoped in DI Correctly",
+        "duration_seconds": 41,
+        "upload_date": "2025-03-04T09:01:11Z",
+        "comment_count": 18,
+        "likes": 810,
+        "views": 16721
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "g9ox_V570TM",
+        "title": "C# Has Too Many Keywords",
+        "duration_seconds": 57,
+        "upload_date": "2025-03-03T10:30:17Z",
+        "comment_count": 28,
+        "likes": 616,
+        "views": 17125
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "SdvUBeg-5A8",
+        "title": "Async is Changing in .NET",
+        "duration_seconds": 60,
+        "upload_date": "2025-03-02T11:35:02Z",
+        "comment_count": 33,
+        "likes": 1215,
+        "views": 31340
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "AKeNB_ZsN0g",
+        "title": "Faster await async Tasks",
+        "duration_seconds": 41,
+        "upload_date": "2025-03-01T09:00:18Z",
+        "comment_count": 55,
+        "likes": 2077,
+        "views": 31418
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "YJCdCpib23I",
+        "title": "The Craziest Feature .NET Released in YEARS",
+        "duration_seconds": 523,
+        "upload_date": "2025-02-28T11:45:05Z",
+        "comment_count": 321,
+        "likes": 2374,
+        "views": 49650
+    },
+    {
+        "channelID": "UCrkPsvLGln62OMZRO6K-llg",
+        "videoID": "k9AJv7EGDac",
+        "title": "The Biggest .NET Aspire Lie",
+        "duration_seconds": 60,
+        "upload_date": "2025-02-28T09:01:03Z",
+        "comment_count": 12,
+        "likes": 418,
+        "views": 15228
     }
 ]

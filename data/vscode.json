@@ -5,9 +5,9 @@
         "title": "Edit your code without typing a single word",
         "duration_seconds": 93,
         "upload_date": "2025-02-27T18:08:09Z",
-        "comment_count": 2,
-        "likes": 99,
-        "views": 1830
+        "comment_count": 9,
+        "likes": 198,
+        "views": 3774
     },
     {
         "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
@@ -15,9 +15,9 @@
         "title": "Save time creating apps with agent mode",
         "duration_seconds": 69,
         "upload_date": "2025-02-26T21:01:46Z",
-        "comment_count": 5,
-        "likes": 170,
-        "views": 2838
+        "comment_count": 6,
+        "likes": 237,
+        "views": 4288
     },
     {
         "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
@@ -26,8 +26,8 @@
         "duration_seconds": 45,
         "upload_date": "2025-02-25T17:31:40Z",
         "comment_count": 6,
-        "likes": 157,
-        "views": 2726
+        "likes": 200,
+        "views": 3739
     },
     {
         "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
@@ -35,9 +35,9 @@
         "title": "Creating an iOS app with GitHub Copilot",
         "duration_seconds": 240,
         "upload_date": "2025-02-25T15:00:08Z",
-        "comment_count": 5,
-        "likes": 164,
-        "views": 3386
+        "comment_count": 7,
+        "likes": 476,
+        "views": 15089
     },
     {
         "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
@@ -10538,5 +10538,25 @@
         "comment_count": 43,
         "likes": 676,
         "views": 375857
+    },
+    {
+        "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+        "videoID": "sYepbevm8TY",
+        "title": "Use GitHub Copilot agent mode to create an application from scratch",
+        "duration_seconds": 336,
+        "upload_date": "2025-02-28T17:01:09Z",
+        "comment_count": 59,
+        "likes": 569,
+        "views": 20809
+    },
+    {
+        "channelID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
+        "videoID": "V07AxFKFQuY",
+        "title": "Watch agent mode fix its own error",
+        "duration_seconds": 56,
+        "upload_date": "2025-02-28T15:00:45Z",
+        "comment_count": 4,
+        "likes": 195,
+        "views": 3512
     }
 ]

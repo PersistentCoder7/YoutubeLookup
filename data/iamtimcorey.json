@@ -5,9 +5,9 @@
         "title": "247. Do Developers Need To Know About Databases?",
         "duration_seconds": 808,
         "upload_date": "2025-02-27T13:01:01Z",
-        "comment_count": 28,
-        "likes": 115,
-        "views": 1943
+        "comment_count": 47,
+        "likes": 165,
+        "views": 3462
     },
     {
         "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
@@ -15,9 +15,9 @@
         "title": "The Best Experience",
         "duration_seconds": 75,
         "upload_date": "2025-02-26T18:16:02Z",
-        "comment_count": 2,
-        "likes": 104,
-        "views": 1833
+        "comment_count": 5,
+        "likes": 158,
+        "views": 3807
     },
     {
         "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
@@ -25,9 +25,9 @@
         "title": "Modernize Your Skills",
         "duration_seconds": 74,
         "upload_date": "2025-02-25T18:16:07Z",
-        "comment_count": 9,
-        "likes": 100,
-        "views": 1529
+        "comment_count": 10,
+        "likes": 112,
+        "views": 1755
     },
     {
         "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
@@ -7708,5 +7708,35 @@
         "comment_count": 714,
         "likes": 8411,
         "views": 825656
+    },
+    {
+        "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
+        "videoID": "l0G7t8JbtSg",
+        "title": "The Vacation Principle",
+        "duration_seconds": 71,
+        "upload_date": "2025-03-04T18:16:07Z",
+        "comment_count": 12,
+        "likes": 86,
+        "views": 1027
+    },
+    {
+        "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
+        "videoID": "h8GXf6YWIhM",
+        "title": "Add Dark Mode to ASP.NET Core in Just ONE Line of Code!",
+        "duration_seconds": 512,
+        "upload_date": "2025-03-03T13:00:59Z",
+        "comment_count": 15,
+        "likes": 178,
+        "views": 3886
+    },
+    {
+        "channelID": "UC-ptWR16ITQyYOglXyQmpzw",
+        "videoID": "8THuv2iZr24",
+        "title": "Major Mistakes Devs Make",
+        "duration_seconds": 75,
+        "upload_date": "2025-02-28T18:16:11Z",
+        "comment_count": 9,
+        "likes": 182,
+        "views": 3560
     }
 ]

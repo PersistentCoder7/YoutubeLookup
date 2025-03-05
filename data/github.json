@@ -5,19 +5,19 @@
         "title": "Rubber Duck Thursdays",
         "duration_seconds": 4736,
         "upload_date": "2025-02-27T23:58:22Z",
-        "comment_count": 3,
+        "comment_count": 1,
         "likes": 35,
-        "views": 754
+        "views": 951
     },
     {
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
         "videoID": "AGEWZrTh0vE",
         "title": "Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!",
-        "duration_seconds": 3983,
-        "upload_date": "2025-02-24T21:15:02Z",
-        "comment_count": 1,
-        "likes": 42,
-        "views": 637
+        "duration_seconds": 3989,
+        "upload_date": "2025-02-28T08:18:16Z",
+        "comment_count": 2,
+        "likes": 58,
+        "views": 2081
     },
     {
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
@@ -25,9 +25,9 @@
         "title": "GitHub\u2019s Copilot SDK: bring AI to your favorite IDE",
         "duration_seconds": 50,
         "upload_date": "2025-02-27T14:00:01Z",
-        "comment_count": 7,
-        "likes": 136,
-        "views": 1396
+        "comment_count": 16,
+        "likes": 992,
+        "views": 9821
     },
     {
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
@@ -36,7 +36,7 @@
         "duration_seconds": 0,
         "upload_date": "2025-02-26T21:49:55Z",
         "comment_count": 0,
-        "likes": 3,
+        "likes": 4,
         "views": 0
     },
     {
@@ -46,7 +46,7 @@
         "duration_seconds": 0,
         "upload_date": "2025-02-26T16:05:03Z",
         "comment_count": 0,
-        "likes": 3,
+        "likes": 5,
         "views": 0
     },
     {
@@ -55,9 +55,9 @@
         "title": "Demo: Using Claude 3.7 Sonnet with GitHub Copilot",
         "duration_seconds": 79,
         "upload_date": "2025-02-25T01:47:37Z",
-        "comment_count": 119,
-        "likes": 1413,
-        "views": 76799
+        "comment_count": 124,
+        "likes": 1487,
+        "views": 82670
     },
     {
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
@@ -303,11 +303,11 @@
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
         "videoID": "SzBC6_JVr6g",
         "title": "Open Source Friday with Angular's Mark Techson",
-        "duration_seconds": 0,
-        "upload_date": "2025-02-05T18:56:30Z",
-        "comment_count": 0,
-        "likes": 7,
-        "views": 0
+        "duration_seconds": 4242,
+        "upload_date": "2025-03-01T07:21:51Z",
+        "comment_count": 1,
+        "likes": 57,
+        "views": 1079
     },
     {
         "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
@@ -20968,5 +20968,75 @@
         "comment_count": 31,
         "likes": 130,
         "views": 49486
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "MpLRTak4oLQ",
+        "title": "Rubber Duck Thursdays - Let's make some games!",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-04T20:40:20Z",
+        "comment_count": 0,
+        "likes": 0,
+        "views": 0
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "nFtkDmRX_ZU",
+        "title": "Claude 3.7 Sonnet is HERE! Smarter, faster AI for developers",
+        "duration_seconds": 19,
+        "upload_date": "2025-03-04T17:53:15Z",
+        "comment_count": 2,
+        "likes": 82,
+        "views": 1155
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "aKx5I0Mrr9g",
+        "title": "Copilot agent mode new features in Visual Studio Code | GitHub Checkout",
+        "duration_seconds": 715,
+        "upload_date": "2025-03-04T14:00:03Z",
+        "comment_count": 70,
+        "likes": 781,
+        "views": 20943
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "f31Lz-rrKTY",
+        "title": "Create React App is deprecated! What\u2019s next for React devs?",
+        "duration_seconds": 39,
+        "upload_date": "2025-03-03T17:14:48Z",
+        "comment_count": 7,
+        "likes": 542,
+        "views": 6283
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "n0NlxUyA7FI",
+        "title": "Getting started with GitHub Copilot | Tutorial",
+        "duration_seconds": 654,
+        "upload_date": "2025-03-03T14:00:54Z",
+        "comment_count": 17,
+        "likes": 260,
+        "views": 11230
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "D9xamox68IY",
+        "title": "The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App\u2019s deprecation",
+        "duration_seconds": 186,
+        "upload_date": "2025-02-28T19:56:34Z",
+        "comment_count": 10,
+        "likes": 201,
+        "views": 4770
+    },
+    {
+        "channelID": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "videoID": "3u7wei7UT_M",
+        "title": "How to contribute to open source projects? #shorts",
+        "duration_seconds": 49,
+        "upload_date": "2025-02-28T14:00:07Z",
+        "comment_count": 2,
+        "likes": 101,
+        "views": 919
     }
 ]

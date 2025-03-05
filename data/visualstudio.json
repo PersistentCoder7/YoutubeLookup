@@ -2,12 +2,12 @@
     {
         "channelID": "UChqrDOwARrxdJF-ykAptc7w",
         "videoID": "091NLL4M4Gk",
-        "title": "Edit markdown like a pro with Visual Studio",
+        "title": "New and Improved Markdown Experience for Visual Studio",
         "duration_seconds": 162,
         "upload_date": "2025-02-27T15:00:00Z",
-        "comment_count": 5,
-        "likes": 179,
-        "views": 1778
+        "comment_count": 12,
+        "likes": 332,
+        "views": 3920
     },
     {
         "channelID": "UChqrDOwARrxdJF-ykAptc7w",
@@ -15,9 +15,9 @@
         "title": "GitHub Copilot can help with Debugging, Exceptions, Testing, Profiling, & more in Visual Studio!",
         "duration_seconds": 682,
         "upload_date": "2025-02-26T18:00:21Z",
-        "comment_count": 11,
-        "likes": 108,
-        "views": 2926
+        "comment_count": 13,
+        "likes": 145,
+        "views": 4864
     },
     {
         "channelID": "UChqrDOwARrxdJF-ykAptc7w",
@@ -12808,5 +12808,15 @@
         "comment_count": 17,
         "likes": 416,
         "views": 64237
+    },
+    {
+        "channelID": "UChqrDOwARrxdJF-ykAptc7w",
+        "videoID": "sPOpaxd5-Pk",
+        "title": "SQLite Toolbox Extension for Visual Studio",
+        "duration_seconds": 2195,
+        "upload_date": "2025-03-03T16:00:54Z",
+        "comment_count": 4,
+        "likes": 87,
+        "views": 2209
     }
 ]

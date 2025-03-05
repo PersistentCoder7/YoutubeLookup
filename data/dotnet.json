@@ -5,9 +5,9 @@
         "title": "Let's Learn .NET - GitHub Copilot",
         "duration_seconds": 7921,
         "upload_date": "2025-02-27T20:31:14Z",
-        "comment_count": 4,
-        "likes": 221,
-        "views": 5708
+        "comment_count": 8,
+        "likes": 324,
+        "views": 10647
     },
     {
         "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
@@ -16,8 +16,8 @@
         "duration_seconds": 3356,
         "upload_date": "2025-02-27T07:02:08Z",
         "comment_count": 6,
-        "likes": 67,
-        "views": 2125
+        "likes": 83,
+        "views": 2937
     },
     {
         "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
@@ -25,9 +25,9 @@
         "title": ".NET Previews Unboxed - .NET 10 Preview 1, C# 14, HybridCache, & More",
         "duration_seconds": 4420,
         "upload_date": "2025-02-25T22:26:26Z",
-        "comment_count": 17,
-        "likes": 436,
-        "views": 17092
+        "comment_count": 22,
+        "likes": 505,
+        "views": 24926
     },
     {
         "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
@@ -36,8 +36,8 @@
         "duration_seconds": 5494,
         "upload_date": "2025-02-25T19:48:18Z",
         "comment_count": 0,
-        "likes": 154,
-        "views": 4372
+        "likes": 165,
+        "views": 5233
     },
     {
         "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
@@ -45,9 +45,9 @@
         "title": "On .NET Live - Multi-agent workflow using Azure Durable Functions and Semantic Kernel",
         "duration_seconds": 3830,
         "upload_date": "2025-02-25T06:18:23Z",
-        "comment_count": 3,
-        "likes": 58,
-        "views": 1913
+        "comment_count": 4,
+        "likes": 59,
+        "views": 2092
     },
     {
         "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
@@ -56,7 +56,7 @@
         "duration_seconds": 0,
         "upload_date": "2025-02-25T01:06:53Z",
         "comment_count": 0,
-        "likes": 11,
+        "likes": 13,
         "views": 0
     },
     {
@@ -21488,5 +21488,65 @@
         "comment_count": 1,
         "likes": 51,
         "views": 4403
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "IXU3hbnaX50",
+        "title": "ASP.NET Community Standup - What's new for Blazor in .NET 10 Preview 2",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-04T23:55:19Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 0
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "2lApteOAtsM",
+        "title": "ASP.NET Community Standup - HybridCache updates and futures",
+        "duration_seconds": 3720,
+        "upload_date": "2025-03-04T19:16:11Z",
+        "comment_count": 3,
+        "likes": 80,
+        "views": 2025
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "0QvPmz4GY-s",
+        "title": ".NET Monthly - February 2025 - Visual Studio update, .NET Aspire 9.1, .NET 10 Preview 1, and more!",
+        "duration_seconds": 829,
+        "upload_date": "2025-03-03T22:10:38Z",
+        "comment_count": 6,
+        "likes": 70,
+        "views": 2049
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "nV0cHamvcYs",
+        "title": "Let's Learn .NET - GitHub Copilot (Japanese)",
+        "duration_seconds": 0,
+        "upload_date": "2025-02-25T19:53:35Z",
+        "comment_count": 0,
+        "likes": 1,
+        "views": 0
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "Me93oFozKDg",
+        "title": "Let's Learn .NET - GitHub Copilot (Korean)",
+        "duration_seconds": 0,
+        "upload_date": "2025-02-25T19:38:31Z",
+        "comment_count": 0,
+        "likes": 0,
+        "views": 0
+    },
+    {
+        "channelID": "UCvtT19MZW8dq5Wwfu6B0oxw",
+        "videoID": "z3rS3X9sOOw",
+        "title": "Let's Learn .NET - GitHub Copilot (Portuguese)",
+        "duration_seconds": 0,
+        "upload_date": "2025-02-25T19:26:23Z",
+        "comment_count": 0,
+        "likes": 0,
+        "views": 0
     }
 ]

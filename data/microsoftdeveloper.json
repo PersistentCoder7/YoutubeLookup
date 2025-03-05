@@ -5,9 +5,9 @@
         "title": "10 Free Azure SQL Databases: Powering AI, Advanced Analytics & Enterprise Innovation | Data Exposed",
         "duration_seconds": 649,
         "upload_date": "2025-02-27T17:01:02Z",
-        "comment_count": 1,
-        "likes": 28,
-        "views": 515
+        "comment_count": 6,
+        "likes": 52,
+        "views": 1281
     },
     {
         "channelID": "UCsMica-v34Irf9KVTh6xx-g",
@@ -16,8 +16,8 @@
         "duration_seconds": 94,
         "upload_date": "2025-02-26T17:55:57Z",
         "comment_count": 1,
-        "likes": 35,
-        "views": 639
+        "likes": 39,
+        "views": 811
     },
     {
         "channelID": "UCsMica-v34Irf9KVTh6xx-g",
@@ -26,8 +26,8 @@
         "duration_seconds": 2659,
         "upload_date": "2025-02-26T17:00:06Z",
         "comment_count": 2,
-        "likes": 31,
-        "views": 786
+        "likes": 42,
+        "views": 1606
     },
     {
         "channelID": "UCsMica-v34Irf9KVTh6xx-g",
@@ -36,8 +36,8 @@
         "duration_seconds": 502,
         "upload_date": "2025-02-25T17:24:59Z",
         "comment_count": 1,
-        "likes": 15,
-        "views": 616
+        "likes": 16,
+        "views": 702
     },
     {
         "channelID": "UCsMica-v34Irf9KVTh6xx-g",
@@ -46,8 +46,8 @@
         "duration_seconds": 998,
         "upload_date": "2025-02-25T17:00:58Z",
         "comment_count": 4,
-        "likes": 37,
-        "views": 989
+        "likes": 50,
+        "views": 1250
     },
     {
         "channelID": "UCsMica-v34Irf9KVTh6xx-g",
@@ -56,7 +56,7 @@
         "duration_seconds": 0,
         "upload_date": "2025-02-25T14:50:01Z",
         "comment_count": 0,
-        "likes": 4,
+        "likes": 17,
         "views": 0
     },
     {
@@ -76508,5 +76508,75 @@
         "comment_count": 3,
         "likes": 26,
         "views": 3586
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "2FOB49oXts8",
+        "title": "Introduction to External Secrets - Secrets Operator for Kubernetes",
+        "duration_seconds": 864,
+        "upload_date": "2025-03-04T17:00:05Z",
+        "comment_count": 1,
+        "likes": 17,
+        "views": 395
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "1BuXWMm7wHQ",
+        "title": "Introduction to External Secrets - Secrets Operator for Kubernetes",
+        "duration_seconds": 61,
+        "upload_date": "2025-03-04T17:00:01Z",
+        "comment_count": 0,
+        "likes": 22,
+        "views": 627
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "ajEbAm6kjI4",
+        "title": "Generative AI Scripting with Peli de Halleux, on Mr. Maeda's Cozy AI Kitchen",
+        "duration_seconds": 786,
+        "upload_date": "2025-03-04T16:51:19Z",
+        "comment_count": 3,
+        "likes": 16,
+        "views": 380
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "-yyONUB5b88",
+        "title": "Journey 5: Hero Use Cases for RAG",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-03T18:34:45Z",
+        "comment_count": 0,
+        "likes": 1,
+        "views": 0
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "OFuO9sI5BQc",
+        "title": "Journey 4: RAG for All Your Data: Multimodal and Beyond",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-03T18:22:24Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 0
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "J3eDgwS8wpo",
+        "title": "Journey 3: Optimize Your Vector Index for Scale",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-03T18:18:34Z",
+        "comment_count": 0,
+        "likes": 3,
+        "views": 0
+    },
+    {
+        "channelID": "UCsMica-v34Irf9KVTh6xx-g",
+        "videoID": "bURCZeCSx2A",
+        "title": "Journey 2: Build the Ultimate Retrieval System for RAG",
+        "duration_seconds": 0,
+        "upload_date": "2025-03-03T16:16:06Z",
+        "comment_count": 0,
+        "likes": 2,
+        "views": 0
     }
 ]
